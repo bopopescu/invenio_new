@@ -1,0 +1,4 @@
+2014-10-09 14:16:49 --> [Errno 2] No such file or directory: '/opt/invenio/var/batchupload/metadata/insert/'
+2014-10-09 14:16:49 --> [Errno 2] No such file or directory: '/opt/invenio/var/batchupload/metadata/append/'
+2014-10-09 14:16:49 --> [Errno 2] No such file or directory: '/opt/invenio/var/batchupload/metadata/correct/'
+2014-10-09 14:16:49 --> [Errno 2] No such file or directory: '/opt/invenio/var/batchupload/metadata/replace/'

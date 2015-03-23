@@ -1,0 +1,508 @@
+
+
+
+
+
+
+<h5>How to find any value in any field:
+</h5>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input size="20" type="text" name="p" value="" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Empty search box returns all records in the database.
+
+</td>
+</tr>
+</table>
+
+
+<h5>How to find documents in a particular collection:
+</h5>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    <p>
+    专辑：
+    <br />
+    <input type="checkbox" name="c" value="Preprints" checked="checked" />&nbsp;<a href="http://192.168.16.26/?c=Preprints?ln=zh_CN">Preprints</a>
+    <br />
+    <input type="checkbox" name="c" value="Theses" checked="checked" />&nbsp;<a href="http://192.168.16.26/?c=Theses?ln=zh_CN">Theses</a>
+    </p>
+    </form>
+
+</td>
+<td width="50%">
+  Click on a link below the search box to see and select
+      subcollections such as Preprints or Theses, or select/deselect
+      the tick boxes next to a particular collection before doing the
+      search.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="NA60" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    <p>
+    专辑：
+    <br />
+    <input type="checkbox" name="c" value="Preprints" checked="checked" />&nbsp;<a href="http://192.168.16.26/?c=Preprints?ln=zh_CN">Preprints</a>
+    <br />
+    <input type="checkbox" name="c" value="Theses" checked="checked" />&nbsp;<a href="http://192.168.16.26/?c=Theses?ln=zh_CN">Theses</a>
+    </p>
+    </form>
+</td>
+<td width="50%">
+If you want documents from a 'collection' not proposed by default,
+    such as NA60 documents, then enter it as a search term.
+
+</td>
+</tr>
+</table>
+<div align="right"><small><a href="search-guide?ln=zh_CN#howto-choose-terms">
+  more on how to wisely choose your search terms...
+</a></small></div>
+
+<h5>How to search for words/phrases (within titles, abstracts, etc):
+</h5>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="higgs boson" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return records containing words <em>higgs</em> and
+      <em>boson</em>.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="'higgs boson'" />
+    <select name="f"><option value="">任何字段</option>
+                     <option selected="selected">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return records containing phrase <em>'higgs boson'</em> in
+      title.
+
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="&quot;higgs boson&quot;" />
+    <select name="f"><option value="">任何字段</option>
+                     <option selected="selected">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return records entitled exactly <em>"Higgs boson"</em> but not
+      records such as <em>"Overview of Higgs boson
+      production"</em>.
+
+
+<br/>(Note: For some indexes such as <em>any
+field</em>, <em>title</em>, or <em>abstract</em>, there is no
+distinction between searching for double quoted and single quoted
+expressions.  Both behave the same usual way.)
+
+</td>
+</tr>
+</table>
+<div align="right"><small><a href="search-guide?ln=zh_CN#words-vs-phrases">
+   more on word and phrase searches...
+
+</a></small></div>
+
+<h5>How to use truncation:
+</h5>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="muon*" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return records containing words <em>muon</em>, <em>muons</em>,
+      <em>muonic</em>, etc.
+
+</td>
+</tr>
+</table>
+<div align="right"><small><a href="search-guide?ln=zh_CN#wildcard">
+  more on truncation...
+
+</a></small></div>
+
+<h5>How to use boolean operators:
+</h5>
+
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="muon kaon" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+    或者:
+    <br />
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="muon AND kaon" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return records containing both <em>muon</em> and <em>kaon</em>.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="muon OR kaon" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return records containing either <em>muon</em> or <em>kaon</em>.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="muon NOT kaon" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return records containing <em>muon</em> but not <em>kaon</em>.
+
+</td>
+</tr>
+</table>
+<div align="right"><small><a href="search-guide?ln=zh_CN#boolean">
+  more on Boolean queries...
+
+</a></small></div>
+
+<h5>How to use parentheses:
+</h5>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="(gravity OR supergravity) AND (ellis OR perelstein)" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return records containing either <em>gravity</em> or <em>supergravity</em>,
+      and <em>ellis</em> or <em>perelstein</em>.  Nested parentheses are supported.
+
+</td>
+</tr>
+</table>
+<div align="right"><small><a href="search-guide?ln=zh_CN#parens">
+  more on parentheses...
+
+</a></small></div>
+
+
+<h5>How to find documents from a certain period:
+</h5>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="2003" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+                     <option selected="selected" value="year">年份</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Type <em>2003</em> and select the <em>年份</em> field.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="year:2003" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Alternatively, type <code>'年份:'</code> followed by value.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="year:2003->2004" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  You can enter specific year range.
+
+</td>
+</tr>
+</table>
+<div align="right"><small><a href="search-guide?ln=zh_CN#span">
+  more on span queries...
+
+</a></small></div>
+
+<h5>How to search inside citation network:
+</h5>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="cited:3->30" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return papers that are cited between 3 and 30 times.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="refersto:author:ellis" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return all papers that cite any of the papers written
+  by <em>ellis</em>.  Useful for citation alerts.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="citedby:author:ellis" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Return all papers that are cited by any of the papers written
+  by <em>ellis</em>.
+
+</td>
+</tr>
+</table>
+<div align="right"><small><a href="search-guide?ln=zh_CN#referstocitedby">
+  more on refersto/citedby operators...
+
+</a></small></div>
+
+<h5>How to search for authors:
+</h5>
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="Ellis" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Some authors have unique names and their publications can be
+      retrieved by searching for the surname in the
+      <code>任何字段</code> field.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="Ellis, J R" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option selected="selected" value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  For better results, type surname comma initial(s) and select the
+      作者 field.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="Ellis, John Rolfe" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option selected="selected" value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Sometimes authors are indexed with their full name.
+
+</td>
+</tr>
+<tr>
+<td width="50%" style="white-space: nowrap">
+    <form action="http://192.168.16.26/search" method="get">
+    <input type="hidden" name="ln" value="zh_CN" />
+    <input size="20" type="text" name="p" value="author:&quot;Ellis, J*&quot; year:1990->1993" />
+    <select name="f"><option value="">任何字段</option>
+                     <option value="title">标题</option>
+                     <option value="author">作者</option>
+    </select>
+    <input class="formbutton" type="submit" name="action" value="搜寻" />
+    </form>
+</td>
+<td width="50%">
+  Find papers by J.Ellis written from 1990 until 1993, using
+      truncation to match all first names beginning with J.
+
+</td>
+</tr>
+</table>
+<div align="right"><small><a href="search-guide?ln=zh_CN#howto-search-for-author">
+  more on author searches...
+
+</a></small></div>
+
+<h5>More information:
+</h5>
+
+  Special characters, regular expressions, fulltext searching,
+    citation searching, and other capabilities are fully explained in
+    the complete <a href="search-guide?ln=zh_CN">Search
+    Guide</a>.
+

@@ -1,0 +1,21 @@
+Start Get_Report_Number --- 0.001
+End Get_Report_Number --- 0.001
+Start Get_Recid --- 0.002
+***Stop*** from Get_Recid: 
+<script type="text/javascript">
+document.forms[0].action="/submit";
+document.forms[0].curpage.value=1;
+document.forms[0].step.value=0;
+user_must_confirm_before_leaving_page = false;
+alert('The document with report-number [IHEP-PICTURE-EXP-2014-???] cannot be found in our database.\nPerhaps it has not yet been integrated?\nYou can choose another report number or retry this action in a few minutes.');
+
+document.forms[0].submit();
+</script> --- 0.004
+Start Get_Report_Number --- 0.000
+End Get_Report_Number --- 0.001
+Start Get_Recid --- 0.001
+End Get_Recid --- 0.002
+Start Is_Original_Submitter --- 0.003
+End Is_Original_Submitter --- 0.005
+Start Create_Modify_Interface --- 0.007
+End Create_Modify_Interface --- 0.009

@@ -1,0 +1,130 @@
+2014-10-09 14:26:16 --> Task #118 started.
+2014-10-09 14:26:16 --> Running rank method: word similarity
+2014-10-09 14:26:16 --> Warning: Stemming not available for language 'fr'.
+2014-10-09 14:26:16 --> Warning: Stemming not available for language 'fr'.
+2014-10-09 14:26:16 --> rnkWORD01F contains 3916 words from 368 records
+2014-10-09 14:26:16 --> rnkWORD01F is in consistent state
+2014-10-09 14:26:16 --> Using the last update time for the rank method
+2014-10-09 14:26:16 --> No new records added. rnkWORD01F is up to date
+2014-10-09 14:26:16 --> Beginning recalculation of 3917 terms
+2014-10-09 14:26:16 --> Phase 1: ......processed 3917/3917 terms
+2014-10-09 14:26:16 --> Phase 1: Finished finding which records contains which terms
+2014-10-09 14:26:16 --> Phase 2: Jumping over..already done in phase 1 because of -R option
+2014-10-09 14:26:16 --> Phase 3: Calculating importance of all affected terms
+2014-10-09 14:26:16 --> Phase 3: ......processed 3916/3916 terms
+2014-10-09 14:26:16 --> Phase 3: Finished calculating importance of all affected terms
+2014-10-09 14:26:16 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-09 14:26:16 --> Phase 4: ......processed 258/258 records
+2014-10-09 14:26:16 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-09 14:26:16 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-09 14:26:17 --> Phase 5: ......processed 3916/3916 terms
+2014-10-09 14:26:17 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-09 14:26:17 --> Time used for post-processing: 0.0min
+2014-10-09 14:26:17 --> Finished post-processing
+2014-10-09 14:26:17 --> rnkWORD01F contains 3916 words from 368 records
+2014-10-09 14:26:17 --> rnkWORD01F is in consistent state
+2014-10-09 14:26:17 --> Task #118 finished and resubmitted.
+2014-10-09 14:35:48 --> Task #118 started.
+2014-10-09 14:35:48 --> Running rank method: word similarity
+2014-10-09 14:35:48 --> Warning: Stemming not available for language 'fr'.
+2014-10-09 14:35:48 --> Warning: Stemming not available for language 'fr'.
+2014-10-09 14:35:48 --> rnkWORD01F contains 3916 words from 368 records
+2014-10-09 14:35:48 --> rnkWORD01F is in consistent state
+2014-10-09 14:35:48 --> Using the last update time for the rank method
+2014-10-09 14:35:48 --> No new records added. rnkWORD01F is up to date
+2014-10-09 14:35:48 --> Beginning recalculation of 3917 terms
+2014-10-09 14:35:48 --> Phase 1: ......processed 3917/3917 terms
+2014-10-09 14:35:48 --> Phase 1: Finished finding which records contains which terms
+2014-10-09 14:35:48 --> Phase 2: Jumping over..already done in phase 1 because of -R option
+2014-10-09 14:35:48 --> Phase 3: Calculating importance of all affected terms
+2014-10-09 14:35:49 --> Phase 3: ......processed 3916/3916 terms
+2014-10-09 14:35:49 --> Phase 3: Finished calculating importance of all affected terms
+2014-10-09 14:35:49 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-09 14:35:49 --> Phase 4: ......processed 258/258 records
+2014-10-09 14:35:49 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-09 14:35:49 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-09 14:35:50 --> Phase 5: ......processed 3916/3916 terms
+2014-10-09 14:35:50 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-09 14:35:50 --> Time used for post-processing: 0.0min
+2014-10-09 14:35:50 --> Finished post-processing
+2014-10-09 14:35:50 --> rnkWORD01F contains 3916 words from 368 records
+2014-10-09 14:35:50 --> rnkWORD01F is in consistent state
+2014-10-09 14:35:50 --> Task #118 finished and resubmitted.
+2014-10-28 12:54:34 --> Task #118 started.
+2014-10-28 12:54:34 --> Running rank method: word similarity
+2014-10-28 12:54:34 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 12:54:34 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 12:54:34 --> rnkWORD01F contains 3916 words from 368 records
+2014-10-28 12:54:34 --> rnkWORD01F is in consistent state
+2014-10-28 12:54:34 --> Using the last update time for the rank method
+2014-10-28 12:54:34 --> No new records added. rnkWORD01F is up to date
+2014-10-28 12:54:34 --> Beginning recalculation of 3917 terms
+2014-10-28 12:54:34 --> Phase 1: ......processed 3917/3917 terms
+2014-10-28 12:54:34 --> Phase 1: Finished finding which records contains which terms
+2014-10-28 12:54:34 --> Phase 2: Jumping over..already done in phase 1 because of -R option
+2014-10-28 12:54:34 --> Phase 3: Calculating importance of all affected terms
+2014-10-28 12:54:34 --> Phase 3: ......processed 3916/3916 terms
+2014-10-28 12:54:34 --> Phase 3: Finished calculating importance of all affected terms
+2014-10-28 12:54:34 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 12:54:34 --> Phase 4: ......processed 258/258 records
+2014-10-28 12:54:34 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 12:54:34 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-28 12:54:35 --> Phase 5: ......processed 3916/3916 terms
+2014-10-28 12:54:35 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-28 12:54:35 --> Time used for post-processing: 0.0min
+2014-10-28 12:54:35 --> Finished post-processing
+2014-10-28 12:54:35 --> rnkWORD01F contains 3916 words from 368 records
+2014-10-28 12:54:35 --> rnkWORD01F is in consistent state
+2014-10-28 12:54:35 --> Task #118 finished and resubmitted.
+2014-10-28 12:55:02 --> Task #118 started.
+2014-10-28 12:55:02 --> Running rank method: word similarity
+2014-10-28 12:55:02 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 12:55:02 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 12:55:02 --> rnkWORD01F contains 3916 words from 368 records
+2014-10-28 12:55:02 --> rnkWORD01F is in consistent state
+2014-10-28 12:55:02 --> Using the last update time for the rank method
+2014-10-28 12:55:02 --> No new records added. rnkWORD01F is up to date
+2014-10-28 12:55:02 --> Beginning recalculation of 3917 terms
+2014-10-28 12:55:02 --> Phase 1: ......processed 3917/3917 terms
+2014-10-28 12:55:02 --> Phase 1: Finished finding which records contains which terms
+2014-10-28 12:55:02 --> Phase 2: Jumping over..already done in phase 1 because of -R option
+2014-10-28 12:55:02 --> Phase 3: Calculating importance of all affected terms
+2014-10-28 12:55:03 --> Phase 3: ......processed 3916/3916 terms
+2014-10-28 12:55:03 --> Phase 3: Finished calculating importance of all affected terms
+2014-10-28 12:55:03 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 12:55:03 --> Phase 4: ......processed 258/258 records
+2014-10-28 12:55:03 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 12:55:03 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-28 12:55:04 --> Phase 5: ......processed 3916/3916 terms
+2014-10-28 12:55:04 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-28 12:55:04 --> Time used for post-processing: 0.0min
+2014-10-28 12:55:04 --> Finished post-processing
+2014-10-28 12:55:04 --> rnkWORD01F contains 3916 words from 368 records
+2014-10-28 12:55:04 --> rnkWORD01F is in consistent state
+2014-10-28 12:55:04 --> Task #118 finished and resubmitted.
+2014-12-10 15:22:13 --> Task #118 started.
+2014-12-10 15:22:13 --> Running rank method: 相似字词
+2014-12-10 15:22:13 --> Warning: Stemming not available for language 'fr'.
+2014-12-10 15:22:13 --> Warning: Stemming not available for language 'fr'.
+2014-12-10 15:22:13 --> rnkWORD01F contains 3916 words from 368 records
+2014-12-10 15:22:13 --> rnkWORD01F is in consistent state
+2014-12-10 15:22:13 --> Using the last update time for the rank method
+2014-12-10 15:22:13 --> No new records added. rnkWORD01F is up to date
+2014-12-10 15:22:13 --> Beginning recalculation of 3917 terms
+2014-12-10 15:22:13 --> Phase 1: ......processed 3917/3917 terms
+2014-12-10 15:22:13 --> Phase 1: Finished finding which records contains which terms
+2014-12-10 15:22:13 --> Phase 2: Jumping over..already done in phase 1 because of -R option
+2014-12-10 15:22:13 --> Phase 3: Calculating importance of all affected terms
+2014-12-10 15:22:14 --> Phase 3: ......processed 3916/3916 terms
+2014-12-10 15:22:14 --> Phase 3: Finished calculating importance of all affected terms
+2014-12-10 15:22:14 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-12-10 15:22:14 --> Phase 4: ......processed 258/258 records
+2014-12-10 15:22:14 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-12-10 15:22:14 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-12-10 15:22:15 --> Phase 5: ......processed 3916/3916 terms
+2014-12-10 15:22:15 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-12-10 15:22:15 --> Time used for post-processing: 0.0min
+2014-12-10 15:22:15 --> Finished post-processing
+2014-12-10 15:22:15 --> rnkWORD01F contains 3916 words from 368 records
+2014-12-10 15:22:15 --> rnkWORD01F is in consistent state
+2014-12-10 15:22:15 --> Task #118 finished and resubmitted.

@@ -1,0 +1,2747 @@
+2014-09-26 09:10:44 --> Task #2 started.
+2014-09-26 09:10:44 --> bibsort starting..
+2014-09-26 09:10:44 --> Reading config data from: /opt/invenio/etc/bibsort/bibsort.cfg
+2014-09-26 09:10:44 --> bibsort exiting..
+2014-09-26 09:10:44 --> Task #2 finished. [DONE]
+2014-09-26 09:18:29 --> Task #2 started.
+2014-09-26 09:18:29 --> idxWORD03F has stemming enabled, language en
+2014-09-26 09:18:29 --> idxWORD03F contains 0 words from 0 records
+2014-09-26 09:18:29 --> idxWORD03F is in consistent state
+2014-09-26 09:18:29 --> idxWORD03F for 1-107 is in consistent state
+2014-09-26 09:18:29 --> idxWORD03F adding records #1-#107 started
+2014-09-26 09:18:29 --> idxWORD03F adding records #1-#107 ended  
+2014-09-26 09:18:29 --> idxWORD03F normal wordtable flush started
+2014-09-26 09:18:29 --> ...updating 3435 words into idxWORD03F started
+2014-09-26 09:18:29 --> ......processed 343/3435 words
+2014-09-26 09:18:29 --> ......processed 686/3435 words
+2014-09-26 09:18:30 --> ......processed 1029/3435 words
+2014-09-26 09:18:30 --> ......processed 1372/3435 words
+2014-09-26 09:18:30 --> ......processed 1715/3435 words
+2014-09-26 09:18:30 --> ......processed 2058/3435 words
+2014-09-26 09:18:30 --> ......processed 2401/3435 words
+2014-09-26 09:18:31 --> ......processed 2744/3435 words
+2014-09-26 09:18:31 --> ......processed 3087/3435 words
+2014-09-26 09:18:31 --> ......processed 3430/3435 words
+2014-09-26 09:18:31 --> ...updating 3435 words into idxWORD03F ended
+2014-09-26 09:18:31 --> ...updating reverse table idxWORD03R started
+2014-09-26 09:18:31 --> ...updating reverse table idxWORD03R ended
+2014-09-26 09:18:31 --> idxWORD03F normal wordtable flush ended
+2014-09-26 09:18:31 --> 76 records took 2.3 seconds to complete.(1967 recs/min)
+2014-09-26 09:18:31 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:31 --> idxWORD03F contains 3434 words from 76 records
+2014-09-26 09:18:31 --> idxWORD03F is in consistent state
+2014-09-26 09:18:31 --> idxPAIR03F contains 0 words from 0 records
+2014-09-26 09:18:31 --> idxPAIR03F is in consistent state
+2014-09-26 09:18:31 --> idxPAIR03F for 1-107 is in consistent state
+2014-09-26 09:18:31 --> idxPAIR03F adding records #1-#107 started
+2014-09-26 09:18:31 --> idxPAIR03F adding records #1-#107 ended  
+2014-09-26 09:18:31 --> idxPAIR03F normal wordtable flush started
+2014-09-26 09:18:31 --> ...updating 9237 words into idxPAIR03F started
+2014-09-26 09:18:31 --> ......processed 923/9237 words
+2014-09-26 09:18:32 --> ......processed 1846/9237 words
+2014-09-26 09:18:32 --> ......processed 2769/9237 words
+2014-09-26 09:18:32 --> ......processed 3692/9237 words
+2014-09-26 09:18:33 --> ......processed 4615/9237 words
+2014-09-26 09:18:34 --> ......processed 5538/9237 words
+2014-09-26 09:18:34 --> ......processed 6461/9237 words
+2014-09-26 09:18:35 --> ......processed 7384/9237 words
+2014-09-26 09:18:35 --> ......processed 8307/9237 words
+2014-09-26 09:18:36 --> ......processed 9230/9237 words
+2014-09-26 09:18:36 --> ...updating 9237 words into idxPAIR03F ended
+2014-09-26 09:18:36 --> ...updating reverse table idxPAIR03R started
+2014-09-26 09:18:36 --> ...updating reverse table idxPAIR03R ended
+2014-09-26 09:18:36 --> idxPAIR03F normal wordtable flush ended
+2014-09-26 09:18:36 --> 76 records took 5.0 seconds to complete.(914 recs/min)
+2014-09-26 09:18:36 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:36 --> idxPAIR03F contains 9237 words from 76 records
+2014-09-26 09:18:36 --> idxPAIR03F is in consistent state
+2014-09-26 09:18:36 --> idxPHRASE03F contains 0 words from 0 records
+2014-09-26 09:18:36 --> idxPHRASE03F is in consistent state
+2014-09-26 09:18:36 --> idxPHRASE03F for 1-107 is in consistent state
+2014-09-26 09:18:36 --> idxPHRASE03F adding records #1-#107 started
+2014-09-26 09:18:36 --> idxPHRASE03F adding records #1-#107 ended  
+2014-09-26 09:18:36 --> idxPHRASE03F normal wordtable flush started
+2014-09-26 09:18:36 --> ...updating 77 words into idxPHRASE03F started
+2014-09-26 09:18:36 --> ......processed 7/77 words
+2014-09-26 09:18:36 --> ......processed 14/77 words
+2014-09-26 09:18:36 --> ......processed 21/77 words
+2014-09-26 09:18:36 --> ......processed 28/77 words
+2014-09-26 09:18:36 --> ......processed 35/77 words
+2014-09-26 09:18:36 --> ......processed 42/77 words
+2014-09-26 09:18:36 --> ......processed 49/77 words
+2014-09-26 09:18:36 --> ......processed 56/77 words
+2014-09-26 09:18:36 --> ......processed 63/77 words
+2014-09-26 09:18:36 --> ......processed 70/77 words
+2014-09-26 09:18:36 --> ......processed 77/77 words
+2014-09-26 09:18:36 --> ...updating 77 words into idxPHRASE03F ended
+2014-09-26 09:18:36 --> ...updating reverse table idxPHRASE03R started
+2014-09-26 09:18:36 --> ...updating reverse table idxPHRASE03R ended
+2014-09-26 09:18:36 --> idxPHRASE03F normal wordtable flush ended
+2014-09-26 09:18:36 --> 76 records took 0.1 seconds to complete.(34891 recs/min)
+2014-09-26 09:18:36 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:36 --> idxPHRASE03F contains 77 words from 76 records
+2014-09-26 09:18:36 --> idxPHRASE03F is in consistent state
+2014-09-26 09:18:36 --> idxWORD13F contains 0 words from 0 records
+2014-09-26 09:18:36 --> idxWORD13F is in consistent state
+2014-09-26 09:18:36 --> idxWORD13F for 1-107 is in consistent state
+2014-09-26 09:18:36 --> idxWORD13F adding records #1-#107 started
+2014-09-26 09:18:36 --> idxWORD13F adding records #1-#107 ended  
+2014-09-26 09:18:36 --> idxWORD13F normal wordtable flush started
+2014-09-26 09:18:36 --> ...updating 106 words into idxWORD13F started
+2014-09-26 09:18:36 --> ......processed 10/106 words
+2014-09-26 09:18:36 --> ......processed 20/106 words
+2014-09-26 09:18:36 --> ......processed 30/106 words
+2014-09-26 09:18:36 --> ......processed 40/106 words
+2014-09-26 09:18:36 --> ......processed 50/106 words
+2014-09-26 09:18:36 --> ......processed 60/106 words
+2014-09-26 09:18:36 --> ......processed 70/106 words
+2014-09-26 09:18:36 --> ......processed 80/106 words
+2014-09-26 09:18:36 --> ......processed 90/106 words
+2014-09-26 09:18:36 --> ......processed 100/106 words
+2014-09-26 09:18:36 --> ...updating 106 words into idxWORD13F ended
+2014-09-26 09:18:36 --> ...updating reverse table idxWORD13R started
+2014-09-26 09:18:36 --> ...updating reverse table idxWORD13R ended
+2014-09-26 09:18:36 --> idxWORD13F normal wordtable flush ended
+2014-09-26 09:18:36 --> 77 records took 0.0 seconds to complete.(106412 recs/min)
+2014-09-26 09:18:36 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:36 --> idxWORD13F contains 106 words from 77 records
+2014-09-26 09:18:36 --> idxWORD13F is in consistent state
+2014-09-26 09:18:36 --> idxPAIR13F contains 0 words from 0 records
+2014-09-26 09:18:36 --> idxPAIR13F is in consistent state
+2014-09-26 09:18:36 --> idxPAIR13F for 1-107 is in consistent state
+2014-09-26 09:18:36 --> idxPAIR13F adding records #1-#107 started
+2014-09-26 09:18:36 --> idxPAIR13F adding records #1-#107 ended  
+2014-09-26 09:18:36 --> idxPAIR13F normal wordtable flush started
+2014-09-26 09:18:36 --> ...updating 101 words into idxPAIR13F started
+2014-09-26 09:18:36 --> ......processed 10/101 words
+2014-09-26 09:18:36 --> ......processed 20/101 words
+2014-09-26 09:18:36 --> ......processed 30/101 words
+2014-09-26 09:18:36 --> ......processed 40/101 words
+2014-09-26 09:18:36 --> ......processed 50/101 words
+2014-09-26 09:18:36 --> ......processed 60/101 words
+2014-09-26 09:18:36 --> ......processed 70/101 words
+2014-09-26 09:18:36 --> ......processed 80/101 words
+2014-09-26 09:18:36 --> ......processed 90/101 words
+2014-09-26 09:18:36 --> ......processed 100/101 words
+2014-09-26 09:18:36 --> ...updating 101 words into idxPAIR13F ended
+2014-09-26 09:18:36 --> ...updating reverse table idxPAIR13R started
+2014-09-26 09:18:36 --> ...updating reverse table idxPAIR13R ended
+2014-09-26 09:18:36 --> idxPAIR13F normal wordtable flush ended
+2014-09-26 09:18:36 --> 77 records took 0.1 seconds to complete.(55458 recs/min)
+2014-09-26 09:18:36 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:36 --> idxPAIR13F contains 101 words from 77 records
+2014-09-26 09:18:36 --> idxPAIR13F is in consistent state
+2014-09-26 09:18:36 --> idxPHRASE13F contains 0 words from 0 records
+2014-09-26 09:18:36 --> idxPHRASE13F is in consistent state
+2014-09-26 09:18:36 --> idxPHRASE13F for 1-107 is in consistent state
+2014-09-26 09:18:36 --> idxPHRASE13F adding records #1-#107 started
+2014-09-26 09:18:36 --> idxPHRASE13F adding records #1-#107 ended  
+2014-09-26 09:18:36 --> idxPHRASE13F normal wordtable flush started
+2014-09-26 09:18:36 --> ...updating 61 words into idxPHRASE13F started
+2014-09-26 09:18:36 --> ......processed 6/61 words
+2014-09-26 09:18:36 --> ......processed 12/61 words
+2014-09-26 09:18:36 --> ......processed 18/61 words
+2014-09-26 09:18:36 --> ......processed 24/61 words
+2014-09-26 09:18:36 --> ......processed 30/61 words
+2014-09-26 09:18:36 --> ......processed 36/61 words
+2014-09-26 09:18:36 --> ......processed 42/61 words
+2014-09-26 09:18:36 --> ......processed 48/61 words
+2014-09-26 09:18:36 --> ......processed 54/61 words
+2014-09-26 09:18:36 --> ......processed 60/61 words
+2014-09-26 09:18:36 --> ...updating 61 words into idxPHRASE13F ended
+2014-09-26 09:18:36 --> ...updating reverse table idxPHRASE13R started
+2014-09-26 09:18:36 --> ...updating reverse table idxPHRASE13R ended
+2014-09-26 09:18:36 --> idxPHRASE13F normal wordtable flush ended
+2014-09-26 09:18:36 --> 77 records took 0.2 seconds to complete.(29393 recs/min)
+2014-09-26 09:18:36 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:36 --> idxPHRASE13F contains 61 words from 77 records
+2014-09-26 09:18:36 --> idxPHRASE13F is in consistent state
+2014-09-26 09:18:36 --> idxWORD04F contains 0 words from 0 records
+2014-09-26 09:18:36 --> idxWORD04F is in consistent state
+2014-09-26 09:18:36 --> idxWORD04F for 1-107 is in consistent state
+2014-09-26 09:18:36 --> idxWORD04F adding records #1-#107 started
+2014-09-26 09:18:37 --> idxWORD04F adding records #1-#107 ended  
+2014-09-26 09:18:37 --> idxWORD04F normal wordtable flush started
+2014-09-26 09:18:37 --> ...updating 672 words into idxWORD04F started
+2014-09-26 09:18:37 --> ......processed 67/672 words
+2014-09-26 09:18:37 --> ......processed 134/672 words
+2014-09-26 09:18:37 --> ......processed 201/672 words
+2014-09-26 09:18:37 --> ......processed 268/672 words
+2014-09-26 09:18:37 --> ......processed 335/672 words
+2014-09-26 09:18:37 --> ......processed 402/672 words
+2014-09-26 09:18:37 --> ......processed 469/672 words
+2014-09-26 09:18:37 --> ......processed 536/672 words
+2014-09-26 09:18:37 --> ......processed 603/672 words
+2014-09-26 09:18:37 --> ......processed 670/672 words
+2014-09-26 09:18:37 --> ...updating 672 words into idxWORD04F ended
+2014-09-26 09:18:37 --> ...updating reverse table idxWORD04R started
+2014-09-26 09:18:37 --> ...updating reverse table idxWORD04R ended
+2014-09-26 09:18:37 --> idxWORD04F normal wordtable flush ended
+2014-09-26 09:18:37 --> 107 records took 0.2 seconds to complete.(33540 recs/min)
+2014-09-26 09:18:37 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:37 --> No new records added by author canonical IDs. idxWORD04F is up to date
+2014-09-26 09:18:37 --> idxWORD04F contains 672 words from 107 records
+2014-09-26 09:18:37 --> idxWORD04F is in consistent state
+2014-09-26 09:18:37 --> idxPAIR04F contains 0 words from 0 records
+2014-09-26 09:18:37 --> idxPAIR04F is in consistent state
+2014-09-26 09:18:37 --> idxPAIR04F for 1-107 is in consistent state
+2014-09-26 09:18:37 --> idxPAIR04F adding records #1-#107 started
+2014-09-26 09:18:37 --> idxPAIR04F adding records #1-#107 ended  
+2014-09-26 09:18:37 --> idxPAIR04F normal wordtable flush started
+2014-09-26 09:18:37 --> ...updating 768 words into idxPAIR04F started
+2014-09-26 09:18:37 --> ......processed 76/768 words
+2014-09-26 09:18:37 --> ......processed 152/768 words
+2014-09-26 09:18:37 --> ......processed 228/768 words
+2014-09-26 09:18:37 --> ......processed 304/768 words
+2014-09-26 09:18:37 --> ......processed 380/768 words
+2014-09-26 09:18:37 --> ......processed 456/768 words
+2014-09-26 09:18:37 --> ......processed 532/768 words
+2014-09-26 09:18:37 --> ......processed 608/768 words
+2014-09-26 09:18:37 --> ......processed 684/768 words
+2014-09-26 09:18:37 --> ......processed 760/768 words
+2014-09-26 09:18:37 --> ...updating 768 words into idxPAIR04F ended
+2014-09-26 09:18:37 --> ...updating reverse table idxPAIR04R started
+2014-09-26 09:18:37 --> ...updating reverse table idxPAIR04R ended
+2014-09-26 09:18:37 --> idxPAIR04F normal wordtable flush ended
+2014-09-26 09:18:37 --> 107 records took 0.6 seconds to complete.(11049 recs/min)
+2014-09-26 09:18:37 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:37 --> No new records added by author canonical IDs. idxPAIR04F is up to date
+2014-09-26 09:18:37 --> idxPAIR04F contains 768 words from 107 records
+2014-09-26 09:18:37 --> idxPAIR04F is in consistent state
+2014-09-26 09:18:37 --> idxPHRASE04F contains 0 words from 0 records
+2014-09-26 09:18:37 --> idxPHRASE04F is in consistent state
+2014-09-26 09:18:37 --> idxPHRASE04F for 1-107 is in consistent state
+2014-09-26 09:18:37 --> idxPHRASE04F adding records #1-#107 started
+2014-09-26 09:18:37 --> idxPHRASE04F adding records #1-#107 ended  
+2014-09-26 09:18:37 --> idxPHRASE04F normal wordtable flush started
+2014-09-26 09:18:37 --> ...updating 2111 words into idxPHRASE04F started
+2014-09-26 09:18:37 --> ......processed 211/2111 words
+2014-09-26 09:18:37 --> ......processed 422/2111 words
+2014-09-26 09:18:37 --> ......processed 633/2111 words
+2014-09-26 09:18:38 --> ......processed 844/2111 words
+2014-09-26 09:18:38 --> ......processed 1055/2111 words
+2014-09-26 09:18:38 --> ......processed 1266/2111 words
+2014-09-26 09:18:38 --> ......processed 1477/2111 words
+2014-09-26 09:18:38 --> ......processed 1688/2111 words
+2014-09-26 09:18:39 --> ......processed 1899/2111 words
+2014-09-26 09:18:39 --> ......processed 2110/2111 words
+2014-09-26 09:18:39 --> ...updating 2111 words into idxPHRASE04F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE04R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE04R ended
+2014-09-26 09:18:39 --> idxPHRASE04F normal wordtable flush ended
+2014-09-26 09:18:39 --> 107 records took 1.4 seconds to complete.(4432 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> No new records added by author canonical IDs. idxPHRASE04F is up to date
+2014-09-26 09:18:39 --> idxPHRASE04F contains 2110 words from 107 records
+2014-09-26 09:18:39 --> idxPHRASE04F is in consistent state
+2014-09-26 09:18:39 --> idxWORD18F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxWORD18F is in consistent state
+2014-09-26 09:18:39 --> idxWORD18F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxWORD18F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxWORD18F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxWORD18F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 12 words into idxWORD18F started
+2014-09-26 09:18:39 --> ......processed 1/12 words
+2014-09-26 09:18:39 --> ......processed 2/12 words
+2014-09-26 09:18:39 --> ......processed 3/12 words
+2014-09-26 09:18:39 --> ......processed 4/12 words
+2014-09-26 09:18:39 --> ......processed 5/12 words
+2014-09-26 09:18:39 --> ......processed 6/12 words
+2014-09-26 09:18:39 --> ......processed 7/12 words
+2014-09-26 09:18:39 --> ......processed 8/12 words
+2014-09-26 09:18:39 --> ......processed 9/12 words
+2014-09-26 09:18:39 --> ......processed 10/12 words
+2014-09-26 09:18:39 --> ......processed 11/12 words
+2014-09-26 09:18:39 --> ......processed 12/12 words
+2014-09-26 09:18:39 --> ...updating 12 words into idxWORD18F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxWORD18R started
+2014-09-26 09:18:39 --> ...updating reverse table idxWORD18R ended
+2014-09-26 09:18:39 --> idxWORD18F normal wordtable flush ended
+2014-09-26 09:18:39 --> 107 records took 0.2 seconds to complete.(31279 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxWORD18F contains 12 words from 107 records
+2014-09-26 09:18:39 --> idxWORD18F is in consistent state
+2014-09-26 09:18:39 --> idxPAIR18F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxPAIR18F is in consistent state
+2014-09-26 09:18:39 --> idxPAIR18F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxPAIR18F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxPAIR18F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxPAIR18F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 12 words into idxPAIR18F started
+2014-09-26 09:18:39 --> ......processed 1/12 words
+2014-09-26 09:18:39 --> ......processed 2/12 words
+2014-09-26 09:18:39 --> ......processed 3/12 words
+2014-09-26 09:18:39 --> ......processed 4/12 words
+2014-09-26 09:18:39 --> ......processed 5/12 words
+2014-09-26 09:18:39 --> ......processed 6/12 words
+2014-09-26 09:18:39 --> ......processed 7/12 words
+2014-09-26 09:18:39 --> ......processed 8/12 words
+2014-09-26 09:18:39 --> ......processed 9/12 words
+2014-09-26 09:18:39 --> ......processed 10/12 words
+2014-09-26 09:18:39 --> ......processed 11/12 words
+2014-09-26 09:18:39 --> ......processed 12/12 words
+2014-09-26 09:18:39 --> ...updating 12 words into idxPAIR18F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPAIR18R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPAIR18R ended
+2014-09-26 09:18:39 --> idxPAIR18F normal wordtable flush ended
+2014-09-26 09:18:39 --> 107 records took 0.0 seconds to complete.(169896 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxPAIR18F contains 12 words from 107 records
+2014-09-26 09:18:39 --> idxPAIR18F is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE18F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxPHRASE18F is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE18F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE18F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxPHRASE18F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxPHRASE18F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 12 words into idxPHRASE18F started
+2014-09-26 09:18:39 --> ......processed 1/12 words
+2014-09-26 09:18:39 --> ......processed 2/12 words
+2014-09-26 09:18:39 --> ......processed 3/12 words
+2014-09-26 09:18:39 --> ......processed 4/12 words
+2014-09-26 09:18:39 --> ......processed 5/12 words
+2014-09-26 09:18:39 --> ......processed 6/12 words
+2014-09-26 09:18:39 --> ......processed 7/12 words
+2014-09-26 09:18:39 --> ......processed 8/12 words
+2014-09-26 09:18:39 --> ......processed 9/12 words
+2014-09-26 09:18:39 --> ......processed 10/12 words
+2014-09-26 09:18:39 --> ......processed 11/12 words
+2014-09-26 09:18:39 --> ......processed 12/12 words
+2014-09-26 09:18:39 --> ...updating 12 words into idxPHRASE18F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE18R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE18R ended
+2014-09-26 09:18:39 --> idxPHRASE18F normal wordtable flush ended
+2014-09-26 09:18:39 --> 107 records took 0.0 seconds to complete.(163600 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxPHRASE18F contains 12 words from 107 records
+2014-09-26 09:18:39 --> idxPHRASE18F is in consistent state
+2014-09-26 09:18:39 --> idxWORD15F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxWORD15F is in consistent state
+2014-09-26 09:18:39 --> idxWORD15F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxWORD15F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxWORD15F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxWORD15F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 9 words into idxWORD15F started
+2014-09-26 09:18:39 --> ...updating 9 words into idxWORD15F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxWORD15R started
+2014-09-26 09:18:39 --> ...updating reverse table idxWORD15R ended
+2014-09-26 09:18:39 --> idxWORD15F normal wordtable flush ended
+2014-09-26 09:18:39 --> 1 records took 0.0 seconds to complete.(10743 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxWORD15F contains 9 words from 1 records
+2014-09-26 09:18:39 --> idxWORD15F is in consistent state
+2014-09-26 09:18:39 --> idxPAIR15F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxPAIR15F is in consistent state
+2014-09-26 09:18:39 --> idxPAIR15F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxPAIR15F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxPAIR15F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxPAIR15F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 2 words into idxPAIR15F started
+2014-09-26 09:18:39 --> ...updating 2 words into idxPAIR15F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPAIR15R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPAIR15R ended
+2014-09-26 09:18:39 --> idxPAIR15F normal wordtable flush ended
+2014-09-26 09:18:39 --> 1 records took 0.0 seconds to complete.(19571 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxPAIR15F contains 2 words from 1 records
+2014-09-26 09:18:39 --> idxPAIR15F is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE15F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxPHRASE15F is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE15F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE15F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxPHRASE15F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxPHRASE15F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 6 words into idxPHRASE15F started
+2014-09-26 09:18:39 --> ...updating 6 words into idxPHRASE15F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE15R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE15R ended
+2014-09-26 09:18:39 --> idxPHRASE15F normal wordtable flush ended
+2014-09-26 09:18:39 --> 1 records took 0.0 seconds to complete.(20014 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxPHRASE15F contains 6 words from 1 records
+2014-09-26 09:18:39 --> idxPHRASE15F is in consistent state
+2014-09-26 09:18:39 --> idxWORD12F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxWORD12F is in consistent state
+2014-09-26 09:18:39 --> idxWORD12F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxWORD12F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxWORD12F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxWORD12F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 21 words into idxWORD12F started
+2014-09-26 09:18:39 --> ......processed 2/21 words
+2014-09-26 09:18:39 --> ......processed 4/21 words
+2014-09-26 09:18:39 --> ......processed 6/21 words
+2014-09-26 09:18:39 --> ......processed 8/21 words
+2014-09-26 09:18:39 --> ......processed 10/21 words
+2014-09-26 09:18:39 --> ......processed 12/21 words
+2014-09-26 09:18:39 --> ......processed 14/21 words
+2014-09-26 09:18:39 --> ......processed 16/21 words
+2014-09-26 09:18:39 --> ......processed 18/21 words
+2014-09-26 09:18:39 --> ......processed 20/21 words
+2014-09-26 09:18:39 --> ...updating 21 words into idxWORD12F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxWORD12R started
+2014-09-26 09:18:39 --> ...updating reverse table idxWORD12R ended
+2014-09-26 09:18:39 --> idxWORD12F normal wordtable flush ended
+2014-09-26 09:18:39 --> 3 records took 0.0 seconds to complete.(8395 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxWORD12F contains 21 words from 3 records
+2014-09-26 09:18:39 --> idxWORD12F is in consistent state
+2014-09-26 09:18:39 --> idxPAIR12F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxPAIR12F is in consistent state
+2014-09-26 09:18:39 --> idxPAIR12F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxPAIR12F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxPAIR12F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxPAIR12F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 20 words into idxPAIR12F started
+2014-09-26 09:18:39 --> ......processed 2/20 words
+2014-09-26 09:18:39 --> ......processed 4/20 words
+2014-09-26 09:18:39 --> ......processed 6/20 words
+2014-09-26 09:18:39 --> ......processed 8/20 words
+2014-09-26 09:18:39 --> ......processed 10/20 words
+2014-09-26 09:18:39 --> ......processed 12/20 words
+2014-09-26 09:18:39 --> ......processed 14/20 words
+2014-09-26 09:18:39 --> ......processed 16/20 words
+2014-09-26 09:18:39 --> ......processed 18/20 words
+2014-09-26 09:18:39 --> ......processed 20/20 words
+2014-09-26 09:18:39 --> ...updating 20 words into idxPAIR12F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPAIR12R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPAIR12R ended
+2014-09-26 09:18:39 --> idxPAIR12F normal wordtable flush ended
+2014-09-26 09:18:39 --> 3 records took 0.0 seconds to complete.(4462 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxPAIR12F contains 20 words from 3 records
+2014-09-26 09:18:39 --> idxPAIR12F is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE12F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxPHRASE12F is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE12F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE12F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxPHRASE12F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxPHRASE12F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 3 words into idxPHRASE12F started
+2014-09-26 09:18:39 --> ...updating 3 words into idxPHRASE12F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE12R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE12R ended
+2014-09-26 09:18:39 --> idxPHRASE12F normal wordtable flush ended
+2014-09-26 09:18:39 --> 3 records took 0.0 seconds to complete.(12511 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxPHRASE12F contains 3 words from 3 records
+2014-09-26 09:18:39 --> idxPHRASE12F is in consistent state
+2014-09-26 09:18:39 --> idxWORD02F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxWORD02F is in consistent state
+2014-09-26 09:18:39 --> idxWORD02F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxWORD02F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxWORD02F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxWORD02F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 12 words into idxWORD02F started
+2014-09-26 09:18:39 --> ......processed 1/12 words
+2014-09-26 09:18:39 --> ......processed 2/12 words
+2014-09-26 09:18:39 --> ......processed 3/12 words
+2014-09-26 09:18:39 --> ......processed 4/12 words
+2014-09-26 09:18:39 --> ......processed 5/12 words
+2014-09-26 09:18:39 --> ......processed 6/12 words
+2014-09-26 09:18:39 --> ......processed 7/12 words
+2014-09-26 09:18:39 --> ......processed 8/12 words
+2014-09-26 09:18:39 --> ......processed 9/12 words
+2014-09-26 09:18:39 --> ......processed 10/12 words
+2014-09-26 09:18:39 --> ......processed 11/12 words
+2014-09-26 09:18:39 --> ......processed 12/12 words
+2014-09-26 09:18:39 --> ...updating 12 words into idxWORD02F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxWORD02R started
+2014-09-26 09:18:39 --> ...updating reverse table idxWORD02R ended
+2014-09-26 09:18:39 --> idxWORD02F normal wordtable flush ended
+2014-09-26 09:18:39 --> 107 records took 0.2 seconds to complete.(42552 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxWORD02F contains 12 words from 107 records
+2014-09-26 09:18:39 --> idxWORD02F is in consistent state
+2014-09-26 09:18:39 --> idxPAIR02F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxPAIR02F is in consistent state
+2014-09-26 09:18:39 --> idxPAIR02F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxPAIR02F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxPAIR02F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxPAIR02F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 0 words into idxPAIR02F started
+2014-09-26 09:18:39 --> ...updating 0 words into idxPAIR02F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPAIR02R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPAIR02R ended
+2014-09-26 09:18:39 --> idxPAIR02F normal wordtable flush ended
+2014-09-26 09:18:39 --> 107 records took 0.1 seconds to complete.(53180 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxPAIR02F contains 0 words from 107 records
+2014-09-26 09:18:39 --> idxPAIR02F is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE02F contains 0 words from 0 records
+2014-09-26 09:18:39 --> idxPHRASE02F is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE02F for 1-107 is in consistent state
+2014-09-26 09:18:39 --> idxPHRASE02F adding records #1-#107 started
+2014-09-26 09:18:39 --> idxPHRASE02F adding records #1-#107 ended  
+2014-09-26 09:18:39 --> idxPHRASE02F normal wordtable flush started
+2014-09-26 09:18:39 --> ...updating 12 words into idxPHRASE02F started
+2014-09-26 09:18:39 --> ......processed 1/12 words
+2014-09-26 09:18:39 --> ......processed 2/12 words
+2014-09-26 09:18:39 --> ......processed 3/12 words
+2014-09-26 09:18:39 --> ......processed 4/12 words
+2014-09-26 09:18:39 --> ......processed 5/12 words
+2014-09-26 09:18:39 --> ......processed 6/12 words
+2014-09-26 09:18:39 --> ......processed 7/12 words
+2014-09-26 09:18:39 --> ......processed 8/12 words
+2014-09-26 09:18:39 --> ......processed 9/12 words
+2014-09-26 09:18:39 --> ......processed 10/12 words
+2014-09-26 09:18:39 --> ......processed 11/12 words
+2014-09-26 09:18:39 --> ......processed 12/12 words
+2014-09-26 09:18:39 --> ...updating 12 words into idxPHRASE02F ended
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE02R started
+2014-09-26 09:18:39 --> ...updating reverse table idxPHRASE02R ended
+2014-09-26 09:18:39 --> idxPHRASE02F normal wordtable flush ended
+2014-09-26 09:18:39 --> 107 records took 0.1 seconds to complete.(79572 recs/min)
+2014-09-26 09:18:39 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:39 --> idxPHRASE02F contains 12 words from 107 records
+2014-09-26 09:18:39 --> idxPHRASE02F is in consistent state
+2014-09-26 09:18:39 --> idxWORD14F contains 0 words from 0 records
+2014-09-26 09:18:40 --> idxWORD14F is in consistent state
+2014-09-26 09:18:40 --> idxWORD14F for 1-107 is in consistent state
+2014-09-26 09:18:40 --> idxWORD14F adding records #1-#107 started
+2014-09-26 09:18:40 --> idxWORD14F adding records #1-#107 ended  
+2014-09-26 09:18:40 --> idxWORD14F normal wordtable flush started
+2014-09-26 09:18:40 --> ...updating 672 words into idxWORD14F started
+2014-09-26 09:18:40 --> ......processed 67/672 words
+2014-09-26 09:18:40 --> ......processed 134/672 words
+2014-09-26 09:18:40 --> ......processed 201/672 words
+2014-09-26 09:18:40 --> ......processed 268/672 words
+2014-09-26 09:18:40 --> ......processed 335/672 words
+2014-09-26 09:18:40 --> ......processed 402/672 words
+2014-09-26 09:18:40 --> ......processed 469/672 words
+2014-09-26 09:18:40 --> ......processed 536/672 words
+2014-09-26 09:18:40 --> ......processed 603/672 words
+2014-09-26 09:18:40 --> ......processed 670/672 words
+2014-09-26 09:18:40 --> ...updating 672 words into idxWORD14F ended
+2014-09-26 09:18:40 --> ...updating reverse table idxWORD14R started
+2014-09-26 09:18:40 --> ...updating reverse table idxWORD14R ended
+2014-09-26 09:18:40 --> idxWORD14F normal wordtable flush ended
+2014-09-26 09:18:40 --> 107 records took 0.2 seconds to complete.(41119 recs/min)
+2014-09-26 09:18:40 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:40 --> No new records added by author canonical IDs. idxWORD14F is up to date
+2014-09-26 09:18:40 --> idxWORD14F contains 672 words from 107 records
+2014-09-26 09:18:40 --> idxWORD14F is in consistent state
+2014-09-26 09:18:40 --> idxPAIR14F contains 0 words from 0 records
+2014-09-26 09:18:40 --> idxPAIR14F is in consistent state
+2014-09-26 09:18:40 --> idxPAIR14F for 1-107 is in consistent state
+2014-09-26 09:18:40 --> idxPAIR14F adding records #1-#107 started
+2014-09-26 09:18:40 --> idxPAIR14F adding records #1-#107 ended  
+2014-09-26 09:18:40 --> idxPAIR14F normal wordtable flush started
+2014-09-26 09:18:40 --> ...updating 768 words into idxPAIR14F started
+2014-09-26 09:18:40 --> ......processed 76/768 words
+2014-09-26 09:18:40 --> ......processed 152/768 words
+2014-09-26 09:18:40 --> ......processed 228/768 words
+2014-09-26 09:18:40 --> ......processed 304/768 words
+2014-09-26 09:18:40 --> ......processed 380/768 words
+2014-09-26 09:18:40 --> ......processed 456/768 words
+2014-09-26 09:18:40 --> ......processed 532/768 words
+2014-09-26 09:18:40 --> ......processed 608/768 words
+2014-09-26 09:18:40 --> ......processed 684/768 words
+2014-09-26 09:18:40 --> ......processed 760/768 words
+2014-09-26 09:18:40 --> ...updating 768 words into idxPAIR14F ended
+2014-09-26 09:18:40 --> ...updating reverse table idxPAIR14R started
+2014-09-26 09:18:40 --> ...updating reverse table idxPAIR14R ended
+2014-09-26 09:18:40 --> idxPAIR14F normal wordtable flush ended
+2014-09-26 09:18:40 --> 107 records took 0.6 seconds to complete.(11352 recs/min)
+2014-09-26 09:18:40 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:40 --> No new records added by author canonical IDs. idxPAIR14F is up to date
+2014-09-26 09:18:40 --> idxPAIR14F contains 768 words from 107 records
+2014-09-26 09:18:40 --> idxPAIR14F is in consistent state
+2014-09-26 09:18:40 --> idxPHRASE14F contains 0 words from 0 records
+2014-09-26 09:18:40 --> idxPHRASE14F is in consistent state
+2014-09-26 09:18:40 --> idxPHRASE14F for 1-107 is in consistent state
+2014-09-26 09:18:40 --> idxPHRASE14F adding records #1-#107 started
+2014-09-26 09:18:40 --> idxPHRASE14F adding records #1-#107 ended  
+2014-09-26 09:18:40 --> idxPHRASE14F normal wordtable flush started
+2014-09-26 09:18:40 --> ...updating 615 words into idxPHRASE14F started
+2014-09-26 09:18:40 --> ......processed 61/615 words
+2014-09-26 09:18:40 --> ......processed 122/615 words
+2014-09-26 09:18:40 --> ......processed 183/615 words
+2014-09-26 09:18:40 --> ......processed 244/615 words
+2014-09-26 09:18:40 --> ......processed 305/615 words
+2014-09-26 09:18:40 --> ......processed 366/615 words
+2014-09-26 09:18:40 --> ......processed 427/615 words
+2014-09-26 09:18:40 --> ......processed 488/615 words
+2014-09-26 09:18:41 --> ......processed 549/615 words
+2014-09-26 09:18:41 --> ......processed 610/615 words
+2014-09-26 09:18:41 --> ...updating 615 words into idxPHRASE14F ended
+2014-09-26 09:18:41 --> ...updating reverse table idxPHRASE14R started
+2014-09-26 09:18:41 --> ...updating reverse table idxPHRASE14R ended
+2014-09-26 09:18:41 --> idxPHRASE14F normal wordtable flush ended
+2014-09-26 09:18:41 --> 107 records took 0.3 seconds to complete.(18869 recs/min)
+2014-09-26 09:18:41 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:41 --> No new records added by author canonical IDs. idxPHRASE14F is up to date
+2014-09-26 09:18:41 --> idxPHRASE14F contains 615 words from 107 records
+2014-09-26 09:18:41 --> idxPHRASE14F is in consistent state
+2014-09-26 09:18:41 --> idxWORD17F contains 0 words from 0 records
+2014-09-26 09:18:41 --> idxWORD17F is in consistent state
+2014-09-26 09:18:41 --> idxWORD17F for 1-107 is in consistent state
+2014-09-26 09:18:41 --> idxWORD17F adding records #1-#107 started
+2014-09-26 09:18:41 --> idxWORD17F adding records #1-#107 ended  
+2014-09-26 09:18:41 --> idxWORD17F normal wordtable flush started
+2014-09-26 09:18:41 --> ...updating 144 words into idxWORD17F started
+2014-09-26 09:18:41 --> ......processed 14/144 words
+2014-09-26 09:18:41 --> ......processed 28/144 words
+2014-09-26 09:18:41 --> ......processed 42/144 words
+2014-09-26 09:18:41 --> ......processed 56/144 words
+2014-09-26 09:18:41 --> ......processed 70/144 words
+2014-09-26 09:18:41 --> ......processed 84/144 words
+2014-09-26 09:18:41 --> ......processed 98/144 words
+2014-09-26 09:18:41 --> ......processed 112/144 words
+2014-09-26 09:18:41 --> ......processed 126/144 words
+2014-09-26 09:18:41 --> ......processed 140/144 words
+2014-09-26 09:18:41 --> ...updating 144 words into idxWORD17F ended
+2014-09-26 09:18:41 --> ...updating reverse table idxWORD17R started
+2014-09-26 09:18:41 --> ...updating reverse table idxWORD17R ended
+2014-09-26 09:18:41 --> idxWORD17F normal wordtable flush ended
+2014-09-26 09:18:41 --> 107 records took 0.3 seconds to complete.(21620 recs/min)
+2014-09-26 09:18:41 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:41 --> No new records added by author canonical IDs. idxWORD17F is up to date
+2014-09-26 09:18:41 --> idxWORD17F contains 144 words from 107 records
+2014-09-26 09:18:41 --> idxWORD17F is in consistent state
+2014-09-26 09:18:41 --> idxPAIR17F contains 0 words from 0 records
+2014-09-26 09:18:41 --> idxPAIR17F is in consistent state
+2014-09-26 09:18:41 --> idxPAIR17F for 1-107 is in consistent state
+2014-09-26 09:18:41 --> idxPAIR17F adding records #1-#107 started
+2014-09-26 09:18:41 --> idxPAIR17F adding records #1-#107 ended  
+2014-09-26 09:18:41 --> idxPAIR17F normal wordtable flush started
+2014-09-26 09:18:41 --> ...updating 127 words into idxPAIR17F started
+2014-09-26 09:18:41 --> ......processed 12/127 words
+2014-09-26 09:18:41 --> ......processed 24/127 words
+2014-09-26 09:18:41 --> ......processed 36/127 words
+2014-09-26 09:18:41 --> ......processed 48/127 words
+2014-09-26 09:18:41 --> ......processed 60/127 words
+2014-09-26 09:18:41 --> ......processed 72/127 words
+2014-09-26 09:18:41 --> ......processed 84/127 words
+2014-09-26 09:18:41 --> ......processed 96/127 words
+2014-09-26 09:18:41 --> ......processed 108/127 words
+2014-09-26 09:18:41 --> ......processed 120/127 words
+2014-09-26 09:18:41 --> ...updating 127 words into idxPAIR17F ended
+2014-09-26 09:18:41 --> ...updating reverse table idxPAIR17R started
+2014-09-26 09:18:41 --> ...updating reverse table idxPAIR17R ended
+2014-09-26 09:18:41 --> idxPAIR17F normal wordtable flush ended
+2014-09-26 09:18:41 --> 107 records took 0.3 seconds to complete.(23913 recs/min)
+2014-09-26 09:18:41 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:41 --> No new records added by author canonical IDs. idxPAIR17F is up to date
+2014-09-26 09:18:41 --> idxPAIR17F contains 127 words from 107 records
+2014-09-26 09:18:41 --> idxPAIR17F is in consistent state
+2014-09-26 09:18:41 --> idxPHRASE17F contains 0 words from 0 records
+2014-09-26 09:18:41 --> idxPHRASE17F is in consistent state
+2014-09-26 09:18:41 --> idxPHRASE17F for 1-107 is in consistent state
+2014-09-26 09:18:41 --> idxPHRASE17F adding records #1-#107 started
+2014-09-26 09:18:41 --> idxPHRASE17F adding records #1-#107 ended  
+2014-09-26 09:18:41 --> idxPHRASE17F normal wordtable flush started
+2014-09-26 09:18:41 --> ...updating 92 words into idxPHRASE17F started
+2014-09-26 09:18:41 --> ......processed 9/92 words
+2014-09-26 09:18:41 --> ......processed 18/92 words
+2014-09-26 09:18:41 --> ......processed 27/92 words
+2014-09-26 09:18:41 --> ......processed 36/92 words
+2014-09-26 09:18:41 --> ......processed 45/92 words
+2014-09-26 09:18:41 --> ......processed 54/92 words
+2014-09-26 09:18:41 --> ......processed 63/92 words
+2014-09-26 09:18:41 --> ......processed 72/92 words
+2014-09-26 09:18:41 --> ......processed 81/92 words
+2014-09-26 09:18:41 --> ......processed 90/92 words
+2014-09-26 09:18:41 --> ...updating 92 words into idxPHRASE17F ended
+2014-09-26 09:18:41 --> ...updating reverse table idxPHRASE17R started
+2014-09-26 09:18:41 --> ...updating reverse table idxPHRASE17R ended
+2014-09-26 09:18:41 --> idxPHRASE17F normal wordtable flush ended
+2014-09-26 09:18:41 --> 107 records took 0.1 seconds to complete.(72268 recs/min)
+2014-09-26 09:18:41 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:41 --> No new records added by author canonical IDs. idxPHRASE17F is up to date
+2014-09-26 09:18:41 --> idxPHRASE17F contains 92 words from 107 records
+2014-09-26 09:18:41 --> idxPHRASE17F is in consistent state
+2014-09-26 09:18:41 --> idxWORD16F contains 0 words from 0 records
+2014-09-26 09:18:41 --> idxWORD16F is in consistent state
+2014-09-26 09:18:41 --> idxWORD16F for 1-107 is in consistent state
+2014-09-26 09:18:41 --> idxWORD16F adding records #1-#107 started
+2014-09-26 09:18:41 --> idxWORD16F adding records #1-#107 ended  
+2014-09-26 09:18:41 --> idxWORD16F normal wordtable flush started
+2014-09-26 09:18:41 --> ...updating 144 words into idxWORD16F started
+2014-09-26 09:18:41 --> ......processed 14/144 words
+2014-09-26 09:18:41 --> ......processed 28/144 words
+2014-09-26 09:18:41 --> ......processed 42/144 words
+2014-09-26 09:18:41 --> ......processed 56/144 words
+2014-09-26 09:18:41 --> ......processed 70/144 words
+2014-09-26 09:18:41 --> ......processed 84/144 words
+2014-09-26 09:18:41 --> ......processed 98/144 words
+2014-09-26 09:18:41 --> ......processed 112/144 words
+2014-09-26 09:18:41 --> ......processed 126/144 words
+2014-09-26 09:18:41 --> ......processed 140/144 words
+2014-09-26 09:18:41 --> ...updating 144 words into idxWORD16F ended
+2014-09-26 09:18:41 --> ...updating reverse table idxWORD16R started
+2014-09-26 09:18:41 --> ...updating reverse table idxWORD16R ended
+2014-09-26 09:18:41 --> idxWORD16F normal wordtable flush ended
+2014-09-26 09:18:41 --> 107 records took 0.2 seconds to complete.(34112 recs/min)
+2014-09-26 09:18:41 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:41 --> No new records added by author canonical IDs. idxWORD16F is up to date
+2014-09-26 09:18:41 --> idxWORD16F contains 144 words from 107 records
+2014-09-26 09:18:41 --> idxWORD16F is in consistent state
+2014-09-26 09:18:41 --> idxPAIR16F contains 0 words from 0 records
+2014-09-26 09:18:41 --> idxPAIR16F is in consistent state
+2014-09-26 09:18:41 --> idxPAIR16F for 1-107 is in consistent state
+2014-09-26 09:18:41 --> idxPAIR16F adding records #1-#107 started
+2014-09-26 09:18:42 --> idxPAIR16F adding records #1-#107 ended  
+2014-09-26 09:18:42 --> idxPAIR16F normal wordtable flush started
+2014-09-26 09:18:42 --> ...updating 127 words into idxPAIR16F started
+2014-09-26 09:18:42 --> ......processed 12/127 words
+2014-09-26 09:18:42 --> ......processed 24/127 words
+2014-09-26 09:18:42 --> ......processed 36/127 words
+2014-09-26 09:18:42 --> ......processed 48/127 words
+2014-09-26 09:18:42 --> ......processed 60/127 words
+2014-09-26 09:18:42 --> ......processed 72/127 words
+2014-09-26 09:18:42 --> ......processed 84/127 words
+2014-09-26 09:18:42 --> ......processed 96/127 words
+2014-09-26 09:18:42 --> ......processed 108/127 words
+2014-09-26 09:18:42 --> ......processed 120/127 words
+2014-09-26 09:18:42 --> ...updating 127 words into idxPAIR16F ended
+2014-09-26 09:18:42 --> ...updating reverse table idxPAIR16R started
+2014-09-26 09:18:42 --> ...updating reverse table idxPAIR16R ended
+2014-09-26 09:18:42 --> idxPAIR16F normal wordtable flush ended
+2014-09-26 09:18:42 --> 107 records took 0.1 seconds to complete.(90617 recs/min)
+2014-09-26 09:18:42 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:42 --> No new records added by author canonical IDs. idxPAIR16F is up to date
+2014-09-26 09:18:42 --> idxPAIR16F contains 127 words from 107 records
+2014-09-26 09:18:42 --> idxPAIR16F is in consistent state
+2014-09-26 09:18:42 --> idxPHRASE16F contains 0 words from 0 records
+2014-09-26 09:18:42 --> idxPHRASE16F is in consistent state
+2014-09-26 09:18:42 --> idxPHRASE16F for 1-107 is in consistent state
+2014-09-26 09:18:42 --> idxPHRASE16F adding records #1-#107 started
+2014-09-26 09:18:42 --> idxPHRASE16F adding records #1-#107 ended  
+2014-09-26 09:18:42 --> idxPHRASE16F normal wordtable flush started
+2014-09-26 09:18:42 --> ...updating 435 words into idxPHRASE16F started
+2014-09-26 09:18:42 --> ......processed 43/435 words
+2014-09-26 09:18:42 --> ......processed 86/435 words
+2014-09-26 09:18:42 --> ......processed 129/435 words
+2014-09-26 09:18:42 --> ......processed 172/435 words
+2014-09-26 09:18:42 --> ......processed 215/435 words
+2014-09-26 09:18:42 --> ......processed 258/435 words
+2014-09-26 09:18:42 --> ......processed 301/435 words
+2014-09-26 09:18:42 --> ......processed 344/435 words
+2014-09-26 09:18:42 --> ......processed 387/435 words
+2014-09-26 09:18:42 --> ......processed 430/435 words
+2014-09-26 09:18:42 --> ...updating 435 words into idxPHRASE16F ended
+2014-09-26 09:18:42 --> ...updating reverse table idxPHRASE16R started
+2014-09-26 09:18:42 --> ...updating reverse table idxPHRASE16R ended
+2014-09-26 09:18:42 --> idxPHRASE16F normal wordtable flush ended
+2014-09-26 09:18:42 --> 107 records took 0.3 seconds to complete.(22839 recs/min)
+2014-09-26 09:18:42 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:18:42 --> No new records added by author canonical IDs. idxPHRASE16F is up to date
+2014-09-26 09:18:42 --> idxPHRASE16F contains 433 words from 107 records
+2014-09-26 09:18:42 --> idxPHRASE16F is in consistent state
+2014-09-26 09:18:42 --> idxWORD09F has stemming enabled, language en
+2014-09-26 09:18:42 --> idxWORD09F contains 0 words from 0 records
+2014-09-26 09:18:42 --> idxWORD09F is in consistent state
+2014-09-26 09:18:42 --> idxWORD09F for 1-107 is in consistent state
+2014-09-26 09:18:42 --> idxWORD09F adding records #1-#107 started
+2014-09-26 09:18:56 --> idxWORD09F adding records #1-#107 ended  
+2014-09-26 09:18:56 --> idxWORD09F normal wordtable flush started
+2014-09-26 09:18:56 --> ...updating 39412 words into idxWORD09F started
+2014-09-26 09:18:58 --> ......processed 3941/39412 words
+2014-09-26 09:19:01 --> ......processed 7882/39412 words
+2014-09-26 09:19:03 --> ......processed 11823/39412 words
+2014-09-26 09:19:06 --> ......processed 15764/39412 words
+2014-09-26 09:19:08 --> ......processed 19705/39412 words
+2014-09-26 09:19:10 --> ......processed 23646/39412 words
+2014-09-26 09:19:13 --> ......processed 27587/39412 words
+2014-09-26 09:19:15 --> ......processed 31528/39412 words
+2014-09-26 09:19:18 --> ......processed 35469/39412 words
+2014-09-26 09:19:20 --> ......processed 39410/39412 words
+2014-09-26 09:19:20 --> ...updating 39412 words into idxWORD09F ended
+2014-09-26 09:19:20 --> ...updating reverse table idxWORD09R started
+2014-09-26 09:19:20 --> ...updating reverse table idxWORD09R ended
+2014-09-26 09:19:20 --> idxWORD09F normal wordtable flush ended
+2014-09-26 09:19:20 --> 71 records took 38.5 seconds to complete.(111 recs/min)
+2014-09-26 09:19:20 --> Estimated runtime: 0.3 minutes
+2014-09-26 09:19:20 --> idxWORD09F contains 39360 words from 71 records
+2014-09-26 09:19:20 --> idxWORD09F is in consistent state
+2014-09-26 09:19:20 --> idxPAIR09F contains 0 words from 0 records
+2014-09-26 09:19:20 --> idxPAIR09F is in consistent state
+2014-09-26 09:19:20 --> idxPAIR09F for 1-107 is in consistent state
+2014-09-26 09:19:20 --> idxPAIR09F adding records #1-#107 started
+2014-09-26 09:19:21 --> idxPAIR09F adding records #1-#107 ended  
+2014-09-26 09:19:21 --> idxPAIR09F normal wordtable flush started
+2014-09-26 09:19:21 --> ...updating 0 words into idxPAIR09F started
+2014-09-26 09:19:21 --> ...updating 0 words into idxPAIR09F ended
+2014-09-26 09:19:21 --> ...updating reverse table idxPAIR09R started
+2014-09-26 09:19:21 --> ...updating reverse table idxPAIR09R ended
+2014-09-26 09:19:21 --> idxPAIR09F normal wordtable flush ended
+2014-09-26 09:19:21 --> 71 records took 0.3 seconds to complete.(15042 recs/min)
+2014-09-26 09:19:21 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:21 --> idxPAIR09F contains 0 words from 71 records
+2014-09-26 09:19:21 --> idxPAIR09F is in consistent state
+2014-09-26 09:19:21 --> idxPHRASE09F contains 0 words from 0 records
+2014-09-26 09:19:21 --> idxPHRASE09F is in consistent state
+2014-09-26 09:19:21 --> idxPHRASE09F for 1-107 is in consistent state
+2014-09-26 09:19:21 --> idxPHRASE09F adding records #1-#107 started
+2014-09-26 09:19:21 --> idxPHRASE09F adding records #1-#107 ended  
+2014-09-26 09:19:21 --> idxPHRASE09F normal wordtable flush started
+2014-09-26 09:19:21 --> ...updating 0 words into idxPHRASE09F started
+2014-09-26 09:19:21 --> ...updating 0 words into idxPHRASE09F ended
+2014-09-26 09:19:21 --> ...updating reverse table idxPHRASE09R started
+2014-09-26 09:19:21 --> ...updating reverse table idxPHRASE09R ended
+2014-09-26 09:19:21 --> idxPHRASE09F normal wordtable flush ended
+2014-09-26 09:19:21 --> 71 records took 0.2 seconds to complete.(17351 recs/min)
+2014-09-26 09:19:21 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:21 --> idxPHRASE09F contains 0 words from 71 records
+2014-09-26 09:19:21 --> idxPHRASE09F is in consistent state
+2014-09-26 09:19:21 --> idxWORD01F has stemming enabled, language en
+2014-09-26 09:19:21 --> idxWORD01F contains 0 words from 0 records
+2014-09-26 09:19:21 --> idxWORD01F is in consistent state
+2014-09-26 09:19:21 --> idxWORD01F for 1-107 is in consistent state
+2014-09-26 09:19:21 --> idxWORD01F adding records #1-#107 started
+2014-09-26 09:19:25 --> idxWORD01F adding records #1-#107 ended  
+2014-09-26 09:19:25 --> idxWORD01F normal wordtable flush started
+2014-09-26 09:19:25 --> ...updating 5721 words into idxWORD01F started
+2014-09-26 09:19:25 --> ......processed 572/5721 words
+2014-09-26 09:19:25 --> ......processed 1144/5721 words
+2014-09-26 09:19:25 --> ......processed 1716/5721 words
+2014-09-26 09:19:26 --> ......processed 2288/5721 words
+2014-09-26 09:19:26 --> ......processed 2860/5721 words
+2014-09-26 09:19:26 --> ......processed 3432/5721 words
+2014-09-26 09:19:26 --> ......processed 4004/5721 words
+2014-09-26 09:19:27 --> ......processed 4576/5721 words
+2014-09-26 09:19:27 --> ......processed 5148/5721 words
+2014-09-26 09:19:27 --> ......processed 5720/5721 words
+2014-09-26 09:19:27 --> ...updating 5721 words into idxWORD01F ended
+2014-09-26 09:19:27 --> ...updating reverse table idxWORD01R started
+2014-09-26 09:19:27 --> ...updating reverse table idxWORD01R ended
+2014-09-26 09:19:27 --> idxWORD01F normal wordtable flush ended
+2014-09-26 09:19:27 --> 107 records took 6.2 seconds to complete.(1038 recs/min)
+2014-09-26 09:19:27 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:27 --> idxWORD01F contains 5720 words from 107 records
+2014-09-26 09:19:27 --> idxWORD01F is in consistent state
+2014-09-26 09:19:27 --> idxPAIR01F contains 0 words from 0 records
+2014-09-26 09:19:27 --> idxPAIR01F is in consistent state
+2014-09-26 09:19:27 --> idxPAIR01F for 1-107 is in consistent state
+2014-09-26 09:19:27 --> idxPAIR01F adding records #1-#107 started
+2014-09-26 09:19:33 --> idxPAIR01F adding records #1-#107 ended  
+2014-09-26 09:19:33 --> idxPAIR01F normal wordtable flush started
+2014-09-26 09:19:33 --> ...updating 11796 words into idxPAIR01F started
+2014-09-26 09:19:34 --> ......processed 1179/11796 words
+2014-09-26 09:19:35 --> ......processed 2358/11796 words
+2014-09-26 09:19:36 --> ......processed 3537/11796 words
+2014-09-26 09:19:36 --> ......processed 4716/11796 words
+2014-09-26 09:19:37 --> ......processed 5895/11796 words
+2014-09-26 09:19:38 --> ......processed 7074/11796 words
+2014-09-26 09:19:38 --> ......processed 8253/11796 words
+2014-09-26 09:19:39 --> ......processed 9432/11796 words
+2014-09-26 09:19:40 --> ......processed 10611/11796 words
+2014-09-26 09:19:41 --> ......processed 11790/11796 words
+2014-09-26 09:19:41 --> ...updating 11796 words into idxPAIR01F ended
+2014-09-26 09:19:41 --> ...updating reverse table idxPAIR01R started
+2014-09-26 09:19:41 --> ...updating reverse table idxPAIR01R ended
+2014-09-26 09:19:41 --> idxPAIR01F normal wordtable flush ended
+2014-09-26 09:19:41 --> 107 records took 13.5 seconds to complete.(475 recs/min)
+2014-09-26 09:19:41 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:41 --> idxPAIR01F contains 11796 words from 107 records
+2014-09-26 09:19:41 --> idxPAIR01F is in consistent state
+2014-09-26 09:19:41 --> idxPHRASE01F contains 0 words from 0 records
+2014-09-26 09:19:41 --> idxPHRASE01F is in consistent state
+2014-09-26 09:19:41 --> idxPHRASE01F for 1-107 is in consistent state
+2014-09-26 09:19:41 --> idxPHRASE01F adding records #1-#107 started
+2014-09-26 09:19:42 --> idxPHRASE01F adding records #1-#107 ended  
+2014-09-26 09:19:42 --> idxPHRASE01F normal wordtable flush started
+2014-09-26 09:19:42 --> ...updating 1950 words into idxPHRASE01F started
+2014-09-26 09:19:42 --> ......processed 195/1950 words
+2014-09-26 09:19:42 --> ......processed 390/1950 words
+2014-09-26 09:19:43 --> ......processed 585/1950 words
+2014-09-26 09:19:43 --> ......processed 780/1950 words
+2014-09-26 09:19:43 --> ......processed 975/1950 words
+2014-09-26 09:19:43 --> ......processed 1170/1950 words
+2014-09-26 09:19:43 --> ......processed 1365/1950 words
+2014-09-26 09:19:43 --> ......processed 1560/1950 words
+2014-09-26 09:19:43 --> ......processed 1755/1950 words
+2014-09-26 09:19:44 --> ......processed 1950/1950 words
+2014-09-26 09:19:44 --> ...updating 1950 words into idxPHRASE01F ended
+2014-09-26 09:19:44 --> ...updating reverse table idxPHRASE01R started
+2014-09-26 09:19:44 --> ...updating reverse table idxPHRASE01R ended
+2014-09-26 09:19:44 --> idxPHRASE01F normal wordtable flush ended
+2014-09-26 09:19:44 --> 107 records took 2.9 seconds to complete.(2220 recs/min)
+2014-09-26 09:19:44 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:44 --> idxPHRASE01F contains 1950 words from 107 records
+2014-09-26 09:19:44 --> idxPHRASE01F is in consistent state
+2014-09-26 09:19:44 --> idxWORD11F contains 0 words from 0 records
+2014-09-26 09:19:44 --> idxWORD11F is in consistent state
+2014-09-26 09:19:44 --> idxWORD11F for 1-107 is in consistent state
+2014-09-26 09:19:44 --> idxWORD11F adding records #1-#107 started
+2014-09-26 09:19:44 --> idxWORD11F adding records #1-#107 ended  
+2014-09-26 09:19:44 --> idxWORD11F normal wordtable flush started
+2014-09-26 09:19:44 --> ...updating 134 words into idxWORD11F started
+2014-09-26 09:19:44 --> ......processed 13/134 words
+2014-09-26 09:19:44 --> ......processed 26/134 words
+2014-09-26 09:19:44 --> ......processed 39/134 words
+2014-09-26 09:19:44 --> ......processed 52/134 words
+2014-09-26 09:19:44 --> ......processed 65/134 words
+2014-09-26 09:19:44 --> ......processed 78/134 words
+2014-09-26 09:19:44 --> ......processed 91/134 words
+2014-09-26 09:19:44 --> ......processed 104/134 words
+2014-09-26 09:19:44 --> ......processed 117/134 words
+2014-09-26 09:19:44 --> ......processed 130/134 words
+2014-09-26 09:19:44 --> ...updating 134 words into idxWORD11F ended
+2014-09-26 09:19:44 --> ...updating reverse table idxWORD11R started
+2014-09-26 09:19:44 --> ...updating reverse table idxWORD11R ended
+2014-09-26 09:19:44 --> idxWORD11F normal wordtable flush ended
+2014-09-26 09:19:44 --> 107 records took 0.3 seconds to complete.(24287 recs/min)
+2014-09-26 09:19:44 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:44 --> idxWORD11F contains 134 words from 107 records
+2014-09-26 09:19:44 --> idxWORD11F is in consistent state
+2014-09-26 09:19:44 --> idxPAIR11F contains 0 words from 0 records
+2014-09-26 09:19:44 --> idxPAIR11F is in consistent state
+2014-09-26 09:19:44 --> idxPAIR11F for 1-107 is in consistent state
+2014-09-26 09:19:44 --> idxPAIR11F adding records #1-#107 started
+2014-09-26 09:19:44 --> idxPAIR11F adding records #1-#107 ended  
+2014-09-26 09:19:44 --> idxPAIR11F normal wordtable flush started
+2014-09-26 09:19:44 --> ...updating 134 words into idxPAIR11F started
+2014-09-26 09:19:44 --> ......processed 13/134 words
+2014-09-26 09:19:44 --> ......processed 26/134 words
+2014-09-26 09:19:44 --> ......processed 39/134 words
+2014-09-26 09:19:44 --> ......processed 52/134 words
+2014-09-26 09:19:44 --> ......processed 65/134 words
+2014-09-26 09:19:44 --> ......processed 78/134 words
+2014-09-26 09:19:44 --> ......processed 91/134 words
+2014-09-26 09:19:44 --> ......processed 104/134 words
+2014-09-26 09:19:44 --> ......processed 117/134 words
+2014-09-26 09:19:44 --> ......processed 130/134 words
+2014-09-26 09:19:44 --> ...updating 134 words into idxPAIR11F ended
+2014-09-26 09:19:44 --> ...updating reverse table idxPAIR11R started
+2014-09-26 09:19:44 --> ...updating reverse table idxPAIR11R ended
+2014-09-26 09:19:44 --> idxPAIR11F normal wordtable flush ended
+2014-09-26 09:19:44 --> 107 records took 0.2 seconds to complete.(28215 recs/min)
+2014-09-26 09:19:44 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:44 --> idxPAIR11F contains 134 words from 107 records
+2014-09-26 09:19:44 --> idxPAIR11F is in consistent state
+2014-09-26 09:19:44 --> idxPHRASE11F contains 0 words from 0 records
+2014-09-26 09:19:44 --> idxPHRASE11F is in consistent state
+2014-09-26 09:19:44 --> idxPHRASE11F for 1-107 is in consistent state
+2014-09-26 09:19:44 --> idxPHRASE11F adding records #1-#107 started
+2014-09-26 09:19:44 --> idxPHRASE11F adding records #1-#107 ended  
+2014-09-26 09:19:44 --> idxPHRASE11F normal wordtable flush started
+2014-09-26 09:19:44 --> ...updating 134 words into idxPHRASE11F started
+2014-09-26 09:19:44 --> ......processed 13/134 words
+2014-09-26 09:19:44 --> ......processed 26/134 words
+2014-09-26 09:19:44 --> ......processed 39/134 words
+2014-09-26 09:19:44 --> ......processed 52/134 words
+2014-09-26 09:19:44 --> ......processed 65/134 words
+2014-09-26 09:19:44 --> ......processed 78/134 words
+2014-09-26 09:19:44 --> ......processed 91/134 words
+2014-09-26 09:19:44 --> ......processed 104/134 words
+2014-09-26 09:19:44 --> ......processed 117/134 words
+2014-09-26 09:19:44 --> ......processed 130/134 words
+2014-09-26 09:19:44 --> ...updating 134 words into idxPHRASE11F ended
+2014-09-26 09:19:44 --> ...updating reverse table idxPHRASE11R started
+2014-09-26 09:19:44 --> ...updating reverse table idxPHRASE11R ended
+2014-09-26 09:19:44 --> idxPHRASE11F normal wordtable flush ended
+2014-09-26 09:19:44 --> 107 records took 0.2 seconds to complete.(28791 recs/min)
+2014-09-26 09:19:44 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:44 --> idxPHRASE11F contains 134 words from 107 records
+2014-09-26 09:19:44 --> idxPHRASE11F is in consistent state
+2014-09-26 09:19:44 --> idxWORD05F has stemming enabled, language en
+2014-09-26 09:19:44 --> idxWORD05F contains 0 words from 0 records
+2014-09-26 09:19:44 --> idxWORD05F is in consistent state
+2014-09-26 09:19:44 --> idxWORD05F for 1-107 is in consistent state
+2014-09-26 09:19:44 --> idxWORD05F adding records #1-#107 started
+2014-09-26 09:19:44 --> idxWORD05F adding records #1-#107 ended  
+2014-09-26 09:19:44 --> idxWORD05F normal wordtable flush started
+2014-09-26 09:19:44 --> ...updating 13 words into idxWORD05F started
+2014-09-26 09:19:44 --> ......processed 1/13 words
+2014-09-26 09:19:44 --> ......processed 2/13 words
+2014-09-26 09:19:44 --> ......processed 3/13 words
+2014-09-26 09:19:44 --> ......processed 4/13 words
+2014-09-26 09:19:44 --> ......processed 5/13 words
+2014-09-26 09:19:44 --> ......processed 6/13 words
+2014-09-26 09:19:44 --> ......processed 7/13 words
+2014-09-26 09:19:44 --> ......processed 8/13 words
+2014-09-26 09:19:44 --> ......processed 9/13 words
+2014-09-26 09:19:44 --> ......processed 10/13 words
+2014-09-26 09:19:44 --> ......processed 11/13 words
+2014-09-26 09:19:44 --> ......processed 12/13 words
+2014-09-26 09:19:44 --> ......processed 13/13 words
+2014-09-26 09:19:44 --> ...updating 13 words into idxWORD05F ended
+2014-09-26 09:19:44 --> ...updating reverse table idxWORD05R started
+2014-09-26 09:19:44 --> ...updating reverse table idxWORD05R ended
+2014-09-26 09:19:44 --> idxWORD05F normal wordtable flush ended
+2014-09-26 09:19:44 --> 7 records took 0.0 seconds to complete.(9933 recs/min)
+2014-09-26 09:19:44 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:44 --> idxWORD05F contains 13 words from 7 records
+2014-09-26 09:19:44 --> idxWORD05F is in consistent state
+2014-09-26 09:19:44 --> idxPAIR05F contains 0 words from 0 records
+2014-09-26 09:19:44 --> idxPAIR05F is in consistent state
+2014-09-26 09:19:44 --> idxPAIR05F for 1-107 is in consistent state
+2014-09-26 09:19:44 --> idxPAIR05F adding records #1-#107 started
+2014-09-26 09:19:44 --> idxPAIR05F adding records #1-#107 ended  
+2014-09-26 09:19:44 --> idxPAIR05F normal wordtable flush started
+2014-09-26 09:19:44 --> ...updating 1 words into idxPAIR05F started
+2014-09-26 09:19:44 --> ...updating 1 words into idxPAIR05F ended
+2014-09-26 09:19:44 --> ...updating reverse table idxPAIR05R started
+2014-09-26 09:19:44 --> ...updating reverse table idxPAIR05R ended
+2014-09-26 09:19:44 --> idxPAIR05F normal wordtable flush ended
+2014-09-26 09:19:44 --> 7 records took 0.0 seconds to complete.(21049 recs/min)
+2014-09-26 09:19:44 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:44 --> idxPAIR05F contains 1 words from 7 records
+2014-09-26 09:19:44 --> idxPAIR05F is in consistent state
+2014-09-26 09:19:44 --> idxPHRASE05F contains 0 words from 0 records
+2014-09-26 09:19:44 --> idxPHRASE05F is in consistent state
+2014-09-26 09:19:44 --> idxPHRASE05F for 1-107 is in consistent state
+2014-09-26 09:19:44 --> idxPHRASE05F adding records #1-#107 started
+2014-09-26 09:19:44 --> idxPHRASE05F adding records #1-#107 ended  
+2014-09-26 09:19:44 --> idxPHRASE05F normal wordtable flush started
+2014-09-26 09:19:44 --> ...updating 12 words into idxPHRASE05F started
+2014-09-26 09:19:44 --> ......processed 1/12 words
+2014-09-26 09:19:44 --> ......processed 2/12 words
+2014-09-26 09:19:44 --> ......processed 3/12 words
+2014-09-26 09:19:44 --> ......processed 4/12 words
+2014-09-26 09:19:44 --> ......processed 5/12 words
+2014-09-26 09:19:44 --> ......processed 6/12 words
+2014-09-26 09:19:44 --> ......processed 7/12 words
+2014-09-26 09:19:44 --> ......processed 8/12 words
+2014-09-26 09:19:44 --> ......processed 9/12 words
+2014-09-26 09:19:44 --> ......processed 10/12 words
+2014-09-26 09:19:44 --> ......processed 11/12 words
+2014-09-26 09:19:44 --> ......processed 12/12 words
+2014-09-26 09:19:44 --> ...updating 12 words into idxPHRASE05F ended
+2014-09-26 09:19:44 --> ...updating reverse table idxPHRASE05R started
+2014-09-26 09:19:44 --> ...updating reverse table idxPHRASE05R ended
+2014-09-26 09:19:44 --> idxPHRASE05F normal wordtable flush ended
+2014-09-26 09:19:44 --> 7 records took 0.0 seconds to complete.(10541 recs/min)
+2014-09-26 09:19:44 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:19:44 --> idxPHRASE05F contains 12 words from 7 records
+2014-09-26 09:19:44 --> idxPHRASE05F is in consistent state
+2014-09-26 09:19:44 --> idxWORD06F contains 0 words from 0 records
+2014-09-26 09:19:44 --> idxWORD06F is in consistent state
+2014-09-26 09:19:44 --> idxWORD06F for 1-107 is in consistent state
+2014-09-26 09:19:44 --> idxWORD06F adding records #1-#107 started
+2014-09-26 09:19:45 --> idxWORD06F adding records #1-#107 ended  
+2014-09-26 09:19:45 --> idxWORD06F normal wordtable flush started
+2014-09-26 09:19:45 --> ...updating 7262 words into idxWORD06F started
+2014-09-26 09:19:45 --> ......processed 726/7262 words
+2014-09-26 09:19:45 --> ......processed 1452/7262 words
+2014-09-26 09:19:46 --> ......processed 2178/7262 words
+2014-09-26 09:19:46 --> ......processed 2904/7262 words
+2014-09-26 09:19:47 --> ......processed 3630/7262 words
+2014-09-26 09:19:47 --> ......processed 4356/7262 words
+2014-09-26 09:19:48 --> ......processed 5082/7262 words
+2014-09-26 09:19:48 --> ......processed 5808/7262 words
+2014-09-26 09:19:49 --> ......processed 6534/7262 words
+2014-09-26 09:19:49 --> ......processed 7260/7262 words
+2014-09-26 09:19:49 --> ...updating 7262 words into idxWORD06F ended
+2014-09-26 09:19:49 --> ...updating reverse table idxWORD06R started
+2014-09-26 09:19:49 --> ...updating reverse table idxWORD06R ended
+2014-09-26 09:19:49 --> idxWORD06F normal wordtable flush ended
+2014-09-26 09:19:49 --> 48 records took 5.1 seconds to complete.(570 recs/min)
+2014-09-26 09:19:49 --> Estimated runtime: 0.1 minutes
+2014-09-26 09:19:49 --> idxWORD06F contains 7262 words from 48 records
+2014-09-26 09:19:49 --> idxWORD06F is in consistent state
+2014-09-26 09:19:50 --> idxPAIR06F contains 0 words from 0 records
+2014-09-26 09:19:50 --> idxPAIR06F is in consistent state
+2014-09-26 09:19:50 --> idxPAIR06F for 1-107 is in consistent state
+2014-09-26 09:19:50 --> idxPAIR06F adding records #1-#107 started
+2014-09-26 09:19:50 --> idxPAIR06F adding records #1-#107 ended  
+2014-09-26 09:19:50 --> idxPAIR06F normal wordtable flush started
+2014-09-26 09:19:50 --> ...updating 12452 words into idxPAIR06F started
+2014-09-26 09:19:51 --> ......processed 1245/12452 words
+2014-09-26 09:19:51 --> ......processed 2490/12452 words
+2014-09-26 09:19:52 --> ......processed 3735/12452 words
+2014-09-26 09:19:53 --> ......processed 4980/12452 words
+2014-09-26 09:19:54 --> ......processed 6225/12452 words
+2014-09-26 09:19:55 --> ......processed 7470/12452 words
+2014-09-26 09:19:55 --> ......processed 8715/12452 words
+2014-09-26 09:19:56 --> ......processed 9960/12452 words
+2014-09-26 09:19:57 --> ......processed 11205/12452 words
+2014-09-26 09:19:58 --> ......processed 12450/12452 words
+2014-09-26 09:19:58 --> ...updating 12452 words into idxPAIR06F ended
+2014-09-26 09:19:58 --> ...updating reverse table idxPAIR06R started
+2014-09-26 09:19:58 --> ...updating reverse table idxPAIR06R ended
+2014-09-26 09:19:58 --> idxPAIR06F normal wordtable flush ended
+2014-09-26 09:19:58 --> 48 records took 8.5 seconds to complete.(340 recs/min)
+2014-09-26 09:19:58 --> Estimated runtime: 0.2 minutes
+2014-09-26 09:19:58 --> idxPAIR06F contains 12452 words from 48 records
+2014-09-26 09:19:58 --> idxPAIR06F is in consistent state
+2014-09-26 09:19:58 --> idxPHRASE06F contains 0 words from 0 records
+2014-09-26 09:19:58 --> idxPHRASE06F is in consistent state
+2014-09-26 09:19:58 --> idxPHRASE06F for 1-107 is in consistent state
+2014-09-26 09:19:58 --> idxPHRASE06F adding records #1-#107 started
+2014-09-26 09:19:58 --> idxPHRASE06F adding records #1-#107 ended  
+2014-09-26 09:19:58 --> idxPHRASE06F normal wordtable flush started
+2014-09-26 09:19:58 --> ...updating 4932 words into idxPHRASE06F started
+2014-09-26 09:19:58 --> ......processed 493/4932 words
+2014-09-26 09:19:59 --> ......processed 986/4932 words
+2014-09-26 09:19:59 --> ......processed 1479/4932 words
+2014-09-26 09:19:59 --> ......processed 1972/4932 words
+2014-09-26 09:19:59 --> ......processed 2465/4932 words
+2014-09-26 09:19:59 --> ......processed 2958/4932 words
+2014-09-26 09:20:00 --> ......processed 3451/4932 words
+2014-09-26 09:20:00 --> ......processed 3944/4932 words
+2014-09-26 09:20:00 --> ......processed 4437/4932 words
+2014-09-26 09:20:00 --> ......processed 4930/4932 words
+2014-09-26 09:20:00 --> ...updating 4932 words into idxPHRASE06F ended
+2014-09-26 09:20:00 --> ...updating reverse table idxPHRASE06R started
+2014-09-26 09:20:00 --> ...updating reverse table idxPHRASE06R ended
+2014-09-26 09:20:00 --> idxPHRASE06F normal wordtable flush ended
+2014-09-26 09:20:00 --> 48 records took 2.3 seconds to complete.(1256 recs/min)
+2014-09-26 09:20:00 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:00 --> idxPHRASE06F contains 4927 words from 48 records
+2014-09-26 09:20:00 --> idxPHRASE06F is in consistent state
+2014-09-26 09:20:00 --> idxWORD07F contains 0 words from 0 records
+2014-09-26 09:20:00 --> idxWORD07F is in consistent state
+2014-09-26 09:20:00 --> idxWORD07F for 1-107 is in consistent state
+2014-09-26 09:20:00 --> idxWORD07F adding records #1-#107 started
+2014-09-26 09:20:00 --> idxWORD07F adding records #1-#107 ended  
+2014-09-26 09:20:00 --> idxWORD07F normal wordtable flush started
+2014-09-26 09:20:00 --> ...updating 348 words into idxWORD07F started
+2014-09-26 09:20:00 --> ......processed 34/348 words
+2014-09-26 09:20:00 --> ......processed 68/348 words
+2014-09-26 09:20:01 --> ......processed 102/348 words
+2014-09-26 09:20:01 --> ......processed 136/348 words
+2014-09-26 09:20:01 --> ......processed 170/348 words
+2014-09-26 09:20:01 --> ......processed 204/348 words
+2014-09-26 09:20:01 --> ......processed 238/348 words
+2014-09-26 09:20:01 --> ......processed 272/348 words
+2014-09-26 09:20:01 --> ......processed 306/348 words
+2014-09-26 09:20:01 --> ......processed 340/348 words
+2014-09-26 09:20:01 --> ...updating 348 words into idxWORD07F ended
+2014-09-26 09:20:01 --> ...updating reverse table idxWORD07R started
+2014-09-26 09:20:01 --> ...updating reverse table idxWORD07R ended
+2014-09-26 09:20:01 --> idxWORD07F normal wordtable flush ended
+2014-09-26 09:20:01 --> 84 records took 0.3 seconds to complete.(15061 recs/min)
+2014-09-26 09:20:01 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:01 --> idxWORD07F contains 348 words from 84 records
+2014-09-26 09:20:01 --> idxWORD07F is in consistent state
+2014-09-26 09:20:01 --> idxPAIR07F contains 0 words from 0 records
+2014-09-26 09:20:01 --> idxPAIR07F is in consistent state
+2014-09-26 09:20:01 --> idxPAIR07F for 1-107 is in consistent state
+2014-09-26 09:20:01 --> idxPAIR07F adding records #1-#107 started
+2014-09-26 09:20:01 --> idxPAIR07F adding records #1-#107 ended  
+2014-09-26 09:20:01 --> idxPAIR07F normal wordtable flush started
+2014-09-26 09:20:01 --> ...updating 219 words into idxPAIR07F started
+2014-09-26 09:20:01 --> ......processed 21/219 words
+2014-09-26 09:20:01 --> ......processed 42/219 words
+2014-09-26 09:20:01 --> ......processed 63/219 words
+2014-09-26 09:20:01 --> ......processed 84/219 words
+2014-09-26 09:20:01 --> ......processed 105/219 words
+2014-09-26 09:20:01 --> ......processed 126/219 words
+2014-09-26 09:20:01 --> ......processed 147/219 words
+2014-09-26 09:20:01 --> ......processed 168/219 words
+2014-09-26 09:20:01 --> ......processed 189/219 words
+2014-09-26 09:20:01 --> ......processed 210/219 words
+2014-09-26 09:20:01 --> ...updating 219 words into idxPAIR07F ended
+2014-09-26 09:20:01 --> ...updating reverse table idxPAIR07R started
+2014-09-26 09:20:01 --> ...updating reverse table idxPAIR07R ended
+2014-09-26 09:20:01 --> idxPAIR07F normal wordtable flush ended
+2014-09-26 09:20:01 --> 84 records took 0.1 seconds to complete.(74182 recs/min)
+2014-09-26 09:20:01 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:01 --> idxPAIR07F contains 219 words from 84 records
+2014-09-26 09:20:01 --> idxPAIR07F is in consistent state
+2014-09-26 09:20:01 --> idxPHRASE07F contains 0 words from 0 records
+2014-09-26 09:20:01 --> idxPHRASE07F is in consistent state
+2014-09-26 09:20:01 --> idxPHRASE07F for 1-107 is in consistent state
+2014-09-26 09:20:01 --> idxPHRASE07F adding records #1-#107 started
+2014-09-26 09:20:01 --> idxPHRASE07F adding records #1-#107 ended  
+2014-09-26 09:20:01 --> idxPHRASE07F normal wordtable flush started
+2014-09-26 09:20:01 --> ...updating 129 words into idxPHRASE07F started
+2014-09-26 09:20:01 --> ......processed 12/129 words
+2014-09-26 09:20:01 --> ......processed 24/129 words
+2014-09-26 09:20:01 --> ......processed 36/129 words
+2014-09-26 09:20:01 --> ......processed 48/129 words
+2014-09-26 09:20:01 --> ......processed 60/129 words
+2014-09-26 09:20:01 --> ......processed 72/129 words
+2014-09-26 09:20:01 --> ......processed 84/129 words
+2014-09-26 09:20:01 --> ......processed 96/129 words
+2014-09-26 09:20:01 --> ......processed 108/129 words
+2014-09-26 09:20:01 --> ......processed 120/129 words
+2014-09-26 09:20:01 --> ...updating 129 words into idxPHRASE07F ended
+2014-09-26 09:20:01 --> ...updating reverse table idxPHRASE07R started
+2014-09-26 09:20:01 --> ...updating reverse table idxPHRASE07R ended
+2014-09-26 09:20:01 --> idxPHRASE07F normal wordtable flush ended
+2014-09-26 09:20:01 --> 84 records took 0.1 seconds to complete.(74297 recs/min)
+2014-09-26 09:20:01 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:01 --> idxPHRASE07F contains 129 words from 84 records
+2014-09-26 09:20:01 --> idxPHRASE07F is in consistent state
+2014-09-26 09:20:01 --> idxWORD08F has stemming enabled, language en
+2014-09-26 09:20:01 --> idxWORD08F contains 0 words from 0 records
+2014-09-26 09:20:01 --> idxWORD08F is in consistent state
+2014-09-26 09:20:01 --> idxWORD08F for 1-107 is in consistent state
+2014-09-26 09:20:01 --> idxWORD08F adding records #1-#107 started
+2014-09-26 09:20:01 --> idxWORD08F adding records #1-#107 ended  
+2014-09-26 09:20:01 --> idxWORD08F normal wordtable flush started
+2014-09-26 09:20:01 --> ...updating 610 words into idxWORD08F started
+2014-09-26 09:20:01 --> ......processed 61/610 words
+2014-09-26 09:20:01 --> ......processed 122/610 words
+2014-09-26 09:20:01 --> ......processed 183/610 words
+2014-09-26 09:20:01 --> ......processed 244/610 words
+2014-09-26 09:20:01 --> ......processed 305/610 words
+2014-09-26 09:20:01 --> ......processed 366/610 words
+2014-09-26 09:20:01 --> ......processed 427/610 words
+2014-09-26 09:20:01 --> ......processed 488/610 words
+2014-09-26 09:20:01 --> ......processed 549/610 words
+2014-09-26 09:20:01 --> ......processed 610/610 words
+2014-09-26 09:20:01 --> ...updating 610 words into idxWORD08F ended
+2014-09-26 09:20:01 --> ...updating reverse table idxWORD08R started
+2014-09-26 09:20:01 --> ...updating reverse table idxWORD08R ended
+2014-09-26 09:20:01 --> idxWORD08F normal wordtable flush ended
+2014-09-26 09:20:01 --> 107 records took 0.5 seconds to complete.(13125 recs/min)
+2014-09-26 09:20:01 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:01 --> idxWORD08F contains 610 words from 107 records
+2014-09-26 09:20:01 --> idxWORD08F is in consistent state
+2014-09-26 09:20:01 --> idxPAIR08F contains 0 words from 0 records
+2014-09-26 09:20:01 --> idxPAIR08F is in consistent state
+2014-09-26 09:20:01 --> idxPAIR08F for 1-107 is in consistent state
+2014-09-26 09:20:01 --> idxPAIR08F adding records #1-#107 started
+2014-09-26 09:20:01 --> idxPAIR08F adding records #1-#107 ended  
+2014-09-26 09:20:01 --> idxPAIR08F normal wordtable flush started
+2014-09-26 09:20:01 --> ...updating 770 words into idxPAIR08F started
+2014-09-26 09:20:01 --> ......processed 77/770 words
+2014-09-26 09:20:01 --> ......processed 154/770 words
+2014-09-26 09:20:01 --> ......processed 231/770 words
+2014-09-26 09:20:01 --> ......processed 308/770 words
+2014-09-26 09:20:02 --> ......processed 385/770 words
+2014-09-26 09:20:02 --> ......processed 462/770 words
+2014-09-26 09:20:02 --> ......processed 539/770 words
+2014-09-26 09:20:02 --> ......processed 616/770 words
+2014-09-26 09:20:02 --> ......processed 693/770 words
+2014-09-26 09:20:02 --> ......processed 770/770 words
+2014-09-26 09:20:02 --> ...updating 770 words into idxPAIR08F ended
+2014-09-26 09:20:02 --> ...updating reverse table idxPAIR08R started
+2014-09-26 09:20:02 --> ...updating reverse table idxPAIR08R ended
+2014-09-26 09:20:02 --> idxPAIR08F normal wordtable flush ended
+2014-09-26 09:20:02 --> 107 records took 0.4 seconds to complete.(17946 recs/min)
+2014-09-26 09:20:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:02 --> idxPAIR08F contains 770 words from 107 records
+2014-09-26 09:20:02 --> idxPAIR08F is in consistent state
+2014-09-26 09:20:02 --> idxPHRASE08F contains 0 words from 0 records
+2014-09-26 09:20:02 --> idxPHRASE08F is in consistent state
+2014-09-26 09:20:02 --> idxPHRASE08F for 1-107 is in consistent state
+2014-09-26 09:20:02 --> idxPHRASE08F adding records #1-#107 started
+2014-09-26 09:20:02 --> idxPHRASE08F adding records #1-#107 ended  
+2014-09-26 09:20:02 --> idxPHRASE08F normal wordtable flush started
+2014-09-26 09:20:02 --> ...updating 122 words into idxPHRASE08F started
+2014-09-26 09:20:02 --> ......processed 12/122 words
+2014-09-26 09:20:02 --> ......processed 24/122 words
+2014-09-26 09:20:02 --> ......processed 36/122 words
+2014-09-26 09:20:02 --> ......processed 48/122 words
+2014-09-26 09:20:02 --> ......processed 60/122 words
+2014-09-26 09:20:02 --> ......processed 72/122 words
+2014-09-26 09:20:02 --> ......processed 84/122 words
+2014-09-26 09:20:02 --> ......processed 96/122 words
+2014-09-26 09:20:02 --> ......processed 108/122 words
+2014-09-26 09:20:02 --> ......processed 120/122 words
+2014-09-26 09:20:02 --> ...updating 122 words into idxPHRASE08F ended
+2014-09-26 09:20:02 --> ...updating reverse table idxPHRASE08R started
+2014-09-26 09:20:02 --> ...updating reverse table idxPHRASE08R ended
+2014-09-26 09:20:02 --> idxPHRASE08F normal wordtable flush ended
+2014-09-26 09:20:02 --> 107 records took 0.2 seconds to complete.(32592 recs/min)
+2014-09-26 09:20:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:02 --> idxPHRASE08F contains 122 words from 107 records
+2014-09-26 09:20:02 --> idxPHRASE08F is in consistent state
+2014-09-26 09:20:02 --> idxWORD10F contains 0 words from 0 records
+2014-09-26 09:20:02 --> idxWORD10F is in consistent state
+2014-09-26 09:20:02 --> idxWORD10F for 1-107 is in consistent state
+2014-09-26 09:20:02 --> idxWORD10F adding records #1-#107 started
+2014-09-26 09:20:02 --> idxWORD10F adding records #1-#107 ended  
+2014-09-26 09:20:02 --> idxWORD10F normal wordtable flush started
+2014-09-26 09:20:02 --> ...updating 30 words into idxWORD10F started
+2014-09-26 09:20:02 --> ......processed 3/30 words
+2014-09-26 09:20:02 --> ......processed 6/30 words
+2014-09-26 09:20:02 --> ......processed 9/30 words
+2014-09-26 09:20:02 --> ......processed 12/30 words
+2014-09-26 09:20:02 --> ......processed 15/30 words
+2014-09-26 09:20:02 --> ......processed 18/30 words
+2014-09-26 09:20:02 --> ......processed 21/30 words
+2014-09-26 09:20:02 --> ......processed 24/30 words
+2014-09-26 09:20:02 --> ......processed 27/30 words
+2014-09-26 09:20:02 --> ......processed 30/30 words
+2014-09-26 09:20:02 --> ...updating 30 words into idxWORD10F ended
+2014-09-26 09:20:02 --> ...updating reverse table idxWORD10R started
+2014-09-26 09:20:02 --> ...updating reverse table idxWORD10R ended
+2014-09-26 09:20:02 --> idxWORD10F normal wordtable flush ended
+2014-09-26 09:20:02 --> 78 records took 0.1 seconds to complete.(34489 recs/min)
+2014-09-26 09:20:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:02 --> idxWORD10F contains 30 words from 78 records
+2014-09-26 09:20:02 --> idxWORD10F is in consistent state
+2014-09-26 09:20:02 --> idxPAIR10F contains 0 words from 0 records
+2014-09-26 09:20:02 --> idxPAIR10F is in consistent state
+2014-09-26 09:20:02 --> idxPAIR10F for 1-107 is in consistent state
+2014-09-26 09:20:02 --> idxPAIR10F adding records #1-#107 started
+2014-09-26 09:20:02 --> idxPAIR10F adding records #1-#107 ended  
+2014-09-26 09:20:02 --> idxPAIR10F normal wordtable flush started
+2014-09-26 09:20:02 --> ...updating 1 words into idxPAIR10F started
+2014-09-26 09:20:02 --> ...updating 1 words into idxPAIR10F ended
+2014-09-26 09:20:02 --> ...updating reverse table idxPAIR10R started
+2014-09-26 09:20:02 --> ...updating reverse table idxPAIR10R ended
+2014-09-26 09:20:02 --> idxPAIR10F normal wordtable flush ended
+2014-09-26 09:20:02 --> 78 records took 0.1 seconds to complete.(57023 recs/min)
+2014-09-26 09:20:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:02 --> idxPAIR10F contains 1 words from 78 records
+2014-09-26 09:20:02 --> idxPAIR10F is in consistent state
+2014-09-26 09:20:02 --> idxPHRASE10F contains 0 words from 0 records
+2014-09-26 09:20:02 --> idxPHRASE10F is in consistent state
+2014-09-26 09:20:02 --> idxPHRASE10F for 1-107 is in consistent state
+2014-09-26 09:20:02 --> idxPHRASE10F adding records #1-#107 started
+2014-09-26 09:20:02 --> idxPHRASE10F adding records #1-#107 ended  
+2014-09-26 09:20:02 --> idxPHRASE10F normal wordtable flush started
+2014-09-26 09:20:02 --> ...updating 28 words into idxPHRASE10F started
+2014-09-26 09:20:02 --> ......processed 2/28 words
+2014-09-26 09:20:02 --> ......processed 4/28 words
+2014-09-26 09:20:02 --> ......processed 6/28 words
+2014-09-26 09:20:02 --> ......processed 8/28 words
+2014-09-26 09:20:02 --> ......processed 10/28 words
+2014-09-26 09:20:02 --> ......processed 12/28 words
+2014-09-26 09:20:02 --> ......processed 14/28 words
+2014-09-26 09:20:02 --> ......processed 16/28 words
+2014-09-26 09:20:02 --> ......processed 18/28 words
+2014-09-26 09:20:02 --> ......processed 20/28 words
+2014-09-26 09:20:02 --> ......processed 22/28 words
+2014-09-26 09:20:02 --> ......processed 24/28 words
+2014-09-26 09:20:02 --> ......processed 26/28 words
+2014-09-26 09:20:02 --> ......processed 28/28 words
+2014-09-26 09:20:02 --> ...updating 28 words into idxPHRASE10F ended
+2014-09-26 09:20:02 --> ...updating reverse table idxPHRASE10R started
+2014-09-26 09:20:02 --> ...updating reverse table idxPHRASE10R ended
+2014-09-26 09:20:02 --> idxPHRASE10F normal wordtable flush ended
+2014-09-26 09:20:02 --> 78 records took 0.1 seconds to complete.(38186 recs/min)
+2014-09-26 09:20:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:20:02 --> idxPHRASE10F contains 28 words from 78 records
+2014-09-26 09:20:02 --> idxPHRASE10F is in consistent state
+2014-09-26 09:20:02 --> Task #2 finished. [DONE]
+2014-09-26 10:31:00 --> Task #2 started.
+2014-09-26 10:31:00 --> bibsort starting..
+2014-09-26 10:31:00 --> Reading config data from: /opt/invenio/etc/bibsort/bibsort.cfg
+2014-09-26 10:31:00 --> bibsort exiting..
+2014-09-26 10:31:00 --> Task #2 finished. [DONE]
+2014-09-26 10:36:53 --> Task #2 started.
+2014-09-26 10:36:53 --> idxWORD03F has stemming enabled, language en
+2014-09-26 10:36:53 --> idxWORD03F contains 0 words from 0 records
+2014-09-26 10:36:53 --> idxWORD03F is in consistent state
+2014-09-26 10:36:53 --> idxWORD03F for 1-107 is in consistent state
+2014-09-26 10:36:53 --> idxWORD03F adding records #1-#107 started
+2014-09-26 10:36:53 --> idxWORD03F adding records #1-#107 ended  
+2014-09-26 10:36:53 --> idxWORD03F normal wordtable flush started
+2014-09-26 10:36:53 --> ...updating 3326 words into idxWORD03F started
+2014-09-26 10:36:53 --> ......processed 332/3326 words
+2014-09-26 10:36:54 --> ......processed 664/3326 words
+2014-09-26 10:36:54 --> ......processed 996/3326 words
+2014-09-26 10:36:54 --> ......processed 1328/3326 words
+2014-09-26 10:36:54 --> ......processed 1660/3326 words
+2014-09-26 10:36:55 --> ......processed 1992/3326 words
+2014-09-26 10:36:55 --> ......processed 2324/3326 words
+2014-09-26 10:36:55 --> ......processed 2656/3326 words
+2014-09-26 10:36:55 --> ......processed 2988/3326 words
+2014-09-26 10:36:56 --> ......processed 3320/3326 words
+2014-09-26 10:36:56 --> ...updating 3326 words into idxWORD03F ended
+2014-09-26 10:36:56 --> ...updating reverse table idxWORD03R started
+2014-09-26 10:36:56 --> ...updating reverse table idxWORD03R ended
+2014-09-26 10:36:56 --> idxWORD03F normal wordtable flush ended
+2014-09-26 10:36:56 --> 69 records took 2.5 seconds to complete.(1686 recs/min)
+2014-09-26 10:36:56 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:36:56 --> idxWORD03F contains 3325 words from 69 records
+2014-09-26 10:36:56 --> idxWORD03F is in consistent state
+2014-09-26 10:36:56 --> idxPAIR03F contains 0 words from 0 records
+2014-09-26 10:36:56 --> idxPAIR03F is in consistent state
+2014-09-26 10:36:56 --> idxPAIR03F for 1-107 is in consistent state
+2014-09-26 10:36:56 --> idxPAIR03F adding records #1-#107 started
+2014-09-26 10:36:56 --> idxPAIR03F adding records #1-#107 ended  
+2014-09-26 10:36:56 --> idxPAIR03F normal wordtable flush started
+2014-09-26 10:36:56 --> ...updating 8962 words into idxPAIR03F started
+2014-09-26 10:36:56 --> ......processed 896/8962 words
+2014-09-26 10:36:57 --> ......processed 1792/8962 words
+2014-09-26 10:36:58 --> ......processed 2688/8962 words
+2014-09-26 10:36:58 --> ......processed 3584/8962 words
+2014-09-26 10:36:59 --> ......processed 4480/8962 words
+2014-09-26 10:36:59 --> ......processed 5376/8962 words
+2014-09-26 10:37:00 --> ......processed 6272/8962 words
+2014-09-26 10:37:01 --> ......processed 7168/8962 words
+2014-09-26 10:37:01 --> ......processed 8064/8962 words
+2014-09-26 10:37:02 --> ......processed 8960/8962 words
+2014-09-26 10:37:02 --> ...updating 8962 words into idxPAIR03F ended
+2014-09-26 10:37:02 --> ...updating reverse table idxPAIR03R started
+2014-09-26 10:37:02 --> ...updating reverse table idxPAIR03R ended
+2014-09-26 10:37:02 --> idxPAIR03F normal wordtable flush ended
+2014-09-26 10:37:02 --> 69 records took 6.2 seconds to complete.(665 recs/min)
+2014-09-26 10:37:02 --> Estimated runtime: 0.1 minutes
+2014-09-26 10:37:02 --> idxPAIR03F contains 8962 words from 69 records
+2014-09-26 10:37:02 --> idxPAIR03F is in consistent state
+2014-09-26 10:37:02 --> idxPHRASE03F contains 0 words from 0 records
+2014-09-26 10:37:02 --> idxPHRASE03F is in consistent state
+2014-09-26 10:37:02 --> idxPHRASE03F for 1-107 is in consistent state
+2014-09-26 10:37:02 --> idxPHRASE03F adding records #1-#107 started
+2014-09-26 10:37:02 --> idxPHRASE03F adding records #1-#107 ended  
+2014-09-26 10:37:02 --> idxPHRASE03F normal wordtable flush started
+2014-09-26 10:37:02 --> ...updating 70 words into idxPHRASE03F started
+2014-09-26 10:37:02 --> ......processed 7/70 words
+2014-09-26 10:37:02 --> ......processed 14/70 words
+2014-09-26 10:37:02 --> ......processed 21/70 words
+2014-09-26 10:37:02 --> ......processed 28/70 words
+2014-09-26 10:37:02 --> ......processed 35/70 words
+2014-09-26 10:37:02 --> ......processed 42/70 words
+2014-09-26 10:37:02 --> ......processed 49/70 words
+2014-09-26 10:37:02 --> ......processed 56/70 words
+2014-09-26 10:37:02 --> ......processed 63/70 words
+2014-09-26 10:37:02 --> ......processed 70/70 words
+2014-09-26 10:37:02 --> ...updating 70 words into idxPHRASE03F ended
+2014-09-26 10:37:02 --> ...updating reverse table idxPHRASE03R started
+2014-09-26 10:37:02 --> ...updating reverse table idxPHRASE03R ended
+2014-09-26 10:37:02 --> idxPHRASE03F normal wordtable flush ended
+2014-09-26 10:37:02 --> 69 records took 0.2 seconds to complete.(19550 recs/min)
+2014-09-26 10:37:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:02 --> idxPHRASE03F contains 70 words from 69 records
+2014-09-26 10:37:02 --> idxPHRASE03F is in consistent state
+2014-09-26 10:37:02 --> idxWORD13F contains 0 words from 0 records
+2014-09-26 10:37:02 --> idxWORD13F is in consistent state
+2014-09-26 10:37:02 --> idxWORD13F for 1-107 is in consistent state
+2014-09-26 10:37:02 --> idxWORD13F adding records #1-#107 started
+2014-09-26 10:37:02 --> idxWORD13F adding records #1-#107 ended  
+2014-09-26 10:37:02 --> idxWORD13F normal wordtable flush started
+2014-09-26 10:37:02 --> ...updating 106 words into idxWORD13F started
+2014-09-26 10:37:02 --> ......processed 10/106 words
+2014-09-26 10:37:02 --> ......processed 20/106 words
+2014-09-26 10:37:02 --> ......processed 30/106 words
+2014-09-26 10:37:02 --> ......processed 40/106 words
+2014-09-26 10:37:02 --> ......processed 50/106 words
+2014-09-26 10:37:02 --> ......processed 60/106 words
+2014-09-26 10:37:02 --> ......processed 70/106 words
+2014-09-26 10:37:02 --> ......processed 80/106 words
+2014-09-26 10:37:02 --> ......processed 90/106 words
+2014-09-26 10:37:02 --> ......processed 100/106 words
+2014-09-26 10:37:02 --> ...updating 106 words into idxWORD13F ended
+2014-09-26 10:37:02 --> ...updating reverse table idxWORD13R started
+2014-09-26 10:37:02 --> ...updating reverse table idxWORD13R ended
+2014-09-26 10:37:02 --> idxWORD13F normal wordtable flush ended
+2014-09-26 10:37:02 --> 76 records took 0.2 seconds to complete.(21364 recs/min)
+2014-09-26 10:37:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:02 --> idxWORD13F contains 106 words from 76 records
+2014-09-26 10:37:02 --> idxWORD13F is in consistent state
+2014-09-26 10:37:02 --> idxPAIR13F contains 0 words from 0 records
+2014-09-26 10:37:02 --> idxPAIR13F is in consistent state
+2014-09-26 10:37:02 --> idxPAIR13F for 1-107 is in consistent state
+2014-09-26 10:37:02 --> idxPAIR13F adding records #1-#107 started
+2014-09-26 10:37:02 --> idxPAIR13F adding records #1-#107 ended  
+2014-09-26 10:37:02 --> idxPAIR13F normal wordtable flush started
+2014-09-26 10:37:02 --> ...updating 101 words into idxPAIR13F started
+2014-09-26 10:37:02 --> ......processed 10/101 words
+2014-09-26 10:37:02 --> ......processed 20/101 words
+2014-09-26 10:37:02 --> ......processed 30/101 words
+2014-09-26 10:37:02 --> ......processed 40/101 words
+2014-09-26 10:37:02 --> ......processed 50/101 words
+2014-09-26 10:37:02 --> ......processed 60/101 words
+2014-09-26 10:37:02 --> ......processed 70/101 words
+2014-09-26 10:37:02 --> ......processed 80/101 words
+2014-09-26 10:37:02 --> ......processed 90/101 words
+2014-09-26 10:37:02 --> ......processed 100/101 words
+2014-09-26 10:37:02 --> ...updating 101 words into idxPAIR13F ended
+2014-09-26 10:37:02 --> ...updating reverse table idxPAIR13R started
+2014-09-26 10:37:02 --> ...updating reverse table idxPAIR13R ended
+2014-09-26 10:37:02 --> idxPAIR13F normal wordtable flush ended
+2014-09-26 10:37:02 --> 76 records took 0.1 seconds to complete.(53324 recs/min)
+2014-09-26 10:37:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:02 --> idxPAIR13F contains 101 words from 76 records
+2014-09-26 10:37:02 --> idxPAIR13F is in consistent state
+2014-09-26 10:37:02 --> idxPHRASE13F contains 0 words from 0 records
+2014-09-26 10:37:02 --> idxPHRASE13F is in consistent state
+2014-09-26 10:37:02 --> idxPHRASE13F for 1-107 is in consistent state
+2014-09-26 10:37:02 --> idxPHRASE13F adding records #1-#107 started
+2014-09-26 10:37:02 --> idxPHRASE13F adding records #1-#107 ended  
+2014-09-26 10:37:02 --> idxPHRASE13F normal wordtable flush started
+2014-09-26 10:37:02 --> ...updating 61 words into idxPHRASE13F started
+2014-09-26 10:37:02 --> ......processed 6/61 words
+2014-09-26 10:37:02 --> ......processed 12/61 words
+2014-09-26 10:37:02 --> ......processed 18/61 words
+2014-09-26 10:37:02 --> ......processed 24/61 words
+2014-09-26 10:37:02 --> ......processed 30/61 words
+2014-09-26 10:37:02 --> ......processed 36/61 words
+2014-09-26 10:37:02 --> ......processed 42/61 words
+2014-09-26 10:37:02 --> ......processed 48/61 words
+2014-09-26 10:37:03 --> ......processed 54/61 words
+2014-09-26 10:37:03 --> ......processed 60/61 words
+2014-09-26 10:37:03 --> ...updating 61 words into idxPHRASE13F ended
+2014-09-26 10:37:03 --> ...updating reverse table idxPHRASE13R started
+2014-09-26 10:37:03 --> ...updating reverse table idxPHRASE13R ended
+2014-09-26 10:37:03 --> idxPHRASE13F normal wordtable flush ended
+2014-09-26 10:37:03 --> 76 records took 0.2 seconds to complete.(28867 recs/min)
+2014-09-26 10:37:03 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:03 --> idxPHRASE13F contains 61 words from 76 records
+2014-09-26 10:37:03 --> idxPHRASE13F is in consistent state
+2014-09-26 10:37:03 --> idxWORD04F contains 0 words from 0 records
+2014-09-26 10:37:03 --> idxWORD04F is in consistent state
+2014-09-26 10:37:03 --> idxWORD04F for 1-107 is in consistent state
+2014-09-26 10:37:03 --> idxWORD04F adding records #1-#107 started
+2014-09-26 10:37:03 --> idxWORD04F adding records #1-#107 ended  
+2014-09-26 10:37:03 --> idxWORD04F normal wordtable flush started
+2014-09-26 10:37:03 --> ...updating 663 words into idxWORD04F started
+2014-09-26 10:37:03 --> ......processed 66/663 words
+2014-09-26 10:37:03 --> ......processed 132/663 words
+2014-09-26 10:37:03 --> ......processed 198/663 words
+2014-09-26 10:37:03 --> ......processed 264/663 words
+2014-09-26 10:37:03 --> ......processed 330/663 words
+2014-09-26 10:37:03 --> ......processed 396/663 words
+2014-09-26 10:37:03 --> ......processed 462/663 words
+2014-09-26 10:37:03 --> ......processed 528/663 words
+2014-09-26 10:37:03 --> ......processed 594/663 words
+2014-09-26 10:37:03 --> ......processed 660/663 words
+2014-09-26 10:37:03 --> ...updating 663 words into idxWORD04F ended
+2014-09-26 10:37:03 --> ...updating reverse table idxWORD04R started
+2014-09-26 10:37:03 --> ...updating reverse table idxWORD04R ended
+2014-09-26 10:37:03 --> idxWORD04F normal wordtable flush ended
+2014-09-26 10:37:03 --> 107 records took 0.6 seconds to complete.(11582 recs/min)
+2014-09-26 10:37:03 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:03 --> No new records added by author canonical IDs. idxWORD04F is up to date
+2014-09-26 10:37:03 --> idxWORD04F contains 663 words from 107 records
+2014-09-26 10:37:03 --> idxWORD04F is in consistent state
+2014-09-26 10:37:03 --> idxPAIR04F contains 0 words from 0 records
+2014-09-26 10:37:03 --> idxPAIR04F is in consistent state
+2014-09-26 10:37:03 --> idxPAIR04F for 1-107 is in consistent state
+2014-09-26 10:37:03 --> idxPAIR04F adding records #1-#107 started
+2014-09-26 10:37:03 --> idxPAIR04F adding records #1-#107 ended  
+2014-09-26 10:37:03 --> idxPAIR04F normal wordtable flush started
+2014-09-26 10:37:03 --> ...updating 761 words into idxPAIR04F started
+2014-09-26 10:37:03 --> ......processed 76/761 words
+2014-09-26 10:37:03 --> ......processed 152/761 words
+2014-09-26 10:37:03 --> ......processed 228/761 words
+2014-09-26 10:37:03 --> ......processed 304/761 words
+2014-09-26 10:37:03 --> ......processed 380/761 words
+2014-09-26 10:37:03 --> ......processed 456/761 words
+2014-09-26 10:37:03 --> ......processed 532/761 words
+2014-09-26 10:37:03 --> ......processed 608/761 words
+2014-09-26 10:37:03 --> ......processed 684/761 words
+2014-09-26 10:37:04 --> ......processed 760/761 words
+2014-09-26 10:37:04 --> ...updating 761 words into idxPAIR04F ended
+2014-09-26 10:37:04 --> ...updating reverse table idxPAIR04R started
+2014-09-26 10:37:04 --> ...updating reverse table idxPAIR04R ended
+2014-09-26 10:37:04 --> idxPAIR04F normal wordtable flush ended
+2014-09-26 10:37:04 --> 107 records took 0.5 seconds to complete.(13258 recs/min)
+2014-09-26 10:37:04 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:04 --> No new records added by author canonical IDs. idxPAIR04F is up to date
+2014-09-26 10:37:04 --> idxPAIR04F contains 761 words from 107 records
+2014-09-26 10:37:04 --> idxPAIR04F is in consistent state
+2014-09-26 10:37:04 --> idxPHRASE04F contains 0 words from 0 records
+2014-09-26 10:37:04 --> idxPHRASE04F is in consistent state
+2014-09-26 10:37:04 --> idxPHRASE04F for 1-107 is in consistent state
+2014-09-26 10:37:04 --> idxPHRASE04F adding records #1-#107 started
+2014-09-26 10:37:04 --> idxPHRASE04F adding records #1-#107 ended  
+2014-09-26 10:37:04 --> idxPHRASE04F normal wordtable flush started
+2014-09-26 10:37:04 --> ...updating 2076 words into idxPHRASE04F started
+2014-09-26 10:37:04 --> ......processed 207/2076 words
+2014-09-26 10:37:04 --> ......processed 414/2076 words
+2014-09-26 10:37:04 --> ......processed 621/2076 words
+2014-09-26 10:37:04 --> ......processed 828/2076 words
+2014-09-26 10:37:04 --> ......processed 1035/2076 words
+2014-09-26 10:37:04 --> ......processed 1242/2076 words
+2014-09-26 10:37:05 --> ......processed 1449/2076 words
+2014-09-26 10:37:05 --> ......processed 1656/2076 words
+2014-09-26 10:37:05 --> ......processed 1863/2076 words
+2014-09-26 10:37:05 --> ......processed 2070/2076 words
+2014-09-26 10:37:05 --> ...updating 2076 words into idxPHRASE04F ended
+2014-09-26 10:37:05 --> ...updating reverse table idxPHRASE04R started
+2014-09-26 10:37:05 --> ...updating reverse table idxPHRASE04R ended
+2014-09-26 10:37:05 --> idxPHRASE04F normal wordtable flush ended
+2014-09-26 10:37:05 --> 107 records took 1.6 seconds to complete.(3944 recs/min)
+2014-09-26 10:37:05 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:05 --> No new records added by author canonical IDs. idxPHRASE04F is up to date
+2014-09-26 10:37:05 --> idxPHRASE04F contains 2075 words from 107 records
+2014-09-26 10:37:05 --> idxPHRASE04F is in consistent state
+2014-09-26 10:37:05 --> idxWORD18F contains 0 words from 0 records
+2014-09-26 10:37:05 --> idxWORD18F is in consistent state
+2014-09-26 10:37:05 --> idxWORD18F for 1-107 is in consistent state
+2014-09-26 10:37:05 --> idxWORD18F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxWORD18F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxWORD18F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 12 words into idxWORD18F started
+2014-09-26 10:37:06 --> ......processed 1/12 words
+2014-09-26 10:37:06 --> ......processed 2/12 words
+2014-09-26 10:37:06 --> ......processed 3/12 words
+2014-09-26 10:37:06 --> ......processed 4/12 words
+2014-09-26 10:37:06 --> ......processed 5/12 words
+2014-09-26 10:37:06 --> ......processed 6/12 words
+2014-09-26 10:37:06 --> ......processed 7/12 words
+2014-09-26 10:37:06 --> ......processed 8/12 words
+2014-09-26 10:37:06 --> ......processed 9/12 words
+2014-09-26 10:37:06 --> ......processed 10/12 words
+2014-09-26 10:37:06 --> ......processed 11/12 words
+2014-09-26 10:37:06 --> ......processed 12/12 words
+2014-09-26 10:37:06 --> ...updating 12 words into idxWORD18F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxWORD18R started
+2014-09-26 10:37:06 --> ...updating reverse table idxWORD18R ended
+2014-09-26 10:37:06 --> idxWORD18F normal wordtable flush ended
+2014-09-26 10:37:06 --> 107 records took 0.4 seconds to complete.(15977 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxWORD18F contains 12 words from 107 records
+2014-09-26 10:37:06 --> idxWORD18F is in consistent state
+2014-09-26 10:37:06 --> idxPAIR18F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxPAIR18F is in consistent state
+2014-09-26 10:37:06 --> idxPAIR18F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxPAIR18F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxPAIR18F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxPAIR18F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 12 words into idxPAIR18F started
+2014-09-26 10:37:06 --> ......processed 1/12 words
+2014-09-26 10:37:06 --> ......processed 2/12 words
+2014-09-26 10:37:06 --> ......processed 3/12 words
+2014-09-26 10:37:06 --> ......processed 4/12 words
+2014-09-26 10:37:06 --> ......processed 5/12 words
+2014-09-26 10:37:06 --> ......processed 6/12 words
+2014-09-26 10:37:06 --> ......processed 7/12 words
+2014-09-26 10:37:06 --> ......processed 8/12 words
+2014-09-26 10:37:06 --> ......processed 9/12 words
+2014-09-26 10:37:06 --> ......processed 10/12 words
+2014-09-26 10:37:06 --> ......processed 11/12 words
+2014-09-26 10:37:06 --> ......processed 12/12 words
+2014-09-26 10:37:06 --> ...updating 12 words into idxPAIR18F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxPAIR18R started
+2014-09-26 10:37:06 --> ...updating reverse table idxPAIR18R ended
+2014-09-26 10:37:06 --> idxPAIR18F normal wordtable flush ended
+2014-09-26 10:37:06 --> 107 records took 0.2 seconds to complete.(33813 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxPAIR18F contains 12 words from 107 records
+2014-09-26 10:37:06 --> idxPAIR18F is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE18F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxPHRASE18F is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE18F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE18F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxPHRASE18F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxPHRASE18F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 12 words into idxPHRASE18F started
+2014-09-26 10:37:06 --> ......processed 1/12 words
+2014-09-26 10:37:06 --> ......processed 2/12 words
+2014-09-26 10:37:06 --> ......processed 3/12 words
+2014-09-26 10:37:06 --> ......processed 4/12 words
+2014-09-26 10:37:06 --> ......processed 5/12 words
+2014-09-26 10:37:06 --> ......processed 6/12 words
+2014-09-26 10:37:06 --> ......processed 7/12 words
+2014-09-26 10:37:06 --> ......processed 8/12 words
+2014-09-26 10:37:06 --> ......processed 9/12 words
+2014-09-26 10:37:06 --> ......processed 10/12 words
+2014-09-26 10:37:06 --> ......processed 11/12 words
+2014-09-26 10:37:06 --> ......processed 12/12 words
+2014-09-26 10:37:06 --> ...updating 12 words into idxPHRASE18F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxPHRASE18R started
+2014-09-26 10:37:06 --> ...updating reverse table idxPHRASE18R ended
+2014-09-26 10:37:06 --> idxPHRASE18F normal wordtable flush ended
+2014-09-26 10:37:06 --> 107 records took 0.2 seconds to complete.(38190 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxPHRASE18F contains 12 words from 107 records
+2014-09-26 10:37:06 --> idxPHRASE18F is in consistent state
+2014-09-26 10:37:06 --> idxWORD15F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxWORD15F is in consistent state
+2014-09-26 10:37:06 --> idxWORD15F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxWORD15F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxWORD15F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxWORD15F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 3 words into idxWORD15F started
+2014-09-26 10:37:06 --> ...updating 3 words into idxWORD15F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxWORD15R started
+2014-09-26 10:37:06 --> ...updating reverse table idxWORD15R ended
+2014-09-26 10:37:06 --> idxWORD15F normal wordtable flush ended
+2014-09-26 10:37:06 --> 1 records took 0.0 seconds to complete.(3424 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxWORD15F contains 3 words from 1 records
+2014-09-26 10:37:06 --> idxWORD15F is in consistent state
+2014-09-26 10:37:06 --> idxPAIR15F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxPAIR15F is in consistent state
+2014-09-26 10:37:06 --> idxPAIR15F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxPAIR15F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxPAIR15F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxPAIR15F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 0 words into idxPAIR15F started
+2014-09-26 10:37:06 --> ...updating 0 words into idxPAIR15F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxPAIR15R started
+2014-09-26 10:37:06 --> ...updating reverse table idxPAIR15R ended
+2014-09-26 10:37:06 --> idxPAIR15F normal wordtable flush ended
+2014-09-26 10:37:06 --> 1 records took 0.0 seconds to complete.(5734 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxPAIR15F contains 0 words from 1 records
+2014-09-26 10:37:06 --> idxPAIR15F is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE15F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxPHRASE15F is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE15F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE15F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxPHRASE15F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxPHRASE15F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 3 words into idxPHRASE15F started
+2014-09-26 10:37:06 --> ...updating 3 words into idxPHRASE15F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxPHRASE15R started
+2014-09-26 10:37:06 --> ...updating reverse table idxPHRASE15R ended
+2014-09-26 10:37:06 --> idxPHRASE15F normal wordtable flush ended
+2014-09-26 10:37:06 --> 1 records took 0.0 seconds to complete.(4814 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxPHRASE15F contains 3 words from 1 records
+2014-09-26 10:37:06 --> idxPHRASE15F is in consistent state
+2014-09-26 10:37:06 --> idxWORD12F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxWORD12F is in consistent state
+2014-09-26 10:37:06 --> idxWORD12F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxWORD12F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxWORD12F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxWORD12F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 21 words into idxWORD12F started
+2014-09-26 10:37:06 --> ......processed 2/21 words
+2014-09-26 10:37:06 --> ......processed 4/21 words
+2014-09-26 10:37:06 --> ......processed 6/21 words
+2014-09-26 10:37:06 --> ......processed 8/21 words
+2014-09-26 10:37:06 --> ......processed 10/21 words
+2014-09-26 10:37:06 --> ......processed 12/21 words
+2014-09-26 10:37:06 --> ......processed 14/21 words
+2014-09-26 10:37:06 --> ......processed 16/21 words
+2014-09-26 10:37:06 --> ......processed 18/21 words
+2014-09-26 10:37:06 --> ......processed 20/21 words
+2014-09-26 10:37:06 --> ...updating 21 words into idxWORD12F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxWORD12R started
+2014-09-26 10:37:06 --> ...updating reverse table idxWORD12R ended
+2014-09-26 10:37:06 --> idxWORD12F normal wordtable flush ended
+2014-09-26 10:37:06 --> 3 records took 0.0 seconds to complete.(4373 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxWORD12F contains 21 words from 3 records
+2014-09-26 10:37:06 --> idxWORD12F is in consistent state
+2014-09-26 10:37:06 --> idxPAIR12F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxPAIR12F is in consistent state
+2014-09-26 10:37:06 --> idxPAIR12F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxPAIR12F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxPAIR12F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxPAIR12F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 20 words into idxPAIR12F started
+2014-09-26 10:37:06 --> ......processed 2/20 words
+2014-09-26 10:37:06 --> ......processed 4/20 words
+2014-09-26 10:37:06 --> ......processed 6/20 words
+2014-09-26 10:37:06 --> ......processed 8/20 words
+2014-09-26 10:37:06 --> ......processed 10/20 words
+2014-09-26 10:37:06 --> ......processed 12/20 words
+2014-09-26 10:37:06 --> ......processed 14/20 words
+2014-09-26 10:37:06 --> ......processed 16/20 words
+2014-09-26 10:37:06 --> ......processed 18/20 words
+2014-09-26 10:37:06 --> ......processed 20/20 words
+2014-09-26 10:37:06 --> ...updating 20 words into idxPAIR12F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxPAIR12R started
+2014-09-26 10:37:06 --> ...updating reverse table idxPAIR12R ended
+2014-09-26 10:37:06 --> idxPAIR12F normal wordtable flush ended
+2014-09-26 10:37:06 --> 3 records took 0.0 seconds to complete.(4511 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxPAIR12F contains 20 words from 3 records
+2014-09-26 10:37:06 --> idxPAIR12F is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE12F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxPHRASE12F is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE12F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxPHRASE12F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxPHRASE12F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxPHRASE12F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 3 words into idxPHRASE12F started
+2014-09-26 10:37:06 --> ...updating 3 words into idxPHRASE12F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxPHRASE12R started
+2014-09-26 10:37:06 --> ...updating reverse table idxPHRASE12R ended
+2014-09-26 10:37:06 --> idxPHRASE12F normal wordtable flush ended
+2014-09-26 10:37:06 --> 3 records took 0.0 seconds to complete.(12645 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxPHRASE12F contains 3 words from 3 records
+2014-09-26 10:37:06 --> idxPHRASE12F is in consistent state
+2014-09-26 10:37:06 --> idxWORD02F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxWORD02F is in consistent state
+2014-09-26 10:37:06 --> idxWORD02F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxWORD02F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxWORD02F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxWORD02F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 11 words into idxWORD02F started
+2014-09-26 10:37:06 --> ......processed 1/11 words
+2014-09-26 10:37:06 --> ......processed 2/11 words
+2014-09-26 10:37:06 --> ......processed 3/11 words
+2014-09-26 10:37:06 --> ......processed 4/11 words
+2014-09-26 10:37:06 --> ......processed 5/11 words
+2014-09-26 10:37:06 --> ......processed 6/11 words
+2014-09-26 10:37:06 --> ......processed 7/11 words
+2014-09-26 10:37:06 --> ......processed 8/11 words
+2014-09-26 10:37:06 --> ......processed 9/11 words
+2014-09-26 10:37:06 --> ......processed 10/11 words
+2014-09-26 10:37:06 --> ......processed 11/11 words
+2014-09-26 10:37:06 --> ...updating 11 words into idxWORD02F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxWORD02R started
+2014-09-26 10:37:06 --> ...updating reverse table idxWORD02R ended
+2014-09-26 10:37:06 --> idxWORD02F normal wordtable flush ended
+2014-09-26 10:37:06 --> 99 records took 0.1 seconds to complete.(41728 recs/min)
+2014-09-26 10:37:06 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:06 --> idxWORD02F contains 11 words from 99 records
+2014-09-26 10:37:06 --> idxWORD02F is in consistent state
+2014-09-26 10:37:06 --> idxPAIR02F contains 0 words from 0 records
+2014-09-26 10:37:06 --> idxPAIR02F is in consistent state
+2014-09-26 10:37:06 --> idxPAIR02F for 1-107 is in consistent state
+2014-09-26 10:37:06 --> idxPAIR02F adding records #1-#107 started
+2014-09-26 10:37:06 --> idxPAIR02F adding records #1-#107 ended  
+2014-09-26 10:37:06 --> idxPAIR02F normal wordtable flush started
+2014-09-26 10:37:06 --> ...updating 0 words into idxPAIR02F started
+2014-09-26 10:37:06 --> ...updating 0 words into idxPAIR02F ended
+2014-09-26 10:37:06 --> ...updating reverse table idxPAIR02R started
+2014-09-26 10:37:06 --> ...updating reverse table idxPAIR02R ended
+2014-09-26 10:37:06 --> idxPAIR02F normal wordtable flush ended
+2014-09-26 10:37:07 --> 99 records took 0.1 seconds to complete.(49893 recs/min)
+2014-09-26 10:37:07 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:07 --> idxPAIR02F contains 0 words from 99 records
+2014-09-26 10:37:07 --> idxPAIR02F is in consistent state
+2014-09-26 10:37:07 --> idxPHRASE02F contains 0 words from 0 records
+2014-09-26 10:37:07 --> idxPHRASE02F is in consistent state
+2014-09-26 10:37:07 --> idxPHRASE02F for 1-107 is in consistent state
+2014-09-26 10:37:07 --> idxPHRASE02F adding records #1-#107 started
+2014-09-26 10:37:07 --> idxPHRASE02F adding records #1-#107 ended  
+2014-09-26 10:37:07 --> idxPHRASE02F normal wordtable flush started
+2014-09-26 10:37:07 --> ...updating 11 words into idxPHRASE02F started
+2014-09-26 10:37:07 --> ......processed 1/11 words
+2014-09-26 10:37:07 --> ......processed 2/11 words
+2014-09-26 10:37:07 --> ......processed 3/11 words
+2014-09-26 10:37:07 --> ......processed 4/11 words
+2014-09-26 10:37:07 --> ......processed 5/11 words
+2014-09-26 10:37:07 --> ......processed 6/11 words
+2014-09-26 10:37:07 --> ......processed 7/11 words
+2014-09-26 10:37:07 --> ......processed 8/11 words
+2014-09-26 10:37:07 --> ......processed 9/11 words
+2014-09-26 10:37:07 --> ......processed 10/11 words
+2014-09-26 10:37:07 --> ......processed 11/11 words
+2014-09-26 10:37:07 --> ...updating 11 words into idxPHRASE02F ended
+2014-09-26 10:37:07 --> ...updating reverse table idxPHRASE02R started
+2014-09-26 10:37:07 --> ...updating reverse table idxPHRASE02R ended
+2014-09-26 10:37:07 --> idxPHRASE02F normal wordtable flush ended
+2014-09-26 10:37:07 --> 99 records took 0.1 seconds to complete.(44445 recs/min)
+2014-09-26 10:37:07 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:07 --> idxPHRASE02F contains 11 words from 99 records
+2014-09-26 10:37:07 --> idxPHRASE02F is in consistent state
+2014-09-26 10:37:07 --> idxWORD14F contains 0 words from 0 records
+2014-09-26 10:37:07 --> idxWORD14F is in consistent state
+2014-09-26 10:37:07 --> idxWORD14F for 1-107 is in consistent state
+2014-09-26 10:37:07 --> idxWORD14F adding records #1-#107 started
+2014-09-26 10:37:07 --> idxWORD14F adding records #1-#107 ended  
+2014-09-26 10:37:07 --> idxWORD14F normal wordtable flush started
+2014-09-26 10:37:07 --> ...updating 663 words into idxWORD14F started
+2014-09-26 10:37:07 --> ......processed 66/663 words
+2014-09-26 10:37:07 --> ......processed 132/663 words
+2014-09-26 10:37:07 --> ......processed 198/663 words
+2014-09-26 10:37:07 --> ......processed 264/663 words
+2014-09-26 10:37:07 --> ......processed 330/663 words
+2014-09-26 10:37:07 --> ......processed 396/663 words
+2014-09-26 10:37:07 --> ......processed 462/663 words
+2014-09-26 10:37:07 --> ......processed 528/663 words
+2014-09-26 10:37:07 --> ......processed 594/663 words
+2014-09-26 10:37:07 --> ......processed 660/663 words
+2014-09-26 10:37:07 --> ...updating 663 words into idxWORD14F ended
+2014-09-26 10:37:07 --> ...updating reverse table idxWORD14R started
+2014-09-26 10:37:07 --> ...updating reverse table idxWORD14R ended
+2014-09-26 10:37:07 --> idxWORD14F normal wordtable flush ended
+2014-09-26 10:37:07 --> 107 records took 0.2 seconds to complete.(26717 recs/min)
+2014-09-26 10:37:07 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:07 --> No new records added by author canonical IDs. idxWORD14F is up to date
+2014-09-26 10:37:07 --> idxWORD14F contains 663 words from 107 records
+2014-09-26 10:37:07 --> idxWORD14F is in consistent state
+2014-09-26 10:37:07 --> idxPAIR14F contains 0 words from 0 records
+2014-09-26 10:37:07 --> idxPAIR14F is in consistent state
+2014-09-26 10:37:07 --> idxPAIR14F for 1-107 is in consistent state
+2014-09-26 10:37:07 --> idxPAIR14F adding records #1-#107 started
+2014-09-26 10:37:07 --> idxPAIR14F adding records #1-#107 ended  
+2014-09-26 10:37:07 --> idxPAIR14F normal wordtable flush started
+2014-09-26 10:37:07 --> ...updating 761 words into idxPAIR14F started
+2014-09-26 10:37:07 --> ......processed 76/761 words
+2014-09-26 10:37:07 --> ......processed 152/761 words
+2014-09-26 10:37:07 --> ......processed 228/761 words
+2014-09-26 10:37:07 --> ......processed 304/761 words
+2014-09-26 10:37:07 --> ......processed 380/761 words
+2014-09-26 10:37:07 --> ......processed 456/761 words
+2014-09-26 10:37:07 --> ......processed 532/761 words
+2014-09-26 10:37:07 --> ......processed 608/761 words
+2014-09-26 10:37:07 --> ......processed 684/761 words
+2014-09-26 10:37:07 --> ......processed 760/761 words
+2014-09-26 10:37:07 --> ...updating 761 words into idxPAIR14F ended
+2014-09-26 10:37:07 --> ...updating reverse table idxPAIR14R started
+2014-09-26 10:37:07 --> ...updating reverse table idxPAIR14R ended
+2014-09-26 10:37:07 --> idxPAIR14F normal wordtable flush ended
+2014-09-26 10:37:07 --> 107 records took 0.5 seconds to complete.(11914 recs/min)
+2014-09-26 10:37:07 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:07 --> No new records added by author canonical IDs. idxPAIR14F is up to date
+2014-09-26 10:37:07 --> idxPAIR14F contains 761 words from 107 records
+2014-09-26 10:37:07 --> idxPAIR14F is in consistent state
+2014-09-26 10:37:07 --> idxPHRASE14F contains 0 words from 0 records
+2014-09-26 10:37:07 --> idxPHRASE14F is in consistent state
+2014-09-26 10:37:07 --> idxPHRASE14F for 1-107 is in consistent state
+2014-09-26 10:37:07 --> idxPHRASE14F adding records #1-#107 started
+2014-09-26 10:37:08 --> idxPHRASE14F adding records #1-#107 ended  
+2014-09-26 10:37:08 --> idxPHRASE14F normal wordtable flush started
+2014-09-26 10:37:08 --> ...updating 608 words into idxPHRASE14F started
+2014-09-26 10:37:08 --> ......processed 60/608 words
+2014-09-26 10:37:08 --> ......processed 120/608 words
+2014-09-26 10:37:08 --> ......processed 180/608 words
+2014-09-26 10:37:08 --> ......processed 240/608 words
+2014-09-26 10:37:08 --> ......processed 300/608 words
+2014-09-26 10:37:08 --> ......processed 360/608 words
+2014-09-26 10:37:08 --> ......processed 420/608 words
+2014-09-26 10:37:08 --> ......processed 480/608 words
+2014-09-26 10:37:08 --> ......processed 540/608 words
+2014-09-26 10:37:08 --> ......processed 600/608 words
+2014-09-26 10:37:08 --> ...updating 608 words into idxPHRASE14F ended
+2014-09-26 10:37:08 --> ...updating reverse table idxPHRASE14R started
+2014-09-26 10:37:08 --> ...updating reverse table idxPHRASE14R ended
+2014-09-26 10:37:08 --> idxPHRASE14F normal wordtable flush ended
+2014-09-26 10:37:08 --> 107 records took 0.4 seconds to complete.(17249 recs/min)
+2014-09-26 10:37:08 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:08 --> No new records added by author canonical IDs. idxPHRASE14F is up to date
+2014-09-26 10:37:08 --> idxPHRASE14F contains 608 words from 107 records
+2014-09-26 10:37:08 --> idxPHRASE14F is in consistent state
+2014-09-26 10:37:08 --> idxWORD17F contains 0 words from 0 records
+2014-09-26 10:37:08 --> idxWORD17F is in consistent state
+2014-09-26 10:37:08 --> idxWORD17F for 1-107 is in consistent state
+2014-09-26 10:37:08 --> idxWORD17F adding records #1-#107 started
+2014-09-26 10:37:08 --> idxWORD17F adding records #1-#107 ended  
+2014-09-26 10:37:08 --> idxWORD17F normal wordtable flush started
+2014-09-26 10:37:08 --> ...updating 138 words into idxWORD17F started
+2014-09-26 10:37:08 --> ......processed 13/138 words
+2014-09-26 10:37:08 --> ......processed 26/138 words
+2014-09-26 10:37:08 --> ......processed 39/138 words
+2014-09-26 10:37:08 --> ......processed 52/138 words
+2014-09-26 10:37:08 --> ......processed 65/138 words
+2014-09-26 10:37:08 --> ......processed 78/138 words
+2014-09-26 10:37:08 --> ......processed 91/138 words
+2014-09-26 10:37:08 --> ......processed 104/138 words
+2014-09-26 10:37:08 --> ......processed 117/138 words
+2014-09-26 10:37:08 --> ......processed 130/138 words
+2014-09-26 10:37:08 --> ...updating 138 words into idxWORD17F ended
+2014-09-26 10:37:08 --> ...updating reverse table idxWORD17R started
+2014-09-26 10:37:08 --> ...updating reverse table idxWORD17R ended
+2014-09-26 10:37:08 --> idxWORD17F normal wordtable flush ended
+2014-09-26 10:37:08 --> 107 records took 0.2 seconds to complete.(30373 recs/min)
+2014-09-26 10:37:08 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:08 --> No new records added by author canonical IDs. idxWORD17F is up to date
+2014-09-26 10:37:08 --> idxWORD17F contains 138 words from 107 records
+2014-09-26 10:37:08 --> idxWORD17F is in consistent state
+2014-09-26 10:37:08 --> idxPAIR17F contains 0 words from 0 records
+2014-09-26 10:37:08 --> idxPAIR17F is in consistent state
+2014-09-26 10:37:08 --> idxPAIR17F for 1-107 is in consistent state
+2014-09-26 10:37:08 --> idxPAIR17F adding records #1-#107 started
+2014-09-26 10:37:08 --> idxPAIR17F adding records #1-#107 ended  
+2014-09-26 10:37:08 --> idxPAIR17F normal wordtable flush started
+2014-09-26 10:37:08 --> ...updating 123 words into idxPAIR17F started
+2014-09-26 10:37:08 --> ......processed 12/123 words
+2014-09-26 10:37:08 --> ......processed 24/123 words
+2014-09-26 10:37:08 --> ......processed 36/123 words
+2014-09-26 10:37:08 --> ......processed 48/123 words
+2014-09-26 10:37:08 --> ......processed 60/123 words
+2014-09-26 10:37:08 --> ......processed 72/123 words
+2014-09-26 10:37:08 --> ......processed 84/123 words
+2014-09-26 10:37:08 --> ......processed 96/123 words
+2014-09-26 10:37:08 --> ......processed 108/123 words
+2014-09-26 10:37:08 --> ......processed 120/123 words
+2014-09-26 10:37:08 --> ...updating 123 words into idxPAIR17F ended
+2014-09-26 10:37:08 --> ...updating reverse table idxPAIR17R started
+2014-09-26 10:37:08 --> ...updating reverse table idxPAIR17R ended
+2014-09-26 10:37:08 --> idxPAIR17F normal wordtable flush ended
+2014-09-26 10:37:08 --> 107 records took 0.1 seconds to complete.(116348 recs/min)
+2014-09-26 10:37:08 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:08 --> No new records added by author canonical IDs. idxPAIR17F is up to date
+2014-09-26 10:37:08 --> idxPAIR17F contains 123 words from 107 records
+2014-09-26 10:37:08 --> idxPAIR17F is in consistent state
+2014-09-26 10:37:08 --> idxPHRASE17F contains 0 words from 0 records
+2014-09-26 10:37:08 --> idxPHRASE17F is in consistent state
+2014-09-26 10:37:08 --> idxPHRASE17F for 1-107 is in consistent state
+2014-09-26 10:37:08 --> idxPHRASE17F adding records #1-#107 started
+2014-09-26 10:37:08 --> idxPHRASE17F adding records #1-#107 ended  
+2014-09-26 10:37:08 --> idxPHRASE17F normal wordtable flush started
+2014-09-26 10:37:08 --> ...updating 88 words into idxPHRASE17F started
+2014-09-26 10:37:08 --> ......processed 8/88 words
+2014-09-26 10:37:08 --> ......processed 16/88 words
+2014-09-26 10:37:08 --> ......processed 24/88 words
+2014-09-26 10:37:08 --> ......processed 32/88 words
+2014-09-26 10:37:08 --> ......processed 40/88 words
+2014-09-26 10:37:08 --> ......processed 48/88 words
+2014-09-26 10:37:08 --> ......processed 56/88 words
+2014-09-26 10:37:08 --> ......processed 64/88 words
+2014-09-26 10:37:08 --> ......processed 72/88 words
+2014-09-26 10:37:08 --> ......processed 80/88 words
+2014-09-26 10:37:08 --> ......processed 88/88 words
+2014-09-26 10:37:08 --> ...updating 88 words into idxPHRASE17F ended
+2014-09-26 10:37:08 --> ...updating reverse table idxPHRASE17R started
+2014-09-26 10:37:08 --> ...updating reverse table idxPHRASE17R ended
+2014-09-26 10:37:08 --> idxPHRASE17F normal wordtable flush ended
+2014-09-26 10:37:08 --> 107 records took 0.1 seconds to complete.(125907 recs/min)
+2014-09-26 10:37:08 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:08 --> No new records added by author canonical IDs. idxPHRASE17F is up to date
+2014-09-26 10:37:08 --> idxPHRASE17F contains 88 words from 107 records
+2014-09-26 10:37:08 --> idxPHRASE17F is in consistent state
+2014-09-26 10:37:08 --> idxWORD16F contains 0 words from 0 records
+2014-09-26 10:37:08 --> idxWORD16F is in consistent state
+2014-09-26 10:37:08 --> idxWORD16F for 1-107 is in consistent state
+2014-09-26 10:37:08 --> idxWORD16F adding records #1-#107 started
+2014-09-26 10:37:08 --> idxWORD16F adding records #1-#107 ended  
+2014-09-26 10:37:08 --> idxWORD16F normal wordtable flush started
+2014-09-26 10:37:08 --> ...updating 138 words into idxWORD16F started
+2014-09-26 10:37:08 --> ......processed 13/138 words
+2014-09-26 10:37:08 --> ......processed 26/138 words
+2014-09-26 10:37:08 --> ......processed 39/138 words
+2014-09-26 10:37:08 --> ......processed 52/138 words
+2014-09-26 10:37:08 --> ......processed 65/138 words
+2014-09-26 10:37:08 --> ......processed 78/138 words
+2014-09-26 10:37:08 --> ......processed 91/138 words
+2014-09-26 10:37:08 --> ......processed 104/138 words
+2014-09-26 10:37:08 --> ......processed 117/138 words
+2014-09-26 10:37:08 --> ......processed 130/138 words
+2014-09-26 10:37:08 --> ...updating 138 words into idxWORD16F ended
+2014-09-26 10:37:08 --> ...updating reverse table idxWORD16R started
+2014-09-26 10:37:08 --> ...updating reverse table idxWORD16R ended
+2014-09-26 10:37:08 --> idxWORD16F normal wordtable flush ended
+2014-09-26 10:37:08 --> 107 records took 0.1 seconds to complete.(88312 recs/min)
+2014-09-26 10:37:08 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:08 --> No new records added by author canonical IDs. idxWORD16F is up to date
+2014-09-26 10:37:08 --> idxWORD16F contains 138 words from 107 records
+2014-09-26 10:37:08 --> idxWORD16F is in consistent state
+2014-09-26 10:37:08 --> idxPAIR16F contains 0 words from 0 records
+2014-09-26 10:37:08 --> idxPAIR16F is in consistent state
+2014-09-26 10:37:08 --> idxPAIR16F for 1-107 is in consistent state
+2014-09-26 10:37:08 --> idxPAIR16F adding records #1-#107 started
+2014-09-26 10:37:08 --> idxPAIR16F adding records #1-#107 ended  
+2014-09-26 10:37:08 --> idxPAIR16F normal wordtable flush started
+2014-09-26 10:37:08 --> ...updating 123 words into idxPAIR16F started
+2014-09-26 10:37:08 --> ......processed 12/123 words
+2014-09-26 10:37:08 --> ......processed 24/123 words
+2014-09-26 10:37:08 --> ......processed 36/123 words
+2014-09-26 10:37:08 --> ......processed 48/123 words
+2014-09-26 10:37:08 --> ......processed 60/123 words
+2014-09-26 10:37:08 --> ......processed 72/123 words
+2014-09-26 10:37:08 --> ......processed 84/123 words
+2014-09-26 10:37:08 --> ......processed 96/123 words
+2014-09-26 10:37:08 --> ......processed 108/123 words
+2014-09-26 10:37:08 --> ......processed 120/123 words
+2014-09-26 10:37:08 --> ...updating 123 words into idxPAIR16F ended
+2014-09-26 10:37:08 --> ...updating reverse table idxPAIR16R started
+2014-09-26 10:37:08 --> ...updating reverse table idxPAIR16R ended
+2014-09-26 10:37:08 --> idxPAIR16F normal wordtable flush ended
+2014-09-26 10:37:08 --> 107 records took 0.1 seconds to complete.(53549 recs/min)
+2014-09-26 10:37:08 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:08 --> No new records added by author canonical IDs. idxPAIR16F is up to date
+2014-09-26 10:37:08 --> idxPAIR16F contains 123 words from 107 records
+2014-09-26 10:37:08 --> idxPAIR16F is in consistent state
+2014-09-26 10:37:08 --> idxPHRASE16F contains 0 words from 0 records
+2014-09-26 10:37:08 --> idxPHRASE16F is in consistent state
+2014-09-26 10:37:08 --> idxPHRASE16F for 1-107 is in consistent state
+2014-09-26 10:37:08 --> idxPHRASE16F adding records #1-#107 started
+2014-09-26 10:37:09 --> idxPHRASE16F adding records #1-#107 ended  
+2014-09-26 10:37:09 --> idxPHRASE16F normal wordtable flush started
+2014-09-26 10:37:09 --> ...updating 418 words into idxPHRASE16F started
+2014-09-26 10:37:09 --> ......processed 41/418 words
+2014-09-26 10:37:09 --> ......processed 82/418 words
+2014-09-26 10:37:09 --> ......processed 123/418 words
+2014-09-26 10:37:09 --> ......processed 164/418 words
+2014-09-26 10:37:09 --> ......processed 205/418 words
+2014-09-26 10:37:09 --> ......processed 246/418 words
+2014-09-26 10:37:09 --> ......processed 287/418 words
+2014-09-26 10:37:09 --> ......processed 328/418 words
+2014-09-26 10:37:09 --> ......processed 369/418 words
+2014-09-26 10:37:09 --> ......processed 410/418 words
+2014-09-26 10:37:09 --> ...updating 418 words into idxPHRASE16F ended
+2014-09-26 10:37:09 --> ...updating reverse table idxPHRASE16R started
+2014-09-26 10:37:09 --> ...updating reverse table idxPHRASE16R ended
+2014-09-26 10:37:09 --> idxPHRASE16F normal wordtable flush ended
+2014-09-26 10:37:09 --> 107 records took 0.5 seconds to complete.(14212 recs/min)
+2014-09-26 10:37:09 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:09 --> No new records added by author canonical IDs. idxPHRASE16F is up to date
+2014-09-26 10:37:09 --> idxPHRASE16F contains 416 words from 107 records
+2014-09-26 10:37:09 --> idxPHRASE16F is in consistent state
+2014-09-26 10:37:09 --> idxWORD09F has stemming enabled, language en
+2014-09-26 10:37:09 --> idxWORD09F contains 0 words from 0 records
+2014-09-26 10:37:09 --> idxWORD09F is in consistent state
+2014-09-26 10:37:09 --> idxWORD09F for 1-107 is in consistent state
+2014-09-26 10:37:09 --> idxWORD09F adding records #1-#107 started
+2014-09-26 10:37:09 --> ERROR: it's impossible to correctly extract words from http://localhost/record/71/files/convert_SCAN-9605068.pdf: Recid '71' is not connected with  docname 'convert_SCAN-9605068'
+2014-09-26 10:37:09 --> ERROR: it's impossible to correctly extract words from http://localhost/record/74/files/0003294.pdf: Recid '74' is not connected with  docname '0003294'
+2014-09-26 10:37:10 --> ERROR: it's impossible to correctly extract words from http://localhost/record/70/files/0204033.ps.gz: Recid '70' is not connected with  docname '0204033'
+2014-09-26 10:37:10 --> ERROR: it's impossible to correctly extract words from http://localhost/record/85/files/0207111.pdf: Recid '85' is not connected with  docname '0207111'
+2014-09-26 10:37:10 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/journal_virgin_forest_image.gif: Recid '107' is not connected with  docname 'journal_virgin_forest_image'
+2014-09-26 10:37:10 --> ERROR: it's impossible to correctly extract words from http://localhost/record/71/files/0204034.pdf: Recid '71' is not connected with  docname '0204034'
+2014-09-26 10:37:10 --> ERROR: it's impossible to correctly extract words from http://localhost/record/83/files/0201100.ps.gz: Recid '83' is not connected with  docname '0201100'
+2014-09-26 10:37:11 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/restricted-journal_scissor_beak.jpg: Recid '107' is not connected with  docname 'restricted-journal_scissor_beak'
+2014-09-26 10:37:11 --> ERROR: it's impossible to correctly extract words from http://localhost/record/11/files/ep-2001-094.pdf: Recid '11' is not connected with  docname 'ep-2001-094'
+2014-09-26 10:37:11 --> ERROR: it's impossible to correctly extract words from http://localhost/record/56/files/0204136.ps.gz: Recid '56' is not connected with  docname '0204136'
+2014-09-26 10:37:11 --> ERROR: it's impossible to correctly extract words from http://localhost/record/44/files/0101431.fig6.ps.gz: Recid '44' is not connected with  docname '0101431.fig6'
+2014-09-26 10:37:11 --> ERROR: it's impossible to correctly extract words from http://localhost/record/60/files/0204140.pdf: Recid '60' is not connected with  docname '0204140'
+2014-09-26 10:37:11 --> ERROR: it's impossible to correctly extract words from http://localhost/record/91/files/0212314.pdf: Recid '91' is not connected with  docname '0212314'
+2014-09-26 10:37:11 --> ERROR: it's impossible to correctly extract words from http://localhost/record/66/files/0204102.ps.gz: Recid '66' is not connected with  docname '0204102'
+2014-09-26 10:37:11 --> ERROR: it's impossible to correctly extract words from http://localhost/record/55/files/0204135.pdf: Recid '55' is not connected with  docname '0204135'
+2014-09-26 10:37:12 --> ERROR: it's impossible to correctly extract words from http://localhost/record/55/files/0204135.ps.gz: Recid '55' is not connected with  docname '0204135'
+2014-09-26 10:37:12 --> ERROR: it's impossible to correctly extract words from http://localhost/record/57/files/0204137.ps.gz: Recid '57' is not connected with  docname '0204137'
+2014-09-26 10:37:12 --> ERROR: it's impossible to correctly extract words from http://localhost/record/63/files/0204142.ps.gz: Recid '63' is not connected with  docname '0204142'
+2014-09-26 10:37:12 --> ERROR: it's impossible to correctly extract words from http://localhost/record/78/files/0003295.fig4.ps.gz: Recid '78' is not connected with  docname '0003295.fig4'
+2014-09-26 10:37:12 --> ERROR: it's impossible to correctly extract words from http://localhost/record/105/files/journal_hms_beagle_image.gif: Recid '105' is not connected with  docname 'journal_hms_beagle_image'
+2014-09-26 10:37:12 --> ERROR: it's impossible to correctly extract words from http://localhost/record/59/files/0204139.pdf: Recid '59' is not connected with  docname '0204139'
+2014-09-26 10:37:12 --> ERROR: it's impossible to correctly extract words from http://localhost/record/60/files/0204140.ps.gz: Recid '60' is not connected with  docname '0204140'
+2014-09-26 10:37:12 --> ERROR: it's impossible to correctly extract words from http://localhost/record/70/files/0204033.pdf: Recid '70' is not connected with  docname '0204033'
+2014-09-26 10:37:13 --> ERROR: it's impossible to correctly extract words from http://localhost/record/106/files/journal_Athanasius_Kircher_Atlantis_image.gif: Recid '106' is not connected with  docname 'journal_Athanasius_Kircher_Atlantis_image'
+2014-09-26 10:37:13 --> ERROR: it's impossible to correctly extract words from http://localhost/record/94/files/0402130.pdf: Recid '94' is not connected with  docname '0402130'
+2014-09-26 10:37:13 --> ERROR: it's impossible to correctly extract words from http://localhost/record/66/files/0204031.pdf: Recid '66' is not connected with  docname '0204031'
+2014-09-26 10:37:13 --> ERROR: it's impossible to correctly extract words from http://localhost/record/105/files/journal_hms_beagle_image.gif?subformat=icon: Recid '105' is not connected with  docname 'journal_hms_beagle_image'
+2014-09-26 10:37:14 --> ERROR: it's impossible to correctly extract words from http://localhost/record/54/files/0204134.pdf: Recid '54' is not connected with  docname '0204134'
+2014-09-26 10:37:14 --> ERROR: it's impossible to correctly extract words from http://localhost/record/87/files/0209257.ps.gz: Recid '87' is not connected with  docname '0209257'
+2014-09-26 10:37:14 --> ERROR: it's impossible to correctly extract words from http://localhost/record/72/files/SCAN-9605068.tif: Recid '72' is not connected with  docname 'SCAN-9605068'
+2014-09-26 10:37:14 --> ERROR: it's impossible to correctly extract words from http://localhost/record/80/files/0003295.fig6a.ps.gz: Recid '80' is not connected with  docname '0003295.fig6a'
+2014-09-26 10:37:14 --> ERROR: it's impossible to correctly extract words from http://localhost/record/84/files/0205061.pdf: Recid '84' is not connected with  docname '0205061'
+2014-09-26 10:37:14 --> ERROR: it's impossible to correctly extract words from http://localhost/record/103/files/convert_SCAN-0005061.pdf: Recid '103' is not connected with  docname 'convert_SCAN-0005061'
+2014-09-26 10:37:16 --> ERROR: it's impossible to correctly extract words from http://localhost/record/85/files/0207111.ps.gz: Recid '85' is not connected with  docname '0207111'
+2014-09-26 10:37:16 --> ERROR: it's impossible to correctly extract words from http://localhost/record/98/files/0703265.pdf: Recid '98' is not connected with  docname '0703265'
+2014-09-26 10:37:16 --> ERROR: it's impossible to correctly extract words from http://localhost/record/89/files/0212138.ps.gz: Recid '89' is not connected with  docname '0212138'
+2014-09-26 10:37:16 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/journal_water_dog_image.gif?subformat=icon: Recid '107' is not connected with  docname 'journal_water_dog_image'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/11/files/9812226.fig7.ps.gz: Recid '11' is not connected with  docname '9812226.fig7'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/88/files/0210075.ps.gz: Recid '88' is not connected with  docname '0210075'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/47/files/0104076.pdf: Recid '47' is not connected with  docname '0104076'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/66/files/0204031.ps.gz: Recid '66' is not connected with  docname '0204031'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/63/files/0204142.pdf: Recid '63' is not connected with  docname '0204142'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/48/files/0204045.ps.gz: Recid '48' is not connected with  docname '0204045'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/49/files/0204046.ps.gz: Recid '49' is not connected with  docname '0204046'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/restricted-journal_scissor_beak.jpg?subformat=icon: Recid '107' is not connected with  docname 'restricted-journal_scissor_beak'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/97/files/0606096.pdf: Recid '97' is not connected with  docname '0606096'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/91/files/0212314.ps.gz: Recid '91' is not connected with  docname '0212314'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/86/files/0209226.ps.gz: Recid '86' is not connected with  docname '0209226'
+2014-09-26 10:37:17 --> ERROR: it's impossible to correctly extract words from http://localhost/record/11/files/9812226.fig6.ps.gz: Recid '11' is not connected with  docname '9812226.fig6'
+2014-09-26 10:37:18 --> ERROR: it's impossible to correctly extract words from http://localhost/record/49/files/0204046.pdf: Recid '49' is not connected with  docname '0204046'
+2014-09-26 10:37:18 --> ERROR: it's impossible to correctly extract words from http://localhost/record/74/files/0003294.ps.gz: Recid '74' is not connected with  docname '0003294'
+2014-09-26 10:37:18 --> ERROR: it's impossible to correctly extract words from http://localhost/record/68/files/0204032.ps.gz: Recid '68' is not connected with  docname '0204032'
+2014-09-26 10:37:18 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/journal_galapagos_archipelago.jpg: Recid '107' is not connected with  docname 'journal_galapagos_archipelago'
+2014-09-26 10:37:19 --> ERROR: it's impossible to correctly extract words from http://localhost/record/106/files/journal_Athanasius_Kircher_Atlantis_image.gif?subformat=icon: Recid '106' is not connected with  docname 'journal_Athanasius_Kircher_Atlantis_image'
+2014-09-26 10:37:19 --> ERROR: it's impossible to correctly extract words from http://localhost/record/74/files/0003293.ps.gz: Recid '74' is not connected with  docname '0003293'
+2014-09-26 10:37:19 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/journal_virgin_forest_image.gif?subformat=icon: Recid '107' is not connected with  docname 'journal_virgin_forest_image'
+2014-09-26 10:37:19 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/journal_water_dog_image.gif: Recid '107' is not connected with  docname 'journal_water_dog_image'
+2014-09-26 10:37:19 --> ERROR: it's impossible to correctly extract words from http://localhost/record/59/files/0204139.ps.gz: Recid '59' is not connected with  docname '0204139'
+2014-09-26 10:37:19 --> ERROR: it's impossible to correctly extract words from http://localhost/record/64/files/0204143.pdf: Recid '64' is not connected with  docname '0204143'
+2014-09-26 10:37:19 --> ERROR: it's impossible to correctly extract words from http://localhost/record/65/files/0204101.pdf: Recid '65' is not connected with  docname '0204101'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/95/files/0501145.pdf: Recid '95' is not connected with  docname '0501145'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/65/files/0204101.ps.gz: Recid '65' is not connected with  docname '0204101'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/journal_galapagos_archipelago.jpg?subformat=icon: Recid '107' is not connected with  docname 'journal_galapagos_archipelago'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/90/files/0212181.pdf: Recid '90' is not connected with  docname '0212181'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/51/files/0204099.pdf: Recid '51' is not connected with  docname '0204099'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/10/files/9812226.fig1.ps.gz: Recid '10' is not connected with  docname '9812226.fig1'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/101/files/9809057.pdf: Recid '101' is not connected with  docname '9809057'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/79/files/0003295.fig7.ps.gz: Recid '79' is not connected with  docname '0003295.fig7'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/84/files/0205061.ps.gz: Recid '84' is not connected with  docname '0205061'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/87/files/0209257.pdf: Recid '87' is not connected with  docname '0209257'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/96/files/0606038.pdf: Recid '96' is not connected with  docname '0606038'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/92/files/0304229.ps.gz: Recid '92' is not connected with  docname '0304229'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/56/files/0204136.pdf: Recid '56' is not connected with  docname '0204136'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/81/files/0003295.fig1.ps.gz: Recid '81' is not connected with  docname '0003295.fig1'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/77/files/0003295.fig5.ps.gz: Recid '77' is not connected with  docname '0003295.fig5'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/58/files/0204138.pdf: Recid '58' is not connected with  docname '0204138'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/12/files/0101431.fig2.ps.gz: Recid '12' is not connected with  docname '0101431.fig2'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/82/files/0210114.ps.gz: Recid '82' is not connected with  docname '0210114'
+2014-09-26 10:37:20 --> ERROR: it's impossible to correctly extract words from http://localhost/record/50/files/0204098.pdf: Recid '50' is not connected with  docname '0204098'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/64/files/0204143.ps.gz: Recid '64' is not connected with  docname '0204143'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/93/files/0307041.ps.gz: Recid '93' is not connected with  docname '0307041'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/86/files/0209226.pdf: Recid '86' is not connected with  docname '0209226'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/61/files/0204141.pdf: Recid '61' is not connected with  docname '0204141'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/43/files/0101431.fig4.ps.gz: Recid '43' is not connected with  docname '0101431.fig4'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/74/files/convert_SCAN-9605071.pdf: Recid '74' is not connected with  docname 'convert_SCAN-9605071'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/73/files/0003289.ps.gz: Recid '73' is not connected with  docname '0003289'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/102/files/0002060.ps.gz: Recid '102' is not connected with  docname '0002060'
+2014-09-26 10:37:21 --> ERROR: it's impossible to correctly extract words from http://localhost/record/92/files/0304229.pdf: Recid '92' is not connected with  docname '0304229'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/99/files/9611103.pdf: Recid '99' is not connected with  docname '9611103'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/82/files/0210114.pdf: Recid '82' is not connected with  docname '0210114'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/74/files/0003293.pdf: Recid '74' is not connected with  docname '0003293'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/50/files/0204098.ps.gz: Recid '50' is not connected with  docname '0204098'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/53/files/0204133.pdf: Recid '53' is not connected with  docname '0204133'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/74/files/0003291.ps.gz: Recid '74' is not connected with  docname '0003291'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/73/files/0003289.pdf: Recid '73' is not connected with  docname '0003289'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/68/files/0204032.pdf: Recid '68' is not connected with  docname '0204032'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/90/files/0212181.ps.gz: Recid '90' is not connected with  docname '0212181'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/52/files/0204132.ps.gz: Recid '52' is not connected with  docname '0204132'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/102/files/0002060.pdf: Recid '102' is not connected with  docname '0002060'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/48/files/0204045.pdf: Recid '48' is not connected with  docname '0204045'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/93/files/0307041.pdf: Recid '93' is not connected with  docname '0307041'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/11/files/9812226.fig3.ps.gz: Recid '11' is not connected with  docname '9812226.fig3'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/74/files/SCAN-9605071.tif: Recid '74' is not connected with  docname 'SCAN-9605071'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/62/files/0204100.ps.gz: Recid '62' is not connected with  docname '0204100'
+2014-09-26 10:37:22 --> ERROR: it's impossible to correctly extract words from http://localhost/record/66/files/0204102.pdf: Recid '66' is not connected with  docname '0204102'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/61/files/0204141.ps.gz: Recid '61' is not connected with  docname '0204141'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/51/files/0204099.ps.gz: Recid '51' is not connected with  docname '0204099'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/71/files/0204034.ps.gz: Recid '71' is not connected with  docname '0204034'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/52/files/0204132.pdf: Recid '52' is not connected with  docname '0204132'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/47/files/0104076.ps.gz: Recid '47' is not connected with  docname '0104076'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/11/files/9812226.fig5.ps.gz: Recid '11' is not connected with  docname '9812226.fig5'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/journal_scissor_beak.jpg: Recid '107' is not connected with  docname 'journal_scissor_beak'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/89/files/0212138.pdf: Recid '89' is not connected with  docname '0212138'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/11/files/ep-2001-094.ps.gz: Recid '11' is not connected with  docname 'ep-2001-094'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/45/files/0101431.fig5a.ps.gz: Recid '45' is not connected with  docname '0101431.fig5a'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/107/files/journal_scissor_beak.jpg?subformat=icon: Recid '107' is not connected with  docname 'journal_scissor_beak'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/53/files/0204133.ps.gz: Recid '53' is not connected with  docname '0204133'
+2014-09-26 10:37:23 --> ERROR: it's impossible to correctly extract words from http://localhost/record/105/files/9709037.pdf: Recid '105' is not connected with  docname '9709037'
+2014-09-26 10:37:24 --> ERROR: it's impossible to correctly extract words from http://localhost/record/74/files/0003291.pdf: Recid '74' is not connected with  docname '0003291'
+2014-09-26 10:37:24 --> ERROR: it's impossible to correctly extract words from http://localhost/record/62/files/0204100.pdf: Recid '62' is not connected with  docname '0204100'
+2014-09-26 10:37:24 --> ERROR: it's impossible to correctly extract words from http://localhost/record/57/files/0204137.pdf: Recid '57' is not connected with  docname '0204137'
+2014-09-26 10:37:24 --> ERROR: it's impossible to correctly extract words from http://localhost/record/58/files/0204138.ps.gz: Recid '58' is not connected with  docname '0204138'
+2014-09-26 10:37:25 --> ERROR: it's impossible to correctly extract words from http://localhost/record/83/files/0201100.pdf: Recid '83' is not connected with  docname '0201100'
+2014-09-26 10:37:25 --> ERROR: it's impossible to correctly extract words from http://localhost/record/46/files/0105155.ps.gz: Recid '46' is not connected with  docname '0105155'
+2014-09-26 10:37:25 --> ERROR: it's impossible to correctly extract words from http://localhost/record/88/files/0210075.pdf: Recid '88' is not connected with  docname '0210075'
+2014-09-26 10:37:25 --> ERROR: it's impossible to correctly extract words from http://localhost/record/54/files/0204134.ps.gz: Recid '54' is not connected with  docname '0204134'
+2014-09-26 10:37:26 --> ERROR: it's impossible to correctly extract words from http://localhost/record/15/files/0101431.fig3.ps.gz: Recid '15' is not connected with  docname '0101431.fig3'
+2014-09-26 10:37:26 --> ERROR: it's impossible to correctly extract words from http://localhost/record/46/files/0105155.pdf: Recid '46' is not connected with  docname '0105155'
+2014-09-26 10:37:26 --> idxWORD09F adding records #1-#107 ended  
+2014-09-26 10:37:26 --> idxWORD09F normal wordtable flush started
+2014-09-26 10:37:26 --> ...updating 37085 words into idxWORD09F started
+2014-09-26 10:37:28 --> ......processed 3708/37085 words
+2014-09-26 10:37:30 --> ......processed 7416/37085 words
+2014-09-26 10:37:33 --> ......processed 11124/37085 words
+2014-09-26 10:37:35 --> ......processed 14832/37085 words
+2014-09-26 10:37:38 --> ......processed 18540/37085 words
+2014-09-26 10:37:40 --> ......processed 22248/37085 words
+2014-09-26 10:37:43 --> ......processed 25956/37085 words
+2014-09-26 10:37:45 --> ......processed 29664/37085 words
+2014-09-26 10:37:47 --> ......processed 33372/37085 words
+2014-09-26 10:37:50 --> ......processed 37080/37085 words
+2014-09-26 10:37:50 --> ...updating 37085 words into idxWORD09F ended
+2014-09-26 10:37:50 --> ...updating reverse table idxWORD09R started
+2014-09-26 10:37:50 --> ...updating reverse table idxWORD09R ended
+2014-09-26 10:37:50 --> idxWORD09F normal wordtable flush ended
+2014-09-26 10:37:50 --> 71 records took 41.0 seconds to complete.(104 recs/min)
+2014-09-26 10:37:50 --> Estimated runtime: 0.3 minutes
+2014-09-26 10:37:50 --> idxWORD09F contains 37043 words from 71 records
+2014-09-26 10:37:50 --> idxWORD09F is in consistent state
+2014-09-26 10:37:50 --> idxPAIR09F contains 0 words from 0 records
+2014-09-26 10:37:50 --> idxPAIR09F is in consistent state
+2014-09-26 10:37:50 --> idxPAIR09F for 1-107 is in consistent state
+2014-09-26 10:37:50 --> idxPAIR09F adding records #1-#107 started
+2014-09-26 10:37:50 --> idxPAIR09F adding records #1-#107 ended  
+2014-09-26 10:37:50 --> idxPAIR09F normal wordtable flush started
+2014-09-26 10:37:50 --> ...updating 0 words into idxPAIR09F started
+2014-09-26 10:37:50 --> ...updating 0 words into idxPAIR09F ended
+2014-09-26 10:37:50 --> ...updating reverse table idxPAIR09R started
+2014-09-26 10:37:50 --> ...updating reverse table idxPAIR09R ended
+2014-09-26 10:37:50 --> idxPAIR09F normal wordtable flush ended
+2014-09-26 10:37:50 --> 71 records took 0.2 seconds to complete.(20119 recs/min)
+2014-09-26 10:37:50 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:50 --> idxPAIR09F contains 0 words from 71 records
+2014-09-26 10:37:50 --> idxPAIR09F is in consistent state
+2014-09-26 10:37:50 --> idxPHRASE09F contains 0 words from 0 records
+2014-09-26 10:37:50 --> idxPHRASE09F is in consistent state
+2014-09-26 10:37:50 --> idxPHRASE09F for 1-107 is in consistent state
+2014-09-26 10:37:50 --> idxPHRASE09F adding records #1-#107 started
+2014-09-26 10:37:50 --> idxPHRASE09F adding records #1-#107 ended  
+2014-09-26 10:37:50 --> idxPHRASE09F normal wordtable flush started
+2014-09-26 10:37:50 --> ...updating 0 words into idxPHRASE09F started
+2014-09-26 10:37:50 --> ...updating 0 words into idxPHRASE09F ended
+2014-09-26 10:37:50 --> ...updating reverse table idxPHRASE09R started
+2014-09-26 10:37:50 --> ...updating reverse table idxPHRASE09R ended
+2014-09-26 10:37:50 --> idxPHRASE09F normal wordtable flush ended
+2014-09-26 10:37:50 --> 71 records took 0.1 seconds to complete.(63373 recs/min)
+2014-09-26 10:37:50 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:50 --> idxPHRASE09F contains 0 words from 71 records
+2014-09-26 10:37:50 --> idxPHRASE09F is in consistent state
+2014-09-26 10:37:50 --> idxWORD01F has stemming enabled, language en
+2014-09-26 10:37:50 --> idxWORD01F contains 0 words from 0 records
+2014-09-26 10:37:50 --> idxWORD01F is in consistent state
+2014-09-26 10:37:50 --> idxWORD01F for 1-107 is in consistent state
+2014-09-26 10:37:50 --> idxWORD01F adding records #1-#107 started
+2014-09-26 10:37:55 --> idxWORD01F adding records #1-#107 ended  
+2014-09-26 10:37:55 --> idxWORD01F normal wordtable flush started
+2014-09-26 10:37:55 --> ...updating 5423 words into idxWORD01F started
+2014-09-26 10:37:55 --> ......processed 542/5423 words
+2014-09-26 10:37:56 --> ......processed 1084/5423 words
+2014-09-26 10:37:56 --> ......processed 1626/5423 words
+2014-09-26 10:37:56 --> ......processed 2168/5423 words
+2014-09-26 10:37:56 --> ......processed 2710/5423 words
+2014-09-26 10:37:57 --> ......processed 3252/5423 words
+2014-09-26 10:37:57 --> ......processed 3794/5423 words
+2014-09-26 10:37:57 --> ......processed 4336/5423 words
+2014-09-26 10:37:58 --> ......processed 4878/5423 words
+2014-09-26 10:37:58 --> ......processed 5420/5423 words
+2014-09-26 10:37:58 --> ...updating 5423 words into idxWORD01F ended
+2014-09-26 10:37:58 --> ...updating reverse table idxWORD01R started
+2014-09-26 10:37:58 --> ...updating reverse table idxWORD01R ended
+2014-09-26 10:37:58 --> idxWORD01F normal wordtable flush ended
+2014-09-26 10:37:58 --> 99 records took 7.9 seconds to complete.(753 recs/min)
+2014-09-26 10:37:58 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:37:58 --> idxWORD01F contains 5422 words from 99 records
+2014-09-26 10:37:58 --> idxWORD01F is in consistent state
+2014-09-26 10:37:58 --> idxPAIR01F contains 0 words from 0 records
+2014-09-26 10:37:58 --> idxPAIR01F is in consistent state
+2014-09-26 10:37:58 --> idxPAIR01F for 1-107 is in consistent state
+2014-09-26 10:37:58 --> idxPAIR01F adding records #1-#107 started
+2014-09-26 10:38:05 --> idxPAIR01F adding records #1-#107 ended  
+2014-09-26 10:38:05 --> idxPAIR01F normal wordtable flush started
+2014-09-26 10:38:05 --> ...updating 11189 words into idxPAIR01F started
+2014-09-26 10:38:05 --> ......processed 1118/11189 words
+2014-09-26 10:38:06 --> ......processed 2236/11189 words
+2014-09-26 10:38:07 --> ......processed 3354/11189 words
+2014-09-26 10:38:08 --> ......processed 4472/11189 words
+2014-09-26 10:38:08 --> ......processed 5590/11189 words
+2014-09-26 10:38:09 --> ......processed 6708/11189 words
+2014-09-26 10:38:10 --> ......processed 7826/11189 words
+2014-09-26 10:38:10 --> ......processed 8944/11189 words
+2014-09-26 10:38:11 --> ......processed 10062/11189 words
+2014-09-26 10:38:12 --> ......processed 11180/11189 words
+2014-09-26 10:38:12 --> ...updating 11189 words into idxPAIR01F ended
+2014-09-26 10:38:12 --> ...updating reverse table idxPAIR01R started
+2014-09-26 10:38:12 --> ...updating reverse table idxPAIR01R ended
+2014-09-26 10:38:12 --> idxPAIR01F normal wordtable flush ended
+2014-09-26 10:38:12 --> 99 records took 14.0 seconds to complete.(424 recs/min)
+2014-09-26 10:38:12 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:12 --> idxPAIR01F contains 11189 words from 99 records
+2014-09-26 10:38:12 --> idxPAIR01F is in consistent state
+2014-09-26 10:38:12 --> idxPHRASE01F contains 0 words from 0 records
+2014-09-26 10:38:12 --> idxPHRASE01F is in consistent state
+2014-09-26 10:38:12 --> idxPHRASE01F for 1-107 is in consistent state
+2014-09-26 10:38:12 --> idxPHRASE01F adding records #1-#107 started
+2014-09-26 10:38:13 --> idxPHRASE01F adding records #1-#107 ended  
+2014-09-26 10:38:13 --> idxPHRASE01F normal wordtable flush started
+2014-09-26 10:38:13 --> ...updating 1815 words into idxPHRASE01F started
+2014-09-26 10:38:13 --> ......processed 181/1815 words
+2014-09-26 10:38:13 --> ......processed 362/1815 words
+2014-09-26 10:38:14 --> ......processed 543/1815 words
+2014-09-26 10:38:14 --> ......processed 724/1815 words
+2014-09-26 10:38:14 --> ......processed 905/1815 words
+2014-09-26 10:38:14 --> ......processed 1086/1815 words
+2014-09-26 10:38:14 --> ......processed 1267/1815 words
+2014-09-26 10:38:14 --> ......processed 1448/1815 words
+2014-09-26 10:38:15 --> ......processed 1629/1815 words
+2014-09-26 10:38:15 --> ......processed 1810/1815 words
+2014-09-26 10:38:15 --> ...updating 1815 words into idxPHRASE01F ended
+2014-09-26 10:38:15 --> ...updating reverse table idxPHRASE01R started
+2014-09-26 10:38:15 --> ...updating reverse table idxPHRASE01R ended
+2014-09-26 10:38:15 --> idxPHRASE01F normal wordtable flush ended
+2014-09-26 10:38:15 --> 99 records took 2.4 seconds to complete.(2442 recs/min)
+2014-09-26 10:38:15 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:15 --> idxPHRASE01F contains 1815 words from 99 records
+2014-09-26 10:38:15 --> idxPHRASE01F is in consistent state
+2014-09-26 10:38:15 --> idxWORD11F contains 0 words from 0 records
+2014-09-26 10:38:15 --> idxWORD11F is in consistent state
+2014-09-26 10:38:15 --> idxWORD11F for 1-107 is in consistent state
+2014-09-26 10:38:15 --> idxWORD11F adding records #1-#107 started
+2014-09-26 10:38:15 --> idxWORD11F adding records #1-#107 ended  
+2014-09-26 10:38:15 --> idxWORD11F normal wordtable flush started
+2014-09-26 10:38:15 --> ...updating 112 words into idxWORD11F started
+2014-09-26 10:38:15 --> ......processed 11/112 words
+2014-09-26 10:38:15 --> ......processed 22/112 words
+2014-09-26 10:38:15 --> ......processed 33/112 words
+2014-09-26 10:38:15 --> ......processed 44/112 words
+2014-09-26 10:38:15 --> ......processed 55/112 words
+2014-09-26 10:38:15 --> ......processed 66/112 words
+2014-09-26 10:38:15 --> ......processed 77/112 words
+2014-09-26 10:38:15 --> ......processed 88/112 words
+2014-09-26 10:38:15 --> ......processed 99/112 words
+2014-09-26 10:38:15 --> ......processed 110/112 words
+2014-09-26 10:38:15 --> ...updating 112 words into idxWORD11F ended
+2014-09-26 10:38:15 --> ...updating reverse table idxWORD11R started
+2014-09-26 10:38:15 --> ...updating reverse table idxWORD11R ended
+2014-09-26 10:38:15 --> idxWORD11F normal wordtable flush ended
+2014-09-26 10:38:15 --> 107 records took 0.1 seconds to complete.(79552 recs/min)
+2014-09-26 10:38:15 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:15 --> idxWORD11F contains 112 words from 107 records
+2014-09-26 10:38:15 --> idxWORD11F is in consistent state
+2014-09-26 10:38:15 --> idxPAIR11F contains 0 words from 0 records
+2014-09-26 10:38:15 --> idxPAIR11F is in consistent state
+2014-09-26 10:38:15 --> idxPAIR11F for 1-107 is in consistent state
+2014-09-26 10:38:15 --> idxPAIR11F adding records #1-#107 started
+2014-09-26 10:38:15 --> idxPAIR11F adding records #1-#107 ended  
+2014-09-26 10:38:15 --> idxPAIR11F normal wordtable flush started
+2014-09-26 10:38:15 --> ...updating 112 words into idxPAIR11F started
+2014-09-26 10:38:15 --> ......processed 11/112 words
+2014-09-26 10:38:15 --> ......processed 22/112 words
+2014-09-26 10:38:15 --> ......processed 33/112 words
+2014-09-26 10:38:15 --> ......processed 44/112 words
+2014-09-26 10:38:15 --> ......processed 55/112 words
+2014-09-26 10:38:15 --> ......processed 66/112 words
+2014-09-26 10:38:15 --> ......processed 77/112 words
+2014-09-26 10:38:15 --> ......processed 88/112 words
+2014-09-26 10:38:15 --> ......processed 99/112 words
+2014-09-26 10:38:15 --> ......processed 110/112 words
+2014-09-26 10:38:15 --> ...updating 112 words into idxPAIR11F ended
+2014-09-26 10:38:15 --> ...updating reverse table idxPAIR11R started
+2014-09-26 10:38:15 --> ...updating reverse table idxPAIR11R ended
+2014-09-26 10:38:15 --> idxPAIR11F normal wordtable flush ended
+2014-09-26 10:38:15 --> 107 records took 0.2 seconds to complete.(39152 recs/min)
+2014-09-26 10:38:15 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:15 --> idxPAIR11F contains 112 words from 107 records
+2014-09-26 10:38:15 --> idxPAIR11F is in consistent state
+2014-09-26 10:38:15 --> idxPHRASE11F contains 0 words from 0 records
+2014-09-26 10:38:15 --> idxPHRASE11F is in consistent state
+2014-09-26 10:38:15 --> idxPHRASE11F for 1-107 is in consistent state
+2014-09-26 10:38:15 --> idxPHRASE11F adding records #1-#107 started
+2014-09-26 10:38:15 --> idxPHRASE11F adding records #1-#107 ended  
+2014-09-26 10:38:15 --> idxPHRASE11F normal wordtable flush started
+2014-09-26 10:38:15 --> ...updating 112 words into idxPHRASE11F started
+2014-09-26 10:38:15 --> ......processed 11/112 words
+2014-09-26 10:38:15 --> ......processed 22/112 words
+2014-09-26 10:38:15 --> ......processed 33/112 words
+2014-09-26 10:38:15 --> ......processed 44/112 words
+2014-09-26 10:38:15 --> ......processed 55/112 words
+2014-09-26 10:38:15 --> ......processed 66/112 words
+2014-09-26 10:38:15 --> ......processed 77/112 words
+2014-09-26 10:38:15 --> ......processed 88/112 words
+2014-09-26 10:38:15 --> ......processed 99/112 words
+2014-09-26 10:38:15 --> ......processed 110/112 words
+2014-09-26 10:38:15 --> ...updating 112 words into idxPHRASE11F ended
+2014-09-26 10:38:15 --> ...updating reverse table idxPHRASE11R started
+2014-09-26 10:38:15 --> ...updating reverse table idxPHRASE11R ended
+2014-09-26 10:38:15 --> idxPHRASE11F normal wordtable flush ended
+2014-09-26 10:38:15 --> 107 records took 0.3 seconds to complete.(25658 recs/min)
+2014-09-26 10:38:15 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:15 --> idxPHRASE11F contains 112 words from 107 records
+2014-09-26 10:38:15 --> idxPHRASE11F is in consistent state
+2014-09-26 10:38:15 --> idxWORD05F has stemming enabled, language en
+2014-09-26 10:38:15 --> idxWORD05F contains 0 words from 0 records
+2014-09-26 10:38:15 --> idxWORD05F is in consistent state
+2014-09-26 10:38:15 --> idxWORD05F for 1-107 is in consistent state
+2014-09-26 10:38:15 --> idxWORD05F adding records #1-#107 started
+2014-09-26 10:38:15 --> idxWORD05F adding records #1-#107 ended  
+2014-09-26 10:38:15 --> idxWORD05F normal wordtable flush started
+2014-09-26 10:38:15 --> ...updating 10 words into idxWORD05F started
+2014-09-26 10:38:15 --> ......processed 1/10 words
+2014-09-26 10:38:15 --> ......processed 2/10 words
+2014-09-26 10:38:15 --> ......processed 3/10 words
+2014-09-26 10:38:15 --> ......processed 4/10 words
+2014-09-26 10:38:15 --> ......processed 5/10 words
+2014-09-26 10:38:15 --> ......processed 6/10 words
+2014-09-26 10:38:15 --> ......processed 7/10 words
+2014-09-26 10:38:15 --> ......processed 8/10 words
+2014-09-26 10:38:15 --> ......processed 9/10 words
+2014-09-26 10:38:15 --> ......processed 10/10 words
+2014-09-26 10:38:15 --> ...updating 10 words into idxWORD05F ended
+2014-09-26 10:38:15 --> ...updating reverse table idxWORD05R started
+2014-09-26 10:38:15 --> ...updating reverse table idxWORD05R ended
+2014-09-26 10:38:15 --> idxWORD05F normal wordtable flush ended
+2014-09-26 10:38:15 --> 5 records took 0.0 seconds to complete.(8291 recs/min)
+2014-09-26 10:38:15 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:15 --> idxWORD05F contains 10 words from 5 records
+2014-09-26 10:38:15 --> idxWORD05F is in consistent state
+2014-09-26 10:38:15 --> idxPAIR05F contains 0 words from 0 records
+2014-09-26 10:38:15 --> idxPAIR05F is in consistent state
+2014-09-26 10:38:15 --> idxPAIR05F for 1-107 is in consistent state
+2014-09-26 10:38:15 --> idxPAIR05F adding records #1-#107 started
+2014-09-26 10:38:15 --> idxPAIR05F adding records #1-#107 ended  
+2014-09-26 10:38:15 --> idxPAIR05F normal wordtable flush started
+2014-09-26 10:38:15 --> ...updating 0 words into idxPAIR05F started
+2014-09-26 10:38:15 --> ...updating 0 words into idxPAIR05F ended
+2014-09-26 10:38:15 --> ...updating reverse table idxPAIR05R started
+2014-09-26 10:38:15 --> ...updating reverse table idxPAIR05R ended
+2014-09-26 10:38:15 --> idxPAIR05F normal wordtable flush ended
+2014-09-26 10:38:15 --> 5 records took 0.0 seconds to complete.(13891 recs/min)
+2014-09-26 10:38:15 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:15 --> idxPAIR05F contains 0 words from 5 records
+2014-09-26 10:38:15 --> idxPAIR05F is in consistent state
+2014-09-26 10:38:15 --> idxPHRASE05F contains 0 words from 0 records
+2014-09-26 10:38:15 --> idxPHRASE05F is in consistent state
+2014-09-26 10:38:15 --> idxPHRASE05F for 1-107 is in consistent state
+2014-09-26 10:38:15 --> idxPHRASE05F adding records #1-#107 started
+2014-09-26 10:38:15 --> idxPHRASE05F adding records #1-#107 ended  
+2014-09-26 10:38:15 --> idxPHRASE05F normal wordtable flush started
+2014-09-26 10:38:15 --> ...updating 10 words into idxPHRASE05F started
+2014-09-26 10:38:15 --> ......processed 1/10 words
+2014-09-26 10:38:15 --> ......processed 2/10 words
+2014-09-26 10:38:15 --> ......processed 3/10 words
+2014-09-26 10:38:15 --> ......processed 4/10 words
+2014-09-26 10:38:15 --> ......processed 5/10 words
+2014-09-26 10:38:15 --> ......processed 6/10 words
+2014-09-26 10:38:15 --> ......processed 7/10 words
+2014-09-26 10:38:15 --> ......processed 8/10 words
+2014-09-26 10:38:15 --> ......processed 9/10 words
+2014-09-26 10:38:15 --> ......processed 10/10 words
+2014-09-26 10:38:15 --> ...updating 10 words into idxPHRASE05F ended
+2014-09-26 10:38:15 --> ...updating reverse table idxPHRASE05R started
+2014-09-26 10:38:15 --> ...updating reverse table idxPHRASE05R ended
+2014-09-26 10:38:15 --> idxPHRASE05F normal wordtable flush ended
+2014-09-26 10:38:15 --> 5 records took 0.0 seconds to complete.(9419 recs/min)
+2014-09-26 10:38:15 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:15 --> idxPHRASE05F contains 10 words from 5 records
+2014-09-26 10:38:15 --> idxPHRASE05F is in consistent state
+2014-09-26 10:38:15 --> idxWORD06F contains 0 words from 0 records
+2014-09-26 10:38:15 --> idxWORD06F is in consistent state
+2014-09-26 10:38:15 --> idxWORD06F for 1-107 is in consistent state
+2014-09-26 10:38:15 --> idxWORD06F adding records #1-#107 started
+2014-09-26 10:38:16 --> idxWORD06F adding records #1-#107 ended  
+2014-09-26 10:38:16 --> idxWORD06F normal wordtable flush started
+2014-09-26 10:38:16 --> ...updating 7090 words into idxWORD06F started
+2014-09-26 10:38:16 --> ......processed 709/7090 words
+2014-09-26 10:38:17 --> ......processed 1418/7090 words
+2014-09-26 10:38:17 --> ......processed 2127/7090 words
+2014-09-26 10:38:18 --> ......processed 2836/7090 words
+2014-09-26 10:38:18 --> ......processed 3545/7090 words
+2014-09-26 10:38:19 --> ......processed 4254/7090 words
+2014-09-26 10:38:19 --> ......processed 4963/7090 words
+2014-09-26 10:38:20 --> ......processed 5672/7090 words
+2014-09-26 10:38:20 --> ......processed 6381/7090 words
+2014-09-26 10:38:20 --> ......processed 7090/7090 words
+2014-09-26 10:38:20 --> ...updating 7090 words into idxWORD06F ended
+2014-09-26 10:38:20 --> ...updating reverse table idxWORD06R started
+2014-09-26 10:38:20 --> ...updating reverse table idxWORD06R ended
+2014-09-26 10:38:20 --> idxWORD06F normal wordtable flush ended
+2014-09-26 10:38:20 --> 47 records took 5.1 seconds to complete.(555 recs/min)
+2014-09-26 10:38:20 --> Estimated runtime: 0.1 minutes
+2014-09-26 10:38:20 --> idxWORD06F contains 7090 words from 47 records
+2014-09-26 10:38:20 --> idxWORD06F is in consistent state
+2014-09-26 10:38:20 --> idxPAIR06F contains 0 words from 0 records
+2014-09-26 10:38:20 --> idxPAIR06F is in consistent state
+2014-09-26 10:38:20 --> idxPAIR06F for 1-107 is in consistent state
+2014-09-26 10:38:20 --> idxPAIR06F adding records #1-#107 started
+2014-09-26 10:38:21 --> idxPAIR06F adding records #1-#107 ended  
+2014-09-26 10:38:21 --> idxPAIR06F normal wordtable flush started
+2014-09-26 10:38:21 --> ...updating 12090 words into idxPAIR06F started
+2014-09-26 10:38:21 --> ......processed 1209/12090 words
+2014-09-26 10:38:22 --> ......processed 2418/12090 words
+2014-09-26 10:38:23 --> ......processed 3627/12090 words
+2014-09-26 10:38:24 --> ......processed 4836/12090 words
+2014-09-26 10:38:25 --> ......processed 6045/12090 words
+2014-09-26 10:38:25 --> ......processed 7254/12090 words
+2014-09-26 10:38:26 --> ......processed 8463/12090 words
+2014-09-26 10:38:27 --> ......processed 9672/12090 words
+2014-09-26 10:38:28 --> ......processed 10881/12090 words
+2014-09-26 10:38:29 --> ......processed 12090/12090 words
+2014-09-26 10:38:29 --> ...updating 12090 words into idxPAIR06F ended
+2014-09-26 10:38:29 --> ...updating reverse table idxPAIR06R started
+2014-09-26 10:38:29 --> ...updating reverse table idxPAIR06R ended
+2014-09-26 10:38:29 --> idxPAIR06F normal wordtable flush ended
+2014-09-26 10:38:29 --> 47 records took 8.7 seconds to complete.(325 recs/min)
+2014-09-26 10:38:29 --> Estimated runtime: 0.2 minutes
+2014-09-26 10:38:29 --> idxPAIR06F contains 12090 words from 47 records
+2014-09-26 10:38:29 --> idxPAIR06F is in consistent state
+2014-09-26 10:38:29 --> idxPHRASE06F contains 0 words from 0 records
+2014-09-26 10:38:29 --> idxPHRASE06F is in consistent state
+2014-09-26 10:38:29 --> idxPHRASE06F for 1-107 is in consistent state
+2014-09-26 10:38:29 --> idxPHRASE06F adding records #1-#107 started
+2014-09-26 10:38:29 --> idxPHRASE06F adding records #1-#107 ended  
+2014-09-26 10:38:29 --> idxPHRASE06F normal wordtable flush started
+2014-09-26 10:38:29 --> ...updating 4840 words into idxPHRASE06F started
+2014-09-26 10:38:29 --> ......processed 484/4840 words
+2014-09-26 10:38:29 --> ......processed 968/4840 words
+2014-09-26 10:38:30 --> ......processed 1452/4840 words
+2014-09-26 10:38:30 --> ......processed 1936/4840 words
+2014-09-26 10:38:30 --> ......processed 2420/4840 words
+2014-09-26 10:38:30 --> ......processed 2904/4840 words
+2014-09-26 10:38:31 --> ......processed 3388/4840 words
+2014-09-26 10:38:31 --> ......processed 3872/4840 words
+2014-09-26 10:38:31 --> ......processed 4356/4840 words
+2014-09-26 10:38:32 --> ......processed 4840/4840 words
+2014-09-26 10:38:32 --> ...updating 4840 words into idxPHRASE06F ended
+2014-09-26 10:38:32 --> ...updating reverse table idxPHRASE06R started
+2014-09-26 10:38:32 --> ...updating reverse table idxPHRASE06R ended
+2014-09-26 10:38:32 --> idxPHRASE06F normal wordtable flush ended
+2014-09-26 10:38:32 --> 47 records took 2.9 seconds to complete.(956 recs/min)
+2014-09-26 10:38:32 --> Estimated runtime: 0.1 minutes
+2014-09-26 10:38:32 --> idxPHRASE06F contains 4835 words from 47 records
+2014-09-26 10:38:32 --> idxPHRASE06F is in consistent state
+2014-09-26 10:38:32 --> idxWORD07F contains 0 words from 0 records
+2014-09-26 10:38:32 --> idxWORD07F is in consistent state
+2014-09-26 10:38:32 --> idxWORD07F for 1-107 is in consistent state
+2014-09-26 10:38:32 --> idxWORD07F adding records #1-#107 started
+2014-09-26 10:38:32 --> idxWORD07F adding records #1-#107 ended  
+2014-09-26 10:38:32 --> idxWORD07F normal wordtable flush started
+2014-09-26 10:38:32 --> ...updating 329 words into idxWORD07F started
+2014-09-26 10:38:32 --> ......processed 32/329 words
+2014-09-26 10:38:32 --> ......processed 64/329 words
+2014-09-26 10:38:32 --> ......processed 96/329 words
+2014-09-26 10:38:32 --> ......processed 128/329 words
+2014-09-26 10:38:32 --> ......processed 160/329 words
+2014-09-26 10:38:32 --> ......processed 192/329 words
+2014-09-26 10:38:32 --> ......processed 224/329 words
+2014-09-26 10:38:32 --> ......processed 256/329 words
+2014-09-26 10:38:32 --> ......processed 288/329 words
+2014-09-26 10:38:32 --> ......processed 320/329 words
+2014-09-26 10:38:32 --> ...updating 329 words into idxWORD07F ended
+2014-09-26 10:38:32 --> ...updating reverse table idxWORD07R started
+2014-09-26 10:38:32 --> ...updating reverse table idxWORD07R ended
+2014-09-26 10:38:32 --> idxWORD07F normal wordtable flush ended
+2014-09-26 10:38:32 --> 76 records took 0.3 seconds to complete.(14965 recs/min)
+2014-09-26 10:38:32 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:32 --> idxWORD07F contains 329 words from 76 records
+2014-09-26 10:38:32 --> idxWORD07F is in consistent state
+2014-09-26 10:38:32 --> idxPAIR07F contains 0 words from 0 records
+2014-09-26 10:38:32 --> idxPAIR07F is in consistent state
+2014-09-26 10:38:32 --> idxPAIR07F for 1-107 is in consistent state
+2014-09-26 10:38:32 --> idxPAIR07F adding records #1-#107 started
+2014-09-26 10:38:32 --> idxPAIR07F adding records #1-#107 ended  
+2014-09-26 10:38:32 --> idxPAIR07F normal wordtable flush started
+2014-09-26 10:38:32 --> ...updating 207 words into idxPAIR07F started
+2014-09-26 10:38:32 --> ......processed 20/207 words
+2014-09-26 10:38:32 --> ......processed 40/207 words
+2014-09-26 10:38:32 --> ......processed 60/207 words
+2014-09-26 10:38:32 --> ......processed 80/207 words
+2014-09-26 10:38:32 --> ......processed 100/207 words
+2014-09-26 10:38:32 --> ......processed 120/207 words
+2014-09-26 10:38:32 --> ......processed 140/207 words
+2014-09-26 10:38:32 --> ......processed 160/207 words
+2014-09-26 10:38:32 --> ......processed 180/207 words
+2014-09-26 10:38:32 --> ......processed 200/207 words
+2014-09-26 10:38:32 --> ...updating 207 words into idxPAIR07F ended
+2014-09-26 10:38:32 --> ...updating reverse table idxPAIR07R started
+2014-09-26 10:38:32 --> ...updating reverse table idxPAIR07R ended
+2014-09-26 10:38:32 --> idxPAIR07F normal wordtable flush ended
+2014-09-26 10:38:32 --> 76 records took 0.1 seconds to complete.(61016 recs/min)
+2014-09-26 10:38:32 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:32 --> idxPAIR07F contains 207 words from 76 records
+2014-09-26 10:38:32 --> idxPAIR07F is in consistent state
+2014-09-26 10:38:32 --> idxPHRASE07F contains 0 words from 0 records
+2014-09-26 10:38:32 --> idxPHRASE07F is in consistent state
+2014-09-26 10:38:32 --> idxPHRASE07F for 1-107 is in consistent state
+2014-09-26 10:38:32 --> idxPHRASE07F adding records #1-#107 started
+2014-09-26 10:38:32 --> idxPHRASE07F adding records #1-#107 ended  
+2014-09-26 10:38:32 --> idxPHRASE07F normal wordtable flush started
+2014-09-26 10:38:32 --> ...updating 121 words into idxPHRASE07F started
+2014-09-26 10:38:32 --> ......processed 12/121 words
+2014-09-26 10:38:32 --> ......processed 24/121 words
+2014-09-26 10:38:32 --> ......processed 36/121 words
+2014-09-26 10:38:32 --> ......processed 48/121 words
+2014-09-26 10:38:32 --> ......processed 60/121 words
+2014-09-26 10:38:32 --> ......processed 72/121 words
+2014-09-26 10:38:32 --> ......processed 84/121 words
+2014-09-26 10:38:32 --> ......processed 96/121 words
+2014-09-26 10:38:32 --> ......processed 108/121 words
+2014-09-26 10:38:32 --> ......processed 120/121 words
+2014-09-26 10:38:32 --> ...updating 121 words into idxPHRASE07F ended
+2014-09-26 10:38:32 --> ...updating reverse table idxPHRASE07R started
+2014-09-26 10:38:32 --> ...updating reverse table idxPHRASE07R ended
+2014-09-26 10:38:32 --> idxPHRASE07F normal wordtable flush ended
+2014-09-26 10:38:32 --> 76 records took 0.0 seconds to complete.(105042 recs/min)
+2014-09-26 10:38:32 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:32 --> idxPHRASE07F contains 121 words from 76 records
+2014-09-26 10:38:32 --> idxPHRASE07F is in consistent state
+2014-09-26 10:38:32 --> idxWORD08F has stemming enabled, language en
+2014-09-26 10:38:32 --> idxWORD08F contains 0 words from 0 records
+2014-09-26 10:38:32 --> idxWORD08F is in consistent state
+2014-09-26 10:38:32 --> idxWORD08F for 1-107 is in consistent state
+2014-09-26 10:38:32 --> idxWORD08F adding records #1-#107 started
+2014-09-26 10:38:33 --> idxWORD08F adding records #1-#107 ended  
+2014-09-26 10:38:33 --> idxWORD08F normal wordtable flush started
+2014-09-26 10:38:33 --> ...updating 527 words into idxWORD08F started
+2014-09-26 10:38:33 --> ......processed 52/527 words
+2014-09-26 10:38:33 --> ......processed 104/527 words
+2014-09-26 10:38:33 --> ......processed 156/527 words
+2014-09-26 10:38:33 --> ......processed 208/527 words
+2014-09-26 10:38:33 --> ......processed 260/527 words
+2014-09-26 10:38:33 --> ......processed 312/527 words
+2014-09-26 10:38:33 --> ......processed 364/527 words
+2014-09-26 10:38:33 --> ......processed 416/527 words
+2014-09-26 10:38:33 --> ......processed 468/527 words
+2014-09-26 10:38:33 --> ......processed 520/527 words
+2014-09-26 10:38:33 --> ...updating 527 words into idxWORD08F ended
+2014-09-26 10:38:33 --> ...updating reverse table idxWORD08R started
+2014-09-26 10:38:33 --> ...updating reverse table idxWORD08R ended
+2014-09-26 10:38:33 --> idxWORD08F normal wordtable flush ended
+2014-09-26 10:38:33 --> 99 records took 0.7 seconds to complete.(8947 recs/min)
+2014-09-26 10:38:33 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:33 --> idxWORD08F contains 527 words from 99 records
+2014-09-26 10:38:33 --> idxWORD08F is in consistent state
+2014-09-26 10:38:33 --> idxPAIR08F contains 0 words from 0 records
+2014-09-26 10:38:33 --> idxPAIR08F is in consistent state
+2014-09-26 10:38:33 --> idxPAIR08F for 1-107 is in consistent state
+2014-09-26 10:38:33 --> idxPAIR08F adding records #1-#107 started
+2014-09-26 10:38:33 --> idxPAIR08F adding records #1-#107 ended  
+2014-09-26 10:38:33 --> idxPAIR08F normal wordtable flush started
+2014-09-26 10:38:33 --> ...updating 651 words into idxPAIR08F started
+2014-09-26 10:38:33 --> ......processed 65/651 words
+2014-09-26 10:38:33 --> ......processed 130/651 words
+2014-09-26 10:38:33 --> ......processed 195/651 words
+2014-09-26 10:38:33 --> ......processed 260/651 words
+2014-09-26 10:38:33 --> ......processed 325/651 words
+2014-09-26 10:38:33 --> ......processed 390/651 words
+2014-09-26 10:38:33 --> ......processed 455/651 words
+2014-09-26 10:38:33 --> ......processed 520/651 words
+2014-09-26 10:38:33 --> ......processed 585/651 words
+2014-09-26 10:38:33 --> ......processed 650/651 words
+2014-09-26 10:38:33 --> ...updating 651 words into idxPAIR08F ended
+2014-09-26 10:38:33 --> ...updating reverse table idxPAIR08R started
+2014-09-26 10:38:33 --> ...updating reverse table idxPAIR08R ended
+2014-09-26 10:38:33 --> idxPAIR08F normal wordtable flush ended
+2014-09-26 10:38:33 --> 99 records took 0.2 seconds to complete.(29743 recs/min)
+2014-09-26 10:38:33 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:33 --> idxPAIR08F contains 651 words from 99 records
+2014-09-26 10:38:33 --> idxPAIR08F is in consistent state
+2014-09-26 10:38:33 --> idxPHRASE08F contains 0 words from 0 records
+2014-09-26 10:38:33 --> idxPHRASE08F is in consistent state
+2014-09-26 10:38:33 --> idxPHRASE08F for 1-107 is in consistent state
+2014-09-26 10:38:33 --> idxPHRASE08F adding records #1-#107 started
+2014-09-26 10:38:33 --> idxPHRASE08F adding records #1-#107 ended  
+2014-09-26 10:38:33 --> idxPHRASE08F normal wordtable flush started
+2014-09-26 10:38:33 --> ...updating 109 words into idxPHRASE08F started
+2014-09-26 10:38:33 --> ......processed 10/109 words
+2014-09-26 10:38:33 --> ......processed 20/109 words
+2014-09-26 10:38:33 --> ......processed 30/109 words
+2014-09-26 10:38:33 --> ......processed 40/109 words
+2014-09-26 10:38:33 --> ......processed 50/109 words
+2014-09-26 10:38:33 --> ......processed 60/109 words
+2014-09-26 10:38:33 --> ......processed 70/109 words
+2014-09-26 10:38:33 --> ......processed 80/109 words
+2014-09-26 10:38:33 --> ......processed 90/109 words
+2014-09-26 10:38:33 --> ......processed 100/109 words
+2014-09-26 10:38:33 --> ...updating 109 words into idxPHRASE08F ended
+2014-09-26 10:38:33 --> ...updating reverse table idxPHRASE08R started
+2014-09-26 10:38:33 --> ...updating reverse table idxPHRASE08R ended
+2014-09-26 10:38:33 --> idxPHRASE08F normal wordtable flush ended
+2014-09-26 10:38:33 --> 99 records took 0.1 seconds to complete.(52936 recs/min)
+2014-09-26 10:38:33 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:33 --> idxPHRASE08F contains 109 words from 99 records
+2014-09-26 10:38:33 --> idxPHRASE08F is in consistent state
+2014-09-26 10:38:33 --> idxWORD10F contains 0 words from 0 records
+2014-09-26 10:38:33 --> idxWORD10F is in consistent state
+2014-09-26 10:38:33 --> idxWORD10F for 1-107 is in consistent state
+2014-09-26 10:38:33 --> idxWORD10F adding records #1-#107 started
+2014-09-26 10:38:33 --> idxWORD10F adding records #1-#107 ended  
+2014-09-26 10:38:33 --> idxWORD10F normal wordtable flush started
+2014-09-26 10:38:33 --> ...updating 29 words into idxWORD10F started
+2014-09-26 10:38:33 --> ......processed 2/29 words
+2014-09-26 10:38:33 --> ......processed 4/29 words
+2014-09-26 10:38:33 --> ......processed 6/29 words
+2014-09-26 10:38:33 --> ......processed 8/29 words
+2014-09-26 10:38:33 --> ......processed 10/29 words
+2014-09-26 10:38:33 --> ......processed 12/29 words
+2014-09-26 10:38:33 --> ......processed 14/29 words
+2014-09-26 10:38:33 --> ......processed 16/29 words
+2014-09-26 10:38:33 --> ......processed 18/29 words
+2014-09-26 10:38:33 --> ......processed 20/29 words
+2014-09-26 10:38:33 --> ......processed 22/29 words
+2014-09-26 10:38:33 --> ......processed 24/29 words
+2014-09-26 10:38:33 --> ......processed 26/29 words
+2014-09-26 10:38:33 --> ......processed 28/29 words
+2014-09-26 10:38:33 --> ...updating 29 words into idxWORD10F ended
+2014-09-26 10:38:33 --> ...updating reverse table idxWORD10R started
+2014-09-26 10:38:33 --> ...updating reverse table idxWORD10R ended
+2014-09-26 10:38:33 --> idxWORD10F normal wordtable flush ended
+2014-09-26 10:38:33 --> 70 records took 0.0 seconds to complete.(155399 recs/min)
+2014-09-26 10:38:33 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:33 --> idxWORD10F contains 29 words from 70 records
+2014-09-26 10:38:33 --> idxWORD10F is in consistent state
+2014-09-26 10:38:33 --> idxPAIR10F contains 0 words from 0 records
+2014-09-26 10:38:33 --> idxPAIR10F is in consistent state
+2014-09-26 10:38:33 --> idxPAIR10F for 1-107 is in consistent state
+2014-09-26 10:38:33 --> idxPAIR10F adding records #1-#107 started
+2014-09-26 10:38:33 --> idxPAIR10F adding records #1-#107 ended  
+2014-09-26 10:38:33 --> idxPAIR10F normal wordtable flush started
+2014-09-26 10:38:33 --> ...updating 1 words into idxPAIR10F started
+2014-09-26 10:38:33 --> ...updating 1 words into idxPAIR10F ended
+2014-09-26 10:38:33 --> ...updating reverse table idxPAIR10R started
+2014-09-26 10:38:33 --> ...updating reverse table idxPAIR10R ended
+2014-09-26 10:38:33 --> idxPAIR10F normal wordtable flush ended
+2014-09-26 10:38:33 --> 70 records took 0.1 seconds to complete.(61034 recs/min)
+2014-09-26 10:38:33 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:33 --> idxPAIR10F contains 1 words from 70 records
+2014-09-26 10:38:33 --> idxPAIR10F is in consistent state
+2014-09-26 10:38:33 --> idxPHRASE10F contains 0 words from 0 records
+2014-09-26 10:38:33 --> idxPHRASE10F is in consistent state
+2014-09-26 10:38:33 --> idxPHRASE10F for 1-107 is in consistent state
+2014-09-26 10:38:33 --> idxPHRASE10F adding records #1-#107 started
+2014-09-26 10:38:34 --> idxPHRASE10F adding records #1-#107 ended  
+2014-09-26 10:38:34 --> idxPHRASE10F normal wordtable flush started
+2014-09-26 10:38:34 --> ...updating 27 words into idxPHRASE10F started
+2014-09-26 10:38:34 --> ......processed 2/27 words
+2014-09-26 10:38:34 --> ......processed 4/27 words
+2014-09-26 10:38:34 --> ......processed 6/27 words
+2014-09-26 10:38:34 --> ......processed 8/27 words
+2014-09-26 10:38:34 --> ......processed 10/27 words
+2014-09-26 10:38:34 --> ......processed 12/27 words
+2014-09-26 10:38:34 --> ......processed 14/27 words
+2014-09-26 10:38:34 --> ......processed 16/27 words
+2014-09-26 10:38:34 --> ......processed 18/27 words
+2014-09-26 10:38:34 --> ......processed 20/27 words
+2014-09-26 10:38:34 --> ......processed 22/27 words
+2014-09-26 10:38:34 --> ......processed 24/27 words
+2014-09-26 10:38:34 --> ......processed 26/27 words
+2014-09-26 10:38:34 --> ...updating 27 words into idxPHRASE10F ended
+2014-09-26 10:38:34 --> ...updating reverse table idxPHRASE10R started
+2014-09-26 10:38:34 --> ...updating reverse table idxPHRASE10R ended
+2014-09-26 10:38:34 --> idxPHRASE10F normal wordtable flush ended
+2014-09-26 10:38:34 --> 70 records took 0.1 seconds to complete.(36247 recs/min)
+2014-09-26 10:38:34 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:38:34 --> idxPHRASE10F contains 27 words from 70 records
+2014-09-26 10:38:34 --> idxPHRASE10F is in consistent state
+2014-09-26 10:38:34 --> Task #2 finished. [DONE]
+2014-10-10 17:10:32 --> Task #2 started.
+2014-10-10 17:10:32 --> bibsort starting..
+2014-10-10 17:10:32 --> Reading config data from: /opt/invenio/etc/bibsort/bibsort.cfg
+2014-10-10 17:10:32 --> bibsort exiting..
+2014-10-10 17:10:32 --> Task #2 finished. [DONE]
+2014-10-11 09:29:59 --> Task #2 started.
+2014-10-11 09:29:59 --> bibsort starting..
+2014-10-11 09:29:59 --> Reading config data from: /opt/invenio/etc/bibsort/bibsort.cfg
+2014-10-11 09:29:59 --> bibsort exiting..
+2014-10-11 09:29:59 --> Task #2 finished. [DONE]
+2014-10-11 10:14:28 --> Task #2 started.
+2014-10-11 10:14:28 --> bibsort starting..
+2014-10-11 10:14:28 --> Reading config data from: /opt/invenio/etc/bibsort/bibsort.cfg
+2014-10-11 10:14:28 --> bibsort exiting..
+2014-10-11 10:14:28 --> Task #2 finished. [DONE]

@@ -1,0 +1,2724 @@
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD02R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD02R ended
+2014-12-12 15:42:13 --> idxWORD02F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxWORD02F contains 32 words from 370 records
+2014-12-12 15:42:13 --> idxWORD02F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR02F contains 0 words from 370 records
+2014-12-12 15:42:13 --> idxPAIR02F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR02F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR02F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR02F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR02F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR02F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR02F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR02R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR02R ended
+2014-12-12 15:42:13 --> idxPAIR02F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPAIR02F contains 0 words from 370 records
+2014-12-12 15:42:13 --> idxPAIR02F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE02F contains 32 words from 370 records
+2014-12-12 15:42:13 --> idxPHRASE02F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE02F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE02F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE02F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE02F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE02F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE02F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE02R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE02R ended
+2014-12-12 15:42:13 --> idxPHRASE02F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPHRASE02F contains 32 words from 370 records
+2014-12-12 15:42:13 --> idxPHRASE02F is in consistent state
+2014-12-12 15:42:13 --> idxWORD14F contains 702 words from 384 records
+2014-12-12 15:42:13 --> idxWORD14F is in consistent state
+2014-12-12 15:42:13 --> idxWORD14F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD14F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD14F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD14F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD14F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD14F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD14R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD14R ended
+2014-12-12 15:42:13 --> idxWORD14F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(30769 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxWORD14F is up to date
+2014-12-12 15:42:13 --> idxWORD14F contains 702 words from 385 records
+2014-12-12 15:42:13 --> idxWORD14F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR14F contains 772 words from 384 records
+2014-12-12 15:42:13 --> idxPAIR14F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR14F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR14F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR14F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR14F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR14F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR14F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR14R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR14R ended
+2014-12-12 15:42:13 --> idxPAIR14F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(33372 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxPAIR14F is up to date
+2014-12-12 15:42:13 --> idxPAIR14F contains 772 words from 385 records
+2014-12-12 15:42:13 --> idxPAIR14F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE14F contains 643 words from 384 records
+2014-12-12 15:42:13 --> idxPHRASE14F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE14F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE14F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE14F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE14F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE14F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE14F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE14R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE14R ended
+2014-12-12 15:42:13 --> idxPHRASE14F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(31138 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxPHRASE14F is up to date
+2014-12-12 15:42:13 --> idxPHRASE14F contains 643 words from 385 records
+2014-12-12 15:42:13 --> idxPHRASE14F is in consistent state
+2014-12-12 15:42:13 --> idxWORD17F contains 162 words from 384 records
+2014-12-12 15:42:13 --> idxWORD17F is in consistent state
+2014-12-12 15:42:13 --> idxWORD17F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD17F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD17F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD17F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD17F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD17F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD17R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD17R ended
+2014-12-12 15:42:13 --> idxWORD17F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(31779 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxWORD17F is up to date
+2014-12-12 15:42:13 --> idxWORD17F contains 162 words from 385 records
+2014-12-12 15:42:13 --> idxWORD17F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR17F contains 129 words from 384 records
+2014-12-12 15:42:13 --> idxPAIR17F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR17F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR17F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR17F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR17F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR17F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR17F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR17R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR17R ended
+2014-12-12 15:42:13 --> idxPAIR17F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(31281 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxPAIR17F is up to date
+2014-12-12 15:42:13 --> idxPAIR17F contains 129 words from 385 records
+2014-12-12 15:42:13 --> idxPAIR17F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE17F contains 109 words from 384 records
+2014-12-12 15:42:13 --> idxPHRASE17F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE17F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE17F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE17F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE17F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE17F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE17F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE17R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE17R ended
+2014-12-12 15:42:13 --> idxPHRASE17F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(30630 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxPHRASE17F is up to date
+2014-12-12 15:42:13 --> idxPHRASE17F contains 109 words from 385 records
+2014-12-12 15:42:13 --> idxPHRASE17F is in consistent state
+2014-12-12 15:42:13 --> idxWORD16F contains 162 words from 384 records
+2014-12-12 15:42:13 --> idxWORD16F is in consistent state
+2014-12-12 15:42:13 --> idxWORD16F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD16F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD16F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD16F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD16F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD16F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD16R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD16R ended
+2014-12-12 15:42:13 --> idxWORD16F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(36320 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxWORD16F is up to date
+2014-12-12 15:42:13 --> idxWORD16F contains 162 words from 385 records
+2014-12-12 15:42:13 --> idxWORD16F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR16F contains 129 words from 384 records
+2014-12-12 15:42:13 --> idxPAIR16F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR16F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR16F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR16F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR16F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR16F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR16F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR16R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR16R ended
+2014-12-12 15:42:13 --> idxPAIR16F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(27854 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxPAIR16F is up to date
+2014-12-12 15:42:13 --> idxPAIR16F contains 129 words from 385 records
+2014-12-12 15:42:13 --> idxPAIR16F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE16F contains 460 words from 384 records
+2014-12-12 15:42:13 --> idxPHRASE16F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE16F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE16F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE16F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE16F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE16F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE16F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE16R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE16R ended
+2014-12-12 15:42:13 --> idxPHRASE16F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(40156 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> No new records added by author canonical IDs. idxPHRASE16F is up to date
+2014-12-12 15:42:13 --> idxPHRASE16F contains 460 words from 385 records
+2014-12-12 15:42:13 --> idxPHRASE16F is in consistent state
+2014-12-12 15:42:13 --> idxWORD09F has stemming enabled, language en
+2014-12-12 15:42:13 --> idxWORD09F contains 32887 words from 332 records
+2014-12-12 15:42:13 --> idxWORD09F is in consistent state
+2014-12-12 15:42:13 --> idxWORD09F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD09F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD09F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD09F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD09F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD09F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD09R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD09R ended
+2014-12-12 15:42:13 --> idxWORD09F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(8875 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> idxWORD09F contains 32887 words from 333 records
+2014-12-12 15:42:13 --> idxWORD09F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR09F contains 0 words from 332 records
+2014-12-12 15:42:13 --> idxPAIR09F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR09F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR09F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR09F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR09F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR09F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR09F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR09R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR09R ended
+2014-12-12 15:42:13 --> idxPAIR09F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(22116 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> idxPAIR09F contains 0 words from 333 records
+2014-12-12 15:42:13 --> idxPAIR09F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE09F contains 0 words from 332 records
+2014-12-12 15:42:13 --> idxPHRASE09F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE09F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE09F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE09F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE09F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE09F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE09F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE09R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE09R ended
+2014-12-12 15:42:13 --> idxPHRASE09F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(21747 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> idxPHRASE09F contains 0 words from 333 records
+2014-12-12 15:42:13 --> idxPHRASE09F is in consistent state
+2014-12-12 15:42:13 --> idxWORD01F has stemming enabled, language en
+2014-12-12 15:42:13 --> idxWORD01F contains 6806 words from 378 records
+2014-12-12 15:42:13 --> idxWORD01F is in consistent state
+2014-12-12 15:42:13 --> idxWORD01F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD01F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD01F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD01F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD01F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD01F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD01R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD01R ended
+2014-12-12 15:42:13 --> idxWORD01F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxWORD01F contains 6806 words from 378 records
+2014-12-12 15:42:13 --> idxWORD01F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR01F contains 12229 words from 378 records
+2014-12-12 15:42:13 --> idxPAIR01F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR01F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR01F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR01F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR01F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR01F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR01F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR01R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR01R ended
+2014-12-12 15:42:13 --> idxPAIR01F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPAIR01F contains 12229 words from 378 records
+2014-12-12 15:42:13 --> idxPAIR01F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE01F contains 2782 words from 378 records
+2014-12-12 15:42:13 --> idxPHRASE01F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE01F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE01F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE01F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE01F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE01F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE01F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE01R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE01R ended
+2014-12-12 15:42:13 --> idxPHRASE01F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPHRASE01F contains 2782 words from 378 records
+2014-12-12 15:42:13 --> idxPHRASE01F is in consistent state
+2014-12-12 15:42:13 --> idxWORD11F contains 134 words from 384 records
+2014-12-12 15:42:13 --> idxWORD11F is in consistent state
+2014-12-12 15:42:13 --> idxWORD11F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD11F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD11F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD11F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD11F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD11F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD11R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD11R ended
+2014-12-12 15:42:13 --> idxWORD11F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(30150 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> idxWORD11F contains 134 words from 385 records
+2014-12-12 15:42:13 --> idxWORD11F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR11F contains 134 words from 384 records
+2014-12-12 15:42:13 --> idxPAIR11F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR11F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR11F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR11F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR11F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR11F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR11F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR11R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR11R ended
+2014-12-12 15:42:13 --> idxPAIR11F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(34483 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> idxPAIR11F contains 134 words from 385 records
+2014-12-12 15:42:13 --> idxPAIR11F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE11F contains 134 words from 384 records
+2014-12-12 15:42:13 --> idxPHRASE11F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE11F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE11F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE11F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE11F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE11F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE11F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE11R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE11R ended
+2014-12-12 15:42:13 --> idxPHRASE11F normal wordtable flush ended
+2014-12-12 15:42:13 --> 1 records took 0.0 seconds to complete.(44439 recs/min)
+2014-12-12 15:42:13 --> Estimated runtime: 0.0 minutes
+2014-12-12 15:42:13 --> idxPHRASE11F contains 134 words from 385 records
+2014-12-12 15:42:13 --> idxPHRASE11F is in consistent state
+2014-12-12 15:42:13 --> idxWORD05F has stemming enabled, language en
+2014-12-12 15:42:13 --> idxWORD05F contains 224 words from 206 records
+2014-12-12 15:42:13 --> idxWORD05F is in consistent state
+2014-12-12 15:42:13 --> idxWORD05F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD05F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD05F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD05F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD05F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD05F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD05R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD05R ended
+2014-12-12 15:42:13 --> idxWORD05F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxWORD05F contains 224 words from 206 records
+2014-12-12 15:42:13 --> idxWORD05F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR05F contains 13 words from 206 records
+2014-12-12 15:42:13 --> idxPAIR05F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR05F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR05F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR05F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR05F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR05F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR05F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR05R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR05R ended
+2014-12-12 15:42:13 --> idxPAIR05F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPAIR05F contains 13 words from 206 records
+2014-12-12 15:42:13 --> idxPAIR05F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE05F contains 214 words from 206 records
+2014-12-12 15:42:13 --> idxPHRASE05F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE05F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE05F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE05F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE05F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE05F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE05F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE05R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE05R ended
+2014-12-12 15:42:13 --> idxPHRASE05F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPHRASE05F contains 214 words from 206 records
+2014-12-12 15:42:13 --> idxPHRASE05F is in consistent state
+2014-12-12 15:42:13 --> idxWORD06F contains 7262 words from 48 records
+2014-12-12 15:42:13 --> idxWORD06F is in consistent state
+2014-12-12 15:42:13 --> idxWORD06F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD06F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD06F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD06F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD06F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD06F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD06R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD06R ended
+2014-12-12 15:42:13 --> idxWORD06F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxWORD06F contains 7262 words from 48 records
+2014-12-12 15:42:13 --> idxWORD06F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR06F contains 12452 words from 48 records
+2014-12-12 15:42:13 --> idxPAIR06F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR06F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR06F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR06F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR06F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR06F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR06F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR06R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR06R ended
+2014-12-12 15:42:13 --> idxPAIR06F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPAIR06F contains 12452 words from 48 records
+2014-12-12 15:42:13 --> idxPAIR06F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE06F contains 4927 words from 48 records
+2014-12-12 15:42:13 --> idxPHRASE06F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE06F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE06F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE06F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE06F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE06F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE06F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE06R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE06R ended
+2014-12-12 15:42:13 --> idxPHRASE06F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPHRASE06F contains 4927 words from 48 records
+2014-12-12 15:42:13 --> idxPHRASE06F is in consistent state
+2014-12-12 15:42:13 --> idxWORD07F contains 574 words from 349 records
+2014-12-12 15:42:13 --> idxWORD07F is in consistent state
+2014-12-12 15:42:13 --> idxWORD07F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD07F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD07F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD07F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD07F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD07F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD07R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD07R ended
+2014-12-12 15:42:13 --> idxWORD07F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxWORD07F contains 574 words from 349 records
+2014-12-12 15:42:13 --> idxWORD07F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR07F contains 314 words from 349 records
+2014-12-12 15:42:13 --> idxPAIR07F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR07F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR07F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR07F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR07F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR07F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR07F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR07R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR07R ended
+2014-12-12 15:42:13 --> idxPAIR07F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPAIR07F contains 314 words from 349 records
+2014-12-12 15:42:13 --> idxPAIR07F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE07F contains 285 words from 349 records
+2014-12-12 15:42:13 --> idxPHRASE07F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE07F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE07F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE07F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE07F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE07F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE07F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE07R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE07R ended
+2014-12-12 15:42:13 --> idxPHRASE07F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPHRASE07F contains 285 words from 349 records
+2014-12-12 15:42:13 --> idxPHRASE07F is in consistent state
+2014-12-12 15:42:13 --> idxWORD08F has stemming enabled, language en
+2014-12-12 15:42:13 --> idxWORD08F contains 792 words from 371 records
+2014-12-12 15:42:13 --> idxWORD08F is in consistent state
+2014-12-12 15:42:13 --> idxWORD08F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD08F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD08F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD08F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD08F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD08F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD08R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD08R ended
+2014-12-12 15:42:13 --> idxWORD08F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxWORD08F contains 792 words from 371 records
+2014-12-12 15:42:13 --> idxWORD08F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR08F contains 797 words from 371 records
+2014-12-12 15:42:13 --> idxPAIR08F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR08F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR08F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR08F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR08F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR08F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR08F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR08R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR08R ended
+2014-12-12 15:42:13 --> idxPAIR08F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPAIR08F contains 797 words from 371 records
+2014-12-12 15:42:13 --> idxPAIR08F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE08F contains 272 words from 371 records
+2014-12-12 15:42:13 --> idxPHRASE08F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE08F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE08F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE08F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE08F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE08F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE08F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE08R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE08R ended
+2014-12-12 15:42:13 --> idxPHRASE08F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPHRASE08F contains 272 words from 371 records
+2014-12-12 15:42:13 --> idxPHRASE08F is in consistent state
+2014-12-12 15:42:13 --> idxWORD10F contains 31 words from 79 records
+2014-12-12 15:42:13 --> idxWORD10F is in consistent state
+2014-12-12 15:42:13 --> idxWORD10F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxWORD10F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxWORD10F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxWORD10F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD10F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxWORD10F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD10R started
+2014-12-12 15:42:13 --> ...updating reverse table idxWORD10R ended
+2014-12-12 15:42:13 --> idxWORD10F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxWORD10F contains 31 words from 79 records
+2014-12-12 15:42:13 --> idxWORD10F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR10F contains 1 words from 79 records
+2014-12-12 15:42:13 --> idxPAIR10F is in consistent state
+2014-12-12 15:42:13 --> idxPAIR10F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPAIR10F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPAIR10F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPAIR10F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR10F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPAIR10F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR10R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPAIR10R ended
+2014-12-12 15:42:13 --> idxPAIR10F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPAIR10F contains 1 words from 79 records
+2014-12-12 15:42:13 --> idxPAIR10F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE10F contains 29 words from 79 records
+2014-12-12 15:42:13 --> idxPHRASE10F is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE10F for 385-385 is in consistent state
+2014-12-12 15:42:13 --> idxPHRASE10F adding records #385-#385 started
+2014-12-12 15:42:13 --> idxPHRASE10F adding records #385-#385 ended  
+2014-12-12 15:42:13 --> idxPHRASE10F normal wordtable flush started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE10F started
+2014-12-12 15:42:13 --> ...updating 0 words into idxPHRASE10F ended
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE10R started
+2014-12-12 15:42:13 --> ...updating reverse table idxPHRASE10R ended
+2014-12-12 15:42:13 --> idxPHRASE10F normal wordtable flush ended
+2014-12-12 15:42:13 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-12-12 15:42:13 --> idxPHRASE10F contains 29 words from 79 records
+2014-12-12 15:42:13 --> idxPHRASE10F is in consistent state
+2014-12-12 15:42:13 --> Task #1118 finished and resubmitted.
+2014-12-12 15:42:14 --> Task #1118 started.
+2014-12-12 15:42:14 --> idxWORD03F has stemming enabled, language en
+2014-12-12 15:42:14 --> idxWORD03F contains 3554 words from 251 records
+2014-12-12 15:42:14 --> idxWORD03F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxWORD03F is up to date
+2014-12-12 15:42:14 --> idxWORD03F contains 3554 words from 251 records
+2014-12-12 15:42:14 --> idxWORD03F is in consistent state
+2014-12-12 15:42:14 --> idxPAIR03F contains 9293 words from 251 records
+2014-12-12 15:42:14 --> idxPAIR03F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPAIR03F is up to date
+2014-12-12 15:42:14 --> idxPAIR03F contains 9293 words from 251 records
+2014-12-12 15:42:14 --> idxPAIR03F is in consistent state
+2014-12-12 15:42:14 --> idxPHRASE03F contains 175 words from 251 records
+2014-12-12 15:42:14 --> idxPHRASE03F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPHRASE03F is up to date
+2014-12-12 15:42:14 --> idxPHRASE03F contains 175 words from 251 records
+2014-12-12 15:42:14 --> idxPHRASE03F is in consistent state
+2014-12-12 15:42:14 --> idxWORD13F contains 106 words from 77 records
+2014-12-12 15:42:14 --> idxWORD13F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxWORD13F is up to date
+2014-12-12 15:42:14 --> idxWORD13F contains 106 words from 77 records
+2014-12-12 15:42:14 --> idxWORD13F is in consistent state
+2014-12-12 15:42:14 --> idxPAIR13F contains 101 words from 77 records
+2014-12-12 15:42:14 --> idxPAIR13F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPAIR13F is up to date
+2014-12-12 15:42:14 --> idxPAIR13F contains 101 words from 77 records
+2014-12-12 15:42:14 --> idxPAIR13F is in consistent state
+2014-12-12 15:42:14 --> idxPHRASE13F contains 61 words from 77 records
+2014-12-12 15:42:14 --> idxPHRASE13F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPHRASE13F is up to date
+2014-12-12 15:42:14 --> idxPHRASE13F contains 61 words from 77 records
+2014-12-12 15:42:14 --> idxPHRASE13F is in consistent state
+2014-12-12 15:42:14 --> idxWORD04F contains 702 words from 385 records
+2014-12-12 15:42:14 --> idxWORD04F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxWORD04F is up to date
+2014-12-12 15:42:14 --> No new records added by author canonical IDs. idxWORD04F is up to date
+2014-12-12 15:42:14 --> idxWORD04F contains 702 words from 385 records
+2014-12-12 15:42:14 --> idxWORD04F is in consistent state
+2014-12-12 15:42:14 --> idxPAIR04F contains 772 words from 385 records
+2014-12-12 15:42:14 --> idxPAIR04F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPAIR04F is up to date
+2014-12-12 15:42:14 --> No new records added by author canonical IDs. idxPAIR04F is up to date
+2014-12-12 15:42:14 --> idxPAIR04F contains 772 words from 385 records
+2014-12-12 15:42:14 --> idxPAIR04F is in consistent state
+2014-12-12 15:42:14 --> idxPHRASE04F contains 2154 words from 385 records
+2014-12-12 15:42:14 --> idxPHRASE04F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPHRASE04F is up to date
+2014-12-12 15:42:14 --> No new records added by author canonical IDs. idxPHRASE04F is up to date
+2014-12-12 15:42:14 --> idxPHRASE04F contains 2154 words from 385 records
+2014-12-12 15:42:14 --> idxPHRASE04F is in consistent state
+2014-12-12 15:42:14 --> idxWORD18F contains 13 words from 385 records
+2014-12-12 15:42:14 --> idxWORD18F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxWORD18F is up to date
+2014-12-12 15:42:14 --> idxWORD18F contains 13 words from 385 records
+2014-12-12 15:42:14 --> idxWORD18F is in consistent state
+2014-12-12 15:42:14 --> idxPAIR18F contains 13 words from 385 records
+2014-12-12 15:42:14 --> idxPAIR18F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPAIR18F is up to date
+2014-12-12 15:42:14 --> idxPAIR18F contains 13 words from 385 records
+2014-12-12 15:42:14 --> idxPAIR18F is in consistent state
+2014-12-12 15:42:14 --> idxPHRASE18F contains 13 words from 385 records
+2014-12-12 15:42:14 --> idxPHRASE18F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPHRASE18F is up to date
+2014-12-12 15:42:14 --> idxPHRASE18F contains 13 words from 385 records
+2014-12-12 15:42:14 --> idxPHRASE18F is in consistent state
+2014-12-12 15:42:14 --> idxWORD15F contains 9 words from 1 records
+2014-12-12 15:42:14 --> idxWORD15F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxWORD15F is up to date
+2014-12-12 15:42:14 --> idxWORD15F contains 9 words from 1 records
+2014-12-12 15:42:14 --> idxWORD15F is in consistent state
+2014-12-12 15:42:14 --> idxPAIR15F contains 2 words from 1 records
+2014-12-12 15:42:14 --> idxPAIR15F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPAIR15F is up to date
+2014-12-12 15:42:14 --> idxPAIR15F contains 2 words from 1 records
+2014-12-12 15:42:14 --> idxPAIR15F is in consistent state
+2014-12-12 15:42:14 --> idxPHRASE15F contains 6 words from 1 records
+2014-12-12 15:42:14 --> idxPHRASE15F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPHRASE15F is up to date
+2014-12-12 15:42:14 --> idxPHRASE15F contains 6 words from 1 records
+2014-12-12 15:42:14 --> idxPHRASE15F is in consistent state
+2014-12-12 15:42:14 --> idxWORD12F contains 21 words from 3 records
+2014-12-12 15:42:14 --> idxWORD12F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxWORD12F is up to date
+2014-12-12 15:42:14 --> idxWORD12F contains 21 words from 3 records
+2014-12-12 15:42:14 --> idxWORD12F is in consistent state
+2014-12-12 15:42:14 --> idxPAIR12F contains 20 words from 3 records
+2014-12-12 15:42:14 --> idxPAIR12F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPAIR12F is up to date
+2014-12-12 15:42:14 --> idxPAIR12F contains 20 words from 3 records
+2014-12-12 15:42:14 --> idxPAIR12F is in consistent state
+2014-12-12 15:42:14 --> idxPHRASE12F contains 3 words from 3 records
+2014-12-12 15:42:14 --> idxPHRASE12F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPHRASE12F is up to date
+2014-12-12 15:42:14 --> idxPHRASE12F contains 3 words from 3 records
+2014-12-12 15:42:14 --> idxPHRASE12F is in consistent state
+2014-12-12 15:42:14 --> idxWORD02F contains 32 words from 370 records
+2014-12-12 15:42:14 --> idxWORD02F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxWORD02F is up to date
+2014-12-12 15:42:14 --> idxWORD02F contains 32 words from 370 records
+2014-12-12 15:42:14 --> idxWORD02F is in consistent state
+2014-12-12 15:42:14 --> idxPAIR02F contains 0 words from 370 records
+2014-12-12 15:42:14 --> idxPAIR02F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPAIR02F is up to date
+2014-12-12 15:42:14 --> idxPAIR02F contains 0 words from 370 records
+2014-12-12 15:42:14 --> idxPAIR02F is in consistent state
+2014-12-12 15:42:14 --> idxPHRASE02F contains 32 words from 370 records
+2014-12-12 15:42:14 --> idxPHRASE02F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPHRASE02F is up to date
+2014-12-12 15:42:14 --> idxPHRASE02F contains 32 words from 370 records
+2014-12-12 15:42:14 --> idxPHRASE02F is in consistent state
+2014-12-12 15:42:14 --> idxWORD14F contains 702 words from 385 records
+2014-12-12 15:42:14 --> idxWORD14F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxWORD14F is up to date
+2014-12-12 15:42:14 --> No new records added by author canonical IDs. idxWORD14F is up to date
+2014-12-12 15:42:14 --> idxWORD14F contains 702 words from 385 records
+2014-12-12 15:42:14 --> idxWORD14F is in consistent state
+2014-12-12 15:42:14 --> idxPAIR14F contains 772 words from 385 records
+2014-12-12 15:42:14 --> idxPAIR14F is in consistent state
+2014-12-12 15:42:14 --> No new records added. idxPAIR14F is up to date
+2014-12-12 15:42:14 --> No new records added by author canonical IDs. idxPAIR14F is up to date
+2014-12-12 15:42:15 --> idxPAIR14F contains 772 words from 385 records
+2014-12-12 15:42:15 --> idxPAIR14F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE14F contains 643 words from 385 records
+2014-12-12 15:42:15 --> idxPHRASE14F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE14F is up to date
+2014-12-12 15:42:15 --> No new records added by author canonical IDs. idxPHRASE14F is up to date
+2014-12-12 15:42:15 --> idxPHRASE14F contains 643 words from 385 records
+2014-12-12 15:42:15 --> idxPHRASE14F is in consistent state
+2014-12-12 15:42:15 --> idxWORD17F contains 162 words from 385 records
+2014-12-12 15:42:15 --> idxWORD17F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD17F is up to date
+2014-12-12 15:42:15 --> No new records added by author canonical IDs. idxWORD17F is up to date
+2014-12-12 15:42:15 --> idxWORD17F contains 162 words from 385 records
+2014-12-12 15:42:15 --> idxWORD17F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR17F contains 129 words from 385 records
+2014-12-12 15:42:15 --> idxPAIR17F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR17F is up to date
+2014-12-12 15:42:15 --> No new records added by author canonical IDs. idxPAIR17F is up to date
+2014-12-12 15:42:15 --> idxPAIR17F contains 129 words from 385 records
+2014-12-12 15:42:15 --> idxPAIR17F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE17F contains 109 words from 385 records
+2014-12-12 15:42:15 --> idxPHRASE17F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE17F is up to date
+2014-12-12 15:42:15 --> No new records added by author canonical IDs. idxPHRASE17F is up to date
+2014-12-12 15:42:15 --> idxPHRASE17F contains 109 words from 385 records
+2014-12-12 15:42:15 --> idxPHRASE17F is in consistent state
+2014-12-12 15:42:15 --> idxWORD16F contains 162 words from 385 records
+2014-12-12 15:42:15 --> idxWORD16F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD16F is up to date
+2014-12-12 15:42:15 --> No new records added by author canonical IDs. idxWORD16F is up to date
+2014-12-12 15:42:15 --> idxWORD16F contains 162 words from 385 records
+2014-12-12 15:42:15 --> idxWORD16F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR16F contains 129 words from 385 records
+2014-12-12 15:42:15 --> idxPAIR16F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR16F is up to date
+2014-12-12 15:42:15 --> No new records added by author canonical IDs. idxPAIR16F is up to date
+2014-12-12 15:42:15 --> idxPAIR16F contains 129 words from 385 records
+2014-12-12 15:42:15 --> idxPAIR16F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE16F contains 460 words from 385 records
+2014-12-12 15:42:15 --> idxPHRASE16F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE16F is up to date
+2014-12-12 15:42:15 --> No new records added by author canonical IDs. idxPHRASE16F is up to date
+2014-12-12 15:42:15 --> idxPHRASE16F contains 460 words from 385 records
+2014-12-12 15:42:15 --> idxPHRASE16F is in consistent state
+2014-12-12 15:42:15 --> idxWORD09F has stemming enabled, language en
+2014-12-12 15:42:15 --> idxWORD09F contains 32887 words from 333 records
+2014-12-12 15:42:15 --> idxWORD09F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD09F is up to date
+2014-12-12 15:42:15 --> idxWORD09F contains 32887 words from 333 records
+2014-12-12 15:42:15 --> idxWORD09F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR09F contains 0 words from 333 records
+2014-12-12 15:42:15 --> idxPAIR09F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR09F is up to date
+2014-12-12 15:42:15 --> idxPAIR09F contains 0 words from 333 records
+2014-12-12 15:42:15 --> idxPAIR09F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE09F contains 0 words from 333 records
+2014-12-12 15:42:15 --> idxPHRASE09F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE09F is up to date
+2014-12-12 15:42:15 --> idxPHRASE09F contains 0 words from 333 records
+2014-12-12 15:42:15 --> idxPHRASE09F is in consistent state
+2014-12-12 15:42:15 --> idxWORD01F has stemming enabled, language en
+2014-12-12 15:42:15 --> idxWORD01F contains 6806 words from 378 records
+2014-12-12 15:42:15 --> idxWORD01F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD01F is up to date
+2014-12-12 15:42:15 --> idxWORD01F contains 6806 words from 378 records
+2014-12-12 15:42:15 --> idxWORD01F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR01F contains 12229 words from 378 records
+2014-12-12 15:42:15 --> idxPAIR01F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR01F is up to date
+2014-12-12 15:42:15 --> idxPAIR01F contains 12229 words from 378 records
+2014-12-12 15:42:15 --> idxPAIR01F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE01F contains 2782 words from 378 records
+2014-12-12 15:42:15 --> idxPHRASE01F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE01F is up to date
+2014-12-12 15:42:15 --> idxPHRASE01F contains 2782 words from 378 records
+2014-12-12 15:42:15 --> idxPHRASE01F is in consistent state
+2014-12-12 15:42:15 --> idxWORD11F contains 134 words from 385 records
+2014-12-12 15:42:15 --> idxWORD11F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD11F is up to date
+2014-12-12 15:42:15 --> idxWORD11F contains 134 words from 385 records
+2014-12-12 15:42:15 --> idxWORD11F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR11F contains 134 words from 385 records
+2014-12-12 15:42:15 --> idxPAIR11F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR11F is up to date
+2014-12-12 15:42:15 --> idxPAIR11F contains 134 words from 385 records
+2014-12-12 15:42:15 --> idxPAIR11F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE11F contains 134 words from 385 records
+2014-12-12 15:42:15 --> idxPHRASE11F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE11F is up to date
+2014-12-12 15:42:15 --> idxPHRASE11F contains 134 words from 385 records
+2014-12-12 15:42:15 --> idxPHRASE11F is in consistent state
+2014-12-12 15:42:15 --> idxWORD05F has stemming enabled, language en
+2014-12-12 15:42:15 --> idxWORD05F contains 224 words from 206 records
+2014-12-12 15:42:15 --> idxWORD05F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD05F is up to date
+2014-12-12 15:42:15 --> idxWORD05F contains 224 words from 206 records
+2014-12-12 15:42:15 --> idxWORD05F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR05F contains 13 words from 206 records
+2014-12-12 15:42:15 --> idxPAIR05F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR05F is up to date
+2014-12-12 15:42:15 --> idxPAIR05F contains 13 words from 206 records
+2014-12-12 15:42:15 --> idxPAIR05F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE05F contains 214 words from 206 records
+2014-12-12 15:42:15 --> idxPHRASE05F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE05F is up to date
+2014-12-12 15:42:15 --> idxPHRASE05F contains 214 words from 206 records
+2014-12-12 15:42:15 --> idxPHRASE05F is in consistent state
+2014-12-12 15:42:15 --> idxWORD06F contains 7262 words from 48 records
+2014-12-12 15:42:15 --> idxWORD06F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD06F is up to date
+2014-12-12 15:42:15 --> idxWORD06F contains 7262 words from 48 records
+2014-12-12 15:42:15 --> idxWORD06F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR06F contains 12452 words from 48 records
+2014-12-12 15:42:15 --> idxPAIR06F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR06F is up to date
+2014-12-12 15:42:15 --> idxPAIR06F contains 12452 words from 48 records
+2014-12-12 15:42:15 --> idxPAIR06F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE06F contains 4927 words from 48 records
+2014-12-12 15:42:15 --> idxPHRASE06F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE06F is up to date
+2014-12-12 15:42:15 --> idxPHRASE06F contains 4927 words from 48 records
+2014-12-12 15:42:15 --> idxPHRASE06F is in consistent state
+2014-12-12 15:42:15 --> idxWORD07F contains 574 words from 349 records
+2014-12-12 15:42:15 --> idxWORD07F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD07F is up to date
+2014-12-12 15:42:15 --> idxWORD07F contains 574 words from 349 records
+2014-12-12 15:42:15 --> idxWORD07F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR07F contains 314 words from 349 records
+2014-12-12 15:42:15 --> idxPAIR07F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR07F is up to date
+2014-12-12 15:42:15 --> idxPAIR07F contains 314 words from 349 records
+2014-12-12 15:42:15 --> idxPAIR07F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE07F contains 285 words from 349 records
+2014-12-12 15:42:15 --> idxPHRASE07F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE07F is up to date
+2014-12-12 15:42:15 --> idxPHRASE07F contains 285 words from 349 records
+2014-12-12 15:42:15 --> idxPHRASE07F is in consistent state
+2014-12-12 15:42:15 --> idxWORD08F has stemming enabled, language en
+2014-12-12 15:42:15 --> idxWORD08F contains 792 words from 371 records
+2014-12-12 15:42:15 --> idxWORD08F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD08F is up to date
+2014-12-12 15:42:15 --> idxWORD08F contains 792 words from 371 records
+2014-12-12 15:42:15 --> idxWORD08F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR08F contains 797 words from 371 records
+2014-12-12 15:42:15 --> idxPAIR08F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR08F is up to date
+2014-12-12 15:42:15 --> idxPAIR08F contains 797 words from 371 records
+2014-12-12 15:42:15 --> idxPAIR08F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE08F contains 272 words from 371 records
+2014-12-12 15:42:15 --> idxPHRASE08F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE08F is up to date
+2014-12-12 15:42:15 --> idxPHRASE08F contains 272 words from 371 records
+2014-12-12 15:42:15 --> idxPHRASE08F is in consistent state
+2014-12-12 15:42:15 --> idxWORD10F contains 31 words from 79 records
+2014-12-12 15:42:15 --> idxWORD10F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxWORD10F is up to date
+2014-12-12 15:42:15 --> idxWORD10F contains 31 words from 79 records
+2014-12-12 15:42:15 --> idxWORD10F is in consistent state
+2014-12-12 15:42:15 --> idxPAIR10F contains 1 words from 79 records
+2014-12-12 15:42:15 --> idxPAIR10F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPAIR10F is up to date
+2014-12-12 15:42:15 --> idxPAIR10F contains 1 words from 79 records
+2014-12-12 15:42:15 --> idxPAIR10F is in consistent state
+2014-12-12 15:42:15 --> idxPHRASE10F contains 29 words from 79 records
+2014-12-12 15:42:15 --> idxPHRASE10F is in consistent state
+2014-12-12 15:42:15 --> No new records added. idxPHRASE10F is up to date
+2014-12-12 15:42:15 --> idxPHRASE10F contains 29 words from 79 records
+2014-12-12 15:42:15 --> idxPHRASE10F is in consistent state
+2014-12-12 15:42:15 --> Task #1118 finished and resubmitted.
+2015-03-23 11:50:09 --> Task #1118 started.
+2015-03-23 11:50:09 --> idxWORD03F has stemming enabled, language en
+2015-03-23 11:50:09 --> idxWORD03F contains 3554 words from 251 records
+2015-03-23 11:50:09 --> idxWORD03F is in consistent state
+2015-03-23 11:50:09 --> idxWORD03F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD03F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD03F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD03F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD03F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD03F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD03R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD03R ended
+2015-03-23 11:50:09 --> idxWORD03F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxWORD03F contains 3554 words from 251 records
+2015-03-23 11:50:09 --> idxWORD03F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR03F contains 9293 words from 251 records
+2015-03-23 11:50:09 --> idxPAIR03F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR03F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR03F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR03F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR03F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR03F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR03F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR03R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR03R ended
+2015-03-23 11:50:09 --> idxPAIR03F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPAIR03F contains 9293 words from 251 records
+2015-03-23 11:50:09 --> idxPAIR03F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE03F contains 175 words from 251 records
+2015-03-23 11:50:09 --> idxPHRASE03F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE03F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE03F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE03F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE03F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE03F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE03F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE03R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE03R ended
+2015-03-23 11:50:09 --> idxPHRASE03F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPHRASE03F contains 175 words from 251 records
+2015-03-23 11:50:09 --> idxPHRASE03F is in consistent state
+2015-03-23 11:50:09 --> idxWORD13F contains 106 words from 77 records
+2015-03-23 11:50:09 --> idxWORD13F is in consistent state
+2015-03-23 11:50:09 --> idxWORD13F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD13F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD13F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD13F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD13F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD13F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD13R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD13R ended
+2015-03-23 11:50:09 --> idxWORD13F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxWORD13F contains 106 words from 77 records
+2015-03-23 11:50:09 --> idxWORD13F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR13F contains 101 words from 77 records
+2015-03-23 11:50:09 --> idxPAIR13F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR13F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR13F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR13F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR13F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR13F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR13F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR13R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR13R ended
+2015-03-23 11:50:09 --> idxPAIR13F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPAIR13F contains 101 words from 77 records
+2015-03-23 11:50:09 --> idxPAIR13F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE13F contains 61 words from 77 records
+2015-03-23 11:50:09 --> idxPHRASE13F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE13F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE13F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE13F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE13F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE13F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE13F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE13R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE13R ended
+2015-03-23 11:50:09 --> idxPHRASE13F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPHRASE13F contains 61 words from 77 records
+2015-03-23 11:50:09 --> idxPHRASE13F is in consistent state
+2015-03-23 11:50:09 --> idxWORD04F contains 702 words from 385 records
+2015-03-23 11:50:09 --> idxWORD04F is in consistent state
+2015-03-23 11:50:09 --> idxWORD04F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD04F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD04F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD04F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD04F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD04F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD04R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD04R ended
+2015-03-23 11:50:09 --> idxWORD04F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(4137 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxWORD04F is up to date
+2015-03-23 11:50:09 --> idxWORD04F contains 702 words from 386 records
+2015-03-23 11:50:09 --> idxWORD04F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR04F contains 772 words from 385 records
+2015-03-23 11:50:09 --> idxPAIR04F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR04F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR04F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR04F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR04F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR04F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR04F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR04R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR04R ended
+2015-03-23 11:50:09 --> idxPAIR04F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(64133 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxPAIR04F is up to date
+2015-03-23 11:50:09 --> idxPAIR04F contains 772 words from 386 records
+2015-03-23 11:50:09 --> idxPAIR04F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE04F contains 2154 words from 385 records
+2015-03-23 11:50:09 --> idxPHRASE04F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE04F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE04F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE04F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE04F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE04F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE04F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE04R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE04R ended
+2015-03-23 11:50:09 --> idxPHRASE04F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(66261 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxPHRASE04F is up to date
+2015-03-23 11:50:09 --> idxPHRASE04F contains 2154 words from 386 records
+2015-03-23 11:50:09 --> idxPHRASE04F is in consistent state
+2015-03-23 11:50:09 --> idxWORD18F contains 13 words from 385 records
+2015-03-23 11:50:09 --> idxWORD18F is in consistent state
+2015-03-23 11:50:09 --> idxWORD18F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD18F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD18F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD18F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 1 words into idxWORD18F started
+2015-03-23 11:50:09 --> ...updating 1 words into idxWORD18F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD18R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD18R ended
+2015-03-23 11:50:09 --> idxWORD18F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(41985 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> idxWORD18F contains 13 words from 386 records
+2015-03-23 11:50:09 --> idxWORD18F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR18F contains 13 words from 385 records
+2015-03-23 11:50:09 --> idxPAIR18F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR18F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR18F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR18F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR18F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 1 words into idxPAIR18F started
+2015-03-23 11:50:09 --> ...updating 1 words into idxPAIR18F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR18R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR18R ended
+2015-03-23 11:50:09 --> idxPAIR18F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(59089 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> idxPAIR18F contains 13 words from 386 records
+2015-03-23 11:50:09 --> idxPAIR18F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE18F contains 13 words from 385 records
+2015-03-23 11:50:09 --> idxPHRASE18F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE18F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE18F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE18F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE18F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 1 words into idxPHRASE18F started
+2015-03-23 11:50:09 --> ...updating 1 words into idxPHRASE18F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE18R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE18R ended
+2015-03-23 11:50:09 --> idxPHRASE18F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(56661 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> idxPHRASE18F contains 13 words from 386 records
+2015-03-23 11:50:09 --> idxPHRASE18F is in consistent state
+2015-03-23 11:50:09 --> idxWORD15F contains 9 words from 1 records
+2015-03-23 11:50:09 --> idxWORD15F is in consistent state
+2015-03-23 11:50:09 --> idxWORD15F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD15F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD15F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD15F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD15F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD15F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD15R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD15R ended
+2015-03-23 11:50:09 --> idxWORD15F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxWORD15F contains 9 words from 1 records
+2015-03-23 11:50:09 --> idxWORD15F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR15F contains 2 words from 1 records
+2015-03-23 11:50:09 --> idxPAIR15F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR15F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR15F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR15F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR15F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR15F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR15F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR15R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR15R ended
+2015-03-23 11:50:09 --> idxPAIR15F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPAIR15F contains 2 words from 1 records
+2015-03-23 11:50:09 --> idxPAIR15F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE15F contains 6 words from 1 records
+2015-03-23 11:50:09 --> idxPHRASE15F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE15F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE15F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE15F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE15F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE15F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE15F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE15R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE15R ended
+2015-03-23 11:50:09 --> idxPHRASE15F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPHRASE15F contains 6 words from 1 records
+2015-03-23 11:50:09 --> idxPHRASE15F is in consistent state
+2015-03-23 11:50:09 --> idxWORD12F contains 21 words from 3 records
+2015-03-23 11:50:09 --> idxWORD12F is in consistent state
+2015-03-23 11:50:09 --> idxWORD12F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD12F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD12F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD12F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD12F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD12F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD12R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD12R ended
+2015-03-23 11:50:09 --> idxWORD12F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxWORD12F contains 21 words from 3 records
+2015-03-23 11:50:09 --> idxWORD12F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR12F contains 20 words from 3 records
+2015-03-23 11:50:09 --> idxPAIR12F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR12F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR12F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR12F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR12F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR12F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR12F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR12R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR12R ended
+2015-03-23 11:50:09 --> idxPAIR12F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPAIR12F contains 20 words from 3 records
+2015-03-23 11:50:09 --> idxPAIR12F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE12F contains 3 words from 3 records
+2015-03-23 11:50:09 --> idxPHRASE12F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE12F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE12F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE12F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE12F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE12F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE12F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE12R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE12R ended
+2015-03-23 11:50:09 --> idxPHRASE12F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPHRASE12F contains 3 words from 3 records
+2015-03-23 11:50:09 --> idxPHRASE12F is in consistent state
+2015-03-23 11:50:09 --> idxWORD02F contains 32 words from 370 records
+2015-03-23 11:50:09 --> idxWORD02F is in consistent state
+2015-03-23 11:50:09 --> idxWORD02F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD02F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD02F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD02F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD02F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD02F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD02R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD02R ended
+2015-03-23 11:50:09 --> idxWORD02F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxWORD02F contains 32 words from 370 records
+2015-03-23 11:50:09 --> idxWORD02F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR02F contains 0 words from 370 records
+2015-03-23 11:50:09 --> idxPAIR02F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR02F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR02F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR02F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR02F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR02F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR02F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR02R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR02R ended
+2015-03-23 11:50:09 --> idxPAIR02F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPAIR02F contains 0 words from 370 records
+2015-03-23 11:50:09 --> idxPAIR02F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE02F contains 32 words from 370 records
+2015-03-23 11:50:09 --> idxPHRASE02F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE02F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE02F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE02F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE02F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE02F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE02F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE02R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE02R ended
+2015-03-23 11:50:09 --> idxPHRASE02F normal wordtable flush ended
+2015-03-23 11:50:09 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:09 --> idxPHRASE02F contains 32 words from 370 records
+2015-03-23 11:50:09 --> idxPHRASE02F is in consistent state
+2015-03-23 11:50:09 --> idxWORD14F contains 702 words from 385 records
+2015-03-23 11:50:09 --> idxWORD14F is in consistent state
+2015-03-23 11:50:09 --> idxWORD14F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD14F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD14F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD14F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD14F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD14F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD14R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD14R ended
+2015-03-23 11:50:09 --> idxWORD14F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(51020 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxWORD14F is up to date
+2015-03-23 11:50:09 --> idxWORD14F contains 702 words from 386 records
+2015-03-23 11:50:09 --> idxWORD14F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR14F contains 772 words from 385 records
+2015-03-23 11:50:09 --> idxPAIR14F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR14F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR14F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR14F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR14F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR14F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR14F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR14R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR14R ended
+2015-03-23 11:50:09 --> idxPAIR14F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(53739 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxPAIR14F is up to date
+2015-03-23 11:50:09 --> idxPAIR14F contains 772 words from 386 records
+2015-03-23 11:50:09 --> idxPAIR14F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE14F contains 643 words from 385 records
+2015-03-23 11:50:09 --> idxPHRASE14F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE14F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE14F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE14F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE14F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE14F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE14F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE14R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE14R ended
+2015-03-23 11:50:09 --> idxPHRASE14F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(53883 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxPHRASE14F is up to date
+2015-03-23 11:50:09 --> idxPHRASE14F contains 643 words from 386 records
+2015-03-23 11:50:09 --> idxPHRASE14F is in consistent state
+2015-03-23 11:50:09 --> idxWORD17F contains 162 words from 385 records
+2015-03-23 11:50:09 --> idxWORD17F is in consistent state
+2015-03-23 11:50:09 --> idxWORD17F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD17F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD17F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD17F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD17F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD17F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD17R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD17R ended
+2015-03-23 11:50:09 --> idxWORD17F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(54027 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxWORD17F is up to date
+2015-03-23 11:50:09 --> idxWORD17F contains 162 words from 386 records
+2015-03-23 11:50:09 --> idxWORD17F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR17F contains 129 words from 385 records
+2015-03-23 11:50:09 --> idxPAIR17F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR17F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR17F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR17F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR17F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR17F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR17F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR17R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR17R ended
+2015-03-23 11:50:09 --> idxPAIR17F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(52747 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxPAIR17F is up to date
+2015-03-23 11:50:09 --> idxPAIR17F contains 129 words from 386 records
+2015-03-23 11:50:09 --> idxPAIR17F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE17F contains 109 words from 385 records
+2015-03-23 11:50:09 --> idxPHRASE17F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE17F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE17F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE17F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE17F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE17F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE17F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE17R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE17R ended
+2015-03-23 11:50:09 --> idxPHRASE17F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(53522 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxPHRASE17F is up to date
+2015-03-23 11:50:09 --> idxPHRASE17F contains 109 words from 386 records
+2015-03-23 11:50:09 --> idxPHRASE17F is in consistent state
+2015-03-23 11:50:09 --> idxWORD16F contains 162 words from 385 records
+2015-03-23 11:50:09 --> idxWORD16F is in consistent state
+2015-03-23 11:50:09 --> idxWORD16F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD16F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD16F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD16F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD16F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD16F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD16R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD16R ended
+2015-03-23 11:50:09 --> idxWORD16F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(54272 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxWORD16F is up to date
+2015-03-23 11:50:09 --> idxWORD16F contains 162 words from 386 records
+2015-03-23 11:50:09 --> idxWORD16F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR16F contains 129 words from 385 records
+2015-03-23 11:50:09 --> idxPAIR16F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR16F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR16F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR16F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR16F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR16F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR16F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR16R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR16R ended
+2015-03-23 11:50:09 --> idxPAIR16F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(51522 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxPAIR16F is up to date
+2015-03-23 11:50:09 --> idxPAIR16F contains 129 words from 386 records
+2015-03-23 11:50:09 --> idxPAIR16F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE16F contains 460 words from 385 records
+2015-03-23 11:50:09 --> idxPHRASE16F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE16F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE16F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE16F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE16F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE16F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE16F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE16R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE16R ended
+2015-03-23 11:50:09 --> idxPHRASE16F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(50979 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> No new records added by author canonical IDs. idxPHRASE16F is up to date
+2015-03-23 11:50:09 --> idxPHRASE16F contains 460 words from 386 records
+2015-03-23 11:50:09 --> idxPHRASE16F is in consistent state
+2015-03-23 11:50:09 --> idxWORD09F has stemming enabled, language en
+2015-03-23 11:50:09 --> idxWORD09F contains 32887 words from 333 records
+2015-03-23 11:50:09 --> idxWORD09F is in consistent state
+2015-03-23 11:50:09 --> idxWORD09F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD09F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD09F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD09F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD09F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxWORD09F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD09R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD09R ended
+2015-03-23 11:50:09 --> idxWORD09F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.1 seconds to complete.(1207 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> idxWORD09F contains 32887 words from 334 records
+2015-03-23 11:50:09 --> idxWORD09F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR09F contains 0 words from 333 records
+2015-03-23 11:50:09 --> idxPAIR09F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR09F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR09F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPAIR09F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPAIR09F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR09F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPAIR09F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR09R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPAIR09R ended
+2015-03-23 11:50:09 --> idxPAIR09F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(16767 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> idxPAIR09F contains 0 words from 334 records
+2015-03-23 11:50:09 --> idxPAIR09F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE09F contains 0 words from 333 records
+2015-03-23 11:50:09 --> idxPHRASE09F is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE09F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPHRASE09F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxPHRASE09F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxPHRASE09F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE09F started
+2015-03-23 11:50:09 --> ...updating 0 words into idxPHRASE09F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE09R started
+2015-03-23 11:50:09 --> ...updating reverse table idxPHRASE09R ended
+2015-03-23 11:50:09 --> idxPHRASE09F normal wordtable flush ended
+2015-03-23 11:50:09 --> 2 records took 0.0 seconds to complete.(15569 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> idxPHRASE09F contains 0 words from 334 records
+2015-03-23 11:50:09 --> idxPHRASE09F is in consistent state
+2015-03-23 11:50:09 --> idxWORD01F has stemming enabled, language en
+2015-03-23 11:50:09 --> idxWORD01F contains 6806 words from 378 records
+2015-03-23 11:50:09 --> idxWORD01F is in consistent state
+2015-03-23 11:50:09 --> idxWORD01F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxWORD01F adding records #385-#386 started
+2015-03-23 11:50:09 --> idxWORD01F adding records #385-#386 ended  
+2015-03-23 11:50:09 --> idxWORD01F normal wordtable flush started
+2015-03-23 11:50:09 --> ...updating 3 words into idxWORD01F started
+2015-03-23 11:50:09 --> ...updating 3 words into idxWORD01F ended
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD01R started
+2015-03-23 11:50:09 --> ...updating reverse table idxWORD01R ended
+2015-03-23 11:50:09 --> idxWORD01F normal wordtable flush ended
+2015-03-23 11:50:09 --> 1 records took 0.1 seconds to complete.(1162 recs/min)
+2015-03-23 11:50:09 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:09 --> idxWORD01F contains 6808 words from 379 records
+2015-03-23 11:50:09 --> idxWORD01F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR01F contains 12229 words from 378 records
+2015-03-23 11:50:09 --> idxPAIR01F is in consistent state
+2015-03-23 11:50:09 --> idxPAIR01F for 385-386 is in consistent state
+2015-03-23 11:50:09 --> idxPAIR01F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPAIR01F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPAIR01F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 1 words into idxPAIR01F started
+2015-03-23 11:50:10 --> ...updating 1 words into idxPAIR01F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR01R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR01R ended
+2015-03-23 11:50:10 --> idxPAIR01F normal wordtable flush ended
+2015-03-23 11:50:10 --> 1 records took 0.0 seconds to complete.(2782 recs/min)
+2015-03-23 11:50:10 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:10 --> idxPAIR01F contains 12230 words from 379 records
+2015-03-23 11:50:10 --> idxPAIR01F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE01F contains 2782 words from 378 records
+2015-03-23 11:50:10 --> idxPHRASE01F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE01F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE01F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPHRASE01F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPHRASE01F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 1 words into idxPHRASE01F started
+2015-03-23 11:50:10 --> ...updating 1 words into idxPHRASE01F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE01R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE01R ended
+2015-03-23 11:50:10 --> idxPHRASE01F normal wordtable flush ended
+2015-03-23 11:50:10 --> 1 records took 0.0 seconds to complete.(1951 recs/min)
+2015-03-23 11:50:10 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:10 --> idxPHRASE01F contains 2783 words from 379 records
+2015-03-23 11:50:10 --> idxPHRASE01F is in consistent state
+2015-03-23 11:50:10 --> idxWORD11F contains 134 words from 385 records
+2015-03-23 11:50:10 --> idxWORD11F is in consistent state
+2015-03-23 11:50:10 --> idxWORD11F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxWORD11F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxWORD11F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxWORD11F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD11F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD11F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD11R started
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD11R ended
+2015-03-23 11:50:10 --> idxWORD11F normal wordtable flush ended
+2015-03-23 11:50:10 --> 2 records took 0.0 seconds to complete.(47999 recs/min)
+2015-03-23 11:50:10 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:10 --> idxWORD11F contains 134 words from 386 records
+2015-03-23 11:50:10 --> idxWORD11F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR11F contains 134 words from 385 records
+2015-03-23 11:50:10 --> idxPAIR11F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR11F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPAIR11F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPAIR11F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPAIR11F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR11F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR11F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR11R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR11R ended
+2015-03-23 11:50:10 --> idxPAIR11F normal wordtable flush ended
+2015-03-23 11:50:10 --> 2 records took 0.0 seconds to complete.(55043 recs/min)
+2015-03-23 11:50:10 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:10 --> idxPAIR11F contains 134 words from 386 records
+2015-03-23 11:50:10 --> idxPAIR11F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE11F contains 134 words from 385 records
+2015-03-23 11:50:10 --> idxPHRASE11F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE11F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE11F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPHRASE11F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPHRASE11F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE11F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE11F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE11R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE11R ended
+2015-03-23 11:50:10 --> idxPHRASE11F normal wordtable flush ended
+2015-03-23 11:50:10 --> 2 records took 0.0 seconds to complete.(53641 recs/min)
+2015-03-23 11:50:10 --> Estimated runtime: 0.0 minutes
+2015-03-23 11:50:10 --> idxPHRASE11F contains 134 words from 386 records
+2015-03-23 11:50:10 --> idxPHRASE11F is in consistent state
+2015-03-23 11:50:10 --> idxWORD05F has stemming enabled, language en
+2015-03-23 11:50:10 --> idxWORD05F contains 224 words from 206 records
+2015-03-23 11:50:10 --> idxWORD05F is in consistent state
+2015-03-23 11:50:10 --> idxWORD05F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxWORD05F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxWORD05F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxWORD05F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD05F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD05F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD05R started
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD05R ended
+2015-03-23 11:50:10 --> idxWORD05F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxWORD05F contains 224 words from 206 records
+2015-03-23 11:50:10 --> idxWORD05F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR05F contains 13 words from 206 records
+2015-03-23 11:50:10 --> idxPAIR05F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR05F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPAIR05F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPAIR05F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPAIR05F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR05F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR05F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR05R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR05R ended
+2015-03-23 11:50:10 --> idxPAIR05F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPAIR05F contains 13 words from 206 records
+2015-03-23 11:50:10 --> idxPAIR05F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE05F contains 214 words from 206 records
+2015-03-23 11:50:10 --> idxPHRASE05F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE05F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE05F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPHRASE05F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPHRASE05F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE05F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE05F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE05R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE05R ended
+2015-03-23 11:50:10 --> idxPHRASE05F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPHRASE05F contains 214 words from 206 records
+2015-03-23 11:50:10 --> idxPHRASE05F is in consistent state
+2015-03-23 11:50:10 --> idxWORD06F contains 7262 words from 48 records
+2015-03-23 11:50:10 --> idxWORD06F is in consistent state
+2015-03-23 11:50:10 --> idxWORD06F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxWORD06F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxWORD06F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxWORD06F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD06F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD06F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD06R started
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD06R ended
+2015-03-23 11:50:10 --> idxWORD06F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxWORD06F contains 7262 words from 48 records
+2015-03-23 11:50:10 --> idxWORD06F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR06F contains 12452 words from 48 records
+2015-03-23 11:50:10 --> idxPAIR06F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR06F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPAIR06F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPAIR06F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPAIR06F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR06F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR06F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR06R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR06R ended
+2015-03-23 11:50:10 --> idxPAIR06F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPAIR06F contains 12452 words from 48 records
+2015-03-23 11:50:10 --> idxPAIR06F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE06F contains 4927 words from 48 records
+2015-03-23 11:50:10 --> idxPHRASE06F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE06F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE06F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPHRASE06F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPHRASE06F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE06F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE06F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE06R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE06R ended
+2015-03-23 11:50:10 --> idxPHRASE06F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPHRASE06F contains 4927 words from 48 records
+2015-03-23 11:50:10 --> idxPHRASE06F is in consistent state
+2015-03-23 11:50:10 --> idxWORD07F contains 574 words from 349 records
+2015-03-23 11:50:10 --> idxWORD07F is in consistent state
+2015-03-23 11:50:10 --> idxWORD07F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxWORD07F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxWORD07F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxWORD07F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD07F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD07F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD07R started
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD07R ended
+2015-03-23 11:50:10 --> idxWORD07F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxWORD07F contains 574 words from 349 records
+2015-03-23 11:50:10 --> idxWORD07F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR07F contains 314 words from 349 records
+2015-03-23 11:50:10 --> idxPAIR07F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR07F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPAIR07F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPAIR07F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPAIR07F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR07F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR07F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR07R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR07R ended
+2015-03-23 11:50:10 --> idxPAIR07F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPAIR07F contains 314 words from 349 records
+2015-03-23 11:50:10 --> idxPAIR07F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE07F contains 285 words from 349 records
+2015-03-23 11:50:10 --> idxPHRASE07F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE07F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE07F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPHRASE07F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPHRASE07F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE07F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE07F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE07R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE07R ended
+2015-03-23 11:50:10 --> idxPHRASE07F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPHRASE07F contains 285 words from 349 records
+2015-03-23 11:50:10 --> idxPHRASE07F is in consistent state
+2015-03-23 11:50:10 --> idxWORD08F has stemming enabled, language en
+2015-03-23 11:50:10 --> idxWORD08F contains 792 words from 371 records
+2015-03-23 11:50:10 --> idxWORD08F is in consistent state
+2015-03-23 11:50:10 --> idxWORD08F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxWORD08F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxWORD08F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxWORD08F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD08F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD08F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD08R started
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD08R ended
+2015-03-23 11:50:10 --> idxWORD08F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxWORD08F contains 792 words from 371 records
+2015-03-23 11:50:10 --> idxWORD08F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR08F contains 797 words from 371 records
+2015-03-23 11:50:10 --> idxPAIR08F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR08F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPAIR08F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPAIR08F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPAIR08F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR08F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR08F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR08R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR08R ended
+2015-03-23 11:50:10 --> idxPAIR08F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPAIR08F contains 797 words from 371 records
+2015-03-23 11:50:10 --> idxPAIR08F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE08F contains 272 words from 371 records
+2015-03-23 11:50:10 --> idxPHRASE08F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE08F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE08F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPHRASE08F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPHRASE08F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE08F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE08F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE08R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE08R ended
+2015-03-23 11:50:10 --> idxPHRASE08F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPHRASE08F contains 272 words from 371 records
+2015-03-23 11:50:10 --> idxPHRASE08F is in consistent state
+2015-03-23 11:50:10 --> idxWORD10F contains 31 words from 79 records
+2015-03-23 11:50:10 --> idxWORD10F is in consistent state
+2015-03-23 11:50:10 --> idxWORD10F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxWORD10F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxWORD10F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxWORD10F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD10F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxWORD10F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD10R started
+2015-03-23 11:50:10 --> ...updating reverse table idxWORD10R ended
+2015-03-23 11:50:10 --> idxWORD10F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxWORD10F contains 31 words from 79 records
+2015-03-23 11:50:10 --> idxWORD10F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR10F contains 1 words from 79 records
+2015-03-23 11:50:10 --> idxPAIR10F is in consistent state
+2015-03-23 11:50:10 --> idxPAIR10F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPAIR10F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPAIR10F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPAIR10F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR10F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPAIR10F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR10R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPAIR10R ended
+2015-03-23 11:50:10 --> idxPAIR10F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPAIR10F contains 1 words from 79 records
+2015-03-23 11:50:10 --> idxPAIR10F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE10F contains 29 words from 79 records
+2015-03-23 11:50:10 --> idxPHRASE10F is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE10F for 385-386 is in consistent state
+2015-03-23 11:50:10 --> idxPHRASE10F adding records #385-#386 started
+2015-03-23 11:50:10 --> idxPHRASE10F adding records #385-#386 ended  
+2015-03-23 11:50:10 --> idxPHRASE10F normal wordtable flush started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE10F started
+2015-03-23 11:50:10 --> ...updating 0 words into idxPHRASE10F ended
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE10R started
+2015-03-23 11:50:10 --> ...updating reverse table idxPHRASE10R ended
+2015-03-23 11:50:10 --> idxPHRASE10F normal wordtable flush ended
+2015-03-23 11:50:10 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 11:50:10 --> idxPHRASE10F contains 29 words from 79 records
+2015-03-23 11:50:10 --> idxPHRASE10F is in consistent state
+2015-03-23 11:50:10 --> Task #1118 finished and resubmitted.
+2015-03-23 11:50:11 --> Task #1118 started.
+2015-03-23 11:50:11 --> idxWORD03F has stemming enabled, language en
+2015-03-23 11:50:11 --> idxWORD03F contains 3554 words from 251 records
+2015-03-23 11:50:11 --> idxWORD03F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD03F is up to date
+2015-03-23 11:50:11 --> idxWORD03F contains 3554 words from 251 records
+2015-03-23 11:50:11 --> idxWORD03F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR03F contains 9293 words from 251 records
+2015-03-23 11:50:11 --> idxPAIR03F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR03F is up to date
+2015-03-23 11:50:11 --> idxPAIR03F contains 9293 words from 251 records
+2015-03-23 11:50:11 --> idxPAIR03F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE03F contains 175 words from 251 records
+2015-03-23 11:50:11 --> idxPHRASE03F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE03F is up to date
+2015-03-23 11:50:11 --> idxPHRASE03F contains 175 words from 251 records
+2015-03-23 11:50:11 --> idxPHRASE03F is in consistent state
+2015-03-23 11:50:11 --> idxWORD13F contains 106 words from 77 records
+2015-03-23 11:50:11 --> idxWORD13F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD13F is up to date
+2015-03-23 11:50:11 --> idxWORD13F contains 106 words from 77 records
+2015-03-23 11:50:11 --> idxWORD13F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR13F contains 101 words from 77 records
+2015-03-23 11:50:11 --> idxPAIR13F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR13F is up to date
+2015-03-23 11:50:11 --> idxPAIR13F contains 101 words from 77 records
+2015-03-23 11:50:11 --> idxPAIR13F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE13F contains 61 words from 77 records
+2015-03-23 11:50:11 --> idxPHRASE13F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE13F is up to date
+2015-03-23 11:50:11 --> idxPHRASE13F contains 61 words from 77 records
+2015-03-23 11:50:11 --> idxPHRASE13F is in consistent state
+2015-03-23 11:50:11 --> idxWORD04F contains 702 words from 386 records
+2015-03-23 11:50:11 --> idxWORD04F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD04F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxWORD04F is up to date
+2015-03-23 11:50:11 --> idxWORD04F contains 702 words from 386 records
+2015-03-23 11:50:11 --> idxWORD04F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR04F contains 772 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR04F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR04F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxPAIR04F is up to date
+2015-03-23 11:50:11 --> idxPAIR04F contains 772 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR04F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE04F contains 2154 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE04F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE04F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxPHRASE04F is up to date
+2015-03-23 11:50:11 --> idxPHRASE04F contains 2154 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE04F is in consistent state
+2015-03-23 11:50:11 --> idxWORD18F contains 13 words from 386 records
+2015-03-23 11:50:11 --> idxWORD18F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD18F is up to date
+2015-03-23 11:50:11 --> idxWORD18F contains 13 words from 386 records
+2015-03-23 11:50:11 --> idxWORD18F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR18F contains 13 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR18F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR18F is up to date
+2015-03-23 11:50:11 --> idxPAIR18F contains 13 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR18F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE18F contains 13 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE18F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE18F is up to date
+2015-03-23 11:50:11 --> idxPHRASE18F contains 13 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE18F is in consistent state
+2015-03-23 11:50:11 --> idxWORD15F contains 9 words from 1 records
+2015-03-23 11:50:11 --> idxWORD15F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD15F is up to date
+2015-03-23 11:50:11 --> idxWORD15F contains 9 words from 1 records
+2015-03-23 11:50:11 --> idxWORD15F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR15F contains 2 words from 1 records
+2015-03-23 11:50:11 --> idxPAIR15F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR15F is up to date
+2015-03-23 11:50:11 --> idxPAIR15F contains 2 words from 1 records
+2015-03-23 11:50:11 --> idxPAIR15F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE15F contains 6 words from 1 records
+2015-03-23 11:50:11 --> idxPHRASE15F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE15F is up to date
+2015-03-23 11:50:11 --> idxPHRASE15F contains 6 words from 1 records
+2015-03-23 11:50:11 --> idxPHRASE15F is in consistent state
+2015-03-23 11:50:11 --> idxWORD12F contains 21 words from 3 records
+2015-03-23 11:50:11 --> idxWORD12F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD12F is up to date
+2015-03-23 11:50:11 --> idxWORD12F contains 21 words from 3 records
+2015-03-23 11:50:11 --> idxWORD12F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR12F contains 20 words from 3 records
+2015-03-23 11:50:11 --> idxPAIR12F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR12F is up to date
+2015-03-23 11:50:11 --> idxPAIR12F contains 20 words from 3 records
+2015-03-23 11:50:11 --> idxPAIR12F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE12F contains 3 words from 3 records
+2015-03-23 11:50:11 --> idxPHRASE12F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE12F is up to date
+2015-03-23 11:50:11 --> idxPHRASE12F contains 3 words from 3 records
+2015-03-23 11:50:11 --> idxPHRASE12F is in consistent state
+2015-03-23 11:50:11 --> idxWORD02F contains 32 words from 370 records
+2015-03-23 11:50:11 --> idxWORD02F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD02F is up to date
+2015-03-23 11:50:11 --> idxWORD02F contains 32 words from 370 records
+2015-03-23 11:50:11 --> idxWORD02F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR02F contains 0 words from 370 records
+2015-03-23 11:50:11 --> idxPAIR02F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR02F is up to date
+2015-03-23 11:50:11 --> idxPAIR02F contains 0 words from 370 records
+2015-03-23 11:50:11 --> idxPAIR02F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE02F contains 32 words from 370 records
+2015-03-23 11:50:11 --> idxPHRASE02F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE02F is up to date
+2015-03-23 11:50:11 --> idxPHRASE02F contains 32 words from 370 records
+2015-03-23 11:50:11 --> idxPHRASE02F is in consistent state
+2015-03-23 11:50:11 --> idxWORD14F contains 702 words from 386 records
+2015-03-23 11:50:11 --> idxWORD14F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD14F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxWORD14F is up to date
+2015-03-23 11:50:11 --> idxWORD14F contains 702 words from 386 records
+2015-03-23 11:50:11 --> idxWORD14F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR14F contains 772 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR14F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR14F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxPAIR14F is up to date
+2015-03-23 11:50:11 --> idxPAIR14F contains 772 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR14F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE14F contains 643 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE14F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE14F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxPHRASE14F is up to date
+2015-03-23 11:50:11 --> idxPHRASE14F contains 643 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE14F is in consistent state
+2015-03-23 11:50:11 --> idxWORD17F contains 162 words from 386 records
+2015-03-23 11:50:11 --> idxWORD17F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD17F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxWORD17F is up to date
+2015-03-23 11:50:11 --> idxWORD17F contains 162 words from 386 records
+2015-03-23 11:50:11 --> idxWORD17F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR17F contains 129 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR17F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR17F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxPAIR17F is up to date
+2015-03-23 11:50:11 --> idxPAIR17F contains 129 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR17F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE17F contains 109 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE17F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE17F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxPHRASE17F is up to date
+2015-03-23 11:50:11 --> idxPHRASE17F contains 109 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE17F is in consistent state
+2015-03-23 11:50:11 --> idxWORD16F contains 162 words from 386 records
+2015-03-23 11:50:11 --> idxWORD16F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD16F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxWORD16F is up to date
+2015-03-23 11:50:11 --> idxWORD16F contains 162 words from 386 records
+2015-03-23 11:50:11 --> idxWORD16F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR16F contains 129 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR16F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR16F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxPAIR16F is up to date
+2015-03-23 11:50:11 --> idxPAIR16F contains 129 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR16F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE16F contains 460 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE16F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE16F is up to date
+2015-03-23 11:50:11 --> No new records added by author canonical IDs. idxPHRASE16F is up to date
+2015-03-23 11:50:11 --> idxPHRASE16F contains 460 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE16F is in consistent state
+2015-03-23 11:50:11 --> idxWORD09F has stemming enabled, language en
+2015-03-23 11:50:11 --> idxWORD09F contains 32887 words from 334 records
+2015-03-23 11:50:11 --> idxWORD09F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD09F is up to date
+2015-03-23 11:50:11 --> idxWORD09F contains 32887 words from 334 records
+2015-03-23 11:50:11 --> idxWORD09F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR09F contains 0 words from 334 records
+2015-03-23 11:50:11 --> idxPAIR09F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR09F is up to date
+2015-03-23 11:50:11 --> idxPAIR09F contains 0 words from 334 records
+2015-03-23 11:50:11 --> idxPAIR09F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE09F contains 0 words from 334 records
+2015-03-23 11:50:11 --> idxPHRASE09F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE09F is up to date
+2015-03-23 11:50:11 --> idxPHRASE09F contains 0 words from 334 records
+2015-03-23 11:50:11 --> idxPHRASE09F is in consistent state
+2015-03-23 11:50:11 --> idxWORD01F has stemming enabled, language en
+2015-03-23 11:50:11 --> idxWORD01F contains 6808 words from 379 records
+2015-03-23 11:50:11 --> idxWORD01F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD01F is up to date
+2015-03-23 11:50:11 --> idxWORD01F contains 6808 words from 379 records
+2015-03-23 11:50:11 --> idxWORD01F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR01F contains 12230 words from 379 records
+2015-03-23 11:50:11 --> idxPAIR01F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR01F is up to date
+2015-03-23 11:50:11 --> idxPAIR01F contains 12230 words from 379 records
+2015-03-23 11:50:11 --> idxPAIR01F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE01F contains 2783 words from 379 records
+2015-03-23 11:50:11 --> idxPHRASE01F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE01F is up to date
+2015-03-23 11:50:11 --> idxPHRASE01F contains 2783 words from 379 records
+2015-03-23 11:50:11 --> idxPHRASE01F is in consistent state
+2015-03-23 11:50:11 --> idxWORD11F contains 134 words from 386 records
+2015-03-23 11:50:11 --> idxWORD11F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD11F is up to date
+2015-03-23 11:50:11 --> idxWORD11F contains 134 words from 386 records
+2015-03-23 11:50:11 --> idxWORD11F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR11F contains 134 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR11F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR11F is up to date
+2015-03-23 11:50:11 --> idxPAIR11F contains 134 words from 386 records
+2015-03-23 11:50:11 --> idxPAIR11F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE11F contains 134 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE11F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE11F is up to date
+2015-03-23 11:50:11 --> idxPHRASE11F contains 134 words from 386 records
+2015-03-23 11:50:11 --> idxPHRASE11F is in consistent state
+2015-03-23 11:50:11 --> idxWORD05F has stemming enabled, language en
+2015-03-23 11:50:11 --> idxWORD05F contains 224 words from 206 records
+2015-03-23 11:50:11 --> idxWORD05F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD05F is up to date
+2015-03-23 11:50:11 --> idxWORD05F contains 224 words from 206 records
+2015-03-23 11:50:11 --> idxWORD05F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR05F contains 13 words from 206 records
+2015-03-23 11:50:11 --> idxPAIR05F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR05F is up to date
+2015-03-23 11:50:11 --> idxPAIR05F contains 13 words from 206 records
+2015-03-23 11:50:11 --> idxPAIR05F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE05F contains 214 words from 206 records
+2015-03-23 11:50:11 --> idxPHRASE05F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE05F is up to date
+2015-03-23 11:50:11 --> idxPHRASE05F contains 214 words from 206 records
+2015-03-23 11:50:11 --> idxPHRASE05F is in consistent state
+2015-03-23 11:50:11 --> idxWORD06F contains 7262 words from 48 records
+2015-03-23 11:50:11 --> idxWORD06F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD06F is up to date
+2015-03-23 11:50:11 --> idxWORD06F contains 7262 words from 48 records
+2015-03-23 11:50:11 --> idxWORD06F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR06F contains 12452 words from 48 records
+2015-03-23 11:50:11 --> idxPAIR06F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR06F is up to date
+2015-03-23 11:50:11 --> idxPAIR06F contains 12452 words from 48 records
+2015-03-23 11:50:11 --> idxPAIR06F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE06F contains 4927 words from 48 records
+2015-03-23 11:50:11 --> idxPHRASE06F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE06F is up to date
+2015-03-23 11:50:11 --> idxPHRASE06F contains 4927 words from 48 records
+2015-03-23 11:50:11 --> idxPHRASE06F is in consistent state
+2015-03-23 11:50:11 --> idxWORD07F contains 574 words from 349 records
+2015-03-23 11:50:11 --> idxWORD07F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD07F is up to date
+2015-03-23 11:50:11 --> idxWORD07F contains 574 words from 349 records
+2015-03-23 11:50:11 --> idxWORD07F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR07F contains 314 words from 349 records
+2015-03-23 11:50:11 --> idxPAIR07F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR07F is up to date
+2015-03-23 11:50:11 --> idxPAIR07F contains 314 words from 349 records
+2015-03-23 11:50:11 --> idxPAIR07F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE07F contains 285 words from 349 records
+2015-03-23 11:50:11 --> idxPHRASE07F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE07F is up to date
+2015-03-23 11:50:11 --> idxPHRASE07F contains 285 words from 349 records
+2015-03-23 11:50:11 --> idxPHRASE07F is in consistent state
+2015-03-23 11:50:11 --> idxWORD08F has stemming enabled, language en
+2015-03-23 11:50:11 --> idxWORD08F contains 792 words from 371 records
+2015-03-23 11:50:11 --> idxWORD08F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD08F is up to date
+2015-03-23 11:50:11 --> idxWORD08F contains 792 words from 371 records
+2015-03-23 11:50:11 --> idxWORD08F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR08F contains 797 words from 371 records
+2015-03-23 11:50:11 --> idxPAIR08F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR08F is up to date
+2015-03-23 11:50:11 --> idxPAIR08F contains 797 words from 371 records
+2015-03-23 11:50:11 --> idxPAIR08F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE08F contains 272 words from 371 records
+2015-03-23 11:50:11 --> idxPHRASE08F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE08F is up to date
+2015-03-23 11:50:11 --> idxPHRASE08F contains 272 words from 371 records
+2015-03-23 11:50:11 --> idxPHRASE08F is in consistent state
+2015-03-23 11:50:11 --> idxWORD10F contains 31 words from 79 records
+2015-03-23 11:50:11 --> idxWORD10F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxWORD10F is up to date
+2015-03-23 11:50:11 --> idxWORD10F contains 31 words from 79 records
+2015-03-23 11:50:11 --> idxWORD10F is in consistent state
+2015-03-23 11:50:11 --> idxPAIR10F contains 1 words from 79 records
+2015-03-23 11:50:11 --> idxPAIR10F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPAIR10F is up to date
+2015-03-23 11:50:11 --> idxPAIR10F contains 1 words from 79 records
+2015-03-23 11:50:11 --> idxPAIR10F is in consistent state
+2015-03-23 11:50:11 --> idxPHRASE10F contains 29 words from 79 records
+2015-03-23 11:50:11 --> idxPHRASE10F is in consistent state
+2015-03-23 11:50:11 --> No new records added. idxPHRASE10F is up to date
+2015-03-23 11:50:11 --> idxPHRASE10F contains 29 words from 79 records
+2015-03-23 11:50:11 --> idxPHRASE10F is in consistent state
+2015-03-23 11:50:11 --> Task #1118 finished and resubmitted.
+2015-03-23 13:03:40 --> Task #1118 started.
+2015-03-23 13:03:40 --> idxWORD03F has stemming enabled, language en
+2015-03-23 13:03:40 --> idxWORD03F contains 3554 words from 251 records
+2015-03-23 13:03:40 --> idxWORD03F is in consistent state
+2015-03-23 13:03:40 --> idxWORD03F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD03F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD03F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD03F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxWORD03F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxWORD03F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD03R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD03R ended
+2015-03-23 13:03:40 --> idxWORD03F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxWORD03F contains 3554 words from 251 records
+2015-03-23 13:03:40 --> idxWORD03F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR03F contains 9293 words from 251 records
+2015-03-23 13:03:40 --> idxPAIR03F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR03F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR03F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR03F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR03F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR03F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR03F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR03R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR03R ended
+2015-03-23 13:03:40 --> idxPAIR03F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxPAIR03F contains 9293 words from 251 records
+2015-03-23 13:03:40 --> idxPAIR03F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE03F contains 175 words from 251 records
+2015-03-23 13:03:40 --> idxPHRASE03F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE03F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE03F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE03F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE03F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPHRASE03F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPHRASE03F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE03R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE03R ended
+2015-03-23 13:03:40 --> idxPHRASE03F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxPHRASE03F contains 175 words from 251 records
+2015-03-23 13:03:40 --> idxPHRASE03F is in consistent state
+2015-03-23 13:03:40 --> idxWORD13F contains 106 words from 77 records
+2015-03-23 13:03:40 --> idxWORD13F is in consistent state
+2015-03-23 13:03:40 --> idxWORD13F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD13F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD13F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD13F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxWORD13F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxWORD13F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD13R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD13R ended
+2015-03-23 13:03:40 --> idxWORD13F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxWORD13F contains 106 words from 77 records
+2015-03-23 13:03:40 --> idxWORD13F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR13F contains 101 words from 77 records
+2015-03-23 13:03:40 --> idxPAIR13F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR13F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR13F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR13F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR13F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR13F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR13F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR13R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR13R ended
+2015-03-23 13:03:40 --> idxPAIR13F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxPAIR13F contains 101 words from 77 records
+2015-03-23 13:03:40 --> idxPAIR13F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE13F contains 61 words from 77 records
+2015-03-23 13:03:40 --> idxPHRASE13F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE13F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE13F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE13F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE13F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPHRASE13F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPHRASE13F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE13R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE13R ended
+2015-03-23 13:03:40 --> idxPHRASE13F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxPHRASE13F contains 61 words from 77 records
+2015-03-23 13:03:40 --> idxPHRASE13F is in consistent state
+2015-03-23 13:03:40 --> idxWORD04F contains 702 words from 386 records
+2015-03-23 13:03:40 --> idxWORD04F is in consistent state
+2015-03-23 13:03:40 --> idxWORD04F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD04F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD04F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD04F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD04F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD04F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD04R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD04R ended
+2015-03-23 13:03:40 --> idxWORD04F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(1862 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxWORD04F is up to date
+2015-03-23 13:03:40 --> idxWORD04F contains 703 words from 386 records
+2015-03-23 13:03:40 --> idxWORD04F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR04F contains 772 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR04F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR04F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR04F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR04F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR04F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR04F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR04F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR04R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR04R ended
+2015-03-23 13:03:40 --> idxPAIR04F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(38711 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxPAIR04F is up to date
+2015-03-23 13:03:40 --> idxPAIR04F contains 772 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR04F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE04F contains 2154 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE04F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE04F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE04F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE04F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE04F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE04F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE04F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE04R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE04R ended
+2015-03-23 13:03:40 --> idxPHRASE04F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(3352 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxPHRASE04F is up to date
+2015-03-23 13:03:40 --> idxPHRASE04F contains 2155 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE04F is in consistent state
+2015-03-23 13:03:40 --> idxWORD18F contains 13 words from 386 records
+2015-03-23 13:03:40 --> idxWORD18F is in consistent state
+2015-03-23 13:03:40 --> idxWORD18F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD18F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD18F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD18F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 2 words into idxWORD18F started
+2015-03-23 13:03:40 --> ...updating 2 words into idxWORD18F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD18R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD18R ended
+2015-03-23 13:03:40 --> idxWORD18F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(21629 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> idxWORD18F contains 13 words from 386 records
+2015-03-23 13:03:40 --> idxWORD18F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR18F contains 13 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR18F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR18F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR18F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR18F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR18F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 2 words into idxPAIR18F started
+2015-03-23 13:03:40 --> ...updating 2 words into idxPAIR18F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR18R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR18R ended
+2015-03-23 13:03:40 --> idxPAIR18F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(25861 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> idxPAIR18F contains 13 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR18F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE18F contains 13 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE18F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE18F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE18F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE18F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE18F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 2 words into idxPHRASE18F started
+2015-03-23 13:03:40 --> ...updating 2 words into idxPHRASE18F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE18R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE18R ended
+2015-03-23 13:03:40 --> idxPHRASE18F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(25651 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> idxPHRASE18F contains 13 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE18F is in consistent state
+2015-03-23 13:03:40 --> idxWORD15F contains 9 words from 1 records
+2015-03-23 13:03:40 --> idxWORD15F is in consistent state
+2015-03-23 13:03:40 --> idxWORD15F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD15F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD15F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD15F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxWORD15F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxWORD15F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD15R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD15R ended
+2015-03-23 13:03:40 --> idxWORD15F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxWORD15F contains 9 words from 1 records
+2015-03-23 13:03:40 --> idxWORD15F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR15F contains 2 words from 1 records
+2015-03-23 13:03:40 --> idxPAIR15F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR15F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR15F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR15F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR15F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR15F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR15F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR15R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR15R ended
+2015-03-23 13:03:40 --> idxPAIR15F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxPAIR15F contains 2 words from 1 records
+2015-03-23 13:03:40 --> idxPAIR15F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE15F contains 6 words from 1 records
+2015-03-23 13:03:40 --> idxPHRASE15F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE15F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE15F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE15F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE15F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPHRASE15F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPHRASE15F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE15R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE15R ended
+2015-03-23 13:03:40 --> idxPHRASE15F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxPHRASE15F contains 6 words from 1 records
+2015-03-23 13:03:40 --> idxPHRASE15F is in consistent state
+2015-03-23 13:03:40 --> idxWORD12F contains 21 words from 3 records
+2015-03-23 13:03:40 --> idxWORD12F is in consistent state
+2015-03-23 13:03:40 --> idxWORD12F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD12F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD12F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD12F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxWORD12F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxWORD12F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD12R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD12R ended
+2015-03-23 13:03:40 --> idxWORD12F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxWORD12F contains 21 words from 3 records
+2015-03-23 13:03:40 --> idxWORD12F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR12F contains 20 words from 3 records
+2015-03-23 13:03:40 --> idxPAIR12F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR12F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR12F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR12F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR12F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR12F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR12F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR12R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR12R ended
+2015-03-23 13:03:40 --> idxPAIR12F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxPAIR12F contains 20 words from 3 records
+2015-03-23 13:03:40 --> idxPAIR12F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE12F contains 3 words from 3 records
+2015-03-23 13:03:40 --> idxPHRASE12F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE12F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE12F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE12F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE12F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPHRASE12F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPHRASE12F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE12R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE12R ended
+2015-03-23 13:03:40 --> idxPHRASE12F normal wordtable flush ended
+2015-03-23 13:03:40 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:40 --> idxPHRASE12F contains 3 words from 3 records
+2015-03-23 13:03:40 --> idxPHRASE12F is in consistent state
+2015-03-23 13:03:40 --> idxWORD02F contains 32 words from 370 records
+2015-03-23 13:03:40 --> idxWORD02F is in consistent state
+2015-03-23 13:03:40 --> idxWORD02F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD02F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD02F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD02F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD02F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD02F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD02R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD02R ended
+2015-03-23 13:03:40 --> idxWORD02F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(31367 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> idxWORD02F contains 32 words from 371 records
+2015-03-23 13:03:40 --> idxWORD02F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR02F contains 0 words from 370 records
+2015-03-23 13:03:40 --> idxPAIR02F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR02F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR02F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR02F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR02F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR02F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR02F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR02R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR02R ended
+2015-03-23 13:03:40 --> idxPAIR02F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(42799 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> idxPAIR02F contains 0 words from 371 records
+2015-03-23 13:03:40 --> idxPAIR02F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE02F contains 32 words from 370 records
+2015-03-23 13:03:40 --> idxPHRASE02F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE02F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE02F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE02F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE02F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE02F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE02F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE02R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE02R ended
+2015-03-23 13:03:40 --> idxPHRASE02F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(26594 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> idxPHRASE02F contains 32 words from 371 records
+2015-03-23 13:03:40 --> idxPHRASE02F is in consistent state
+2015-03-23 13:03:40 --> idxWORD14F contains 702 words from 386 records
+2015-03-23 13:03:40 --> idxWORD14F is in consistent state
+2015-03-23 13:03:40 --> idxWORD14F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD14F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD14F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD14F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD14F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD14F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD14R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD14R ended
+2015-03-23 13:03:40 --> idxWORD14F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(3736 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxWORD14F is up to date
+2015-03-23 13:03:40 --> idxWORD14F contains 703 words from 386 records
+2015-03-23 13:03:40 --> idxWORD14F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR14F contains 772 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR14F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR14F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR14F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR14F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR14F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR14F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR14F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR14R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR14R ended
+2015-03-23 13:03:40 --> idxPAIR14F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(27435 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxPAIR14F is up to date
+2015-03-23 13:03:40 --> idxPAIR14F contains 772 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR14F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE14F contains 643 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE14F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE14F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE14F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE14F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE14F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE14F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE14F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE14R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE14R ended
+2015-03-23 13:03:40 --> idxPHRASE14F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(10722 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxPHRASE14F is up to date
+2015-03-23 13:03:40 --> idxPHRASE14F contains 644 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE14F is in consistent state
+2015-03-23 13:03:40 --> idxWORD17F contains 162 words from 386 records
+2015-03-23 13:03:40 --> idxWORD17F is in consistent state
+2015-03-23 13:03:40 --> idxWORD17F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD17F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD17F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD17F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD17F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD17F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD17R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD17R ended
+2015-03-23 13:03:40 --> idxWORD17F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(27561 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxWORD17F is up to date
+2015-03-23 13:03:40 --> idxWORD17F contains 163 words from 386 records
+2015-03-23 13:03:40 --> idxWORD17F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR17F contains 129 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR17F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR17F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR17F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR17F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR17F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR17F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR17F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR17R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR17R ended
+2015-03-23 13:03:40 --> idxPAIR17F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(29645 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxPAIR17F is up to date
+2015-03-23 13:03:40 --> idxPAIR17F contains 129 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR17F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE17F contains 109 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE17F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE17F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE17F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE17F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE17F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE17F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE17F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE17R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE17R ended
+2015-03-23 13:03:40 --> idxPHRASE17F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(27139 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxPHRASE17F is up to date
+2015-03-23 13:03:40 --> idxPHRASE17F contains 110 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE17F is in consistent state
+2015-03-23 13:03:40 --> idxWORD16F contains 162 words from 386 records
+2015-03-23 13:03:40 --> idxWORD16F is in consistent state
+2015-03-23 13:03:40 --> idxWORD16F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD16F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxWORD16F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxWORD16F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD16F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxWORD16F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD16R started
+2015-03-23 13:03:40 --> ...updating reverse table idxWORD16R ended
+2015-03-23 13:03:40 --> idxWORD16F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(26798 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxWORD16F is up to date
+2015-03-23 13:03:40 --> idxWORD16F contains 163 words from 386 records
+2015-03-23 13:03:40 --> idxWORD16F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR16F contains 129 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR16F is in consistent state
+2015-03-23 13:03:40 --> idxPAIR16F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPAIR16F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPAIR16F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPAIR16F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR16F started
+2015-03-23 13:03:40 --> ...updating 0 words into idxPAIR16F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR16R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPAIR16R ended
+2015-03-23 13:03:40 --> idxPAIR16F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(32875 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxPAIR16F is up to date
+2015-03-23 13:03:40 --> idxPAIR16F contains 129 words from 386 records
+2015-03-23 13:03:40 --> idxPAIR16F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE16F contains 460 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE16F is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE16F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxPHRASE16F adding records #386-#386 started
+2015-03-23 13:03:40 --> idxPHRASE16F adding records #386-#386 ended  
+2015-03-23 13:03:40 --> idxPHRASE16F normal wordtable flush started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE16F started
+2015-03-23 13:03:40 --> ...updating 1 words into idxPHRASE16F ended
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE16R started
+2015-03-23 13:03:40 --> ...updating reverse table idxPHRASE16R ended
+2015-03-23 13:03:40 --> idxPHRASE16F normal wordtable flush ended
+2015-03-23 13:03:40 --> 1 records took 0.0 seconds to complete.(24490 recs/min)
+2015-03-23 13:03:40 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:40 --> No new records added by author canonical IDs. idxPHRASE16F is up to date
+2015-03-23 13:03:40 --> idxPHRASE16F contains 461 words from 386 records
+2015-03-23 13:03:40 --> idxPHRASE16F is in consistent state
+2015-03-23 13:03:40 --> idxWORD09F has stemming enabled, language en
+2015-03-23 13:03:40 --> idxWORD09F contains 32887 words from 334 records
+2015-03-23 13:03:40 --> idxWORD09F is in consistent state
+2015-03-23 13:03:40 --> idxWORD09F for 386-386 is in consistent state
+2015-03-23 13:03:40 --> idxWORD09F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxWORD09F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxWORD09F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD09F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD09F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD09R started
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD09R ended
+2015-03-23 13:03:41 --> idxWORD09F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.1 seconds to complete.(629 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxWORD09F contains 32887 words from 334 records
+2015-03-23 13:03:41 --> idxWORD09F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR09F contains 0 words from 334 records
+2015-03-23 13:03:41 --> idxPAIR09F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR09F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPAIR09F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPAIR09F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPAIR09F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR09F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR09F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR09R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR09R ended
+2015-03-23 13:03:41 --> idxPAIR09F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(9654 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPAIR09F contains 0 words from 334 records
+2015-03-23 13:03:41 --> idxPAIR09F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE09F contains 0 words from 334 records
+2015-03-23 13:03:41 --> idxPHRASE09F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE09F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE09F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPHRASE09F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPHRASE09F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE09F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE09F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE09R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE09R ended
+2015-03-23 13:03:41 --> idxPHRASE09F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(9680 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPHRASE09F contains 0 words from 334 records
+2015-03-23 13:03:41 --> idxPHRASE09F is in consistent state
+2015-03-23 13:03:41 --> idxWORD01F has stemming enabled, language en
+2015-03-23 13:03:41 --> idxWORD01F contains 6808 words from 379 records
+2015-03-23 13:03:41 --> idxWORD01F is in consistent state
+2015-03-23 13:03:41 --> idxWORD01F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxWORD01F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxWORD01F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxWORD01F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 14 words into idxWORD01F started
+2015-03-23 13:03:41 --> ......processed 1/14 words
+2015-03-23 13:03:41 --> ......processed 2/14 words
+2015-03-23 13:03:41 --> ......processed 3/14 words
+2015-03-23 13:03:41 --> ......processed 4/14 words
+2015-03-23 13:03:41 --> ......processed 5/14 words
+2015-03-23 13:03:41 --> ......processed 6/14 words
+2015-03-23 13:03:41 --> ......processed 7/14 words
+2015-03-23 13:03:41 --> ......processed 8/14 words
+2015-03-23 13:03:41 --> ......processed 9/14 words
+2015-03-23 13:03:41 --> ......processed 10/14 words
+2015-03-23 13:03:41 --> ......processed 11/14 words
+2015-03-23 13:03:41 --> ......processed 12/14 words
+2015-03-23 13:03:41 --> ......processed 13/14 words
+2015-03-23 13:03:41 --> ......processed 14/14 words
+2015-03-23 13:03:41 --> ...updating 14 words into idxWORD01F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD01R started
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD01R ended
+2015-03-23 13:03:41 --> idxWORD01F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(1811 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxWORD01F contains 6814 words from 380 records
+2015-03-23 13:03:41 --> idxWORD01F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR01F contains 12230 words from 379 records
+2015-03-23 13:03:41 --> idxPAIR01F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR01F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPAIR01F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPAIR01F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPAIR01F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 7 words into idxPAIR01F started
+2015-03-23 13:03:41 --> ...updating 7 words into idxPAIR01F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR01R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR01R ended
+2015-03-23 13:03:41 --> idxPAIR01F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(2219 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPAIR01F contains 12235 words from 380 records
+2015-03-23 13:03:41 --> idxPAIR01F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE01F contains 2783 words from 379 records
+2015-03-23 13:03:41 --> idxPHRASE01F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE01F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE01F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPHRASE01F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPHRASE01F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 6 words into idxPHRASE01F started
+2015-03-23 13:03:41 --> ...updating 6 words into idxPHRASE01F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE01R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE01R ended
+2015-03-23 13:03:41 --> idxPHRASE01F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(6025 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPHRASE01F contains 2787 words from 380 records
+2015-03-23 13:03:41 --> idxPHRASE01F is in consistent state
+2015-03-23 13:03:41 --> idxWORD11F contains 134 words from 386 records
+2015-03-23 13:03:41 --> idxWORD11F is in consistent state
+2015-03-23 13:03:41 --> idxWORD11F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxWORD11F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxWORD11F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxWORD11F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD11F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD11F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD11R started
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD11R ended
+2015-03-23 13:03:41 --> idxWORD11F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(31069 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxWORD11F contains 134 words from 386 records
+2015-03-23 13:03:41 --> idxWORD11F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR11F contains 134 words from 386 records
+2015-03-23 13:03:41 --> idxPAIR11F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR11F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPAIR11F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPAIR11F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPAIR11F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR11F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR11F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR11R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR11R ended
+2015-03-23 13:03:41 --> idxPAIR11F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(31219 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPAIR11F contains 134 words from 386 records
+2015-03-23 13:03:41 --> idxPAIR11F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE11F contains 134 words from 386 records
+2015-03-23 13:03:41 --> idxPHRASE11F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE11F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE11F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPHRASE11F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPHRASE11F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE11F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE11F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE11R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE11R ended
+2015-03-23 13:03:41 --> idxPHRASE11F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(32485 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPHRASE11F contains 134 words from 386 records
+2015-03-23 13:03:41 --> idxPHRASE11F is in consistent state
+2015-03-23 13:03:41 --> idxWORD05F has stemming enabled, language en
+2015-03-23 13:03:41 --> idxWORD05F contains 224 words from 206 records
+2015-03-23 13:03:41 --> idxWORD05F is in consistent state
+2015-03-23 13:03:41 --> idxWORD05F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxWORD05F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxWORD05F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxWORD05F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD05F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD05F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD05R started
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD05R ended
+2015-03-23 13:03:41 --> idxWORD05F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxWORD05F contains 224 words from 206 records
+2015-03-23 13:03:41 --> idxWORD05F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR05F contains 13 words from 206 records
+2015-03-23 13:03:41 --> idxPAIR05F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR05F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPAIR05F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPAIR05F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPAIR05F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR05F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR05F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR05R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR05R ended
+2015-03-23 13:03:41 --> idxPAIR05F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxPAIR05F contains 13 words from 206 records
+2015-03-23 13:03:41 --> idxPAIR05F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE05F contains 214 words from 206 records
+2015-03-23 13:03:41 --> idxPHRASE05F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE05F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE05F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPHRASE05F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPHRASE05F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE05F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE05F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE05R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE05R ended
+2015-03-23 13:03:41 --> idxPHRASE05F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxPHRASE05F contains 214 words from 206 records
+2015-03-23 13:03:41 --> idxPHRASE05F is in consistent state
+2015-03-23 13:03:41 --> idxWORD06F contains 7262 words from 48 records
+2015-03-23 13:03:41 --> idxWORD06F is in consistent state
+2015-03-23 13:03:41 --> idxWORD06F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxWORD06F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxWORD06F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxWORD06F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD06F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD06F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD06R started
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD06R ended
+2015-03-23 13:03:41 --> idxWORD06F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxWORD06F contains 7262 words from 48 records
+2015-03-23 13:03:41 --> idxWORD06F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR06F contains 12452 words from 48 records
+2015-03-23 13:03:41 --> idxPAIR06F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR06F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPAIR06F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPAIR06F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPAIR06F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR06F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR06F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR06R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR06R ended
+2015-03-23 13:03:41 --> idxPAIR06F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxPAIR06F contains 12452 words from 48 records
+2015-03-23 13:03:41 --> idxPAIR06F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE06F contains 4927 words from 48 records
+2015-03-23 13:03:41 --> idxPHRASE06F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE06F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE06F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPHRASE06F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPHRASE06F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE06F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE06F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE06R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE06R ended
+2015-03-23 13:03:41 --> idxPHRASE06F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxPHRASE06F contains 4927 words from 48 records
+2015-03-23 13:03:41 --> idxPHRASE06F is in consistent state
+2015-03-23 13:03:41 --> idxWORD07F contains 574 words from 349 records
+2015-03-23 13:03:41 --> idxWORD07F is in consistent state
+2015-03-23 13:03:41 --> idxWORD07F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxWORD07F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxWORD07F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxWORD07F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 6 words into idxWORD07F started
+2015-03-23 13:03:41 --> ...updating 6 words into idxWORD07F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD07R started
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD07R ended
+2015-03-23 13:03:41 --> idxWORD07F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(4973 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxWORD07F contains 576 words from 350 records
+2015-03-23 13:03:41 --> idxWORD07F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR07F contains 314 words from 349 records
+2015-03-23 13:03:41 --> idxPAIR07F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR07F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPAIR07F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPAIR07F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPAIR07F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 4 words into idxPAIR07F started
+2015-03-23 13:03:41 --> ...updating 4 words into idxPAIR07F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR07R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR07R ended
+2015-03-23 13:03:41 --> idxPAIR07F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(22380 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPAIR07F contains 316 words from 350 records
+2015-03-23 13:03:41 --> idxPAIR07F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE07F contains 285 words from 349 records
+2015-03-23 13:03:41 --> idxPHRASE07F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE07F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE07F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPHRASE07F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPHRASE07F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 1 words into idxPHRASE07F started
+2015-03-23 13:03:41 --> ...updating 1 words into idxPHRASE07F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE07R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE07R ended
+2015-03-23 13:03:41 --> idxPHRASE07F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(20236 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPHRASE07F contains 286 words from 350 records
+2015-03-23 13:03:41 --> idxPHRASE07F is in consistent state
+2015-03-23 13:03:41 --> idxWORD08F has stemming enabled, language en
+2015-03-23 13:03:41 --> idxWORD08F contains 792 words from 371 records
+2015-03-23 13:03:41 --> idxWORD08F is in consistent state
+2015-03-23 13:03:41 --> idxWORD08F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxWORD08F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxWORD08F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxWORD08F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 1 words into idxWORD08F started
+2015-03-23 13:03:41 --> ...updating 1 words into idxWORD08F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD08R started
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD08R ended
+2015-03-23 13:03:41 --> idxWORD08F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(13899 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxWORD08F contains 793 words from 372 records
+2015-03-23 13:03:41 --> idxWORD08F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR08F contains 797 words from 371 records
+2015-03-23 13:03:41 --> idxPAIR08F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR08F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPAIR08F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPAIR08F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPAIR08F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR08F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR08F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR08R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR08R ended
+2015-03-23 13:03:41 --> idxPAIR08F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(29849 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPAIR08F contains 797 words from 372 records
+2015-03-23 13:03:41 --> idxPAIR08F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE08F contains 272 words from 371 records
+2015-03-23 13:03:41 --> idxPHRASE08F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE08F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE08F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPHRASE08F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPHRASE08F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 1 words into idxPHRASE08F started
+2015-03-23 13:03:41 --> ...updating 1 words into idxPHRASE08F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE08R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE08R ended
+2015-03-23 13:03:41 --> idxPHRASE08F normal wordtable flush ended
+2015-03-23 13:03:41 --> 1 records took 0.0 seconds to complete.(6266 recs/min)
+2015-03-23 13:03:41 --> Estimated runtime: 0.0 minutes
+2015-03-23 13:03:41 --> idxPHRASE08F contains 273 words from 372 records
+2015-03-23 13:03:41 --> idxPHRASE08F is in consistent state
+2015-03-23 13:03:41 --> idxWORD10F contains 31 words from 79 records
+2015-03-23 13:03:41 --> idxWORD10F is in consistent state
+2015-03-23 13:03:41 --> idxWORD10F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxWORD10F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxWORD10F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxWORD10F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD10F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxWORD10F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD10R started
+2015-03-23 13:03:41 --> ...updating reverse table idxWORD10R ended
+2015-03-23 13:03:41 --> idxWORD10F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxWORD10F contains 31 words from 79 records
+2015-03-23 13:03:41 --> idxWORD10F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR10F contains 1 words from 79 records
+2015-03-23 13:03:41 --> idxPAIR10F is in consistent state
+2015-03-23 13:03:41 --> idxPAIR10F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPAIR10F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPAIR10F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPAIR10F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR10F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPAIR10F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR10R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPAIR10R ended
+2015-03-23 13:03:41 --> idxPAIR10F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxPAIR10F contains 1 words from 79 records
+2015-03-23 13:03:41 --> idxPAIR10F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE10F contains 29 words from 79 records
+2015-03-23 13:03:41 --> idxPHRASE10F is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE10F for 386-386 is in consistent state
+2015-03-23 13:03:41 --> idxPHRASE10F adding records #386-#386 started
+2015-03-23 13:03:41 --> idxPHRASE10F adding records #386-#386 ended  
+2015-03-23 13:03:41 --> idxPHRASE10F normal wordtable flush started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE10F started
+2015-03-23 13:03:41 --> ...updating 0 words into idxPHRASE10F ended
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE10R started
+2015-03-23 13:03:41 --> ...updating reverse table idxPHRASE10R ended
+2015-03-23 13:03:41 --> idxPHRASE10F normal wordtable flush ended
+2015-03-23 13:03:41 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2015-03-23 13:03:41 --> idxPHRASE10F contains 29 words from 79 records
+2015-03-23 13:03:41 --> idxPHRASE10F is in consistent state
+2015-03-23 13:03:41 --> Task #1118 finished and resubmitted.

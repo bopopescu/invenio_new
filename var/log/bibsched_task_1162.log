@@ -1,0 +1,2490 @@
+2014-10-16 10:55:58 --> Task #1162 started.
+2014-10-16 10:55:58 --> Running rank method: times cited.
+2014-10-16 10:55:58 --> No new records added since last time method was run
+2014-10-16 10:55:58 --> No new records added since last time this rank method was executed
+2014-10-16 10:55:58 --> No need to update the indexes for citations.
+2014-10-16 10:55:58 --> Running rank method: citerank_citation_t
+2014-10-16 10:55:58 --> Running rank method: citerank_pagerank_c
+2014-10-16 10:55:58 --> Running rank method: citerank_pagerank_t
+2014-10-16 10:55:58 --> Running rank method: journal impact factor.
+2014-10-16 10:55:58 --> No new records added since last time method was run
+2014-10-16 10:55:58 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-16 10:55:58 --> Number of lines read from knowledgebase file: 5
+2014-10-16 10:55:58 --> Number of records available in rank method: 0
+2014-10-16 10:55:58 --> Running rank method: word similarity
+2014-10-16 10:55:58 --> Warning: Stemming not available for language 'fr'.
+2014-10-16 10:55:58 --> Warning: Stemming not available for language 'fr'.
+2014-10-16 10:55:58 --> rnkWORD01F contains 3918 words from 371 records
+2014-10-16 10:55:58 --> rnkWORD01F is in consistent state
+2014-10-16 10:55:58 --> Using the last update time for the rank method
+2014-10-16 10:55:58 --> No new records added. rnkWORD01F is up to date
+2014-10-16 10:55:58 --> No terms to process, ending...
+2014-10-16 10:55:58 --> rnkWORD01F contains 3918 words from 371 records
+2014-10-16 10:55:58 --> rnkWORD01F is in consistent state
+2014-10-16 10:55:58 --> Task #1162 finished and resubmitted.
+2014-10-20 09:00:58 --> Task #1162 started.
+2014-10-20 09:00:58 --> Running rank method: times cited.
+2014-10-20 09:00:58 --> No new records added since last time method was run
+2014-10-20 09:00:58 --> No new records added since last time this rank method was executed
+2014-10-20 09:00:58 --> No need to update the indexes for citations.
+2014-10-20 09:00:58 --> Running rank method: citerank_citation_t
+2014-10-20 09:00:58 --> Running rank method: citerank_pagerank_c
+2014-10-20 09:00:58 --> Running rank method: citerank_pagerank_t
+2014-10-20 09:00:58 --> Running rank method: journal impact factor.
+2014-10-20 09:00:58 --> No new records added since last time method was run
+2014-10-20 09:00:58 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 09:00:58 --> Number of lines read from knowledgebase file: 5
+2014-10-20 09:00:58 --> Number of records available in rank method: 0
+2014-10-20 09:00:58 --> Running rank method: word similarity
+2014-10-20 09:00:58 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 09:00:58 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 09:00:58 --> rnkWORD01F contains 3918 words from 371 records
+2014-10-20 09:00:58 --> rnkWORD01F is in consistent state
+2014-10-20 09:00:58 --> Using the last update time for the rank method
+2014-10-20 09:00:58 --> No new records added. rnkWORD01F is up to date
+2014-10-20 09:00:58 --> No terms to process, ending...
+2014-10-20 09:00:58 --> rnkWORD01F contains 3918 words from 371 records
+2014-10-20 09:00:58 --> rnkWORD01F is in consistent state
+2014-10-20 09:00:58 --> Task #1162 finished and resubmitted.
+2014-10-20 13:52:36 --> Task #1162 started.
+2014-10-20 13:52:36 --> Running rank method: times cited.
+2014-10-20 13:52:36 --> No new records added since last time method was run
+2014-10-20 13:52:36 --> No new records added since last time this rank method was executed
+2014-10-20 13:52:36 --> No need to update the indexes for citations.
+2014-10-20 13:52:36 --> Running rank method: citerank_citation_t
+2014-10-20 13:52:36 --> Running rank method: citerank_pagerank_c
+2014-10-20 13:52:36 --> Running rank method: citerank_pagerank_t
+2014-10-20 13:52:36 --> Running rank method: journal impact factor.
+2014-10-20 13:52:36 --> No new records added since last time method was run
+2014-10-20 13:52:36 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 13:52:36 --> Number of lines read from knowledgebase file: 5
+2014-10-20 13:52:36 --> Number of records available in rank method: 0
+2014-10-20 13:52:36 --> Running rank method: word similarity
+2014-10-20 13:52:36 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 13:52:36 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 13:52:36 --> rnkWORD01F contains 3918 words from 371 records
+2014-10-20 13:52:36 --> rnkWORD01F is in consistent state
+2014-10-20 13:52:36 --> Using the last update time for the rank method
+2014-10-20 13:52:36 --> No new records added. rnkWORD01F is up to date
+2014-10-20 13:52:36 --> No terms to process, ending...
+2014-10-20 13:52:36 --> rnkWORD01F contains 3918 words from 371 records
+2014-10-20 13:52:36 --> rnkWORD01F is in consistent state
+2014-10-20 13:52:36 --> Task #1162 finished and resubmitted.
+2014-10-20 13:57:41 --> Task #1162 started.
+2014-10-20 13:57:41 --> Running rank method: times cited.
+2014-10-20 13:57:42 --> Last update 2014-10-15 11:38:16 records: 1 updates: 1
+2014-10-20 13:57:42 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-20 13:57:42 --> No need to update the indexes for citations.
+2014-10-20 13:57:42 --> Running rank method: citerank_citation_t
+2014-10-20 13:57:42 --> Running rank method: citerank_pagerank_c
+2014-10-20 13:57:42 --> Running rank method: citerank_pagerank_t
+2014-10-20 13:57:42 --> Running rank method: journal impact factor.
+2014-10-20 13:57:42 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 13:57:42 --> Number of lines read from knowledgebase file: 5
+2014-10-20 13:57:42 --> ......Processing records #385-385
+2014-10-20 13:57:42 --> Number of records found with the necessary tags: 0
+2014-10-20 13:57:42 --> Number of records available in rank method: 0
+2014-10-20 13:57:42 --> Running rank method: word similarity
+2014-10-20 13:57:42 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 13:57:42 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 13:57:42 --> rnkWORD01F contains 3918 words from 371 records
+2014-10-20 13:57:42 --> rnkWORD01F is in consistent state
+2014-10-20 13:57:42 --> Using the last update time for the rank method
+2014-10-20 13:57:42 --> rnkWORD01F for 385-385 is in consistent state
+2014-10-20 13:57:42 --> rnkWORD01F adding records #385-#385 started
+2014-10-20 13:57:42 --> rnkWORD01F adding records #385-#385 ended  
+2014-10-20 13:57:42 --> rnkWORD01F normal wordtable flush started
+2014-10-20 13:57:42 --> ...updating 1 words into rnkWORD01R started
+2014-10-20 13:57:42 --> rnkWORD01F normal wordtable flush ended
+2014-10-20 13:57:42 --> 1 records took 0.1 seconds to complete.(1159 recs/min)
+2014-10-20 13:57:42 --> Estimated runtime: 0.0 minutes
+2014-10-20 13:57:42 --> Beginning post-processing of 1 terms
+2014-10-20 13:57:42 --> Phase 1: Finding records containing modified terms
+2014-10-20 13:57:42 --> Phase 1: ......processed 1/1 terms
+2014-10-20 13:57:42 --> Phase 1: Finished finding records containing modified terms
+2014-10-20 13:57:42 --> Phase 2: Finding all terms in affected records
+2014-10-20 13:57:42 --> Phase 2: ......processed 1/1 records 
+2014-10-20 13:57:42 --> Phase 2: Finished finding all terms in affected records
+2014-10-20 13:57:42 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-20 13:57:42 --> Phase 3: ......processed 1/1 terms
+2014-10-20 13:57:42 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-20 13:57:42 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-20 13:57:42 --> Phase 4: ......processed 1/1 records
+2014-10-20 13:57:42 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-20 13:57:42 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-20 13:57:42 --> Phase 5: ......processed 1/1 terms
+2014-10-20 13:57:42 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-20 13:57:42 --> Time used for post-processing: 0.0min
+2014-10-20 13:57:42 --> Finished post-processing
+2014-10-20 13:57:42 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 13:57:42 --> rnkWORD01F is in consistent state
+2014-10-20 13:57:42 --> Task #1162 finished and resubmitted.
+2014-10-20 14:02:42 --> Task #1162 started.
+2014-10-20 14:02:42 --> Running rank method: times cited.
+2014-10-20 14:02:42 --> Last update 2014-10-15 11:38:16 records: 1 updates: 1
+2014-10-20 14:02:42 --> get cit.inf done 0 of 1
+2014-10-20 14:02:42 --> get cit.inf done fully
+2014-10-20 14:02:42 --> Execution time for generating citation info from record: 0.03 sec
+2014-10-20 14:02:42 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-20 14:02:42 --> Phase 1: d_references_report_numbers
+2014-10-20 14:02:42 --> d_references_report_numbers done fully
+2014-10-20 14:02:42 --> Phase 2: d_references_s
+2014-10-20 14:02:42 --> d_references_s done fully
+2014-10-20 14:02:42 --> Phase 3: d_reports_numbers
+2014-10-20 14:02:42 --> d_report_numbers done 0 of 1
+2014-10-20 14:02:42 --> d_report_numbers done fully
+2014-10-20 14:02:42 --> Phase 4: d_records_s
+2014-10-20 14:02:42 --> d_records_s done fully
+2014-10-20 14:02:42 --> Phase 5: reverse lists
+2014-10-20 14:02:42 --> Phase 6: self-citations
+2014-10-20 14:02:42 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-20 14:02:42 --> Getting author citations
+2014-10-20 14:02:42 --> size of reversedict 88
+2014-10-20 14:02:42 --> size of citationdict 91
+2014-10-20 14:02:42 --> size of selfcitedbydict 10
+2014-10-20 14:02:42 --> size of selfcitdict 10
+2014-10-20 14:02:42 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-20 14:02:42 --> ... checking ref number: 0.00 sec
+2014-10-20 14:02:42 --> ... checking ref ypvt: 0.00 sec
+2014-10-20 14:02:42 --> ... checking rec number: 0.00 sec
+2014-10-20 14:02:42 --> ... checking rec ypvt: 0.01 sec
+2014-10-20 14:02:42 --> ... total time of ref_analyze: 0.01 sec
+2014-10-20 14:02:42 --> Total time of get_citation_weight(): 0.04 sec
+2014-10-20 14:02:42 --> Running rank method: citerank_citation_t
+2014-10-20 14:02:42 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:02:42 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:02:42 --> Running rank method: journal impact factor.
+2014-10-20 14:02:42 --> No new records added since last time method was run
+2014-10-20 14:02:42 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:02:42 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:02:42 --> Number of records available in rank method: 0
+2014-10-20 14:02:42 --> Running rank method: word similarity
+2014-10-20 14:02:42 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:02:42 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:02:42 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:02:42 --> rnkWORD01F is in consistent state
+2014-10-20 14:02:42 --> Using the last update time for the rank method
+2014-10-20 14:02:42 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:02:42 --> No terms to process, ending...
+2014-10-20 14:02:42 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:02:42 --> rnkWORD01F is in consistent state
+2014-10-20 14:02:42 --> Task #1162 finished and resubmitted.
+2014-10-20 14:07:43 --> Task #1162 started.
+2014-10-20 14:07:43 --> Running rank method: times cited.
+2014-10-20 14:07:43 --> No new records added since last time method was run
+2014-10-20 14:07:43 --> No new records added since last time this rank method was executed
+2014-10-20 14:07:43 --> No need to update the indexes for citations.
+2014-10-20 14:07:43 --> Running rank method: citerank_citation_t
+2014-10-20 14:07:43 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:07:43 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:07:43 --> Running rank method: journal impact factor.
+2014-10-20 14:07:43 --> No new records added since last time method was run
+2014-10-20 14:07:43 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:07:43 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:07:43 --> Number of records available in rank method: 0
+2014-10-20 14:07:43 --> Running rank method: word similarity
+2014-10-20 14:07:43 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:07:43 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:07:43 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:07:43 --> rnkWORD01F is in consistent state
+2014-10-20 14:07:43 --> Using the last update time for the rank method
+2014-10-20 14:07:43 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:07:43 --> No terms to process, ending...
+2014-10-20 14:07:43 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:07:43 --> rnkWORD01F is in consistent state
+2014-10-20 14:07:43 --> Task #1162 finished and resubmitted.
+2014-10-20 14:12:43 --> Task #1162 started.
+2014-10-20 14:12:43 --> Running rank method: times cited.
+2014-10-20 14:12:43 --> No new records added since last time method was run
+2014-10-20 14:12:43 --> No new records added since last time this rank method was executed
+2014-10-20 14:12:43 --> No need to update the indexes for citations.
+2014-10-20 14:12:43 --> Running rank method: citerank_citation_t
+2014-10-20 14:12:43 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:12:43 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:12:43 --> Running rank method: journal impact factor.
+2014-10-20 14:12:43 --> No new records added since last time method was run
+2014-10-20 14:12:43 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:12:43 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:12:43 --> Number of records available in rank method: 0
+2014-10-20 14:12:43 --> Running rank method: word similarity
+2014-10-20 14:12:43 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:12:43 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:12:43 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:12:43 --> rnkWORD01F is in consistent state
+2014-10-20 14:12:43 --> Using the last update time for the rank method
+2014-10-20 14:12:43 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:12:43 --> No terms to process, ending...
+2014-10-20 14:12:43 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:12:43 --> rnkWORD01F is in consistent state
+2014-10-20 14:12:43 --> Task #1162 finished and resubmitted.
+2014-10-20 14:17:44 --> Task #1162 started.
+2014-10-20 14:17:44 --> Running rank method: times cited.
+2014-10-20 14:17:44 --> No new records added since last time method was run
+2014-10-20 14:17:44 --> No new records added since last time this rank method was executed
+2014-10-20 14:17:44 --> No need to update the indexes for citations.
+2014-10-20 14:17:44 --> Running rank method: citerank_citation_t
+2014-10-20 14:17:44 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:17:44 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:17:44 --> Running rank method: journal impact factor.
+2014-10-20 14:17:44 --> No new records added since last time method was run
+2014-10-20 14:17:44 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:17:44 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:17:44 --> Number of records available in rank method: 0
+2014-10-20 14:17:44 --> Running rank method: word similarity
+2014-10-20 14:17:44 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:17:44 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:17:44 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:17:44 --> rnkWORD01F is in consistent state
+2014-10-20 14:17:44 --> Using the last update time for the rank method
+2014-10-20 14:17:44 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:17:44 --> No terms to process, ending...
+2014-10-20 14:17:44 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:17:44 --> rnkWORD01F is in consistent state
+2014-10-20 14:17:44 --> Task #1162 finished and resubmitted.
+2014-10-20 14:22:44 --> Task #1162 started.
+2014-10-20 14:22:44 --> Running rank method: times cited.
+2014-10-20 14:22:44 --> No new records added since last time method was run
+2014-10-20 14:22:44 --> No new records added since last time this rank method was executed
+2014-10-20 14:22:44 --> No need to update the indexes for citations.
+2014-10-20 14:22:44 --> Running rank method: citerank_citation_t
+2014-10-20 14:22:44 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:22:44 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:22:44 --> Running rank method: journal impact factor.
+2014-10-20 14:22:44 --> No new records added since last time method was run
+2014-10-20 14:22:44 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:22:44 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:22:44 --> Number of records available in rank method: 0
+2014-10-20 14:22:44 --> Running rank method: word similarity
+2014-10-20 14:22:44 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:22:44 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:22:44 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:22:44 --> rnkWORD01F is in consistent state
+2014-10-20 14:22:44 --> Using the last update time for the rank method
+2014-10-20 14:22:44 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:22:44 --> No terms to process, ending...
+2014-10-20 14:22:44 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:22:44 --> rnkWORD01F is in consistent state
+2014-10-20 14:22:44 --> Task #1162 finished and resubmitted.
+2014-10-20 14:27:45 --> Task #1162 started.
+2014-10-20 14:27:45 --> Running rank method: times cited.
+2014-10-20 14:27:45 --> No new records added since last time method was run
+2014-10-20 14:27:45 --> No new records added since last time this rank method was executed
+2014-10-20 14:27:45 --> No need to update the indexes for citations.
+2014-10-20 14:27:45 --> Running rank method: citerank_citation_t
+2014-10-20 14:27:45 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:27:45 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:27:45 --> Running rank method: journal impact factor.
+2014-10-20 14:27:45 --> No new records added since last time method was run
+2014-10-20 14:27:45 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:27:45 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:27:45 --> Number of records available in rank method: 0
+2014-10-20 14:27:45 --> Running rank method: word similarity
+2014-10-20 14:27:45 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:27:45 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:27:45 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:27:45 --> rnkWORD01F is in consistent state
+2014-10-20 14:27:45 --> Using the last update time for the rank method
+2014-10-20 14:27:45 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:27:45 --> No terms to process, ending...
+2014-10-20 14:27:45 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:27:45 --> rnkWORD01F is in consistent state
+2014-10-20 14:27:45 --> Task #1162 finished and resubmitted.
+2014-10-20 14:32:45 --> Task #1162 started.
+2014-10-20 14:32:45 --> Running rank method: times cited.
+2014-10-20 14:32:45 --> No new records added since last time method was run
+2014-10-20 14:32:45 --> No new records added since last time this rank method was executed
+2014-10-20 14:32:45 --> No need to update the indexes for citations.
+2014-10-20 14:32:45 --> Running rank method: citerank_citation_t
+2014-10-20 14:32:45 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:32:45 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:32:45 --> Running rank method: journal impact factor.
+2014-10-20 14:32:45 --> No new records added since last time method was run
+2014-10-20 14:32:45 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:32:45 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:32:45 --> Number of records available in rank method: 0
+2014-10-20 14:32:45 --> Running rank method: word similarity
+2014-10-20 14:32:45 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:32:45 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:32:45 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:32:45 --> rnkWORD01F is in consistent state
+2014-10-20 14:32:45 --> Using the last update time for the rank method
+2014-10-20 14:32:45 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:32:45 --> No terms to process, ending...
+2014-10-20 14:32:45 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:32:45 --> rnkWORD01F is in consistent state
+2014-10-20 14:32:45 --> Task #1162 finished and resubmitted.
+2014-10-20 14:37:46 --> Task #1162 started.
+2014-10-20 14:37:46 --> Running rank method: times cited.
+2014-10-20 14:37:46 --> No new records added since last time method was run
+2014-10-20 14:37:46 --> No new records added since last time this rank method was executed
+2014-10-20 14:37:46 --> No need to update the indexes for citations.
+2014-10-20 14:37:46 --> Running rank method: citerank_citation_t
+2014-10-20 14:37:46 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:37:46 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:37:46 --> Running rank method: journal impact factor.
+2014-10-20 14:37:46 --> No new records added since last time method was run
+2014-10-20 14:37:46 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:37:46 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:37:46 --> Number of records available in rank method: 0
+2014-10-20 14:37:46 --> Running rank method: word similarity
+2014-10-20 14:37:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:37:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:37:46 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:37:46 --> rnkWORD01F is in consistent state
+2014-10-20 14:37:46 --> Using the last update time for the rank method
+2014-10-20 14:37:46 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:37:46 --> No terms to process, ending...
+2014-10-20 14:37:46 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:37:46 --> rnkWORD01F is in consistent state
+2014-10-20 14:37:46 --> Task #1162 finished and resubmitted.
+2014-10-20 14:42:46 --> Task #1162 started.
+2014-10-20 14:42:46 --> Running rank method: times cited.
+2014-10-20 14:42:46 --> No new records added since last time method was run
+2014-10-20 14:42:46 --> No new records added since last time this rank method was executed
+2014-10-20 14:42:46 --> No need to update the indexes for citations.
+2014-10-20 14:42:46 --> Running rank method: citerank_citation_t
+2014-10-20 14:42:46 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:42:46 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:42:46 --> Running rank method: journal impact factor.
+2014-10-20 14:42:46 --> No new records added since last time method was run
+2014-10-20 14:42:46 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:42:46 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:42:46 --> Number of records available in rank method: 0
+2014-10-20 14:42:46 --> Running rank method: word similarity
+2014-10-20 14:42:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:42:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:42:46 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:42:46 --> rnkWORD01F is in consistent state
+2014-10-20 14:42:46 --> Using the last update time for the rank method
+2014-10-20 14:42:46 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:42:46 --> No terms to process, ending...
+2014-10-20 14:42:46 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:42:46 --> rnkWORD01F is in consistent state
+2014-10-20 14:42:46 --> Task #1162 finished and resubmitted.
+2014-10-20 14:48:07 --> Task #1162 started.
+2014-10-20 14:48:07 --> Running rank method: times cited.
+2014-10-20 14:48:07 --> No new records added since last time method was run
+2014-10-20 14:48:07 --> No new records added since last time this rank method was executed
+2014-10-20 14:48:07 --> No need to update the indexes for citations.
+2014-10-20 14:48:07 --> Running rank method: citerank_citation_t
+2014-10-20 14:48:07 --> Running rank method: citerank_pagerank_c
+2014-10-20 14:48:07 --> Running rank method: citerank_pagerank_t
+2014-10-20 14:48:07 --> Running rank method: journal impact factor.
+2014-10-20 14:48:07 --> No new records added since last time method was run
+2014-10-20 14:48:07 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-20 14:48:07 --> Number of lines read from knowledgebase file: 5
+2014-10-20 14:48:07 --> Number of records available in rank method: 0
+2014-10-20 14:48:07 --> Running rank method: word similarity
+2014-10-20 14:48:07 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:48:07 --> Warning: Stemming not available for language 'fr'.
+2014-10-20 14:48:07 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:48:07 --> rnkWORD01F is in consistent state
+2014-10-20 14:48:07 --> Using the last update time for the rank method
+2014-10-20 14:48:07 --> No new records added. rnkWORD01F is up to date
+2014-10-20 14:48:07 --> No terms to process, ending...
+2014-10-20 14:48:07 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-20 14:48:07 --> rnkWORD01F is in consistent state
+2014-10-20 14:48:07 --> Task #1162 finished and resubmitted.
+2014-10-23 10:00:45 --> Task #1162 started.
+2014-10-23 10:00:45 --> Running rank method: times cited.
+2014-10-23 10:00:45 --> No new records added since last time method was run
+2014-10-23 10:00:45 --> No new records added since last time this rank method was executed
+2014-10-23 10:00:45 --> No need to update the indexes for citations.
+2014-10-23 10:00:45 --> Running rank method: citerank_citation_t
+2014-10-23 10:00:45 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:00:45 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:00:45 --> Running rank method: journal impact factor.
+2014-10-23 10:00:45 --> No new records added since last time method was run
+2014-10-23 10:00:45 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:00:45 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:00:45 --> Number of records available in rank method: 0
+2014-10-23 10:00:45 --> Running rank method: word similarity
+2014-10-23 10:00:45 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:00:45 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:00:45 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:00:45 --> rnkWORD01F is in consistent state
+2014-10-23 10:00:45 --> Using the last update time for the rank method
+2014-10-23 10:00:45 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:00:45 --> No terms to process, ending...
+2014-10-23 10:00:45 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:00:45 --> rnkWORD01F is in consistent state
+2014-10-23 10:00:45 --> Task #1162 finished and resubmitted.
+2014-10-23 10:05:46 --> Task #1162 started.
+2014-10-23 10:05:46 --> Running rank method: times cited.
+2014-10-23 10:05:46 --> No new records added since last time method was run
+2014-10-23 10:05:46 --> No new records added since last time this rank method was executed
+2014-10-23 10:05:46 --> No need to update the indexes for citations.
+2014-10-23 10:05:46 --> Running rank method: citerank_citation_t
+2014-10-23 10:05:46 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:05:46 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:05:46 --> Running rank method: journal impact factor.
+2014-10-23 10:05:46 --> No new records added since last time method was run
+2014-10-23 10:05:46 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:05:46 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:05:46 --> Number of records available in rank method: 0
+2014-10-23 10:05:46 --> Running rank method: word similarity
+2014-10-23 10:05:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:05:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:05:46 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:05:46 --> rnkWORD01F is in consistent state
+2014-10-23 10:05:46 --> Using the last update time for the rank method
+2014-10-23 10:05:46 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:05:46 --> No terms to process, ending...
+2014-10-23 10:05:46 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:05:46 --> rnkWORD01F is in consistent state
+2014-10-23 10:05:46 --> Task #1162 finished and resubmitted.
+2014-10-23 10:10:46 --> Task #1162 started.
+2014-10-23 10:10:46 --> Running rank method: times cited.
+2014-10-23 10:10:46 --> No new records added since last time method was run
+2014-10-23 10:10:46 --> No new records added since last time this rank method was executed
+2014-10-23 10:10:46 --> No need to update the indexes for citations.
+2014-10-23 10:10:46 --> Running rank method: citerank_citation_t
+2014-10-23 10:10:46 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:10:46 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:10:46 --> Running rank method: journal impact factor.
+2014-10-23 10:10:46 --> No new records added since last time method was run
+2014-10-23 10:10:46 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:10:46 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:10:46 --> Number of records available in rank method: 0
+2014-10-23 10:10:46 --> Running rank method: word similarity
+2014-10-23 10:10:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:10:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:10:46 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:10:46 --> rnkWORD01F is in consistent state
+2014-10-23 10:10:46 --> Using the last update time for the rank method
+2014-10-23 10:10:46 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:10:46 --> No terms to process, ending...
+2014-10-23 10:10:46 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:10:46 --> rnkWORD01F is in consistent state
+2014-10-23 10:10:46 --> Task #1162 finished and resubmitted.
+2014-10-23 10:15:47 --> Task #1162 started.
+2014-10-23 10:15:47 --> Running rank method: times cited.
+2014-10-23 10:15:47 --> No new records added since last time method was run
+2014-10-23 10:15:47 --> No new records added since last time this rank method was executed
+2014-10-23 10:15:47 --> No need to update the indexes for citations.
+2014-10-23 10:15:47 --> Running rank method: citerank_citation_t
+2014-10-23 10:15:47 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:15:47 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:15:47 --> Running rank method: journal impact factor.
+2014-10-23 10:15:47 --> No new records added since last time method was run
+2014-10-23 10:15:47 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:15:47 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:15:47 --> Number of records available in rank method: 0
+2014-10-23 10:15:47 --> Running rank method: word similarity
+2014-10-23 10:15:47 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:15:47 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:15:47 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:15:47 --> rnkWORD01F is in consistent state
+2014-10-23 10:15:47 --> Using the last update time for the rank method
+2014-10-23 10:15:47 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:15:47 --> No terms to process, ending...
+2014-10-23 10:15:47 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:15:47 --> rnkWORD01F is in consistent state
+2014-10-23 10:15:47 --> Task #1162 finished and resubmitted.
+2014-10-23 10:20:47 --> Task #1162 started.
+2014-10-23 10:20:47 --> Running rank method: times cited.
+2014-10-23 10:20:47 --> No new records added since last time method was run
+2014-10-23 10:20:47 --> No new records added since last time this rank method was executed
+2014-10-23 10:20:47 --> No need to update the indexes for citations.
+2014-10-23 10:20:47 --> Running rank method: citerank_citation_t
+2014-10-23 10:20:47 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:20:47 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:20:47 --> Running rank method: journal impact factor.
+2014-10-23 10:20:47 --> No new records added since last time method was run
+2014-10-23 10:20:47 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:20:47 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:20:47 --> Number of records available in rank method: 0
+2014-10-23 10:20:47 --> Running rank method: word similarity
+2014-10-23 10:20:47 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:20:47 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:20:47 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:20:47 --> rnkWORD01F is in consistent state
+2014-10-23 10:20:47 --> Using the last update time for the rank method
+2014-10-23 10:20:47 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:20:47 --> No terms to process, ending...
+2014-10-23 10:20:47 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:20:47 --> rnkWORD01F is in consistent state
+2014-10-23 10:20:47 --> Task #1162 finished and resubmitted.
+2014-10-23 10:25:48 --> Task #1162 started.
+2014-10-23 10:25:48 --> Running rank method: times cited.
+2014-10-23 10:25:48 --> No new records added since last time method was run
+2014-10-23 10:25:48 --> No new records added since last time this rank method was executed
+2014-10-23 10:25:48 --> No need to update the indexes for citations.
+2014-10-23 10:25:48 --> Running rank method: citerank_citation_t
+2014-10-23 10:25:48 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:25:48 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:25:48 --> Running rank method: journal impact factor.
+2014-10-23 10:25:48 --> No new records added since last time method was run
+2014-10-23 10:25:48 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:25:48 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:25:48 --> Number of records available in rank method: 0
+2014-10-23 10:25:48 --> Running rank method: word similarity
+2014-10-23 10:25:48 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:25:48 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:25:48 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:25:48 --> rnkWORD01F is in consistent state
+2014-10-23 10:25:48 --> Using the last update time for the rank method
+2014-10-23 10:25:48 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:25:48 --> No terms to process, ending...
+2014-10-23 10:25:48 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:25:48 --> rnkWORD01F is in consistent state
+2014-10-23 10:25:48 --> Task #1162 finished and resubmitted.
+2014-10-23 10:30:48 --> Task #1162 started.
+2014-10-23 10:30:48 --> Running rank method: times cited.
+2014-10-23 10:30:48 --> No new records added since last time method was run
+2014-10-23 10:30:48 --> No new records added since last time this rank method was executed
+2014-10-23 10:30:48 --> No need to update the indexes for citations.
+2014-10-23 10:30:48 --> Running rank method: citerank_citation_t
+2014-10-23 10:30:48 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:30:48 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:30:48 --> Running rank method: journal impact factor.
+2014-10-23 10:30:48 --> No new records added since last time method was run
+2014-10-23 10:30:48 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:30:48 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:30:48 --> Number of records available in rank method: 0
+2014-10-23 10:30:48 --> Running rank method: word similarity
+2014-10-23 10:30:48 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:30:48 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:30:48 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:30:48 --> rnkWORD01F is in consistent state
+2014-10-23 10:30:48 --> Using the last update time for the rank method
+2014-10-23 10:30:48 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:30:48 --> No terms to process, ending...
+2014-10-23 10:30:48 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:30:48 --> rnkWORD01F is in consistent state
+2014-10-23 10:30:48 --> Task #1162 finished and resubmitted.
+2014-10-23 10:35:49 --> Task #1162 started.
+2014-10-23 10:35:49 --> Running rank method: times cited.
+2014-10-23 10:35:49 --> No new records added since last time method was run
+2014-10-23 10:35:49 --> No new records added since last time this rank method was executed
+2014-10-23 10:35:49 --> No need to update the indexes for citations.
+2014-10-23 10:35:49 --> Running rank method: citerank_citation_t
+2014-10-23 10:35:49 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:35:49 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:35:49 --> Running rank method: journal impact factor.
+2014-10-23 10:35:49 --> No new records added since last time method was run
+2014-10-23 10:35:49 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:35:49 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:35:49 --> Number of records available in rank method: 0
+2014-10-23 10:35:49 --> Running rank method: word similarity
+2014-10-23 10:35:49 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:35:49 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:35:49 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:35:49 --> rnkWORD01F is in consistent state
+2014-10-23 10:35:49 --> Using the last update time for the rank method
+2014-10-23 10:35:49 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:35:49 --> No terms to process, ending...
+2014-10-23 10:35:49 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:35:49 --> rnkWORD01F is in consistent state
+2014-10-23 10:35:49 --> Task #1162 finished and resubmitted.
+2014-10-23 10:40:49 --> Task #1162 started.
+2014-10-23 10:40:49 --> Running rank method: times cited.
+2014-10-23 10:40:50 --> No new records added since last time method was run
+2014-10-23 10:40:50 --> No new records added since last time this rank method was executed
+2014-10-23 10:40:50 --> No need to update the indexes for citations.
+2014-10-23 10:40:50 --> Running rank method: citerank_citation_t
+2014-10-23 10:40:50 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:40:50 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:40:50 --> Running rank method: journal impact factor.
+2014-10-23 10:40:50 --> No new records added since last time method was run
+2014-10-23 10:40:50 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:40:50 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:40:50 --> Number of records available in rank method: 0
+2014-10-23 10:40:50 --> Running rank method: word similarity
+2014-10-23 10:40:50 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:40:50 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:40:50 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:40:50 --> rnkWORD01F is in consistent state
+2014-10-23 10:40:50 --> Using the last update time for the rank method
+2014-10-23 10:40:50 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:40:50 --> No terms to process, ending...
+2014-10-23 10:40:50 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:40:50 --> rnkWORD01F is in consistent state
+2014-10-23 10:40:50 --> Task #1162 finished and resubmitted.
+2014-10-23 10:46:15 --> Task #1162 started.
+2014-10-23 10:46:15 --> Running rank method: times cited.
+2014-10-23 10:46:15 --> No new records added since last time method was run
+2014-10-23 10:46:15 --> No new records added since last time this rank method was executed
+2014-10-23 10:46:15 --> No need to update the indexes for citations.
+2014-10-23 10:46:15 --> Running rank method: citerank_citation_t
+2014-10-23 10:46:15 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:46:15 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:46:15 --> Running rank method: journal impact factor.
+2014-10-23 10:46:15 --> No new records added since last time method was run
+2014-10-23 10:46:15 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:46:15 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:46:15 --> Number of records available in rank method: 0
+2014-10-23 10:46:15 --> Running rank method: word similarity
+2014-10-23 10:46:15 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:46:15 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:46:15 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:46:15 --> rnkWORD01F is in consistent state
+2014-10-23 10:46:15 --> Using the last update time for the rank method
+2014-10-23 10:46:15 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:46:15 --> No terms to process, ending...
+2014-10-23 10:46:15 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:46:15 --> rnkWORD01F is in consistent state
+2014-10-23 10:46:15 --> Task #1162 finished and resubmitted.
+2014-10-23 10:51:56 --> Task #1162 started.
+2014-10-23 10:51:56 --> Running rank method: times cited.
+2014-10-23 10:51:56 --> No new records added since last time method was run
+2014-10-23 10:51:56 --> No new records added since last time this rank method was executed
+2014-10-23 10:51:56 --> No need to update the indexes for citations.
+2014-10-23 10:51:56 --> Running rank method: citerank_citation_t
+2014-10-23 10:51:56 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:51:56 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:51:56 --> Running rank method: journal impact factor.
+2014-10-23 10:51:56 --> No new records added since last time method was run
+2014-10-23 10:51:56 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:51:56 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:51:56 --> Number of records available in rank method: 0
+2014-10-23 10:51:56 --> Running rank method: word similarity
+2014-10-23 10:51:56 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:51:56 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:51:56 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:51:56 --> rnkWORD01F is in consistent state
+2014-10-23 10:51:56 --> Using the last update time for the rank method
+2014-10-23 10:51:56 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:51:56 --> No terms to process, ending...
+2014-10-23 10:51:56 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:51:56 --> rnkWORD01F is in consistent state
+2014-10-23 10:51:56 --> Task #1162 finished and resubmitted.
+2014-10-23 10:57:26 --> Task #1162 started.
+2014-10-23 10:57:26 --> Running rank method: times cited.
+2014-10-23 10:57:27 --> No new records added since last time method was run
+2014-10-23 10:57:27 --> No new records added since last time this rank method was executed
+2014-10-23 10:57:27 --> No need to update the indexes for citations.
+2014-10-23 10:57:27 --> Running rank method: citerank_citation_t
+2014-10-23 10:57:27 --> Running rank method: citerank_pagerank_c
+2014-10-23 10:57:27 --> Running rank method: citerank_pagerank_t
+2014-10-23 10:57:27 --> Running rank method: journal impact factor.
+2014-10-23 10:57:27 --> No new records added since last time method was run
+2014-10-23 10:57:27 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 10:57:27 --> Number of lines read from knowledgebase file: 5
+2014-10-23 10:57:27 --> Number of records available in rank method: 0
+2014-10-23 10:57:27 --> Running rank method: word similarity
+2014-10-23 10:57:27 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:57:27 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 10:57:27 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:57:27 --> rnkWORD01F is in consistent state
+2014-10-23 10:57:27 --> Using the last update time for the rank method
+2014-10-23 10:57:27 --> No new records added. rnkWORD01F is up to date
+2014-10-23 10:57:27 --> No terms to process, ending...
+2014-10-23 10:57:27 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 10:57:27 --> rnkWORD01F is in consistent state
+2014-10-23 10:57:27 --> Task #1162 finished and resubmitted.
+2014-10-23 11:03:07 --> Task #1162 started.
+2014-10-23 11:03:07 --> Running rank method: times cited.
+2014-10-23 11:03:07 --> No new records added since last time method was run
+2014-10-23 11:03:07 --> No new records added since last time this rank method was executed
+2014-10-23 11:03:07 --> No need to update the indexes for citations.
+2014-10-23 11:03:07 --> Running rank method: citerank_citation_t
+2014-10-23 11:03:07 --> Running rank method: citerank_pagerank_c
+2014-10-23 11:03:07 --> Running rank method: citerank_pagerank_t
+2014-10-23 11:03:07 --> Running rank method: journal impact factor.
+2014-10-23 11:03:07 --> No new records added since last time method was run
+2014-10-23 11:03:07 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 11:03:07 --> Number of lines read from knowledgebase file: 5
+2014-10-23 11:03:07 --> Number of records available in rank method: 0
+2014-10-23 11:03:07 --> Running rank method: word similarity
+2014-10-23 11:03:07 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:03:07 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:03:07 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:03:07 --> rnkWORD01F is in consistent state
+2014-10-23 11:03:07 --> Using the last update time for the rank method
+2014-10-23 11:03:07 --> No new records added. rnkWORD01F is up to date
+2014-10-23 11:03:07 --> No terms to process, ending...
+2014-10-23 11:03:07 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:03:07 --> rnkWORD01F is in consistent state
+2014-10-23 11:03:07 --> Task #1162 finished and resubmitted.
+2014-10-23 11:08:43 --> Task #1162 started.
+2014-10-23 11:08:43 --> Running rank method: times cited.
+2014-10-23 11:08:43 --> No new records added since last time method was run
+2014-10-23 11:08:43 --> No new records added since last time this rank method was executed
+2014-10-23 11:08:43 --> No need to update the indexes for citations.
+2014-10-23 11:08:43 --> Running rank method: citerank_citation_t
+2014-10-23 11:08:43 --> Running rank method: citerank_pagerank_c
+2014-10-23 11:08:43 --> Running rank method: citerank_pagerank_t
+2014-10-23 11:08:43 --> Running rank method: journal impact factor.
+2014-10-23 11:08:43 --> No new records added since last time method was run
+2014-10-23 11:08:43 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 11:08:43 --> Number of lines read from knowledgebase file: 5
+2014-10-23 11:08:43 --> Number of records available in rank method: 0
+2014-10-23 11:08:43 --> Running rank method: word similarity
+2014-10-23 11:08:43 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:08:43 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:08:43 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:08:43 --> rnkWORD01F is in consistent state
+2014-10-23 11:08:43 --> Using the last update time for the rank method
+2014-10-23 11:08:43 --> No new records added. rnkWORD01F is up to date
+2014-10-23 11:08:43 --> No terms to process, ending...
+2014-10-23 11:08:43 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:08:43 --> rnkWORD01F is in consistent state
+2014-10-23 11:08:43 --> Task #1162 finished and resubmitted.
+2014-10-23 11:14:19 --> Task #1162 started.
+2014-10-23 11:14:19 --> Running rank method: times cited.
+2014-10-23 11:14:19 --> No new records added since last time method was run
+2014-10-23 11:14:19 --> No new records added since last time this rank method was executed
+2014-10-23 11:14:19 --> No need to update the indexes for citations.
+2014-10-23 11:14:19 --> Running rank method: citerank_citation_t
+2014-10-23 11:14:19 --> Running rank method: citerank_pagerank_c
+2014-10-23 11:14:19 --> Running rank method: citerank_pagerank_t
+2014-10-23 11:14:19 --> Running rank method: journal impact factor.
+2014-10-23 11:14:19 --> No new records added since last time method was run
+2014-10-23 11:14:19 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 11:14:19 --> Number of lines read from knowledgebase file: 5
+2014-10-23 11:14:19 --> Number of records available in rank method: 0
+2014-10-23 11:14:19 --> Running rank method: word similarity
+2014-10-23 11:14:19 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:14:19 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:14:19 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:14:19 --> rnkWORD01F is in consistent state
+2014-10-23 11:14:19 --> Using the last update time for the rank method
+2014-10-23 11:14:19 --> No new records added. rnkWORD01F is up to date
+2014-10-23 11:14:19 --> No terms to process, ending...
+2014-10-23 11:14:19 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:14:19 --> rnkWORD01F is in consistent state
+2014-10-23 11:14:19 --> Task #1162 finished and resubmitted.
+2014-10-23 11:19:54 --> Task #1162 started.
+2014-10-23 11:19:54 --> Running rank method: times cited.
+2014-10-23 11:19:54 --> No new records added since last time method was run
+2014-10-23 11:19:54 --> No new records added since last time this rank method was executed
+2014-10-23 11:19:54 --> No need to update the indexes for citations.
+2014-10-23 11:19:54 --> Running rank method: citerank_citation_t
+2014-10-23 11:19:54 --> Running rank method: citerank_pagerank_c
+2014-10-23 11:19:54 --> Running rank method: citerank_pagerank_t
+2014-10-23 11:19:54 --> Running rank method: journal impact factor.
+2014-10-23 11:19:54 --> No new records added since last time method was run
+2014-10-23 11:19:54 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 11:19:54 --> Number of lines read from knowledgebase file: 5
+2014-10-23 11:19:54 --> Number of records available in rank method: 0
+2014-10-23 11:19:54 --> Running rank method: word similarity
+2014-10-23 11:19:54 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:19:54 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:19:54 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:19:54 --> rnkWORD01F is in consistent state
+2014-10-23 11:19:54 --> Using the last update time for the rank method
+2014-10-23 11:19:54 --> No new records added. rnkWORD01F is up to date
+2014-10-23 11:19:54 --> No terms to process, ending...
+2014-10-23 11:19:54 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:19:54 --> rnkWORD01F is in consistent state
+2014-10-23 11:19:54 --> Task #1162 finished and resubmitted.
+2014-10-23 11:25:25 --> Task #1162 started.
+2014-10-23 11:25:25 --> Running rank method: times cited.
+2014-10-23 11:25:25 --> No new records added since last time method was run
+2014-10-23 11:25:25 --> No new records added since last time this rank method was executed
+2014-10-23 11:25:25 --> No need to update the indexes for citations.
+2014-10-23 11:25:25 --> Running rank method: citerank_citation_t
+2014-10-23 11:25:25 --> Running rank method: citerank_pagerank_c
+2014-10-23 11:25:25 --> Running rank method: citerank_pagerank_t
+2014-10-23 11:25:25 --> Running rank method: journal impact factor.
+2014-10-23 11:25:25 --> No new records added since last time method was run
+2014-10-23 11:25:25 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 11:25:25 --> Number of lines read from knowledgebase file: 5
+2014-10-23 11:25:25 --> Number of records available in rank method: 0
+2014-10-23 11:25:25 --> Running rank method: word similarity
+2014-10-23 11:25:25 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:25:25 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:25:25 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:25:25 --> rnkWORD01F is in consistent state
+2014-10-23 11:25:25 --> Using the last update time for the rank method
+2014-10-23 11:25:25 --> No new records added. rnkWORD01F is up to date
+2014-10-23 11:25:25 --> No terms to process, ending...
+2014-10-23 11:25:25 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:25:25 --> rnkWORD01F is in consistent state
+2014-10-23 11:25:25 --> Task #1162 finished and resubmitted.
+2014-10-23 11:31:01 --> Task #1162 started.
+2014-10-23 11:31:01 --> Running rank method: times cited.
+2014-10-23 11:31:01 --> No new records added since last time method was run
+2014-10-23 11:31:01 --> No new records added since last time this rank method was executed
+2014-10-23 11:31:01 --> No need to update the indexes for citations.
+2014-10-23 11:31:01 --> Running rank method: citerank_citation_t
+2014-10-23 11:31:01 --> Running rank method: citerank_pagerank_c
+2014-10-23 11:31:01 --> Running rank method: citerank_pagerank_t
+2014-10-23 11:31:01 --> Running rank method: journal impact factor.
+2014-10-23 11:31:01 --> No new records added since last time method was run
+2014-10-23 11:31:01 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 11:31:01 --> Number of lines read from knowledgebase file: 5
+2014-10-23 11:31:01 --> Number of records available in rank method: 0
+2014-10-23 11:31:01 --> Running rank method: word similarity
+2014-10-23 11:31:01 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:31:01 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:31:01 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:31:01 --> rnkWORD01F is in consistent state
+2014-10-23 11:31:01 --> Using the last update time for the rank method
+2014-10-23 11:31:01 --> No new records added. rnkWORD01F is up to date
+2014-10-23 11:31:01 --> No terms to process, ending...
+2014-10-23 11:31:01 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:31:01 --> rnkWORD01F is in consistent state
+2014-10-23 11:31:01 --> Task #1162 finished and resubmitted.
+2014-10-23 11:35:27 --> Task #1162 started.
+2014-10-23 11:35:27 --> Running rank method: times cited.
+2014-10-23 11:35:27 --> No new records added since last time method was run
+2014-10-23 11:35:27 --> No new records added since last time this rank method was executed
+2014-10-23 11:35:27 --> No need to update the indexes for citations.
+2014-10-23 11:35:27 --> Running rank method: citerank_citation_t
+2014-10-23 11:35:27 --> Running rank method: citerank_pagerank_c
+2014-10-23 11:35:27 --> Running rank method: citerank_pagerank_t
+2014-10-23 11:35:27 --> Running rank method: journal impact factor.
+2014-10-23 11:35:27 --> No new records added since last time method was run
+2014-10-23 11:35:27 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 11:35:27 --> Number of lines read from knowledgebase file: 5
+2014-10-23 11:35:27 --> Number of records available in rank method: 0
+2014-10-23 11:35:27 --> Running rank method: word similarity
+2014-10-23 11:35:27 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:35:27 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:35:27 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:35:27 --> rnkWORD01F is in consistent state
+2014-10-23 11:35:27 --> Using the last update time for the rank method
+2014-10-23 11:35:27 --> No new records added. rnkWORD01F is up to date
+2014-10-23 11:35:27 --> No terms to process, ending...
+2014-10-23 11:35:27 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:35:27 --> rnkWORD01F is in consistent state
+2014-10-23 11:35:27 --> Task #1162 finished and resubmitted.
+2014-10-23 11:37:59 --> Task #1162 started.
+2014-10-23 11:37:59 --> Running rank method: times cited.
+2014-10-23 11:37:59 --> No new records added since last time method was run
+2014-10-23 11:37:59 --> No new records added since last time this rank method was executed
+2014-10-23 11:37:59 --> No need to update the indexes for citations.
+2014-10-23 11:37:59 --> Running rank method: citerank_citation_t
+2014-10-23 11:37:59 --> Running rank method: citerank_pagerank_c
+2014-10-23 11:37:59 --> Running rank method: citerank_pagerank_t
+2014-10-23 11:37:59 --> Running rank method: journal impact factor.
+2014-10-23 11:37:59 --> No new records added since last time method was run
+2014-10-23 11:37:59 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 11:37:59 --> Number of lines read from knowledgebase file: 5
+2014-10-23 11:37:59 --> Number of records available in rank method: 0
+2014-10-23 11:37:59 --> Running rank method: word similarity
+2014-10-23 11:37:59 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:37:59 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 11:37:59 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:37:59 --> rnkWORD01F is in consistent state
+2014-10-23 11:37:59 --> Using the last update time for the rank method
+2014-10-23 11:37:59 --> No new records added. rnkWORD01F is up to date
+2014-10-23 11:37:59 --> No terms to process, ending...
+2014-10-23 11:37:59 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 11:37:59 --> rnkWORD01F is in consistent state
+2014-10-23 11:37:59 --> Task #1162 finished and resubmitted.
+2014-10-23 14:05:59 --> Task #1162 started.
+2014-10-23 14:05:59 --> Running rank method: times cited.
+2014-10-23 14:05:59 --> No new records added since last time method was run
+2014-10-23 14:05:59 --> No new records added since last time this rank method was executed
+2014-10-23 14:05:59 --> No need to update the indexes for citations.
+2014-10-23 14:05:59 --> Running rank method: citerank_citation_t
+2014-10-23 14:05:59 --> Running rank method: citerank_pagerank_c
+2014-10-23 14:05:59 --> Running rank method: citerank_pagerank_t
+2014-10-23 14:05:59 --> Running rank method: journal impact factor.
+2014-10-23 14:05:59 --> No new records added since last time method was run
+2014-10-23 14:05:59 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 14:05:59 --> Number of lines read from knowledgebase file: 5
+2014-10-23 14:05:59 --> Number of records available in rank method: 0
+2014-10-23 14:05:59 --> Running rank method: word similarity
+2014-10-23 14:05:59 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:05:59 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:05:59 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:05:59 --> rnkWORD01F is in consistent state
+2014-10-23 14:05:59 --> Using the last update time for the rank method
+2014-10-23 14:05:59 --> No new records added. rnkWORD01F is up to date
+2014-10-23 14:05:59 --> No terms to process, ending...
+2014-10-23 14:05:59 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:05:59 --> rnkWORD01F is in consistent state
+2014-10-23 14:05:59 --> Task #1162 finished and resubmitted.
+2014-10-23 14:06:00 --> Task #1162 started.
+2014-10-23 14:06:00 --> Running rank method: times cited.
+2014-10-23 14:06:00 --> No new records added since last time method was run
+2014-10-23 14:06:00 --> No new records added since last time this rank method was executed
+2014-10-23 14:06:00 --> No need to update the indexes for citations.
+2014-10-23 14:06:00 --> Running rank method: citerank_citation_t
+2014-10-23 14:06:00 --> Running rank method: citerank_pagerank_c
+2014-10-23 14:06:00 --> Running rank method: citerank_pagerank_t
+2014-10-23 14:06:00 --> Running rank method: journal impact factor.
+2014-10-23 14:06:00 --> No new records added since last time method was run
+2014-10-23 14:06:00 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 14:06:00 --> Number of lines read from knowledgebase file: 5
+2014-10-23 14:06:00 --> Number of records available in rank method: 0
+2014-10-23 14:06:00 --> Running rank method: word similarity
+2014-10-23 14:06:00 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:06:00 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:06:00 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:06:00 --> rnkWORD01F is in consistent state
+2014-10-23 14:06:00 --> Using the last update time for the rank method
+2014-10-23 14:06:00 --> No new records added. rnkWORD01F is up to date
+2014-10-23 14:06:00 --> No terms to process, ending...
+2014-10-23 14:06:00 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:06:00 --> rnkWORD01F is in consistent state
+2014-10-23 14:06:00 --> Task #1162 finished and resubmitted.
+2014-10-23 14:06:01 --> Task #1162 started.
+2014-10-23 14:06:01 --> Running rank method: times cited.
+2014-10-23 14:06:01 --> No new records added since last time method was run
+2014-10-23 14:06:01 --> No new records added since last time this rank method was executed
+2014-10-23 14:06:01 --> No need to update the indexes for citations.
+2014-10-23 14:06:01 --> Running rank method: citerank_citation_t
+2014-10-23 14:06:01 --> Running rank method: citerank_pagerank_c
+2014-10-23 14:06:01 --> Running rank method: citerank_pagerank_t
+2014-10-23 14:06:01 --> Running rank method: journal impact factor.
+2014-10-23 14:06:01 --> No new records added since last time method was run
+2014-10-23 14:06:01 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 14:06:01 --> Number of lines read from knowledgebase file: 5
+2014-10-23 14:06:01 --> Number of records available in rank method: 0
+2014-10-23 14:06:01 --> Running rank method: word similarity
+2014-10-23 14:06:01 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:06:01 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:06:01 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:06:01 --> rnkWORD01F is in consistent state
+2014-10-23 14:06:01 --> Using the last update time for the rank method
+2014-10-23 14:06:01 --> No new records added. rnkWORD01F is up to date
+2014-10-23 14:06:01 --> No terms to process, ending...
+2014-10-23 14:06:01 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:06:01 --> rnkWORD01F is in consistent state
+2014-10-23 14:06:01 --> Task #1162 finished and resubmitted.
+2014-10-23 14:34:10 --> Task #1162 started.
+2014-10-23 14:34:10 --> Running rank method: times cited.
+2014-10-23 14:34:10 --> No new records added since last time method was run
+2014-10-23 14:34:10 --> No new records added since last time this rank method was executed
+2014-10-23 14:34:10 --> No need to update the indexes for citations.
+2014-10-23 14:34:10 --> Running rank method: citerank_citation_t
+2014-10-23 14:34:10 --> Running rank method: citerank_pagerank_c
+2014-10-23 14:34:10 --> Running rank method: citerank_pagerank_t
+2014-10-23 14:34:10 --> Running rank method: journal impact factor.
+2014-10-23 14:34:10 --> No new records added since last time method was run
+2014-10-23 14:34:10 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 14:34:10 --> Number of lines read from knowledgebase file: 5
+2014-10-23 14:34:10 --> Number of records available in rank method: 0
+2014-10-23 14:34:10 --> Running rank method: word similarity
+2014-10-23 14:34:10 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:34:10 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:34:10 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:34:10 --> rnkWORD01F is in consistent state
+2014-10-23 14:34:10 --> Using the last update time for the rank method
+2014-10-23 14:34:10 --> No new records added. rnkWORD01F is up to date
+2014-10-23 14:34:10 --> No terms to process, ending...
+2014-10-23 14:34:10 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:34:10 --> rnkWORD01F is in consistent state
+2014-10-23 14:34:10 --> Task #1162 finished and resubmitted.
+2014-10-23 14:48:58 --> Task #1162 started.
+2014-10-23 14:48:58 --> Running rank method: times cited.
+2014-10-23 14:48:58 --> No new records added since last time method was run
+2014-10-23 14:48:58 --> No new records added since last time this rank method was executed
+2014-10-23 14:48:58 --> No need to update the indexes for citations.
+2014-10-23 14:48:58 --> Running rank method: citerank_citation_t
+2014-10-23 14:48:58 --> Running rank method: citerank_pagerank_c
+2014-10-23 14:48:58 --> Running rank method: citerank_pagerank_t
+2014-10-23 14:48:58 --> Running rank method: journal impact factor.
+2014-10-23 14:48:58 --> No new records added since last time method was run
+2014-10-23 14:48:58 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 14:48:58 --> Number of lines read from knowledgebase file: 5
+2014-10-23 14:48:58 --> Number of records available in rank method: 0
+2014-10-23 14:48:58 --> Running rank method: word similarity
+2014-10-23 14:48:58 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:48:58 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:48:58 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:48:58 --> rnkWORD01F is in consistent state
+2014-10-23 14:48:58 --> Using the last update time for the rank method
+2014-10-23 14:48:58 --> No new records added. rnkWORD01F is up to date
+2014-10-23 14:48:58 --> No terms to process, ending...
+2014-10-23 14:48:58 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:48:58 --> rnkWORD01F is in consistent state
+2014-10-23 14:48:58 --> Task #1162 finished and resubmitted.
+2014-10-23 14:57:07 --> Task #1162 started.
+2014-10-23 14:57:07 --> Running rank method: times cited.
+2014-10-23 14:57:07 --> No new records added since last time method was run
+2014-10-23 14:57:07 --> No new records added since last time this rank method was executed
+2014-10-23 14:57:07 --> No need to update the indexes for citations.
+2014-10-23 14:57:07 --> Running rank method: citerank_citation_t
+2014-10-23 14:57:07 --> Running rank method: citerank_pagerank_c
+2014-10-23 14:57:07 --> Running rank method: citerank_pagerank_t
+2014-10-23 14:57:07 --> Running rank method: journal impact factor.
+2014-10-23 14:57:08 --> No new records added since last time method was run
+2014-10-23 14:57:08 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 14:57:08 --> Number of lines read from knowledgebase file: 5
+2014-10-23 14:57:08 --> Number of records available in rank method: 0
+2014-10-23 14:57:08 --> Running rank method: word similarity
+2014-10-23 14:57:08 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:57:08 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:57:08 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:57:08 --> rnkWORD01F is in consistent state
+2014-10-23 14:57:08 --> Using the last update time for the rank method
+2014-10-23 14:57:08 --> No new records added. rnkWORD01F is up to date
+2014-10-23 14:57:08 --> No terms to process, ending...
+2014-10-23 14:57:08 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:57:08 --> rnkWORD01F is in consistent state
+2014-10-23 14:57:08 --> Task #1162 finished and resubmitted.
+2014-10-23 14:59:26 --> Task #1162 started.
+2014-10-23 14:59:26 --> Running rank method: times cited.
+2014-10-23 14:59:26 --> No new records added since last time method was run
+2014-10-23 14:59:26 --> No new records added since last time this rank method was executed
+2014-10-23 14:59:26 --> No need to update the indexes for citations.
+2014-10-23 14:59:26 --> Running rank method: citerank_citation_t
+2014-10-23 14:59:26 --> Running rank method: citerank_pagerank_c
+2014-10-23 14:59:26 --> Running rank method: citerank_pagerank_t
+2014-10-23 14:59:26 --> Running rank method: journal impact factor.
+2014-10-23 14:59:26 --> No new records added since last time method was run
+2014-10-23 14:59:26 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 14:59:26 --> Number of lines read from knowledgebase file: 5
+2014-10-23 14:59:26 --> Number of records available in rank method: 0
+2014-10-23 14:59:26 --> Running rank method: word similarity
+2014-10-23 14:59:26 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:59:26 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:59:26 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:59:26 --> rnkWORD01F is in consistent state
+2014-10-23 14:59:26 --> Using the last update time for the rank method
+2014-10-23 14:59:26 --> No new records added. rnkWORD01F is up to date
+2014-10-23 14:59:26 --> No terms to process, ending...
+2014-10-23 14:59:26 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:59:26 --> rnkWORD01F is in consistent state
+2014-10-23 14:59:26 --> Task #1162 finished and resubmitted.
+2014-10-23 14:59:28 --> Task #1162 started.
+2014-10-23 14:59:28 --> Running rank method: times cited.
+2014-10-23 14:59:28 --> No new records added since last time method was run
+2014-10-23 14:59:28 --> No new records added since last time this rank method was executed
+2014-10-23 14:59:28 --> No need to update the indexes for citations.
+2014-10-23 14:59:28 --> Running rank method: citerank_citation_t
+2014-10-23 14:59:28 --> Running rank method: citerank_pagerank_c
+2014-10-23 14:59:28 --> Running rank method: citerank_pagerank_t
+2014-10-23 14:59:28 --> Running rank method: journal impact factor.
+2014-10-23 14:59:28 --> No new records added since last time method was run
+2014-10-23 14:59:28 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-23 14:59:28 --> Number of lines read from knowledgebase file: 5
+2014-10-23 14:59:28 --> Number of records available in rank method: 0
+2014-10-23 14:59:29 --> Running rank method: word similarity
+2014-10-23 14:59:29 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:59:29 --> Warning: Stemming not available for language 'fr'.
+2014-10-23 14:59:29 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:59:29 --> rnkWORD01F is in consistent state
+2014-10-23 14:59:29 --> Using the last update time for the rank method
+2014-10-23 14:59:29 --> No new records added. rnkWORD01F is up to date
+2014-10-23 14:59:29 --> No terms to process, ending...
+2014-10-23 14:59:29 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-23 14:59:29 --> rnkWORD01F is in consistent state
+2014-10-23 14:59:29 --> Task #1162 finished and resubmitted.
+2014-10-27 16:02:06 --> Task #1162 started.
+2014-10-27 16:02:06 --> Running rank method: times cited.
+2014-10-27 16:02:06 --> No new records added since last time method was run
+2014-10-27 16:02:06 --> No new records added since last time this rank method was executed
+2014-10-27 16:02:06 --> No need to update the indexes for citations.
+2014-10-27 16:02:06 --> Running rank method: citerank_citation_t
+2014-10-27 16:02:06 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:02:06 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:02:06 --> Running rank method: journal impact factor.
+2014-10-27 16:02:07 --> No new records added since last time method was run
+2014-10-27 16:02:07 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:02:07 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:02:07 --> Number of records available in rank method: 0
+2014-10-27 16:02:07 --> Running rank method: word similarity
+2014-10-27 16:02:07 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:02:07 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:02:07 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-27 16:02:07 --> rnkWORD01F is in consistent state
+2014-10-27 16:02:07 --> Using the last update time for the rank method
+2014-10-27 16:02:07 --> No new records added. rnkWORD01F is up to date
+2014-10-27 16:02:07 --> No terms to process, ending...
+2014-10-27 16:02:07 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-27 16:02:07 --> rnkWORD01F is in consistent state
+2014-10-27 16:02:07 --> Task #1162 finished and resubmitted.
+2014-10-27 16:02:16 --> Task #1162 started.
+2014-10-27 16:02:16 --> Running rank method: times cited.
+2014-10-27 16:02:16 --> No new records added since last time method was run
+2014-10-27 16:02:16 --> No new records added since last time this rank method was executed
+2014-10-27 16:02:16 --> No need to update the indexes for citations.
+2014-10-27 16:02:16 --> Running rank method: citerank_citation_t
+2014-10-27 16:02:16 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:02:16 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:02:16 --> Running rank method: journal impact factor.
+2014-10-27 16:02:16 --> No new records added since last time method was run
+2014-10-27 16:02:16 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:02:16 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:02:16 --> Number of records available in rank method: 0
+2014-10-27 16:02:16 --> Running rank method: word similarity
+2014-10-27 16:02:16 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:02:16 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:02:16 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-27 16:02:16 --> rnkWORD01F is in consistent state
+2014-10-27 16:02:16 --> Using the last update time for the rank method
+2014-10-27 16:02:16 --> No new records added. rnkWORD01F is up to date
+2014-10-27 16:02:16 --> No terms to process, ending...
+2014-10-27 16:02:16 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-27 16:02:16 --> rnkWORD01F is in consistent state
+2014-10-27 16:02:16 --> Task #1162 finished and resubmitted.
+2014-10-27 16:06:25 --> Task #1162 started.
+2014-10-27 16:06:25 --> Running rank method: times cited.
+2014-10-27 16:06:26 --> Last update 2014-10-20 14:02:42 records: 1 updates: 1
+2014-10-27 16:06:26 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-27 16:06:26 --> No need to update the indexes for citations.
+2014-10-27 16:06:26 --> Running rank method: citerank_citation_t
+2014-10-27 16:06:26 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:06:26 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:06:26 --> Running rank method: journal impact factor.
+2014-10-27 16:06:26 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:06:26 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:06:26 --> ......Processing records #386-386
+2014-10-27 16:06:26 --> Number of records found with the necessary tags: 0
+2014-10-27 16:06:26 --> Number of records available in rank method: 0
+2014-10-27 16:06:26 --> Running rank method: word similarity
+2014-10-27 16:06:26 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:06:26 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:06:26 --> rnkWORD01F contains 3919 words from 372 records
+2014-10-27 16:06:26 --> rnkWORD01F is in consistent state
+2014-10-27 16:06:26 --> Using the last update time for the rank method
+2014-10-27 16:06:26 --> rnkWORD01F for 386-386 is in consistent state
+2014-10-27 16:06:26 --> rnkWORD01F adding records #386-#386 started
+2014-10-27 16:06:26 --> rnkWORD01F adding records #386-#386 ended  
+2014-10-27 16:06:26 --> rnkWORD01F normal wordtable flush started
+2014-10-27 16:06:26 --> ...updating 1 words into rnkWORD01R started
+2014-10-27 16:06:26 --> rnkWORD01F normal wordtable flush ended
+2014-10-27 16:06:26 --> 1 records took 0.0 seconds to complete.(1459 recs/min)
+2014-10-27 16:06:26 --> Estimated runtime: 0.0 minutes
+2014-10-27 16:06:26 --> Beginning post-processing of 1 terms
+2014-10-27 16:06:26 --> Phase 1: Finding records containing modified terms
+2014-10-27 16:06:26 --> Phase 1: ......processed 1/1 terms
+2014-10-27 16:06:26 --> Phase 1: Finished finding records containing modified terms
+2014-10-27 16:06:26 --> Phase 2: Finding all terms in affected records
+2014-10-27 16:06:26 --> Phase 2: ......processed 1/1 records 
+2014-10-27 16:06:26 --> Phase 2: Finished finding all terms in affected records
+2014-10-27 16:06:26 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-27 16:06:26 --> Phase 3: ......processed 1/1 terms
+2014-10-27 16:06:26 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-27 16:06:26 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-27 16:06:26 --> Phase 4: ......processed 1/1 records
+2014-10-27 16:06:26 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-27 16:06:26 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-27 16:06:26 --> Phase 5: ......processed 1/1 terms
+2014-10-27 16:06:26 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-27 16:06:26 --> Time used for post-processing: 0.0min
+2014-10-27 16:06:26 --> Finished post-processing
+2014-10-27 16:06:26 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:06:26 --> rnkWORD01F is in consistent state
+2014-10-27 16:06:26 --> Task #1162 finished and resubmitted.
+2014-10-27 16:06:32 --> Task #1162 started.
+2014-10-27 16:06:32 --> Running rank method: times cited.
+2014-10-27 16:06:32 --> Last update 2014-10-20 14:02:42 records: 1 updates: 1
+2014-10-27 16:06:32 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-27 16:06:32 --> No need to update the indexes for citations.
+2014-10-27 16:06:32 --> Running rank method: citerank_citation_t
+2014-10-27 16:06:32 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:06:32 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:06:32 --> Running rank method: journal impact factor.
+2014-10-27 16:06:32 --> No new records added since last time method was run
+2014-10-27 16:06:32 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:06:32 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:06:32 --> Number of records available in rank method: 0
+2014-10-27 16:06:32 --> Running rank method: word similarity
+2014-10-27 16:06:32 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:06:32 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:06:32 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:06:32 --> rnkWORD01F is in consistent state
+2014-10-27 16:06:32 --> Using the last update time for the rank method
+2014-10-27 16:06:32 --> No new records added. rnkWORD01F is up to date
+2014-10-27 16:06:32 --> No terms to process, ending...
+2014-10-27 16:06:32 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:06:32 --> rnkWORD01F is in consistent state
+2014-10-27 16:06:32 --> Task #1162 finished and resubmitted.
+2014-10-27 16:15:36 --> Task #1162 started.
+2014-10-27 16:15:36 --> Running rank method: times cited.
+2014-10-27 16:15:36 --> Last update 2014-10-20 14:02:42 records: 1 updates: 1
+2014-10-27 16:15:36 --> get cit.inf done 0 of 1
+2014-10-27 16:15:36 --> get cit.inf done fully
+2014-10-27 16:15:36 --> Execution time for generating citation info from record: 0.02 sec
+2014-10-27 16:15:36 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-27 16:15:36 --> Phase 1: d_references_report_numbers
+2014-10-27 16:15:36 --> d_references_report_numbers done fully
+2014-10-27 16:15:36 --> Phase 2: d_references_s
+2014-10-27 16:15:36 --> d_references_s done fully
+2014-10-27 16:15:36 --> Phase 3: d_reports_numbers
+2014-10-27 16:15:36 --> d_report_numbers done 0 of 1
+2014-10-27 16:15:36 --> d_report_numbers done fully
+2014-10-27 16:15:36 --> Phase 4: d_records_s
+2014-10-27 16:15:36 --> d_records_s done fully
+2014-10-27 16:15:36 --> Phase 5: reverse lists
+2014-10-27 16:15:36 --> Phase 6: self-citations
+2014-10-27 16:15:36 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-27 16:15:36 --> Getting author citations
+2014-10-27 16:15:36 --> size of reversedict 88
+2014-10-27 16:15:36 --> size of citationdict 91
+2014-10-27 16:15:36 --> size of selfcitedbydict 10
+2014-10-27 16:15:36 --> size of selfcitdict 10
+2014-10-27 16:15:36 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-27 16:15:36 --> ... checking ref number: 0.00 sec
+2014-10-27 16:15:36 --> ... checking ref ypvt: 0.00 sec
+2014-10-27 16:15:36 --> ... checking rec number: 0.00 sec
+2014-10-27 16:15:36 --> ... checking rec ypvt: 0.01 sec
+2014-10-27 16:15:36 --> ... total time of ref_analyze: 0.01 sec
+2014-10-27 16:15:36 --> Total time of get_citation_weight(): 0.03 sec
+2014-10-27 16:15:36 --> Running rank method: citerank_citation_t
+2014-10-27 16:15:36 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:15:36 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:15:36 --> Running rank method: journal impact factor.
+2014-10-27 16:15:36 --> No new records added since last time method was run
+2014-10-27 16:15:36 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:15:36 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:15:36 --> Number of records available in rank method: 0
+2014-10-27 16:15:36 --> Running rank method: word similarity
+2014-10-27 16:15:36 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:15:36 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:15:36 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:15:36 --> rnkWORD01F is in consistent state
+2014-10-27 16:15:36 --> Using the last update time for the rank method
+2014-10-27 16:15:36 --> No new records added. rnkWORD01F is up to date
+2014-10-27 16:15:36 --> No terms to process, ending...
+2014-10-27 16:15:36 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:15:36 --> rnkWORD01F is in consistent state
+2014-10-27 16:15:36 --> Task #1162 finished and resubmitted.
+2014-10-27 16:45:12 --> Task #1162 started.
+2014-10-27 16:45:12 --> Running rank method: times cited.
+2014-10-27 16:45:12 --> No new records added since last time method was run
+2014-10-27 16:45:12 --> No new records added since last time this rank method was executed
+2014-10-27 16:45:12 --> No need to update the indexes for citations.
+2014-10-27 16:45:12 --> Running rank method: citerank_citation_t
+2014-10-27 16:45:12 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:45:12 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:45:12 --> Running rank method: journal impact factor.
+2014-10-27 16:45:12 --> No new records added since last time method was run
+2014-10-27 16:45:12 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:45:12 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:45:12 --> Number of records available in rank method: 0
+2014-10-27 16:45:12 --> Running rank method: word similarity
+2014-10-27 16:45:12 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:45:12 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:45:12 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:45:12 --> rnkWORD01F is in consistent state
+2014-10-27 16:45:12 --> Using the last update time for the rank method
+2014-10-27 16:45:12 --> No new records added. rnkWORD01F is up to date
+2014-10-27 16:45:12 --> No terms to process, ending...
+2014-10-27 16:45:12 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:45:12 --> rnkWORD01F is in consistent state
+2014-10-27 16:45:12 --> Task #1162 finished and resubmitted.
+2014-10-27 16:45:28 --> Task #1162 started.
+2014-10-27 16:45:28 --> Running rank method: times cited.
+2014-10-27 16:45:28 --> No new records added since last time method was run
+2014-10-27 16:45:28 --> No new records added since last time this rank method was executed
+2014-10-27 16:45:28 --> No need to update the indexes for citations.
+2014-10-27 16:45:28 --> Running rank method: citerank_citation_t
+2014-10-27 16:45:28 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:45:28 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:45:28 --> Running rank method: journal impact factor.
+2014-10-27 16:45:28 --> No new records added since last time method was run
+2014-10-27 16:45:28 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:45:28 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:45:28 --> Number of records available in rank method: 0
+2014-10-27 16:45:28 --> Running rank method: word similarity
+2014-10-27 16:45:28 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:45:28 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:45:28 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:45:28 --> rnkWORD01F is in consistent state
+2014-10-27 16:45:28 --> Using the last update time for the rank method
+2014-10-27 16:45:28 --> No new records added. rnkWORD01F is up to date
+2014-10-27 16:45:28 --> No terms to process, ending...
+2014-10-27 16:45:28 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:45:28 --> rnkWORD01F is in consistent state
+2014-10-27 16:45:28 --> Task #1162 finished and resubmitted.
+2014-10-27 16:45:30 --> Task #1162 started.
+2014-10-27 16:45:30 --> Running rank method: times cited.
+2014-10-27 16:45:30 --> No new records added since last time method was run
+2014-10-27 16:45:30 --> No new records added since last time this rank method was executed
+2014-10-27 16:45:30 --> No need to update the indexes for citations.
+2014-10-27 16:45:30 --> Running rank method: citerank_citation_t
+2014-10-27 16:45:30 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:45:30 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:45:30 --> Running rank method: journal impact factor.
+2014-10-27 16:45:30 --> No new records added since last time method was run
+2014-10-27 16:45:30 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:45:30 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:45:30 --> Number of records available in rank method: 0
+2014-10-27 16:45:30 --> Running rank method: word similarity
+2014-10-27 16:45:30 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:45:30 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:45:30 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:45:30 --> rnkWORD01F is in consistent state
+2014-10-27 16:45:30 --> Using the last update time for the rank method
+2014-10-27 16:45:30 --> No new records added. rnkWORD01F is up to date
+2014-10-27 16:45:30 --> No terms to process, ending...
+2014-10-27 16:45:30 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:45:30 --> rnkWORD01F is in consistent state
+2014-10-27 16:45:30 --> Task #1162 finished and resubmitted.
+2014-10-27 16:51:08 --> Task #1162 started.
+2014-10-27 16:51:08 --> Running rank method: times cited.
+2014-10-27 16:51:08 --> Last update 2014-10-27 16:15:36 records: 2 updates: 2
+2014-10-27 16:51:08 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-27 16:51:08 --> No need to update the indexes for citations.
+2014-10-27 16:51:08 --> Running rank method: citerank_citation_t
+2014-10-27 16:51:08 --> Running rank method: citerank_pagerank_c
+2014-10-27 16:51:08 --> Running rank method: citerank_pagerank_t
+2014-10-27 16:51:08 --> Running rank method: journal impact factor.
+2014-10-27 16:51:08 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 16:51:08 --> Number of lines read from knowledgebase file: 5
+2014-10-27 16:51:08 --> ......Processing records #387-388
+2014-10-27 16:51:08 --> Number of records found with the necessary tags: 0
+2014-10-27 16:51:08 --> Number of records available in rank method: 0
+2014-10-27 16:51:08 --> Running rank method: word similarity
+2014-10-27 16:51:08 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:51:08 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 16:51:08 --> rnkWORD01F contains 3920 words from 373 records
+2014-10-27 16:51:08 --> rnkWORD01F is in consistent state
+2014-10-27 16:51:08 --> Using the last update time for the rank method
+2014-10-27 16:51:08 --> rnkWORD01F for 387-388 is in consistent state
+2014-10-27 16:51:08 --> rnkWORD01F adding records #387-#388 started
+2014-10-27 16:51:08 --> rnkWORD01F adding records #387-#388 ended  
+2014-10-27 16:51:08 --> rnkWORD01F normal wordtable flush started
+2014-10-27 16:51:08 --> ...updating 1 words into rnkWORD01R started
+2014-10-27 16:51:08 --> rnkWORD01F normal wordtable flush ended
+2014-10-27 16:51:08 --> 1 records took 0.0 seconds to complete.(1548 recs/min)
+2014-10-27 16:51:08 --> Estimated runtime: 0.0 minutes
+2014-10-27 16:51:08 --> Beginning post-processing of 1 terms
+2014-10-27 16:51:08 --> Phase 1: Finding records containing modified terms
+2014-10-27 16:51:08 --> Phase 1: ......processed 1/1 terms
+2014-10-27 16:51:08 --> Phase 1: Finished finding records containing modified terms
+2014-10-27 16:51:08 --> Phase 2: Finding all terms in affected records
+2014-10-27 16:51:08 --> Phase 2: ......processed 1/1 records 
+2014-10-27 16:51:08 --> Phase 2: Finished finding all terms in affected records
+2014-10-27 16:51:08 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-27 16:51:08 --> Phase 3: ......processed 1/1 terms
+2014-10-27 16:51:08 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-27 16:51:08 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-27 16:51:08 --> Phase 4: ......processed 1/1 records
+2014-10-27 16:51:08 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-27 16:51:08 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-27 16:51:08 --> Phase 5: ......processed 1/1 terms
+2014-10-27 16:51:08 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-27 16:51:08 --> Time used for post-processing: 0.0min
+2014-10-27 16:51:08 --> Finished post-processing
+2014-10-27 16:51:08 --> rnkWORD01F contains 3920 words from 374 records
+2014-10-27 16:51:08 --> rnkWORD01F is in consistent state
+2014-10-27 16:51:08 --> Task #1162 finished and resubmitted.
+2014-10-27 17:07:44 --> Task #1162 started.
+2014-10-27 17:07:44 --> Running rank method: times cited.
+2014-10-27 17:07:44 --> Last update 2014-10-27 16:15:36 records: 3 updates: 3
+2014-10-27 17:07:44 --> get cit.inf done 0 of 3
+2014-10-27 17:07:44 --> get cit.inf done fully
+2014-10-27 17:07:44 --> Execution time for generating citation info from record: 0.01 sec
+2014-10-27 17:07:44 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-27 17:07:44 --> Phase 1: d_references_report_numbers
+2014-10-27 17:07:44 --> d_references_report_numbers done fully
+2014-10-27 17:07:44 --> Phase 2: d_references_s
+2014-10-27 17:07:44 --> d_references_s done fully
+2014-10-27 17:07:44 --> Phase 3: d_reports_numbers
+2014-10-27 17:07:44 --> d_report_numbers done 0 of 3
+2014-10-27 17:07:44 --> d_report_numbers done fully
+2014-10-27 17:07:44 --> Phase 4: d_records_s
+2014-10-27 17:07:44 --> d_records_s done fully
+2014-10-27 17:07:44 --> Phase 5: reverse lists
+2014-10-27 17:07:44 --> Phase 6: self-citations
+2014-10-27 17:07:44 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-27 17:07:44 --> Getting author citations
+2014-10-27 17:07:44 --> size of reversedict 88
+2014-10-27 17:07:44 --> size of citationdict 91
+2014-10-27 17:07:44 --> size of selfcitedbydict 10
+2014-10-27 17:07:44 --> size of selfcitdict 10
+2014-10-27 17:07:44 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-27 17:07:44 --> ... checking ref number: 0.01 sec
+2014-10-27 17:07:44 --> ... checking ref ypvt: 0.00 sec
+2014-10-27 17:07:44 --> ... checking rec number: 0.00 sec
+2014-10-27 17:07:44 --> ... checking rec ypvt: 0.00 sec
+2014-10-27 17:07:44 --> ... total time of ref_analyze: 0.01 sec
+2014-10-27 17:07:44 --> Total time of get_citation_weight(): 0.02 sec
+2014-10-27 17:07:44 --> Running rank method: citerank_citation_t
+2014-10-27 17:07:44 --> Running rank method: citerank_pagerank_c
+2014-10-27 17:07:44 --> Running rank method: citerank_pagerank_t
+2014-10-27 17:07:44 --> Running rank method: journal impact factor.
+2014-10-27 17:07:44 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 17:07:44 --> Number of lines read from knowledgebase file: 5
+2014-10-27 17:07:44 --> ......Processing records #388-389
+2014-10-27 17:07:44 --> Number of records found with the necessary tags: 0
+2014-10-27 17:07:44 --> Number of records available in rank method: 0
+2014-10-27 17:07:44 --> Running rank method: word similarity
+2014-10-27 17:07:44 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 17:07:44 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 17:07:44 --> rnkWORD01F contains 3920 words from 374 records
+2014-10-27 17:07:44 --> rnkWORD01F is in consistent state
+2014-10-27 17:07:44 --> Using the last update time for the rank method
+2014-10-27 17:07:44 --> rnkWORD01F for 388-389 is in consistent state
+2014-10-27 17:07:44 --> rnkWORD01F adding records #388-#389 started
+2014-10-27 17:07:44 --> rnkWORD01F adding records #388-#389 ended  
+2014-10-27 17:07:44 --> rnkWORD01F normal wordtable flush started
+2014-10-27 17:07:44 --> ...updating 2 words into rnkWORD01R started
+2014-10-27 17:07:44 --> rnkWORD01F normal wordtable flush ended
+2014-10-27 17:07:44 --> 2 records took 0.0 seconds to complete.(7210 recs/min)
+2014-10-27 17:07:44 --> Estimated runtime: 0.0 minutes
+2014-10-27 17:07:44 --> Beginning post-processing of 2 terms
+2014-10-27 17:07:44 --> Phase 1: Finding records containing modified terms
+2014-10-27 17:07:44 --> Phase 1: ......processed 2/2 terms
+2014-10-27 17:07:44 --> Phase 1: Finished finding records containing modified terms
+2014-10-27 17:07:44 --> Phase 2: Finding all terms in affected records
+2014-10-27 17:07:44 --> Phase 2: ......processed 2/2 records 
+2014-10-27 17:07:44 --> Phase 2: Finished finding all terms in affected records
+2014-10-27 17:07:44 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-27 17:07:44 --> Phase 3: ......processed 2/2 terms
+2014-10-27 17:07:44 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-27 17:07:44 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-27 17:07:44 --> Phase 4: ......processed 2/2 records
+2014-10-27 17:07:44 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-27 17:07:44 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-27 17:07:44 --> Phase 5: ......processed 2/2 terms
+2014-10-27 17:07:44 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-27 17:07:44 --> Time used for post-processing: 0.0min
+2014-10-27 17:07:44 --> Finished post-processing
+2014-10-27 17:07:44 --> rnkWORD01F contains 3922 words from 376 records
+2014-10-27 17:07:44 --> rnkWORD01F is in consistent state
+2014-10-27 17:07:44 --> Task #1162 finished and resubmitted.
+2014-10-27 17:09:07 --> Task #1162 started.
+2014-10-27 17:09:07 --> Running rank method: times cited.
+2014-10-27 17:09:07 --> Last update 2014-10-27 17:07:44 records: 1 updates: 1
+2014-10-27 17:09:07 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-27 17:09:07 --> No need to update the indexes for citations.
+2014-10-27 17:09:07 --> Running rank method: citerank_citation_t
+2014-10-27 17:09:07 --> Running rank method: citerank_pagerank_c
+2014-10-27 17:09:07 --> Running rank method: citerank_pagerank_t
+2014-10-27 17:09:07 --> Running rank method: journal impact factor.
+2014-10-27 17:09:07 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 17:09:07 --> Number of lines read from knowledgebase file: 5
+2014-10-27 17:09:07 --> ......Processing records #390-390
+2014-10-27 17:09:07 --> Number of records found with the necessary tags: 0
+2014-10-27 17:09:07 --> Number of records available in rank method: 0
+2014-10-27 17:09:07 --> Running rank method: word similarity
+2014-10-27 17:09:07 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 17:09:07 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 17:09:07 --> rnkWORD01F contains 3922 words from 376 records
+2014-10-27 17:09:07 --> rnkWORD01F is in consistent state
+2014-10-27 17:09:07 --> Using the last update time for the rank method
+2014-10-27 17:09:07 --> rnkWORD01F for 390-390 is in consistent state
+2014-10-27 17:09:07 --> rnkWORD01F adding records #390-#390 started
+2014-10-27 17:09:07 --> rnkWORD01F adding records #390-#390 ended  
+2014-10-27 17:09:07 --> rnkWORD01F normal wordtable flush started
+2014-10-27 17:09:07 --> ...updating 1 words into rnkWORD01R started
+2014-10-27 17:09:07 --> rnkWORD01F normal wordtable flush ended
+2014-10-27 17:09:07 --> 1 records took 0.0 seconds to complete.(14361 recs/min)
+2014-10-27 17:09:07 --> Estimated runtime: 0.0 minutes
+2014-10-27 17:09:07 --> Beginning post-processing of 1 terms
+2014-10-27 17:09:07 --> Phase 1: Finding records containing modified terms
+2014-10-27 17:09:07 --> Phase 1: ......processed 1/1 terms
+2014-10-27 17:09:07 --> Phase 1: Finished finding records containing modified terms
+2014-10-27 17:09:07 --> Phase 2: Finding all terms in affected records
+2014-10-27 17:09:07 --> Phase 2: ......processed 1/1 records 
+2014-10-27 17:09:07 --> Phase 2: Finished finding all terms in affected records
+2014-10-27 17:09:07 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-27 17:09:07 --> Phase 3: ......processed 1/1 terms
+2014-10-27 17:09:07 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-27 17:09:07 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-27 17:09:07 --> Phase 4: ......processed 1/1 records
+2014-10-27 17:09:07 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-27 17:09:07 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-27 17:09:07 --> Phase 5: ......processed 1/1 terms
+2014-10-27 17:09:07 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-27 17:09:07 --> Time used for post-processing: 0.0min
+2014-10-27 17:09:07 --> Finished post-processing
+2014-10-27 17:09:07 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-27 17:09:07 --> rnkWORD01F is in consistent state
+2014-10-27 17:09:07 --> Task #1162 finished and resubmitted.
+2014-10-27 17:09:08 --> Task #1162 started.
+2014-10-27 17:09:08 --> Running rank method: times cited.
+2014-10-27 17:09:08 --> Last update 2014-10-27 17:07:44 records: 1 updates: 1
+2014-10-27 17:09:08 --> get cit.inf done 0 of 1
+2014-10-27 17:09:08 --> get cit.inf done fully
+2014-10-27 17:09:08 --> Execution time for generating citation info from record: 0.01 sec
+2014-10-27 17:09:08 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-27 17:09:08 --> Phase 1: d_references_report_numbers
+2014-10-27 17:09:08 --> d_references_report_numbers done fully
+2014-10-27 17:09:08 --> Phase 2: d_references_s
+2014-10-27 17:09:08 --> d_references_s done fully
+2014-10-27 17:09:08 --> Phase 3: d_reports_numbers
+2014-10-27 17:09:08 --> d_report_numbers done 0 of 1
+2014-10-27 17:09:08 --> d_report_numbers done fully
+2014-10-27 17:09:08 --> Phase 4: d_records_s
+2014-10-27 17:09:08 --> d_records_s done fully
+2014-10-27 17:09:08 --> Phase 5: reverse lists
+2014-10-27 17:09:08 --> Phase 6: self-citations
+2014-10-27 17:09:08 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-27 17:09:08 --> Getting author citations
+2014-10-27 17:09:08 --> size of reversedict 88
+2014-10-27 17:09:08 --> size of citationdict 91
+2014-10-27 17:09:08 --> size of selfcitedbydict 10
+2014-10-27 17:09:08 --> size of selfcitdict 10
+2014-10-27 17:09:08 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-27 17:09:08 --> ... checking ref number: 0.00 sec
+2014-10-27 17:09:08 --> ... checking ref ypvt: 0.00 sec
+2014-10-27 17:09:08 --> ... checking rec number: 0.00 sec
+2014-10-27 17:09:08 --> ... checking rec ypvt: 0.00 sec
+2014-10-27 17:09:08 --> ... total time of ref_analyze: 0.00 sec
+2014-10-27 17:09:08 --> Total time of get_citation_weight(): 0.01 sec
+2014-10-27 17:09:08 --> Running rank method: citerank_citation_t
+2014-10-27 17:09:08 --> Running rank method: citerank_pagerank_c
+2014-10-27 17:09:08 --> Running rank method: citerank_pagerank_t
+2014-10-27 17:09:08 --> Running rank method: journal impact factor.
+2014-10-27 17:09:08 --> No new records added since last time method was run
+2014-10-27 17:09:08 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 17:09:08 --> Number of lines read from knowledgebase file: 5
+2014-10-27 17:09:08 --> Number of records available in rank method: 0
+2014-10-27 17:09:08 --> Running rank method: word similarity
+2014-10-27 17:09:08 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 17:09:08 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 17:09:08 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-27 17:09:08 --> rnkWORD01F is in consistent state
+2014-10-27 17:09:08 --> Using the last update time for the rank method
+2014-10-27 17:09:08 --> No new records added. rnkWORD01F is up to date
+2014-10-27 17:09:08 --> No terms to process, ending...
+2014-10-27 17:09:08 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-27 17:09:08 --> rnkWORD01F is in consistent state
+2014-10-27 17:09:08 --> Task #1162 finished and resubmitted.
+2014-10-27 17:09:08 --> Task #1162 started.
+2014-10-27 17:09:08 --> Running rank method: times cited.
+2014-10-27 17:09:08 --> No new records added since last time method was run
+2014-10-27 17:09:08 --> No new records added since last time this rank method was executed
+2014-10-27 17:09:08 --> No need to update the indexes for citations.
+2014-10-27 17:09:08 --> Running rank method: citerank_citation_t
+2014-10-27 17:09:08 --> Running rank method: citerank_pagerank_c
+2014-10-27 17:09:08 --> Running rank method: citerank_pagerank_t
+2014-10-27 17:09:08 --> Running rank method: journal impact factor.
+2014-10-27 17:09:08 --> No new records added since last time method was run
+2014-10-27 17:09:08 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-27 17:09:08 --> Number of lines read from knowledgebase file: 5
+2014-10-27 17:09:08 --> Number of records available in rank method: 0
+2014-10-27 17:09:08 --> Running rank method: word similarity
+2014-10-27 17:09:08 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 17:09:08 --> Warning: Stemming not available for language 'fr'.
+2014-10-27 17:09:08 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-27 17:09:08 --> rnkWORD01F is in consistent state
+2014-10-27 17:09:08 --> Using the last update time for the rank method
+2014-10-27 17:09:08 --> No new records added. rnkWORD01F is up to date
+2014-10-27 17:09:08 --> No terms to process, ending...
+2014-10-27 17:09:08 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-27 17:09:08 --> rnkWORD01F is in consistent state
+2014-10-27 17:09:08 --> Task #1162 finished and resubmitted.
+2014-10-28 09:15:42 --> Task #1162 started.
+2014-10-28 09:15:42 --> Running rank method: times cited.
+2014-10-28 09:15:43 --> Last update 2014-10-27 17:09:08 records: 1 updates: 1
+2014-10-28 09:15:43 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 09:15:43 --> No need to update the indexes for citations.
+2014-10-28 09:15:43 --> Running rank method: citerank_citation_t
+2014-10-28 09:15:43 --> Running rank method: citerank_pagerank_c
+2014-10-28 09:15:43 --> Running rank method: citerank_pagerank_t
+2014-10-28 09:15:43 --> Running rank method: journal impact factor.
+2014-10-28 09:15:43 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 09:15:43 --> Number of lines read from knowledgebase file: 5
+2014-10-28 09:15:43 --> ......Processing records #390-390
+2014-10-28 09:15:43 --> Number of records found with the necessary tags: 0
+2014-10-28 09:15:43 --> Number of records available in rank method: 0
+2014-10-28 09:15:43 --> Running rank method: word similarity
+2014-10-28 09:15:43 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:15:43 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:15:43 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:15:43 --> rnkWORD01F is in consistent state
+2014-10-28 09:15:43 --> Using the last update time for the rank method
+2014-10-28 09:15:43 --> rnkWORD01F for 390-390 is in consistent state
+2014-10-28 09:15:43 --> rnkWORD01F adding records #390-#390 started
+2014-10-28 09:15:43 --> rnkWORD01F adding records #390-#390 ended  
+2014-10-28 09:15:43 --> rnkWORD01F normal wordtable flush started
+2014-10-28 09:15:43 --> ...updating 1 words into rnkWORD01R started
+2014-10-28 09:15:43 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 09:15:43 --> 1 records took 0.0 seconds to complete.(16479 recs/min)
+2014-10-28 09:15:43 --> Estimated runtime: 0.0 minutes
+2014-10-28 09:15:43 --> Beginning post-processing of 1 terms
+2014-10-28 09:15:43 --> Phase 1: Finding records containing modified terms
+2014-10-28 09:15:43 --> Phase 1: ......processed 1/1 terms
+2014-10-28 09:15:43 --> Phase 1: Finished finding records containing modified terms
+2014-10-28 09:15:43 --> Phase 2: Finding all terms in affected records
+2014-10-28 09:15:43 --> Phase 2: Finished finding all terms in affected records
+2014-10-28 09:15:43 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-28 09:15:43 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-28 09:15:43 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 09:15:43 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 09:15:43 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-28 09:15:43 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-28 09:15:43 --> Time used for post-processing: 0.0min
+2014-10-28 09:15:43 --> Finished post-processing
+2014-10-28 09:15:43 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:15:43 --> rnkWORD01F is in consistent state
+2014-10-28 09:15:43 --> Task #1162 finished and resubmitted.
+2014-10-28 09:15:44 --> Task #1162 started.
+2014-10-28 09:15:44 --> Running rank method: times cited.
+2014-10-28 09:15:44 --> Last update 2014-10-27 17:09:08 records: 1 updates: 1
+2014-10-28 09:15:44 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 09:15:44 --> No need to update the indexes for citations.
+2014-10-28 09:15:44 --> Running rank method: citerank_citation_t
+2014-10-28 09:15:44 --> Running rank method: citerank_pagerank_c
+2014-10-28 09:15:44 --> Running rank method: citerank_pagerank_t
+2014-10-28 09:15:44 --> Running rank method: journal impact factor.
+2014-10-28 09:15:44 --> No new records added since last time method was run
+2014-10-28 09:15:44 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 09:15:44 --> Number of lines read from knowledgebase file: 5
+2014-10-28 09:15:44 --> Number of records available in rank method: 0
+2014-10-28 09:15:44 --> Running rank method: word similarity
+2014-10-28 09:15:44 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:15:44 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:15:44 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:15:44 --> rnkWORD01F is in consistent state
+2014-10-28 09:15:44 --> Using the last update time for the rank method
+2014-10-28 09:15:44 --> No new records added. rnkWORD01F is up to date
+2014-10-28 09:15:44 --> No terms to process, ending...
+2014-10-28 09:15:44 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:15:44 --> rnkWORD01F is in consistent state
+2014-10-28 09:15:44 --> Task #1162 finished and resubmitted.
+2014-10-28 09:15:46 --> Task #1162 started.
+2014-10-28 09:15:46 --> Running rank method: times cited.
+2014-10-28 09:15:46 --> Last update 2014-10-27 17:09:08 records: 1 updates: 1
+2014-10-28 09:15:46 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 09:15:46 --> No need to update the indexes for citations.
+2014-10-28 09:15:46 --> Running rank method: citerank_citation_t
+2014-10-28 09:15:46 --> Running rank method: citerank_pagerank_c
+2014-10-28 09:15:46 --> Running rank method: citerank_pagerank_t
+2014-10-28 09:15:46 --> Running rank method: journal impact factor.
+2014-10-28 09:15:46 --> No new records added since last time method was run
+2014-10-28 09:15:46 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 09:15:46 --> Number of lines read from knowledgebase file: 5
+2014-10-28 09:15:46 --> Number of records available in rank method: 0
+2014-10-28 09:15:46 --> Running rank method: word similarity
+2014-10-28 09:15:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:15:46 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:15:46 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:15:46 --> rnkWORD01F is in consistent state
+2014-10-28 09:15:46 --> Using the last update time for the rank method
+2014-10-28 09:15:46 --> No new records added. rnkWORD01F is up to date
+2014-10-28 09:15:46 --> No terms to process, ending...
+2014-10-28 09:15:46 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:15:46 --> rnkWORD01F is in consistent state
+2014-10-28 09:15:46 --> Task #1162 finished and resubmitted.
+2014-10-28 09:15:47 --> Task #1162 started.
+2014-10-28 09:15:47 --> Running rank method: times cited.
+2014-10-28 09:15:48 --> Last update 2014-10-27 17:09:08 records: 1 updates: 1
+2014-10-28 09:15:48 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 09:15:48 --> No need to update the indexes for citations.
+2014-10-28 09:15:48 --> Running rank method: citerank_citation_t
+2014-10-28 09:15:48 --> Running rank method: citerank_pagerank_c
+2014-10-28 09:15:48 --> Running rank method: citerank_pagerank_t
+2014-10-28 09:15:48 --> Running rank method: journal impact factor.
+2014-10-28 09:15:48 --> No new records added since last time method was run
+2014-10-28 09:15:48 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 09:15:48 --> Number of lines read from knowledgebase file: 5
+2014-10-28 09:15:48 --> Number of records available in rank method: 0
+2014-10-28 09:15:48 --> Running rank method: word similarity
+2014-10-28 09:15:48 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:15:48 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:15:48 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:15:48 --> rnkWORD01F is in consistent state
+2014-10-28 09:15:48 --> Using the last update time for the rank method
+2014-10-28 09:15:48 --> No new records added. rnkWORD01F is up to date
+2014-10-28 09:15:48 --> No terms to process, ending...
+2014-10-28 09:15:48 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:15:48 --> rnkWORD01F is in consistent state
+2014-10-28 09:15:48 --> Task #1162 finished and resubmitted.
+2014-10-28 09:18:56 --> Task #1162 started.
+2014-10-28 09:18:56 --> Running rank method: times cited.
+2014-10-28 09:18:56 --> Last update 2014-10-27 17:09:08 records: 2 updates: 2
+2014-10-28 09:18:56 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 09:18:56 --> No need to update the indexes for citations.
+2014-10-28 09:18:56 --> Running rank method: citerank_citation_t
+2014-10-28 09:18:56 --> Running rank method: citerank_pagerank_c
+2014-10-28 09:18:56 --> Running rank method: citerank_pagerank_t
+2014-10-28 09:18:56 --> Running rank method: journal impact factor.
+2014-10-28 09:18:56 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 09:18:56 --> Number of lines read from knowledgebase file: 5
+2014-10-28 09:18:56 --> ......Processing records #391-391
+2014-10-28 09:18:56 --> Number of records found with the necessary tags: 0
+2014-10-28 09:18:56 --> Number of records available in rank method: 0
+2014-10-28 09:18:56 --> Running rank method: word similarity
+2014-10-28 09:18:56 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:18:56 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:18:56 --> rnkWORD01F contains 3922 words from 377 records
+2014-10-28 09:18:56 --> rnkWORD01F is in consistent state
+2014-10-28 09:18:56 --> Using the last update time for the rank method
+2014-10-28 09:18:56 --> rnkWORD01F for 391-391 is in consistent state
+2014-10-28 09:18:56 --> rnkWORD01F adding records #391-#391 started
+2014-10-28 09:18:56 --> rnkWORD01F adding records #391-#391 ended  
+2014-10-28 09:18:56 --> rnkWORD01F normal wordtable flush started
+2014-10-28 09:18:56 --> ...updating 1 words into rnkWORD01R started
+2014-10-28 09:18:56 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 09:18:56 --> 1 records took 0.0 seconds to complete.(12424 recs/min)
+2014-10-28 09:18:56 --> Estimated runtime: 0.0 minutes
+2014-10-28 09:18:56 --> Beginning post-processing of 1 terms
+2014-10-28 09:18:56 --> Phase 1: Finding records containing modified terms
+2014-10-28 09:18:56 --> Phase 1: ......processed 1/1 terms
+2014-10-28 09:18:56 --> Phase 1: Finished finding records containing modified terms
+2014-10-28 09:18:56 --> Phase 2: Finding all terms in affected records
+2014-10-28 09:18:56 --> Phase 2: ......processed 1/1 records 
+2014-10-28 09:18:56 --> Phase 2: Finished finding all terms in affected records
+2014-10-28 09:18:56 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-28 09:18:56 --> Phase 3: ......processed 1/1 terms
+2014-10-28 09:18:56 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-28 09:18:56 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 09:18:56 --> Phase 4: ......processed 1/1 records
+2014-10-28 09:18:56 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 09:18:56 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-28 09:18:56 --> Phase 5: ......processed 1/1 terms
+2014-10-28 09:18:56 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-28 09:18:56 --> Time used for post-processing: 0.0min
+2014-10-28 09:18:56 --> Finished post-processing
+2014-10-28 09:18:56 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 09:18:56 --> rnkWORD01F is in consistent state
+2014-10-28 09:18:56 --> Task #1162 finished and resubmitted.
+2014-10-28 09:19:05 --> Task #1162 started.
+2014-10-28 09:19:05 --> Running rank method: times cited.
+2014-10-28 09:19:05 --> Last update 2014-10-27 17:09:08 records: 2 updates: 2
+2014-10-28 09:19:05 --> get cit.inf done 0 of 2
+2014-10-28 09:19:05 --> get cit.inf done fully
+2014-10-28 09:19:05 --> Execution time for generating citation info from record: 0.00 sec
+2014-10-28 09:19:05 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-28 09:19:05 --> Phase 1: d_references_report_numbers
+2014-10-28 09:19:05 --> d_references_report_numbers done fully
+2014-10-28 09:19:05 --> Phase 2: d_references_s
+2014-10-28 09:19:05 --> d_references_s done fully
+2014-10-28 09:19:05 --> Phase 3: d_reports_numbers
+2014-10-28 09:19:05 --> d_report_numbers done 0 of 2
+2014-10-28 09:19:05 --> d_report_numbers done fully
+2014-10-28 09:19:05 --> Phase 4: d_records_s
+2014-10-28 09:19:05 --> d_records_s done fully
+2014-10-28 09:19:05 --> Phase 5: reverse lists
+2014-10-28 09:19:05 --> Phase 6: self-citations
+2014-10-28 09:19:05 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-28 09:19:05 --> Getting author citations
+2014-10-28 09:19:05 --> size of reversedict 88
+2014-10-28 09:19:05 --> size of citationdict 91
+2014-10-28 09:19:05 --> size of selfcitedbydict 10
+2014-10-28 09:19:05 --> size of selfcitdict 10
+2014-10-28 09:19:05 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-28 09:19:05 --> ... checking ref number: 0.00 sec
+2014-10-28 09:19:05 --> ... checking ref ypvt: 0.00 sec
+2014-10-28 09:19:05 --> ... checking rec number: 0.00 sec
+2014-10-28 09:19:05 --> ... checking rec ypvt: 0.00 sec
+2014-10-28 09:19:05 --> ... total time of ref_analyze: 0.00 sec
+2014-10-28 09:19:05 --> Total time of get_citation_weight(): 0.01 sec
+2014-10-28 09:19:05 --> Running rank method: citerank_citation_t
+2014-10-28 09:19:05 --> Running rank method: citerank_pagerank_c
+2014-10-28 09:19:05 --> Running rank method: citerank_pagerank_t
+2014-10-28 09:19:05 --> Running rank method: journal impact factor.
+2014-10-28 09:19:05 --> No new records added since last time method was run
+2014-10-28 09:19:05 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 09:19:05 --> Number of lines read from knowledgebase file: 5
+2014-10-28 09:19:05 --> Number of records available in rank method: 0
+2014-10-28 09:19:05 --> Running rank method: word similarity
+2014-10-28 09:19:05 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:19:05 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 09:19:05 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 09:19:05 --> rnkWORD01F is in consistent state
+2014-10-28 09:19:05 --> Using the last update time for the rank method
+2014-10-28 09:19:05 --> No new records added. rnkWORD01F is up to date
+2014-10-28 09:19:05 --> No terms to process, ending...
+2014-10-28 09:19:05 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 09:19:05 --> rnkWORD01F is in consistent state
+2014-10-28 09:19:05 --> Task #1162 finished and resubmitted.
+2014-10-28 10:33:23 --> Task #1162 started.
+2014-10-28 10:33:23 --> Running rank method: times cited.
+2014-10-28 10:33:23 --> No new records added since last time method was run
+2014-10-28 10:33:23 --> No new records added since last time this rank method was executed
+2014-10-28 10:33:23 --> No need to update the indexes for citations.
+2014-10-28 10:33:23 --> Running rank method: citerank_citation_t
+2014-10-28 10:33:23 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:33:23 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:33:23 --> Running rank method: journal impact factor.
+2014-10-28 10:33:23 --> No new records added since last time method was run
+2014-10-28 10:33:23 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:33:23 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:33:23 --> Number of records available in rank method: 0
+2014-10-28 10:33:23 --> Running rank method: word similarity
+2014-10-28 10:33:23 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:33:23 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:33:23 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:33:23 --> rnkWORD01F is in consistent state
+2014-10-28 10:33:23 --> Using the last update time for the rank method
+2014-10-28 10:33:23 --> No new records added. rnkWORD01F is up to date
+2014-10-28 10:33:23 --> No terms to process, ending...
+2014-10-28 10:33:23 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:33:23 --> rnkWORD01F is in consistent state
+2014-10-28 10:33:23 --> Task #1162 finished and resubmitted.
+2014-10-28 10:34:15 --> Task #1162 started.
+2014-10-28 10:34:15 --> Running rank method: times cited.
+2014-10-28 10:34:15 --> No new records added since last time method was run
+2014-10-28 10:34:15 --> No new records added since last time this rank method was executed
+2014-10-28 10:34:15 --> No need to update the indexes for citations.
+2014-10-28 10:34:15 --> Running rank method: citerank_citation_t
+2014-10-28 10:34:15 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:34:15 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:34:15 --> Running rank method: journal impact factor.
+2014-10-28 10:34:15 --> No new records added since last time method was run
+2014-10-28 10:34:15 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:34:15 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:34:15 --> Number of records available in rank method: 0
+2014-10-28 10:34:15 --> Running rank method: word similarity
+2014-10-28 10:34:15 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:34:15 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:34:15 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:34:15 --> rnkWORD01F is in consistent state
+2014-10-28 10:34:15 --> Using the last update time for the rank method
+2014-10-28 10:34:15 --> No new records added. rnkWORD01F is up to date
+2014-10-28 10:34:15 --> No terms to process, ending...
+2014-10-28 10:34:15 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:34:15 --> rnkWORD01F is in consistent state
+2014-10-28 10:34:15 --> Task #1162 finished and resubmitted.
+2014-10-28 10:35:04 --> Task #1162 started.
+2014-10-28 10:35:04 --> Running rank method: times cited.
+2014-10-28 10:35:04 --> No new records added since last time method was run
+2014-10-28 10:35:04 --> No new records added since last time this rank method was executed
+2014-10-28 10:35:04 --> No need to update the indexes for citations.
+2014-10-28 10:35:04 --> Running rank method: citerank_citation_t
+2014-10-28 10:35:04 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:35:04 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:35:04 --> Running rank method: journal impact factor.
+2014-10-28 10:35:04 --> No new records added since last time method was run
+2014-10-28 10:35:04 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:35:04 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:35:04 --> Number of records available in rank method: 0
+2014-10-28 10:35:04 --> Running rank method: word similarity
+2014-10-28 10:35:04 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:35:04 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:35:04 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:35:04 --> rnkWORD01F is in consistent state
+2014-10-28 10:35:04 --> Using the last update time for the rank method
+2014-10-28 10:35:04 --> No new records added. rnkWORD01F is up to date
+2014-10-28 10:35:04 --> No terms to process, ending...
+2014-10-28 10:35:04 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:35:04 --> rnkWORD01F is in consistent state
+2014-10-28 10:35:04 --> Task #1162 finished and resubmitted.
+2014-10-28 10:38:12 --> Task #1162 started.
+2014-10-28 10:38:12 --> Running rank method: times cited.
+2014-10-28 10:38:12 --> No new records added since last time method was run
+2014-10-28 10:38:12 --> No new records added since last time this rank method was executed
+2014-10-28 10:38:12 --> No need to update the indexes for citations.
+2014-10-28 10:38:12 --> Running rank method: citerank_citation_t
+2014-10-28 10:38:12 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:38:12 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:38:12 --> Running rank method: journal impact factor.
+2014-10-28 10:38:12 --> No new records added since last time method was run
+2014-10-28 10:38:12 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:38:12 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:38:12 --> Number of records available in rank method: 0
+2014-10-28 10:38:12 --> Running rank method: word similarity
+2014-10-28 10:38:12 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:38:12 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:38:12 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:38:12 --> rnkWORD01F is in consistent state
+2014-10-28 10:38:12 --> Using the last update time for the rank method
+2014-10-28 10:38:12 --> No new records added. rnkWORD01F is up to date
+2014-10-28 10:38:12 --> No terms to process, ending...
+2014-10-28 10:38:12 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:38:12 --> rnkWORD01F is in consistent state
+2014-10-28 10:38:12 --> Task #1162 finished and resubmitted.
+2014-10-28 10:38:13 --> Task #1162 started.
+2014-10-28 10:38:13 --> Running rank method: times cited.
+2014-10-28 10:38:13 --> No new records added since last time method was run
+2014-10-28 10:38:13 --> No new records added since last time this rank method was executed
+2014-10-28 10:38:13 --> No need to update the indexes for citations.
+2014-10-28 10:38:13 --> Running rank method: citerank_citation_t
+2014-10-28 10:38:13 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:38:13 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:38:13 --> Running rank method: journal impact factor.
+2014-10-28 10:38:13 --> No new records added since last time method was run
+2014-10-28 10:38:13 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:38:13 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:38:13 --> Number of records available in rank method: 0
+2014-10-28 10:38:13 --> Running rank method: word similarity
+2014-10-28 10:38:13 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:38:13 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:38:13 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:38:13 --> rnkWORD01F is in consistent state
+2014-10-28 10:38:13 --> Using the last update time for the rank method
+2014-10-28 10:38:13 --> No new records added. rnkWORD01F is up to date
+2014-10-28 10:38:13 --> No terms to process, ending...
+2014-10-28 10:38:13 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:38:13 --> rnkWORD01F is in consistent state
+2014-10-28 10:38:13 --> Task #1162 finished and resubmitted.
+2014-10-28 10:43:56 --> Task #1162 started.
+2014-10-28 10:43:56 --> Running rank method: times cited.
+2014-10-28 10:43:56 --> Last update 2014-10-28 09:19:05 records: 1 updates: 1
+2014-10-28 10:43:56 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 10:43:56 --> No need to update the indexes for citations.
+2014-10-28 10:43:56 --> Running rank method: citerank_citation_t
+2014-10-28 10:43:56 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:43:56 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:43:56 --> Running rank method: journal impact factor.
+2014-10-28 10:43:57 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:43:57 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:43:57 --> ......Processing records #392-392
+2014-10-28 10:43:57 --> Number of records found with the necessary tags: 0
+2014-10-28 10:43:57 --> Number of records available in rank method: 0
+2014-10-28 10:43:57 --> Running rank method: word similarity
+2014-10-28 10:43:57 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:43:57 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:43:57 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:43:57 --> rnkWORD01F is in consistent state
+2014-10-28 10:43:57 --> Using the last update time for the rank method
+2014-10-28 10:43:57 --> rnkWORD01F for 392-392 is in consistent state
+2014-10-28 10:43:57 --> rnkWORD01F adding records #392-#392 started
+2014-10-28 10:43:57 --> rnkWORD01F adding records #392-#392 ended  
+2014-10-28 10:43:57 --> rnkWORD01F normal wordtable flush started
+2014-10-28 10:43:57 --> ...updating 0 words into rnkWORD01R started
+2014-10-28 10:43:57 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 10:43:57 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-10-28 10:43:57 --> No terms to process, ending...
+2014-10-28 10:43:57 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:43:57 --> rnkWORD01F is in consistent state
+2014-10-28 10:43:57 --> Task #1162 finished and resubmitted.
+2014-10-28 10:43:58 --> Task #1162 started.
+2014-10-28 10:43:58 --> Running rank method: times cited.
+2014-10-28 10:43:59 --> Last update 2014-10-28 09:19:05 records: 1 updates: 1
+2014-10-28 10:43:59 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 10:43:59 --> No need to update the indexes for citations.
+2014-10-28 10:43:59 --> Running rank method: citerank_citation_t
+2014-10-28 10:43:59 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:43:59 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:43:59 --> Running rank method: journal impact factor.
+2014-10-28 10:43:59 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:43:59 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:43:59 --> ......Processing records #392-392
+2014-10-28 10:43:59 --> Number of records found with the necessary tags: 0
+2014-10-28 10:43:59 --> Number of records available in rank method: 0
+2014-10-28 10:43:59 --> Running rank method: word similarity
+2014-10-28 10:43:59 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:43:59 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:43:59 --> rnkWORD01F contains 3922 words from 378 records
+2014-10-28 10:43:59 --> rnkWORD01F is in consistent state
+2014-10-28 10:43:59 --> Using the last update time for the rank method
+2014-10-28 10:43:59 --> rnkWORD01F for 392-392 is in consistent state
+2014-10-28 10:43:59 --> rnkWORD01F adding records #392-#392 started
+2014-10-28 10:43:59 --> rnkWORD01F adding records #392-#392 ended  
+2014-10-28 10:43:59 --> rnkWORD01F normal wordtable flush started
+2014-10-28 10:43:59 --> ...updating 1 words into rnkWORD01R started
+2014-10-28 10:43:59 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 10:43:59 --> 1 records took 0.0 seconds to complete.(17021 recs/min)
+2014-10-28 10:43:59 --> Estimated runtime: 0.0 minutes
+2014-10-28 10:43:59 --> Beginning post-processing of 1 terms
+2014-10-28 10:43:59 --> Phase 1: Finding records containing modified terms
+2014-10-28 10:43:59 --> Phase 1: ......processed 1/1 terms
+2014-10-28 10:43:59 --> Phase 1: Finished finding records containing modified terms
+2014-10-28 10:43:59 --> Phase 2: Finding all terms in affected records
+2014-10-28 10:43:59 --> Phase 2: ......processed 1/1 records 
+2014-10-28 10:43:59 --> Phase 2: Finished finding all terms in affected records
+2014-10-28 10:43:59 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-28 10:43:59 --> Phase 3: ......processed 1/1 terms
+2014-10-28 10:43:59 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-28 10:43:59 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 10:43:59 --> Phase 4: ......processed 1/1 records
+2014-10-28 10:43:59 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 10:43:59 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-28 10:43:59 --> Phase 5: ......processed 1/1 terms
+2014-10-28 10:43:59 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-28 10:43:59 --> Time used for post-processing: 0.0min
+2014-10-28 10:43:59 --> Finished post-processing
+2014-10-28 10:43:59 --> rnkWORD01F contains 3922 words from 379 records
+2014-10-28 10:43:59 --> rnkWORD01F is in consistent state
+2014-10-28 10:43:59 --> Task #1162 finished and resubmitted.
+2014-10-28 10:46:17 --> Task #1162 started.
+2014-10-28 10:46:17 --> Running rank method: times cited.
+2014-10-28 10:46:17 --> Last update 2014-10-28 09:19:05 records: 1 updates: 1
+2014-10-28 10:46:17 --> get cit.inf done 0 of 1
+2014-10-28 10:46:17 --> get cit.inf done fully
+2014-10-28 10:46:17 --> Execution time for generating citation info from record: 0.00 sec
+2014-10-28 10:46:17 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-28 10:46:17 --> Phase 1: d_references_report_numbers
+2014-10-28 10:46:17 --> d_references_report_numbers done fully
+2014-10-28 10:46:17 --> Phase 2: d_references_s
+2014-10-28 10:46:17 --> d_references_s done fully
+2014-10-28 10:46:17 --> Phase 3: d_reports_numbers
+2014-10-28 10:46:17 --> d_report_numbers done 0 of 1
+2014-10-28 10:46:17 --> d_report_numbers done fully
+2014-10-28 10:46:17 --> Phase 4: d_records_s
+2014-10-28 10:46:17 --> d_records_s done fully
+2014-10-28 10:46:17 --> Phase 5: reverse lists
+2014-10-28 10:46:17 --> Phase 6: self-citations
+2014-10-28 10:46:17 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-28 10:46:17 --> Getting author citations
+2014-10-28 10:46:17 --> size of reversedict 88
+2014-10-28 10:46:17 --> size of citationdict 91
+2014-10-28 10:46:17 --> size of selfcitedbydict 10
+2014-10-28 10:46:17 --> size of selfcitdict 10
+2014-10-28 10:46:17 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-28 10:46:17 --> ... checking ref number: 0.00 sec
+2014-10-28 10:46:17 --> ... checking ref ypvt: 0.00 sec
+2014-10-28 10:46:17 --> ... checking rec number: 0.00 sec
+2014-10-28 10:46:17 --> ... checking rec ypvt: 0.00 sec
+2014-10-28 10:46:17 --> ... total time of ref_analyze: 0.00 sec
+2014-10-28 10:46:17 --> Total time of get_citation_weight(): 0.01 sec
+2014-10-28 10:46:17 --> Running rank method: citerank_citation_t
+2014-10-28 10:46:17 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:46:17 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:46:17 --> Running rank method: journal impact factor.
+2014-10-28 10:46:17 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:46:17 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:46:17 --> ......Processing records #392-392
+2014-10-28 10:46:17 --> Number of records found with the necessary tags: 0
+2014-10-28 10:46:17 --> Number of records available in rank method: 0
+2014-10-28 10:46:17 --> Running rank method: word similarity
+2014-10-28 10:46:17 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:46:17 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:46:17 --> rnkWORD01F contains 3922 words from 379 records
+2014-10-28 10:46:17 --> rnkWORD01F is in consistent state
+2014-10-28 10:46:17 --> Using the last update time for the rank method
+2014-10-28 10:46:17 --> rnkWORD01F for 392-392 is in consistent state
+2014-10-28 10:46:17 --> rnkWORD01F adding records #392-#392 started
+2014-10-28 10:46:17 --> rnkWORD01F adding records #392-#392 ended  
+2014-10-28 10:46:17 --> rnkWORD01F normal wordtable flush started
+2014-10-28 10:46:17 --> ...updating 1 words into rnkWORD01R started
+2014-10-28 10:46:17 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 10:46:17 --> 1 records took 0.0 seconds to complete.(20646 recs/min)
+2014-10-28 10:46:17 --> Estimated runtime: 0.0 minutes
+2014-10-28 10:46:17 --> Beginning post-processing of 1 terms
+2014-10-28 10:46:17 --> Phase 1: Finding records containing modified terms
+2014-10-28 10:46:17 --> Phase 1: ......processed 1/1 terms
+2014-10-28 10:46:17 --> Phase 1: Finished finding records containing modified terms
+2014-10-28 10:46:17 --> Phase 2: Finding all terms in affected records
+2014-10-28 10:46:17 --> Phase 2: Finished finding all terms in affected records
+2014-10-28 10:46:17 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-28 10:46:17 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-28 10:46:17 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 10:46:17 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 10:46:17 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-28 10:46:17 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-28 10:46:17 --> Time used for post-processing: 0.0min
+2014-10-28 10:46:17 --> Finished post-processing
+2014-10-28 10:46:17 --> rnkWORD01F contains 3922 words from 379 records
+2014-10-28 10:46:17 --> rnkWORD01F is in consistent state
+2014-10-28 10:46:17 --> Task #1162 finished and resubmitted.
+2014-10-28 10:50:12 --> Task #1162 started.
+2014-10-28 10:50:12 --> Running rank method: times cited.
+2014-10-28 10:50:12 --> Last update 2014-10-28 10:46:17 records: 2 updates: 2
+2014-10-28 10:50:12 --> get cit.inf done 0 of 2
+2014-10-28 10:50:12 --> get cit.inf done fully
+2014-10-28 10:50:12 --> Execution time for generating citation info from record: 0.00 sec
+2014-10-28 10:50:12 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-28 10:50:12 --> Phase 1: d_references_report_numbers
+2014-10-28 10:50:12 --> d_references_report_numbers done fully
+2014-10-28 10:50:12 --> Phase 2: d_references_s
+2014-10-28 10:50:12 --> d_references_s done fully
+2014-10-28 10:50:12 --> Phase 3: d_reports_numbers
+2014-10-28 10:50:12 --> d_report_numbers done 0 of 2
+2014-10-28 10:50:12 --> d_report_numbers done fully
+2014-10-28 10:50:12 --> Phase 4: d_records_s
+2014-10-28 10:50:12 --> d_records_s done fully
+2014-10-28 10:50:12 --> Phase 5: reverse lists
+2014-10-28 10:50:12 --> Phase 6: self-citations
+2014-10-28 10:50:12 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-28 10:50:12 --> Getting author citations
+2014-10-28 10:50:12 --> size of reversedict 88
+2014-10-28 10:50:12 --> size of citationdict 91
+2014-10-28 10:50:12 --> size of selfcitedbydict 10
+2014-10-28 10:50:12 --> size of selfcitdict 10
+2014-10-28 10:50:12 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-28 10:50:12 --> ... checking ref number: 0.00 sec
+2014-10-28 10:50:12 --> ... checking ref ypvt: 0.00 sec
+2014-10-28 10:50:12 --> ... checking rec number: 0.00 sec
+2014-10-28 10:50:12 --> ... checking rec ypvt: 0.00 sec
+2014-10-28 10:50:12 --> ... total time of ref_analyze: 0.00 sec
+2014-10-28 10:50:12 --> Total time of get_citation_weight(): 0.01 sec
+2014-10-28 10:50:12 --> Running rank method: citerank_citation_t
+2014-10-28 10:50:12 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:50:12 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:50:12 --> Running rank method: journal impact factor.
+2014-10-28 10:50:12 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:50:12 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:50:12 --> ......Processing records #393-394
+2014-10-28 10:50:12 --> Number of records found with the necessary tags: 0
+2014-10-28 10:50:12 --> Number of records available in rank method: 0
+2014-10-28 10:50:12 --> Running rank method: word similarity
+2014-10-28 10:50:12 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:50:12 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:50:12 --> rnkWORD01F contains 3922 words from 379 records
+2014-10-28 10:50:12 --> rnkWORD01F is in consistent state
+2014-10-28 10:50:12 --> Using the last update time for the rank method
+2014-10-28 10:50:12 --> rnkWORD01F for 393-394 is in consistent state
+2014-10-28 10:50:12 --> rnkWORD01F adding records #393-#394 started
+2014-10-28 10:50:12 --> rnkWORD01F adding records #393-#394 ended  
+2014-10-28 10:50:12 --> rnkWORD01F normal wordtable flush started
+2014-10-28 10:50:12 --> ...updating 1 words into rnkWORD01R started
+2014-10-28 10:50:12 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 10:50:12 --> 2 records took 0.0 seconds to complete.(24969 recs/min)
+2014-10-28 10:50:12 --> Estimated runtime: 0.0 minutes
+2014-10-28 10:50:12 --> Beginning post-processing of 1 terms
+2014-10-28 10:50:12 --> Phase 1: Finding records containing modified terms
+2014-10-28 10:50:12 --> Phase 1: ......processed 1/1 terms
+2014-10-28 10:50:12 --> Phase 1: Finished finding records containing modified terms
+2014-10-28 10:50:12 --> Phase 2: Finding all terms in affected records
+2014-10-28 10:50:12 --> Phase 2: ......processed 2/2 records 
+2014-10-28 10:50:12 --> Phase 2: Finished finding all terms in affected records
+2014-10-28 10:50:12 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-28 10:50:12 --> Phase 3: ......processed 1/1 terms
+2014-10-28 10:50:12 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-28 10:50:12 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 10:50:12 --> Phase 4: ......processed 2/2 records
+2014-10-28 10:50:12 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 10:50:12 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-28 10:50:12 --> Phase 5: ......processed 1/1 terms
+2014-10-28 10:50:12 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-28 10:50:12 --> Time used for post-processing: 0.0min
+2014-10-28 10:50:12 --> Finished post-processing
+2014-10-28 10:50:12 --> rnkWORD01F contains 3922 words from 381 records
+2014-10-28 10:50:12 --> rnkWORD01F is in consistent state
+2014-10-28 10:50:12 --> Task #1162 finished and resubmitted.
+2014-10-28 10:58:42 --> Task #1162 started.
+2014-10-28 10:58:42 --> Running rank method: times cited.
+2014-10-28 10:58:42 --> Last update 2014-10-28 10:50:12 records: 1 updates: 1
+2014-10-28 10:58:42 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 10:58:42 --> No need to update the indexes for citations.
+2014-10-28 10:58:42 --> Running rank method: citerank_citation_t
+2014-10-28 10:58:42 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:58:42 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:58:42 --> Running rank method: journal impact factor.
+2014-10-28 10:58:42 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:58:42 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:58:42 --> ......Processing records #395-395
+2014-10-28 10:58:42 --> Number of records found with the necessary tags: 0
+2014-10-28 10:58:42 --> Number of records available in rank method: 0
+2014-10-28 10:58:42 --> Running rank method: word similarity
+2014-10-28 10:58:42 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:58:42 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:58:42 --> rnkWORD01F contains 3922 words from 381 records
+2014-10-28 10:58:42 --> rnkWORD01F is in consistent state
+2014-10-28 10:58:42 --> Using the last update time for the rank method
+2014-10-28 10:58:42 --> rnkWORD01F for 395-395 is in consistent state
+2014-10-28 10:58:42 --> rnkWORD01F adding records #395-#395 started
+2014-10-28 10:58:42 --> rnkWORD01F adding records #395-#395 ended  
+2014-10-28 10:58:42 --> rnkWORD01F normal wordtable flush started
+2014-10-28 10:58:42 --> ...updating 0 words into rnkWORD01R started
+2014-10-28 10:58:42 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 10:58:42 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-10-28 10:58:42 --> No terms to process, ending...
+2014-10-28 10:58:42 --> rnkWORD01F contains 3922 words from 381 records
+2014-10-28 10:58:42 --> rnkWORD01F is in consistent state
+2014-10-28 10:58:42 --> Task #1162 finished and resubmitted.
+2014-10-28 10:58:44 --> Task #1162 started.
+2014-10-28 10:58:44 --> Running rank method: times cited.
+2014-10-28 10:58:45 --> Last update 2014-10-28 10:50:12 records: 1 updates: 1
+2014-10-28 10:58:45 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 10:58:45 --> No need to update the indexes for citations.
+2014-10-28 10:58:45 --> Running rank method: citerank_citation_t
+2014-10-28 10:58:45 --> Running rank method: citerank_pagerank_c
+2014-10-28 10:58:45 --> Running rank method: citerank_pagerank_t
+2014-10-28 10:58:45 --> Running rank method: journal impact factor.
+2014-10-28 10:58:45 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 10:58:45 --> Number of lines read from knowledgebase file: 5
+2014-10-28 10:58:45 --> ......Processing records #395-395
+2014-10-28 10:58:45 --> Number of records found with the necessary tags: 0
+2014-10-28 10:58:45 --> Number of records available in rank method: 0
+2014-10-28 10:58:45 --> Running rank method: word similarity
+2014-10-28 10:58:45 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:58:45 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 10:58:45 --> rnkWORD01F contains 3922 words from 381 records
+2014-10-28 10:58:45 --> rnkWORD01F is in consistent state
+2014-10-28 10:58:45 --> Using the last update time for the rank method
+2014-10-28 10:58:45 --> rnkWORD01F for 395-395 is in consistent state
+2014-10-28 10:58:45 --> rnkWORD01F adding records #395-#395 started
+2014-10-28 10:58:45 --> rnkWORD01F adding records #395-#395 ended  
+2014-10-28 10:58:45 --> rnkWORD01F normal wordtable flush started
+2014-10-28 10:58:45 --> ...updating 1 words into rnkWORD01R started
+2014-10-28 10:58:45 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 10:58:45 --> 1 records took 0.0 seconds to complete.(9801 recs/min)
+2014-10-28 10:58:45 --> Estimated runtime: 0.0 minutes
+2014-10-28 10:58:45 --> Beginning post-processing of 1 terms
+2014-10-28 10:58:45 --> Phase 1: Finding records containing modified terms
+2014-10-28 10:58:45 --> Phase 1: ......processed 1/1 terms
+2014-10-28 10:58:45 --> Phase 1: Finished finding records containing modified terms
+2014-10-28 10:58:45 --> Phase 2: Finding all terms in affected records
+2014-10-28 10:58:45 --> Phase 2: ......processed 1/1 records 
+2014-10-28 10:58:45 --> Phase 2: Finished finding all terms in affected records
+2014-10-28 10:58:45 --> Phase 3: Getting approximate importance of all affected terms
+2014-10-28 10:58:45 --> Phase 3: ......processed 1/1 terms
+2014-10-28 10:58:45 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-10-28 10:58:45 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 10:58:45 --> Phase 4: ......processed 1/1 records
+2014-10-28 10:58:45 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-10-28 10:58:45 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-10-28 10:58:45 --> Phase 5: ......processed 1/1 terms
+2014-10-28 10:58:45 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-10-28 10:58:45 --> Time used for post-processing: 0.0min
+2014-10-28 10:58:45 --> Finished post-processing
+2014-10-28 10:58:45 --> rnkWORD01F contains 3922 words from 382 records
+2014-10-28 10:58:45 --> rnkWORD01F is in consistent state
+2014-10-28 10:58:45 --> Task #1162 finished and resubmitted.
+2014-10-28 11:12:27 --> Task #1162 started.
+2014-10-28 11:12:27 --> Running rank method: times cited.
+2014-10-28 11:12:27 --> Last update 2014-10-28 10:50:12 records: 2 updates: 2
+2014-10-28 11:12:27 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 11:12:27 --> No need to update the indexes for citations.
+2014-10-28 11:12:27 --> Running rank method: citerank_citation_t
+2014-10-28 11:12:27 --> Running rank method: citerank_pagerank_c
+2014-10-28 11:12:27 --> Running rank method: citerank_pagerank_t
+2014-10-28 11:12:27 --> Running rank method: journal impact factor.
+2014-10-28 11:12:27 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 11:12:27 --> Number of lines read from knowledgebase file: 5
+2014-10-28 11:12:27 --> ......Processing records #396-396
+2014-10-28 11:12:27 --> Number of records found with the necessary tags: 0
+2014-10-28 11:12:27 --> Number of records available in rank method: 0
+2014-10-28 11:12:27 --> Running rank method: word similarity
+2014-10-28 11:12:27 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:12:27 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:12:27 --> rnkWORD01F contains 3922 words from 382 records
+2014-10-28 11:12:27 --> rnkWORD01F is in consistent state
+2014-10-28 11:12:27 --> Using the last update time for the rank method
+2014-10-28 11:12:27 --> rnkWORD01F for 396-396 is in consistent state
+2014-10-28 11:12:27 --> rnkWORD01F adding records #396-#396 started
+2014-10-28 11:12:27 --> rnkWORD01F adding records #396-#396 ended  
+2014-10-28 11:12:27 --> rnkWORD01F normal wordtable flush started
+2014-10-28 11:12:27 --> ...updating 0 words into rnkWORD01R started
+2014-10-28 11:12:27 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 11:12:27 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-10-28 11:12:27 --> No terms to process, ending...
+2014-10-28 11:12:27 --> rnkWORD01F contains 3922 words from 382 records
+2014-10-28 11:12:27 --> rnkWORD01F is in consistent state
+2014-10-28 11:12:27 --> Task #1162 finished and resubmitted.
+2014-10-28 11:12:29 --> Task #1162 started.
+2014-10-28 11:12:29 --> Running rank method: times cited.
+2014-10-28 11:12:29 --> Last update 2014-10-28 10:50:12 records: 2 updates: 2
+2014-10-28 11:12:29 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 11:12:29 --> No need to update the indexes for citations.
+2014-10-28 11:12:29 --> Running rank method: citerank_citation_t
+2014-10-28 11:12:29 --> Running rank method: citerank_pagerank_c
+2014-10-28 11:12:29 --> Running rank method: citerank_pagerank_t
+2014-10-28 11:12:29 --> Running rank method: journal impact factor.
+2014-10-28 11:12:29 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 11:12:29 --> Number of lines read from knowledgebase file: 5
+2014-10-28 11:12:29 --> ......Processing records #396-396
+2014-10-28 11:12:29 --> Number of records found with the necessary tags: 0
+2014-10-28 11:12:29 --> Number of records available in rank method: 0
+2014-10-28 11:12:29 --> Running rank method: word similarity
+2014-10-28 11:12:29 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:12:29 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:12:29 --> rnkWORD01F contains 3922 words from 382 records
+2014-10-28 11:12:29 --> rnkWORD01F is in consistent state
+2014-10-28 11:12:29 --> Using the last update time for the rank method
+2014-10-28 11:12:29 --> rnkWORD01F for 396-396 is in consistent state
+2014-10-28 11:12:29 --> rnkWORD01F adding records #396-#396 started
+2014-10-28 11:12:29 --> rnkWORD01F adding records #396-#396 ended  
+2014-10-28 11:12:29 --> rnkWORD01F normal wordtable flush started
+2014-10-28 11:12:29 --> ...updating 0 words into rnkWORD01R started
+2014-10-28 11:12:29 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 11:12:29 --> 1 records took 0.0 seconds to complete.(22934 recs/min)
+2014-10-28 11:12:29 --> Estimated runtime: 0.0 minutes
+2014-10-28 11:12:29 --> No terms to process, ending...
+2014-10-28 11:12:29 --> rnkWORD01F contains 3922 words from 383 records
+2014-10-28 11:12:29 --> rnkWORD01F is in consistent state
+2014-10-28 11:12:29 --> Task #1162 finished and resubmitted.
+2014-10-28 11:14:12 --> Task #1162 started.
+2014-10-28 11:14:12 --> Running rank method: times cited.
+2014-10-28 11:14:12 --> Last update 2014-10-28 10:50:12 records: 2 updates: 2
+2014-10-28 11:14:12 --> get cit.inf done 0 of 2
+2014-10-28 11:14:12 --> get cit.inf done fully
+2014-10-28 11:14:12 --> Execution time for generating citation info from record: 0.01 sec
+2014-10-28 11:14:12 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-28 11:14:12 --> Phase 1: d_references_report_numbers
+2014-10-28 11:14:12 --> d_references_report_numbers done fully
+2014-10-28 11:14:12 --> Phase 2: d_references_s
+2014-10-28 11:14:12 --> d_references_s done fully
+2014-10-28 11:14:12 --> Phase 3: d_reports_numbers
+2014-10-28 11:14:12 --> d_report_numbers done 0 of 2
+2014-10-28 11:14:12 --> d_report_numbers done fully
+2014-10-28 11:14:12 --> Phase 4: d_records_s
+2014-10-28 11:14:12 --> d_records_s done fully
+2014-10-28 11:14:12 --> Phase 5: reverse lists
+2014-10-28 11:14:12 --> Phase 6: self-citations
+2014-10-28 11:14:12 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-28 11:14:12 --> Getting author citations
+2014-10-28 11:14:12 --> size of reversedict 88
+2014-10-28 11:14:12 --> size of citationdict 91
+2014-10-28 11:14:12 --> size of selfcitedbydict 10
+2014-10-28 11:14:12 --> size of selfcitdict 10
+2014-10-28 11:14:12 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-28 11:14:12 --> ... checking ref number: 0.00 sec
+2014-10-28 11:14:12 --> ... checking ref ypvt: 0.00 sec
+2014-10-28 11:14:12 --> ... checking rec number: 0.00 sec
+2014-10-28 11:14:12 --> ... checking rec ypvt: 0.00 sec
+2014-10-28 11:14:12 --> ... total time of ref_analyze: 0.00 sec
+2014-10-28 11:14:12 --> Total time of get_citation_weight(): 0.01 sec
+2014-10-28 11:14:12 --> Running rank method: citerank_citation_t
+2014-10-28 11:14:12 --> Running rank method: citerank_pagerank_c
+2014-10-28 11:14:12 --> Running rank method: citerank_pagerank_t
+2014-10-28 11:14:12 --> Running rank method: journal impact factor.
+2014-10-28 11:14:12 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 11:14:12 --> Number of lines read from knowledgebase file: 5
+2014-10-28 11:14:12 --> ......Processing records #396-396
+2014-10-28 11:14:12 --> Number of records found with the necessary tags: 0
+2014-10-28 11:14:12 --> Number of records available in rank method: 0
+2014-10-28 11:14:12 --> Running rank method: word similarity
+2014-10-28 11:14:12 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:14:12 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:14:12 --> rnkWORD01F contains 3922 words from 383 records
+2014-10-28 11:14:12 --> rnkWORD01F is in consistent state
+2014-10-28 11:14:12 --> Using the last update time for the rank method
+2014-10-28 11:14:12 --> rnkWORD01F for 396-396 is in consistent state
+2014-10-28 11:14:12 --> rnkWORD01F adding records #396-#396 started
+2014-10-28 11:14:12 --> rnkWORD01F adding records #396-#396 ended  
+2014-10-28 11:14:12 --> rnkWORD01F normal wordtable flush started
+2014-10-28 11:14:12 --> ...updating 0 words into rnkWORD01R started
+2014-10-28 11:14:12 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 11:14:12 --> 1 records took 0.0 seconds to complete.(11230 recs/min)
+2014-10-28 11:14:12 --> Estimated runtime: 0.0 minutes
+2014-10-28 11:14:12 --> No terms to process, ending...
+2014-10-28 11:14:12 --> rnkWORD01F contains 3922 words from 383 records
+2014-10-28 11:14:12 --> rnkWORD01F is in consistent state
+2014-10-28 11:14:12 --> Task #1162 finished and resubmitted.
+2014-10-28 11:14:15 --> Task #1162 started.
+2014-10-28 11:14:15 --> Running rank method: times cited.
+2014-10-28 11:14:16 --> No new records added since last time method was run
+2014-10-28 11:14:16 --> No new records added since last time this rank method was executed
+2014-10-28 11:14:16 --> No need to update the indexes for citations.
+2014-10-28 11:14:16 --> Running rank method: citerank_citation_t
+2014-10-28 11:14:16 --> Running rank method: citerank_pagerank_c
+2014-10-28 11:14:16 --> Running rank method: citerank_pagerank_t
+2014-10-28 11:14:16 --> Running rank method: journal impact factor.
+2014-10-28 11:14:16 --> No new records added since last time method was run
+2014-10-28 11:14:16 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 11:14:16 --> Number of lines read from knowledgebase file: 5
+2014-10-28 11:14:16 --> Number of records available in rank method: 0
+2014-10-28 11:14:16 --> Running rank method: word similarity
+2014-10-28 11:14:16 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:14:16 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:14:16 --> rnkWORD01F contains 3922 words from 383 records
+2014-10-28 11:14:16 --> rnkWORD01F is in consistent state
+2014-10-28 11:14:16 --> Using the last update time for the rank method
+2014-10-28 11:14:16 --> No new records added. rnkWORD01F is up to date
+2014-10-28 11:14:16 --> No terms to process, ending...
+2014-10-28 11:14:16 --> rnkWORD01F contains 3922 words from 383 records
+2014-10-28 11:14:16 --> rnkWORD01F is in consistent state
+2014-10-28 11:14:16 --> Task #1162 finished and resubmitted.
+2014-10-28 11:23:51 --> Task #1162 started.
+2014-10-28 11:23:51 --> Running rank method: times cited.
+2014-10-28 11:23:52 --> Last update 2014-10-28 11:14:12 records: 1 updates: 1
+2014-10-28 11:23:52 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 11:23:52 --> No need to update the indexes for citations.
+2014-10-28 11:23:52 --> Running rank method: citerank_citation_t
+2014-10-28 11:23:52 --> Running rank method: citerank_pagerank_c
+2014-10-28 11:23:52 --> Running rank method: citerank_pagerank_t
+2014-10-28 11:23:52 --> Running rank method: journal impact factor.
+2014-10-28 11:23:52 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 11:23:52 --> Number of lines read from knowledgebase file: 5
+2014-10-28 11:23:52 --> ......Processing records #397-397
+2014-10-28 11:23:52 --> Number of records found with the necessary tags: 0
+2014-10-28 11:23:52 --> Number of records available in rank method: 0
+2014-10-28 11:23:52 --> Running rank method: word similarity
+2014-10-28 11:23:52 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:23:52 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:23:52 --> rnkWORD01F contains 3922 words from 383 records
+2014-10-28 11:23:52 --> rnkWORD01F is in consistent state
+2014-10-28 11:23:52 --> Using the last update time for the rank method
+2014-10-28 11:23:52 --> rnkWORD01F for 397-397 is in consistent state
+2014-10-28 11:23:52 --> rnkWORD01F adding records #397-#397 started
+2014-10-28 11:23:52 --> rnkWORD01F adding records #397-#397 ended  
+2014-10-28 11:23:52 --> rnkWORD01F normal wordtable flush started
+2014-10-28 11:23:52 --> ...updating 0 words into rnkWORD01R started
+2014-10-28 11:23:52 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 11:23:52 --> 0 records took 0.0 seconds to complete.(0 recs/min)
+2014-10-28 11:23:52 --> No terms to process, ending...
+2014-10-28 11:23:52 --> rnkWORD01F contains 3922 words from 383 records
+2014-10-28 11:23:52 --> rnkWORD01F is in consistent state
+2014-10-28 11:23:52 --> Task #1162 finished and resubmitted.
+2014-10-28 11:23:53 --> Task #1162 started.
+2014-10-28 11:23:53 --> Running rank method: times cited.
+2014-10-28 11:23:53 --> Last update 2014-10-28 11:14:12 records: 1 updates: 1
+2014-10-28 11:23:53 --> Not running citation indexer since journal/reportnumber indexes are not up to date yet.
+2014-10-28 11:23:53 --> No need to update the indexes for citations.
+2014-10-28 11:23:53 --> Running rank method: citerank_citation_t
+2014-10-28 11:23:53 --> Running rank method: citerank_pagerank_c
+2014-10-28 11:23:53 --> Running rank method: citerank_pagerank_t
+2014-10-28 11:23:53 --> Running rank method: journal impact factor.
+2014-10-28 11:23:53 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 11:23:53 --> Number of lines read from knowledgebase file: 5
+2014-10-28 11:23:53 --> ......Processing records #397-397
+2014-10-28 11:23:53 --> Number of records found with the necessary tags: 0
+2014-10-28 11:23:53 --> Number of records available in rank method: 0
+2014-10-28 11:23:53 --> Running rank method: word similarity
+2014-10-28 11:23:53 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:23:53 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:23:53 --> rnkWORD01F contains 3922 words from 383 records
+2014-10-28 11:23:53 --> rnkWORD01F is in consistent state
+2014-10-28 11:23:53 --> Using the last update time for the rank method
+2014-10-28 11:23:53 --> rnkWORD01F for 397-397 is in consistent state
+2014-10-28 11:23:53 --> rnkWORD01F adding records #397-#397 started
+2014-10-28 11:23:53 --> rnkWORD01F adding records #397-#397 ended  
+2014-10-28 11:23:53 --> rnkWORD01F normal wordtable flush started
+2014-10-28 11:23:53 --> ...updating 0 words into rnkWORD01R started
+2014-10-28 11:23:53 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 11:23:53 --> 1 records took 0.0 seconds to complete.(4211 recs/min)
+2014-10-28 11:23:53 --> Estimated runtime: 0.0 minutes
+2014-10-28 11:23:53 --> No terms to process, ending...
+2014-10-28 11:23:53 --> rnkWORD01F contains 3922 words from 384 records
+2014-10-28 11:23:53 --> rnkWORD01F is in consistent state
+2014-10-28 11:23:53 --> Task #1162 finished and resubmitted.
+2014-10-28 11:40:56 --> Task #1162 started.
+2014-10-28 11:40:56 --> Running rank method: times cited.
+2014-10-28 11:40:56 --> Last update 2014-10-28 11:14:12 records: 1 updates: 1
+2014-10-28 11:40:56 --> get cit.inf done 0 of 1
+2014-10-28 11:40:56 --> get cit.inf done fully
+2014-10-28 11:40:56 --> Execution time for generating citation info from record: 0.01 sec
+2014-10-28 11:40:56 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-10-28 11:40:56 --> Phase 1: d_references_report_numbers
+2014-10-28 11:40:56 --> d_references_report_numbers done fully
+2014-10-28 11:40:56 --> Phase 2: d_references_s
+2014-10-28 11:40:56 --> d_references_s done fully
+2014-10-28 11:40:56 --> Phase 3: d_reports_numbers
+2014-10-28 11:40:56 --> d_report_numbers done 0 of 1
+2014-10-28 11:40:56 --> d_report_numbers done fully
+2014-10-28 11:40:56 --> Phase 4: d_records_s
+2014-10-28 11:40:56 --> d_records_s done fully
+2014-10-28 11:40:56 --> Phase 5: reverse lists
+2014-10-28 11:40:56 --> Phase 6: self-citations
+2014-10-28 11:40:56 --> Self cite processing disabled. Use -A option to enable it.
+2014-10-28 11:40:56 --> Getting author citations
+2014-10-28 11:40:56 --> size of reversedict 88
+2014-10-28 11:40:56 --> size of citationdict 91
+2014-10-28 11:40:56 --> size of selfcitedbydict 10
+2014-10-28 11:40:56 --> size of selfcitdict 10
+2014-10-28 11:40:56 --> Execution time for analyzing the citation information generating the dictionary:
+2014-10-28 11:40:56 --> ... checking ref number: 0.00 sec
+2014-10-28 11:40:56 --> ... checking ref ypvt: 0.00 sec
+2014-10-28 11:40:56 --> ... checking rec number: 0.00 sec
+2014-10-28 11:40:56 --> ... checking rec ypvt: 0.01 sec
+2014-10-28 11:40:56 --> ... total time of ref_analyze: 0.01 sec
+2014-10-28 11:40:56 --> Total time of get_citation_weight(): 0.02 sec
+2014-10-28 11:40:56 --> Running rank method: citerank_citation_t
+2014-10-28 11:40:56 --> Running rank method: citerank_pagerank_c
+2014-10-28 11:40:56 --> Running rank method: citerank_pagerank_t
+2014-10-28 11:40:56 --> Running rank method: journal impact factor.
+2014-10-28 11:40:56 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 11:40:56 --> Number of lines read from knowledgebase file: 5
+2014-10-28 11:40:56 --> ......Processing records #397-397
+2014-10-28 11:40:56 --> Number of records found with the necessary tags: 0
+2014-10-28 11:40:56 --> Number of records available in rank method: 0
+2014-10-28 11:40:56 --> Running rank method: word similarity
+2014-10-28 11:40:56 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:40:56 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 11:40:56 --> rnkWORD01F contains 3922 words from 384 records
+2014-10-28 11:40:56 --> rnkWORD01F is in consistent state
+2014-10-28 11:40:56 --> Using the last update time for the rank method
+2014-10-28 11:40:56 --> rnkWORD01F for 397-397 is in consistent state
+2014-10-28 11:40:56 --> rnkWORD01F adding records #397-#397 started
+2014-10-28 11:40:56 --> rnkWORD01F adding records #397-#397 ended  
+2014-10-28 11:40:56 --> rnkWORD01F normal wordtable flush started
+2014-10-28 11:40:56 --> ...updating 0 words into rnkWORD01R started
+2014-10-28 11:40:56 --> rnkWORD01F normal wordtable flush ended
+2014-10-28 11:40:56 --> 1 records took 0.0 seconds to complete.(4247 recs/min)
+2014-10-28 11:40:56 --> Estimated runtime: 0.0 minutes
+2014-10-28 11:40:56 --> No terms to process, ending...
+2014-10-28 11:40:56 --> rnkWORD01F contains 3922 words from 384 records
+2014-10-28 11:40:56 --> rnkWORD01F is in consistent state
+2014-10-28 11:40:56 --> Task #1162 finished and resubmitted.
+2014-10-28 12:19:37 --> Task #1162 started.
+2014-10-28 12:19:37 --> Running rank method: times cited.
+2014-10-28 12:19:37 --> No new records added since last time method was run
+2014-10-28 12:19:37 --> No new records added since last time this rank method was executed
+2014-10-28 12:19:37 --> No need to update the indexes for citations.
+2014-10-28 12:19:37 --> Running rank method: citerank_citation_t
+2014-10-28 12:19:37 --> Running rank method: citerank_pagerank_c
+2014-10-28 12:19:37 --> Running rank method: citerank_pagerank_t
+2014-10-28 12:19:37 --> Running rank method: journal impact factor.
+2014-10-28 12:19:37 --> No new records added since last time method was run
+2014-10-28 12:19:37 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-10-28 12:19:37 --> Number of lines read from knowledgebase file: 5
+2014-10-28 12:19:37 --> Number of records available in rank method: 0
+2014-10-28 12:19:37 --> Running rank method: word similarity
+2014-10-28 12:19:37 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 12:19:37 --> Warning: Stemming not available for language 'fr'.
+2014-10-28 12:19:37 --> rnkWORD01F contains 3922 words from 384 records
+2014-10-28 12:19:37 --> rnkWORD01F is in consistent state
+2014-10-28 12:19:37 --> Using the last update time for the rank method
+2014-10-28 12:19:37 --> No new records added. rnkWORD01F is up to date
+2014-10-28 12:19:37 --> No terms to process, ending...
+2014-10-28 12:19:37 --> rnkWORD01F contains 3922 words from 384 records
+2014-10-28 12:19:37 --> rnkWORD01F is in consistent state
+2014-10-28 12:19:37 --> Task #1162 finished and resubmitted.
+2014-11-02 15:10:43 --> Task #1162 started.
+2014-11-02 15:10:43 --> Starting tasklet "bst_send_email" (with arguments {'fromaddr': "IHEP's Document Server Submission Engine <info@invenio-software.org>", 'attempt_sleeptime': '10', 'content': "The document BES-PICTURE-HIST-2014-004\nTitle: \xe5\x95\x8a\xe6\x89\x93\xe7\xae\x97\xe6\x89\x93\xe7\xae\x97\nAuthor(s): -\n\nhas been correctly received\n\nIt will be soon added to our Document Server.\n\nOnce inserted, you will be able to check the  bibliographic information and the quality of the electronic documents at this URL:\n<http://192.168.16.26/record/382>\nIf you detect an error please let us know by sending an email to info@invenio-software.org. \n\nNote that your submission as been inserted into the bibliographic task queue and is waiting for execution.\nBecause of a human intervention or a temporary problem, the task queue is currently set to the manual mode. Your submission is well registered but may take longer than usual before it is fully integrated and searchable.\nThank you for using IHEP's Document Server Submission Interface.\n", 'toaddr': 'wangli320@ihep.ac.cn', 'replytoaddr': '', 'copy_to_admin': '0', 'attempt_times': '1', 'subject': 'BES-PICTURE-HIST-2014-004: Document Received'})
+2014-11-02 15:10:43 --> Finished tasklet "bst_send_email" (with arguments {'fromaddr': "IHEP's Document Server Submission Engine <info@invenio-software.org>", 'attempt_sleeptime': '10', 'content': "The document BES-PICTURE-HIST-2014-004\nTitle: \xe5\x95\x8a\xe6\x89\x93\xe7\xae\x97\xe6\x89\x93\xe7\xae\x97\nAuthor(s): -\n\nhas been correctly received\n\nIt will be soon added to our Document Server.\n\nOnce inserted, you will be able to check the  bibliographic information and the quality of the electronic documents at this URL:\n<http://192.168.16.26/record/382>\nIf you detect an error please let us know by sending an email to info@invenio-software.org. \n\nNote that your submission as been inserted into the bibliographic task queue and is waiting for execution.\nBecause of a human intervention or a temporary problem, the task queue is currently set to the manual mode. Your submission is well registered but may take longer than usual before it is fully integrated and searchable.\nThank you for using IHEP's Document Server Submission Interface.\n", 'toaddr': 'wangli320@ihep.ac.cn', 'replytoaddr': '', 'copy_to_admin': '0', 'attempt_times': '1', 'subject': 'BES-PICTURE-HIST-2014-004: Document Received'})
+2014-11-02 15:10:43 --> Task #1162 finished. [DONE]
+2014-12-12 15:42:14 --> Task #1162 started.
+2014-12-12 15:42:14 --> Input file '/opt/invenio/var/tmp/BEPCII-PICTURE-HIST-2014-002_2014-12-12_15:39:05qyoUq3', input mode 'replace_or_insert'.
+2014-12-12 15:42:14 --> Error: Cannot parse MARCXML file.
+2014-12-12 15:42:14 --> Exiting.
+2014-12-12 15:42:14 --> Task #1162 finished. [ERROR]

@@ -1,0 +1,6 @@
+[Fri Sep 26 10:45:07 2014] [error] [client 127.0.0.1] File does not exist: /opt/invenio/var/www/favicon.ico
+[Fri Sep 26 10:45:07 2014] [error] [client 127.0.0.1] File does not exist: /opt/invenio/var/www/favicon.ico
+[Sun Oct 12 19:46:36 2014] [error] [client 202.122.39.77] Daemon process called 'invenio' cannot be accessed by this WSGI application: /opt/invenio/var/www-wsgi/invenio.wsgi
+[Sun Oct 12 19:46:37 2014] [error] [client 202.122.39.77] File does not exist: /opt/invenio/var/www/favicon.ico
+[Thu Oct 16 21:22:04 2014] [error] [client 202.122.39.77] Daemon process called 'invenio' cannot be accessed by this WSGI application: /opt/invenio/var/www-wsgi/invenio.wsgi
+[Thu Oct 16 21:22:05 2014] [error] [client 202.122.39.77] File does not exist: /opt/invenio/var/www/favicon.ico

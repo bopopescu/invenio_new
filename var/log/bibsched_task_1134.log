@@ -1,0 +1,10 @@
+2014-10-11 16:17:35 --> Task #1134 started.
+2014-10-11 16:17:35 --> Input file '/opt/invenio/var/tmp/IHEP-PICTURE-EXP-2014-003_2014-10-11_15:55:466SRVam', input mode 'replace_or_insert'.
+2014-10-11 16:17:35 --> Error: Cannot parse MARCXML file.
+2014-10-11 16:17:35 --> Exiting.
+2014-10-11 16:17:35 --> Task #1134 finished. [ERROR]
+2014-10-31 09:10:49 --> Task #1134 started.
+2014-10-31 09:10:49 --> Input file '/opt/invenio/var/tmp-shared/bibdocfile_2014-10-30_15:05:035789QV.xml', input mode 'correct'.
+2014-10-31 09:10:49 --> Record 374 DONE
+2014-10-31 09:10:49 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.21 sec.
+2014-10-31 09:10:49 --> Task #1134 finished. [DONE]

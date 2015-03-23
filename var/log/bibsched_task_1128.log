@@ -1,0 +1,20 @@
+2014-10-10 17:40:14 --> Task #1128 started.
+2014-10-10 17:40:14 --> bibsort starting..
+2014-10-10 17:40:14 --> Updating sorting data.
+2014-10-10 17:40:14 --> Running rebalancing for methods: ['most cited']
+2014-10-10 17:40:14 --> Rebalancing will run only for RNK methods
+2014-10-10 17:40:14 --> Starting sorting the data for MOST CITED method ... 
+2014-10-10 17:40:14 --> Done.
+2014-10-10 17:40:14 --> bibsort exiting..
+2014-10-10 17:40:14 --> Task #1128 finished and resubmitted.
+2014-10-10 17:45:44 --> Task #1128 started.
+2014-10-10 17:45:44 --> bibsort starting..
+2014-10-10 17:45:44 --> Updating sorting data.
+2014-10-10 17:45:44 --> The method most cited has not been updated since the last run of bibsort.
+2014-10-10 17:45:45 --> bibsort exiting..
+2014-10-10 17:45:45 --> Task #1128 finished and resubmitted.
+2014-10-29 14:56:07 --> Task #1128 started.
+2014-10-29 14:56:07 --> Input file '/opt/invenio/var/tmp/IHEP-PICTURE-EXP-2014-027_2014-10-29_14:56:02KBvm8c', input mode 'replace_or_insert'.
+2014-10-29 14:56:07 --> Record 375 DONE
+2014-10-29 14:56:07 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.70 sec.
+2014-10-29 14:56:07 --> Task #1128 finished. [DONE]

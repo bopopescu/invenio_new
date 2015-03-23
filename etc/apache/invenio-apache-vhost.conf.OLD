@@ -1,0 +1,65 @@
+AddDefaultCharset UTF-8
+ServerSignature Off
+ServerTokens Prod
+NameVirtualHost *:80
+#Listen 80
+#WSGISocketPrefix /opt/invenio/var/run
+WSGIRestrictStdout Off
+<Files *.pyc>
+   deny from all
+</Files>
+<Files *~>
+   deny from all
+</Files>
+<VirtualHost *:80>
+        ServerName invenio.ihep.ac.cn
+        ServerAlias invenio
+        ServerAdmin info@invenio-software.org
+        DocumentRoot /opt/invenio/var/www
+        <Directory /opt/invenio/var/www>
+           Options FollowSymLinks MultiViews
+           AllowOverride None
+           Order allow,deny
+           Allow from all
+        </Directory>
+        ErrorLog /opt/invenio/var/log/apache.err
+        LogLevel warn
+        LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\" %D" combined_with_timing
+        CustomLog /opt/invenio/var/log/apache.log combined_with_timing
+        DirectoryIndex index.en.html index.html
+        Alias /static/ /opt/invenio/var/www/static/
+        Alias /img/ /opt/invenio/var/www/img/
+        Alias /js/ /opt/invenio/var/www/js/
+        Alias /flash/ /opt/invenio/var/www/flash/
+        Alias /css/ /opt/invenio/var/www/css/
+        Alias /export/ /opt/invenio/var/www/export/
+        Alias /MathJax/ /opt/invenio/var/www/MathJax/
+        Alias /jsCalendar/ /opt/invenio/var/www/jsCalendar/
+        Alias /ckeditor/ /opt/invenio/var/www/ckeditor/
+        Alias /mediaelement/ /opt/invenio/var/www/mediaelement/
+        AliasMatch /sitemap-(.*) /opt/invenio/var/www/sitemap-$1
+        Alias /robots.txt /opt/invenio/var/www/robots.txt
+        Alias /favicon.ico /opt/invenio/var/www/favicon.ico
+        WSGIDaemonProcess invenio processes=5 threads=1 display-name=%{GROUP} inactivity-timeout=3600 maximum-requests=10000
+        WSGIImportScript /opt/invenio/var/www-wsgi/invenio.wsgi process-group=invenio application-group=%{GLOBAL}
+        WSGIScriptAlias / /opt/invenio/var/www-wsgi/invenio.wsgi
+        WSGIPassAuthorization On
+        #XSendFile On
+        #XSendFilePath /opt/invenio/var/data/files
+        #XSendFilePath /opt/invenio/var/www
+        #XSendFilePath /opt/invenio/var/data/submit/storage
+        #XSendFilePath /opt/invenio/var/tmp
+        #XSendFilePath /opt/invenio/var/tmp/attachfile
+        #XSendFilePath /opt/invenio/var/data/comments
+        #XSendFilePath /opt/invenio/var/data/baskets/comments
+        #XSendFilePath /tmp
+        <Directory /opt/invenio/var/www-wsgi>
+           WSGIProcessGroup invenio
+           WSGIApplicationGroup %{GLOBAL}
+           Options FollowSymLinks MultiViews
+           AllowOverride None
+           Order allow,deny
+           Allow from all
+        </Directory>
+        
+</VirtualHost>

@@ -1,0 +1,10 @@
+2014-10-27 16:06:24 --> Task #1169 started.
+2014-10-27 16:06:24 --> Input file '/opt/invenio/var/tmp-shared/bibdocfile_2014-10-27_16:06:19hD_mxj.xml', input mode 'correct'.
+2014-10-27 16:06:24 --> Record 386 DONE
+2014-10-27 16:06:24 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.89 sec.
+2014-10-27 16:06:24 --> Task #1169 finished. [DONE]
+2015-03-23 13:03:40 --> Task #1169 started.
+2015-03-23 13:03:40 --> Input file '/opt/invenio/var/tmp-shared/bibdocfile_2015-03-23_13:03:32cGBgsf.xml', input mode 'correct'.
+2015-03-23 13:03:40 --> Record 386 DONE
+2015-03-23 13:03:40 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.12 sec.
+2015-03-23 13:03:40 --> Task #1169 finished. [DONE]

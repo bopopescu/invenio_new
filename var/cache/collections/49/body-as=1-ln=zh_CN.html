@@ -1,0 +1,393 @@
+
+                <form name="search" action="http://192.168.16.26/search" method="get">
+                
+        <!--create_searchfor_advanced()-->
+        <input type="hidden" name="ln" value="zh_CN" /><input type="hidden" name="cc" value="BEPC Pictures" /><input type="hidden" name="sc" value="1" /><input type="hidden" name="as" value="1" />
+        <table class="searchbox advancedsearch">
+         <thead>
+          <tr>
+           <th class="searchboxheader" colspan="3">搜寻 13 笔记录:</th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr valign="bottom">
+            <td class="searchboxbody" style="white-space: nowrap;">
+                
+        <select name="m1">
+        <option value="a">包含以下全部的字词：</option>
+        <option value="o">包含以下任何一个字词：</option>
+        <option value="e">包含以下的完整字句：</option>
+        <option value="p">包含以下的部分字句</option>
+        <option value="r">正则表达式：</option>
+        </select>
+        <input type="text" name="p1" size="30" value="" class="advancedsearchfield"/>
+            </td>
+            <td class="searchboxbody" style="white-space: nowrap;"><select name="f1"><option value="" selected="selected">任何字段</option><option value="title">标题</option><option value="author">作者</option><option value="abstract">摘要</option><option value="keyword">关键词</option><option value="reportnumber">报告编号</option></select></td>
+            <td class="searchboxbody">
+        <select name="op1">
+        <option value="a">AND</option>
+        <option value="o">OR</option>
+        <option value="n">AND NOT</option>
+        </select>
+        </td>
+          </tr>
+          <tr valign="bottom">
+            <td class="searchboxbody" style="white-space: nowrap;">
+                
+        <select name="m2">
+        <option value="a">包含以下全部的字词：</option>
+        <option value="o">包含以下任何一个字词：</option>
+        <option value="e">包含以下的完整字句：</option>
+        <option value="p">包含以下的部分字句</option>
+        <option value="r">正则表达式：</option>
+        </select>
+        <input type="text" name="p2" size="30" value="" class="advancedsearchfield"/>
+            </td>
+            <td class="searchboxbody"><select name="f2"><option value="" selected="selected">任何字段</option><option value="title">标题</option><option value="author">作者</option><option value="abstract">摘要</option><option value="keyword">关键词</option><option value="reportnumber">报告编号</option></select></td>
+            <td class="searchboxbody">
+        <select name="op2">
+        <option value="a">AND</option>
+        <option value="o">OR</option>
+        <option value="n">AND NOT</option>
+        </select>
+        </td>
+          </tr>
+          <tr valign="bottom">
+            <td class="searchboxbody" style="white-space: nowrap;">
+                
+        <select name="m3">
+        <option value="a">包含以下全部的字词：</option>
+        <option value="o">包含以下任何一个字词：</option>
+        <option value="e">包含以下的完整字句：</option>
+        <option value="p">包含以下的部分字句</option>
+        <option value="r">正则表达式：</option>
+        </select>
+        <input type="text" name="p3" size="30" value="" class="advancedsearchfield"/>
+            </td>
+            <td class="searchboxbody"><select name="f3"><option value="" selected="selected">任何字段</option><option value="title">标题</option><option value="author">作者</option><option value="abstract">摘要</option><option value="keyword">关键词</option><option value="reportnumber">报告编号</option></select></td>
+            <td class="searchboxbody" style="white-space: nowrap;">
+              <input class="formbutton" type="submit" name="action_search" value="搜寻" />
+              <input class="formbutton" type="submit" name="action_browse" value="浏览" /></td>
+          </tr>
+          <tr valign="bottom">
+            <td colspan="3" class="searchboxbody" align="right">
+              <small>
+                <a href="http://192.168.16.26/help/search-tips">搜索帮助</a> ::
+                <a href="http://192.168.16.26/collection/BEPC%20Pictures?ln=zh_CN">初级检索</a>
+              </small>
+            </td>
+          </tr>
+         </tbody>
+        </table>
+        <!-- @todo - more imports -->
+        <table class="searchbox">
+                   <thead>
+                    <tr>
+                      <th class="searchboxheader">
+                        记录日期开始于：
+                      </th>
+                      <th class="searchboxheader">
+                        直至：
+                      </th>
+                    </tr>
+                   </thead>
+                   <tbody>
+                    <tr valign="bottom">
+                      <td class="searchboxbody"><select name="dt">
+                  <option value="">记录日期直至： </option>
+                  <option value="m">修改日期直至： </option>
+                 </select>
+               
+               <select name="d1d">
+                 <option value="" selected="selected">任何日子</option>
+              <option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                <select name="d1m">
+                  <option value="" selected="selected">任何月份</option>
+               <option value="01">一月</option><option value="02">二月</option><option value="03">三月</option><option value="04">四月</option><option value="05">五月</option><option value="06">六月</option><option value="07">七月</option><option value="08">八月</option><option value="09">九月</option><option value="10">十月</option><option value="11">十一月</option><option value="12">十二月</option></select>
+                <select name="d1y">
+                  <option value="" selected="selected">任何年份</option>
+               <option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option></select></td>
+                      <td class="searchboxbody">
+               <select name="d2d">
+                 <option value="" selected="selected">任何日子</option>
+              <option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                <select name="d2m">
+                  <option value="" selected="selected">任何月份</option>
+               <option value="01">一月</option><option value="02">二月</option><option value="03">三月</option><option value="04">四月</option><option value="05">五月</option><option value="06">六月</option><option value="07">七月</option><option value="08">八月</option><option value="09">九月</option><option value="10">十月</option><option value="11">十一月</option><option value="12">十二月</option></select>
+                <select name="d2y">
+                  <option value="" selected="selected">任何年份</option>
+               <option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option></select></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table class="searchbox">
+                   <thead>
+                    <tr>
+                      <th class="searchboxheader">
+                        排序
+                      </th>
+                      <th class="searchboxheader">
+                        结果显示
+                      </th>
+                      <th class="searchboxheader">
+                        输出格式：
+                      </th>
+                    </tr>
+                   </thead>
+                   <tbody>
+                    <tr valign="bottom">
+                      <td class="searchboxbody"><select name="sf" class="address"><option value="">- 时间 -</option><option value="title">标题</option><option value="author">作者</option><option value="reportnumber">报告编号</option><option value="year">年份</option></select><select name="so" class="address"><option value="a">顺序排列。</option><option value="d">降序排列。</option></select> <select name="rm" class="address"><option value="">- or 排列 -</option><option value="wrd">相似字词</option><option value="citation">引用的次数</option></select></td>
+                      <td class="searchboxbody"><select name="rg" class="address"><option value="10">10 结果</option><option value="25">25 结果</option><option value="50">50 结果</option><option value="100">100 结果</option><option value="250">250 结果</option><option value="500">500 结果</option></select></td>
+                      <td class="searchboxbody"><select name="of" class="address"><option value="hb">HTML brief</option><option value="hp">portfolio</option><option value="hc">photo captions only</option><option value="hd">HTML detailed</option><option value="hm">MARC</option><option value="xd">Dublin Core</option><option value="xm">MARCXML</option></select></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <!--/create_searchfor_advanced()-->
+              
+                
+		<div><table class="showupdate" algin="left" style="max-width:600px;float:left;">
+		<tr valign="top"><td>
+		<table >
+		<thead>
+		<tr>
+		<th class="narrowsearchboxheader">新增：</th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+		<td><table width="600" height="800" border="0">
+<tbody><tr> <td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%952wl3.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%952wl2.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%952wl1.gif?subformat=icon-700" width="150" height="150" /></a></td></tr><tr><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AEwl3.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AEwl2.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%95%B0%E6%8D%AE%E6%B5%8B%E8%AF%95wl.gif?subformat=icon-700" width="150" height="150" /></a></td></tr><tr><td width="33%" height="150"><a href="http://192.168.16.26/record/385/?ln=zh_CN"><img src="http://192.168.16.26/record/385/files/%E7%8E%89%E7%B1%B3.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/384/?ln=zh_CN"><img src="http://192.168.16.26/record/384/files/mxzjl.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/384/?ln=zh_CN"><img src="http://192.168.16.26/record/384/files/mxwyf.gif?subformat=icon-700" width="150" height="150" /></a></td></tr><tr><td width="33%" height="150"><a href="http://192.168.16.26/record/384/?ln=zh_CN"><img src="http://192.168.16.26/record/384/files/mxhxm.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/384/?ln=zh_CN"><img src="http://192.168.16.26/record/384/files/fsxzqnghbxzzzz.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/383/?ln=zh_CN"><img src="http://192.168.16.26/record/383/files/999.gif?subformat=icon-700" width="150" height="150" /></a></td></tr><tr><td width="33%" height="150"><a href="http://192.168.16.26/record/383/?ln=zh_CN"><img src="http://192.168.16.26/record/383/files/99.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/383/?ln=zh_CN"><img src="http://192.168.16.26/record/383/files/33.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/383/?ln=zh_CN"><img src="http://192.168.16.26/record/383/files/32.gif?subformat=icon-700" width="150" height="150" /></a></td></tr></tbody></table><a style="margin-left:520px;" href="http://192.168.16.26/collection/Pictures?ln=zh_CN">更多</a></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</table>
+                <table cellspacing="0" cellpadding="0" border="0" class="narrowandfocusonsearchbox" style="max-width:400px;float:left;">
+                 
+                   <tr valign="top"><td>
+        <table class="narrowsearchbox">
+          <thead>
+            <tr>
+              <th class="narrowsearchboxheader">新增：</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+            <td class="narrowsearchboxbody"><table class="latestadditionsbox" width="1200">
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-05-20<br />11:23</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="351"></abbr>
+                    
+<strong>北京正负电子对撞机工程建设领导小组</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-019]</small> 
+
+
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/351/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%B7%A5%E7%A8%8B%E5%BB%BA%E8%AE%BE%E5%9B%9B%E4%BA%BA%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/351/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%B7%A5%E7%A8%8B%E5%BB%BA%E8%AE%BE%E5%9B%9B%E4%BA%BA%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/351/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%B7%A5%E7%A8%8B%E5%BB%BA%E8%AE%BE%E5%9B%9B%E4%BA%BA%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/351?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A351&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-05-20<br />11:15</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="350"></abbr>
+                    
+<strong>BEPC工程建设</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-018]</small> 
+
+
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/350/files/%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E5%82%A8%E5%AD%98%E7%8E%AF%E9%9A%A7%E9%81%93.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/350/files/%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E9%9A%A7%E9%81%93.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/350/files/%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E5%82%A8%E5%AD%98%E7%8E%AF%E9%9A%A7%E9%81%93.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/350/files/%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E5%82%A8%E5%AD%98%E7%8E%AF%E9%9A%A7%E9%81%93.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/350/files/%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E9%9A%A7%E9%81%93.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/350/files/%E5%BB%BA%E8%AE%BE%E4%B8%AD%E7%9A%84%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E9%9A%A7%E9%81%93.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/350?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A350&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-05-20<br />10:44</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="349"></abbr>
+                    
+<strong>北京正负电子对撞机工程动工前的石景山区八宝山东麓</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-017]</small> 
+
+
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/349/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%B7%A5%E7%A8%8B%E5%8A%A8%E5%B7%A5%E5%89%8D%E7%9A%84%E7%9F%B3%E6%99%AF%E5%B1%B1%E5%8C%BA%E5%85%AB%E5%AE%9D%E5%B1%B1%E4%B8%9C%E9%BA%93.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/349/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%B7%A5%E7%A8%8B%E5%8A%A8%E5%B7%A5%E5%89%8D%E7%9A%84%E7%9F%B3%E6%99%AF%E5%B1%B1%E5%8C%BA%E5%85%AB%E5%AE%9D%E5%B1%B1%E4%B8%9C%E9%BA%93.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/349/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%B7%A5%E7%A8%8B%E5%8A%A8%E5%B7%A5%E5%89%8D%E7%9A%84%E7%9F%B3%E6%99%AF%E5%B1%B1%E5%8C%BA%E5%85%AB%E5%AE%9D%E5%B1%B1%E4%B8%9C%E9%BA%93.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/349?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A349&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-04-19<br />16:53</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="265"></abbr>
+                    
+<strong>北京谱仪</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-016]</small> 
+
+
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/265/files/%E9%93%BA%E4%BB%AA%E7%94%B5%E5%AD%90%E5%AD%A6%E6%8E%A7%E5%88%B6%E5%AE%A4_2.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/265/files/%E9%93%BA%E4%BB%AA%E7%94%B5%E5%AD%90%E5%AD%A6%E6%8E%A7%E5%88%B6%E5%AE%A4_2.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/265/files/%E5%8C%97%E4%BA%AC%E8%B0%B1%E4%BB%AABES.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/265/files/%E5%8C%97%E4%BA%AC%E8%B0%B1%E4%BB%AABES.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/265/files/%E5%8C%97%E4%BA%AC%E8%B0%B1%E4%BB%AABES.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/265/files/%E9%93%BA%E4%BB%AA%E7%94%B5%E5%AD%90%E5%AD%A6%E6%8E%A7%E5%88%B6%E5%AE%A4_2.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/265?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A265&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-04-19<br />16:52</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="264"></abbr>
+                    
+<strong>BEPC储存环</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-015]</small> 
+
+<br /><small>北京正负电子对撞机储存环</small>
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E4%B8%AD%E5%A4%AE%E6%8E%A7%E5%88%B6%E5%AE%A4_2.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E4%B8%AD%E5%A4%AE%E6%8E%A7%E5%88%B6%E5%AE%A4_2.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E5%82%A8%E5%AD%98%E7%8E%AF%E5%88%86%E5%8F%89%E6%AE%B5.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E5%82%A8%E5%AD%98%E7%8E%AF%E5%88%86%E5%8F%89%E6%AE%B5.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E5%82%A8%E5%AD%98%E7%8E%AF%E5%88%86%E5%8F%89%E6%AE%B5.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%82%A8%E5%AD%98%E7%8E%AF.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E4%B8%AD%E5%A4%AE%E6%8E%A7%E5%88%B6%E5%AE%A4_2.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%82%A8%E5%AD%98%E7%8E%AF.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/264/files/%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%82%A8%E5%AD%98%E7%8E%AF.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/264?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A264&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-04-19<br />16:50</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="263"></abbr>
+                    
+<strong>BEPC电子直线加速器</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-014]</small> 
+
+
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/%E7%9B%B4%E7%BA%BF%E6%8E%A7%E5%88%B6%E5%AE%A4%20_2.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/BEPC%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/BEPC%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/BEPC%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E9%80%9F%E8%B0%83%E7%AE%A1%E9%95%BF%E5%BB%8A.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E9%80%9F%E8%B0%83%E7%AE%A1%E9%95%BF%E5%BB%8A.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E9%80%9F%E8%B0%83%E7%AE%A1%E9%95%BF%E5%BB%8A.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/%E7%9B%B4%E7%BA%BF%E6%8E%A7%E5%88%B6%E5%AE%A4%20_2.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/263/files/%E7%9B%B4%E7%BA%BF%E6%8E%A7%E5%88%B6%E5%AE%A4%20_2.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/263?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A263&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-04-19<br />11:21</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="262"></abbr>
+                    
+<strong>我国自主研制的第一台高频腔</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-013]</small> 
+
+<br /><small>安装在北京正负电子对撞机隧道内的高频腔（左）和SPS腔。这是我国自主研制的第一台高频腔。</small>
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/262/files/%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E9%9A%A7%E9%81%93%E5%86%85%E7%9A%84%E9%AB%98%E9%A2%91%E8%85%94%EF%BC%88%E5%B7%A6%EF%BC%89%E5%92%8CSPS%E8%85%94%E3%80%82%E8%BF%99%E6%98%AF%E6%88%91%E5%9B%BD%E8%87%AA%E4%B8%BB%E7%A0%94%E5%88%B6%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%B0%E9%AB%98%E9%A2%91%E8%85%94.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/262/files/%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E9%9A%A7%E9%81%93%E5%86%85%E7%9A%84%E9%AB%98%E9%A2%91%E8%85%94%EF%BC%88%E5%B7%A6%EF%BC%89%E5%92%8CSPS%E8%85%94%E3%80%82%E8%BF%99%E6%98%AF%E6%88%91%E5%9B%BD%E8%87%AA%E4%B8%BB%E7%A0%94%E5%88%B6%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%B0%E9%AB%98%E9%A2%91%E8%85%94.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/262/files/%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E9%9A%A7%E9%81%93%E5%86%85%E7%9A%84%E9%AB%98%E9%A2%91%E8%85%94%EF%BC%88%E5%B7%A6%EF%BC%89%E5%92%8CSPS%E8%85%94%E3%80%82%E8%BF%99%E6%98%AF%E6%88%91%E5%9B%BD%E8%87%AA%E4%B8%BB%E7%A0%94%E5%88%B6%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%B0%E9%AB%98%E9%A2%91%E8%85%94.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/262?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A262&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-04-19<br />11:14</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="261"></abbr>
+                    
+<strong>1986年8月，谢家麟为高能所研制的对撞机上第一块聚焦磁铁钉上标牌</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-012]</small> 
+
+<br /><small>1986年8月，谢家麟为高能所研制的对撞机上第一块聚焦磁铁钉上标牌</small>
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/261/files/1986%E5%B9%B48%E6%9C%88%EF%BC%8C%E4%B8%BA%E9%AB%98%E8%83%BD%E6%89%80%E7%A0%94%E5%88%B6%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%9D%97%E8%81%9A%E7%84%A6%E7%A3%81%E9%93%81%E9%92%89%E4%B8%8A%E6%A0%87%E7%89%8C.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/261/files/1986%E5%B9%B48%E6%9C%88%EF%BC%8C%E4%B8%BA%E9%AB%98%E8%83%BD%E6%89%80%E7%A0%94%E5%88%B6%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%9D%97%E8%81%9A%E7%84%A6%E7%A3%81%E9%93%81%E9%92%89%E4%B8%8A%E6%A0%87%E7%89%8C.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/261/files/1986%E5%B9%B48%E6%9C%88%EF%BC%8C%E4%B8%BA%E9%AB%98%E8%83%BD%E6%89%80%E7%A0%94%E5%88%B6%E7%9A%84%E5%AF%B9%E6%92%9E%E6%9C%BA%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%9D%97%E8%81%9A%E7%84%A6%E7%A3%81%E9%93%81%E9%92%89%E4%B8%8A%E6%A0%87%E7%89%8C.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/261?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A261&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-04-19<br />11:08</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="260"></abbr>
+                    
+<strong>1986年5月6日，安装北京正负电子对撞机的第一根加速管</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-011]</small> 
+
+<br /><small>1986年5月6日，安装北京正负电子对撞机的第一根加速管</small>
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/%E5%B7%A5%E4%BA%BA%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BB%94%E7%BB%86%E5%AE%89%E8%A3%85%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E7%AC%AC%E4%B8%80%E8%8A%82%E5%8A%A0%E9%80%9F%E7%AE%A1.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E8%BF%90%E5%BE%80%E5%AE%89%E8%A3%85%E7%8E%B0%E5%9C%BA.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/1986%E5%B9%B45%E6%9C%886%E6%97%A5%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E5%AE%89%E8%A3%85%E5%89%8D%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%80%BB%E7%BB%8F%E7%90%86%E6%96%B9%E5%AE%88%E8%B4%A4%E5%8A%A8%E5%91%98-2.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/1986%E5%B9%B45%E6%9C%886%E6%97%A5%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E5%AE%89%E8%A3%85%E5%89%8D%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%80%BB%E7%BB%8F%E7%90%86%E6%96%B9%E5%AE%88%E8%B4%A4%E5%8A%A8%E5%91%98.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/%E5%B7%A5%E4%BA%BA%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BB%94%E7%BB%86%E5%AE%89%E8%A3%85%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E7%AC%AC%E4%B8%80%E8%8A%82%E5%8A%A0%E9%80%9F%E7%AE%A1.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/%E5%B7%A5%E4%BA%BA%E4%BB%AC%E6%AD%A3%E5%9C%A8%E4%BB%94%E7%BB%86%E5%AE%89%E8%A3%85%E7%94%B5%E5%AD%90%E7%9B%B4%E7%BA%BF%E5%8A%A0%E9%80%9F%E5%99%A8%E7%AC%AC%E4%B8%80%E8%8A%82%E5%8A%A0%E9%80%9F%E7%AE%A1.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E8%BF%90%E5%BE%80%E5%AE%89%E8%A3%85%E7%8E%B0%E5%9C%BA.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E8%BF%90%E5%BE%80%E5%AE%89%E8%A3%85%E7%8E%B0%E5%9C%BA.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/1986%E5%B9%B45%E6%9C%886%E6%97%A5%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E5%AE%89%E8%A3%85%E5%89%8D%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%80%BB%E7%BB%8F%E7%90%86%E6%96%B9%E5%AE%88%E8%B4%A4%E5%8A%A8%E5%91%98-2.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/1986%E5%B9%B45%E6%9C%886%E6%97%A5%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E5%AE%89%E8%A3%85%E5%89%8D%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%80%BB%E7%BB%8F%E7%90%86%E6%96%B9%E5%AE%88%E8%B4%A4%E5%8A%A8%E5%91%98-2.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/1986%E5%B9%B45%E6%9C%886%E6%97%A5%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E5%AE%89%E8%A3%85%E5%89%8D%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%80%BB%E7%BB%8F%E7%90%86%E6%96%B9%E5%AE%88%E8%B4%A4%E5%8A%A8%E5%91%98.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/260/files/1986%E5%B9%B45%E6%9C%886%E6%97%A5%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%A0%B9%E5%8A%A0%E9%80%9F%E7%AE%A1%E5%AE%89%E8%A3%85%E5%89%8D%EF%BC%8C%E5%B7%A5%E7%A8%8B%E6%80%BB%E7%BB%8F%E7%90%86%E6%96%B9%E5%AE%88%E8%B4%A4%E5%8A%A8%E5%91%98.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/260?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A260&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-04-19<br />09:56</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="259"></abbr>
+                    
+<strong>1986年5月，高能所召开北京正负电子对撞机设备安装动员大会。</strong>
+
+
+
+
+<small class="quicknote"> [BEPC-PICTURE-HIST-2013-010]</small> 
+
+<br /><small>1986年5月，全国各有关单位研制生产的设备完成后，北京正负电子对撞机安装在即，工程设备安装动员大会在工程现场召开。</small>
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8C%E5%85%A8%E5%9B%BD%E5%90%84%E6%9C%89%E5%85%B3%E5%8D%95%E4%BD%8D%E7%A0%94%E5%88%B6%E7%94%9F%E4%BA%A7%E7%9A%84%E8%AE%BE%E5%A4%87%E5%AE%8C%E6%88%90%E5%90%8E%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8D%B3%EF%BC%8C%E5%B7%A5%E7%A8%8B%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%B7%A5%E7%A8%8B%E7%8E%B0%E5%9C%BA%E5%8F%AC%E5%BC%80%E3%80%82%20%282%29.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8C%E5%85%A8%E5%9B%BD%E5%90%84%E6%9C%89%E5%85%B3%E5%8D%95%E4%BD%8D%E7%A0%94%E5%88%B6%E7%94%9F%E4%BA%A7%E7%9A%84%E8%AE%BE%E5%A4%87%E5%AE%8C%E6%88%90%E5%90%8E%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8D%B3%EF%BC%8C%E5%B7%A5%E7%A8%8B%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%B7%A5%E7%A8%8B%E7%8E%B0%E5%9C%BA%E5%8F%AC%E5%BC%80%E3%80%82.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8C%E5%85%A8%E5%9B%BD%E5%90%84%E6%9C%89%E5%85%B3%E5%8D%95%E4%BD%8D%E7%A0%94%E5%88%B6%E7%94%9F%E4%BA%A7%E7%9A%84%E8%AE%BE%E5%A4%87%E5%AE%8C%E6%88%90%E5%90%8E%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8D%B3%EF%BC%8C%E5%B7%A5%E7%A8%8B%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%B7%A5%E7%A8%8B%E7%8E%B0%E5%9C%BA%E5%8F%AC%E5%BC%80%E3%80%82.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8C%E5%85%A8%E5%9B%BD%E5%90%84%E6%9C%89%E5%85%B3%E5%8D%95%E4%BD%8D%E7%A0%94%E5%88%B6%E7%94%9F%E4%BA%A7%E7%9A%84%E8%AE%BE%E5%A4%87%E5%AE%8C%E6%88%90%E5%90%8E%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8D%B3%EF%BC%8C%E5%B7%A5%E7%A8%8B%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%B7%A5%E7%A8%8B%E7%8E%B0%E5%9C%BA%E5%8F%AC%E5%BC%80%E3%80%82.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8CBEPC%E6%AD%A3%E5%BC%8F%E5%AE%89%E8%A3%85%EF%BC%8C%E5%8F%AC%E5%BC%80%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A-%E5%8F%B6%E9%93%AD%E6%B1%89%E6%89%80%E9%95%BF%E5%8A%A8%E5%91%98.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8C%E5%85%A8%E5%9B%BD%E5%90%84%E6%9C%89%E5%85%B3%E5%8D%95%E4%BD%8D%E7%A0%94%E5%88%B6%E7%94%9F%E4%BA%A7%E7%9A%84%E8%AE%BE%E5%A4%87%E5%AE%8C%E6%88%90%E5%90%8E%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8D%B3%EF%BC%8C%E5%B7%A5%E7%A8%8B%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%B7%A5%E7%A8%8B%E7%8E%B0%E5%9C%BA%E5%8F%AC%E5%BC%80%E3%80%82%20%282%29.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8C%E5%85%A8%E5%9B%BD%E5%90%84%E6%9C%89%E5%85%B3%E5%8D%95%E4%BD%8D%E7%A0%94%E5%88%B6%E7%94%9F%E4%BA%A7%E7%9A%84%E8%AE%BE%E5%A4%87%E5%AE%8C%E6%88%90%E5%90%8E%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%AD%A3%E8%B4%9F%E7%94%B5%E5%AD%90%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%AE%89%E8%A3%85%E5%9C%A8%E5%8D%B3%EF%BC%8C%E5%B7%A5%E7%A8%8B%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A%E5%9C%A8%E5%B7%A5%E7%A8%8B%E7%8E%B0%E5%9C%BA%E5%8F%AC%E5%BC%80%E3%80%82%20%282%29.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8CBEPC%E6%AD%A3%E5%BC%8F%E5%AE%89%E8%A3%85%EF%BC%8C%E5%8F%AC%E5%BC%80%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A-%E5%8F%B6%E9%93%AD%E6%B1%89%E6%89%80%E9%95%BF%E5%8A%A8%E5%91%98.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/259/files/1986%E5%B9%B45%E6%9C%88%EF%BC%8CBEPC%E6%AD%A3%E5%BC%8F%E5%AE%89%E8%A3%85%EF%BC%8C%E5%8F%AC%E5%BC%80%E5%8A%A8%E5%91%98%E5%A4%A7%E4%BC%9A-%E5%8F%B6%E9%93%AD%E6%B1%89%E6%89%80%E9%95%BF%E5%8A%A8%E5%91%98.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/259?ln=zh_CN" class="moreinfo">详细记录</a> - <a href="http://192.168.16.26/search?ln=zh_CN&amp;p=recid%3A259&amp;rm=wrd" class="moreinfo">相似记录</a> </span>
+                  </td>
+                </tr></table><div align="right"><small><a href="http://192.168.16.26/search?cc=BEPC+Pictures&amp;ln=zh_CN&amp;as=1&amp;jrec=11">[&gt;&gt; 更多]</a></small></div></td>
+            </tr>
+          </tbody>
+        </table></td></tr>
+               </table></div>
+            
+               </form>

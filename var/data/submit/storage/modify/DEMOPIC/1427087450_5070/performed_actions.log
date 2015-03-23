@@ -1,0 +1,4 @@
+2015-03-23 13:18:47 --> Could not read PHOTO_MANAGER_ICONS: [Errno 2] No such file or directory: '/opt/invenio/var/data/submit/storage/modify/DEMOPIC/1427087450_5070/PHOTO_MANAGER_ICONS'
+2015-03-23 13:18:47 --> Could not read PHOTO_MANAGER_ORDER: [Errno 2] No such file or directory: '/opt/invenio/var/data/submit/storage/modify/DEMOPIC/1427087450_5070/PHOTO_MANAGER_ORDER'
+2015-03-23 13:18:47 --> Could not read PHOTO_MANAGER_DELETE: [Errno 2] No such file or directory: '/opt/invenio/var/data/submit/storage/modify/DEMOPIC/1427087450_5070/PHOTO_MANAGER_DELETE'
+2015-03-23 13:18:47 --> Could not read PHOTO_MANAGER_NEW: [Errno 2] No such file or directory: '/opt/invenio/var/data/submit/storage/modify/DEMOPIC/1427087450_5070/PHOTO_MANAGER_NEW'

@@ -1,0 +1,10 @@
+2014-10-20 13:55:06 --> Task #1165 started.
+2014-10-20 13:55:06 --> Input file '/opt/invenio/var/tmp-shared/bibdocfile_2014-10-20_13:54:44VK8TQ8.xml', input mode 'correct'.
+2014-10-20 13:55:06 --> Record 385 DONE
+2014-10-20 13:55:06 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.71 sec.
+2014-10-20 13:55:06 --> Task #1165 finished. [DONE]
+2015-03-23 11:50:15 --> Task #1165 started.
+2015-03-23 11:50:15 --> Input file '/opt/invenio/var/tmp/IHEP-PICTURE-EXP-2015-001_2015-03-23_11:50:00fW_2rk', input mode 'replace_or_insert'.
+2015-03-23 11:50:15 --> Record 386 DONE
+2015-03-23 11:50:15 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.54 sec.
+2015-03-23 11:50:15 --> Task #1165 finished. [DONE]

@@ -1,0 +1,246 @@
+
+                <form name="search" action="http://192.168.16.26/search" method="get">
+                
+        <!--create_searchfor_advanced()-->
+        <input type="hidden" name="ln" value="en" /><input type="hidden" name="cc" value="Computing and Network Pictures" /><input type="hidden" name="sc" value="1" /><input type="hidden" name="as" value="1" />
+        <table class="searchbox advancedsearch">
+         <thead>
+          <tr>
+           <th class="searchboxheader" colspan="3">Search 3 records for:</th>
+          </tr>
+         </thead>
+         <tbody>
+          <tr valign="bottom">
+            <td class="searchboxbody" style="white-space: nowrap;">
+                
+        <select name="m1">
+        <option value="a">All of the words:</option>
+        <option value="o">Any of the words:</option>
+        <option value="e">Exact phrase:</option>
+        <option value="p">Partial phrase:</option>
+        <option value="r">Regular expression:</option>
+        </select>
+        <input type="text" name="p1" size="30" value="" class="advancedsearchfield"/>
+            </td>
+            <td class="searchboxbody" style="white-space: nowrap;"><select name="f1"><option value="" selected="selected">any field</option><option value="title">title</option><option value="author">author</option><option value="abstract">abstract</option><option value="keyword">keyword</option><option value="reportnumber">report number</option></select></td>
+            <td class="searchboxbody">
+        <select name="op1">
+        <option value="a">AND</option>
+        <option value="o">OR</option>
+        <option value="n">AND NOT</option>
+        </select>
+        </td>
+          </tr>
+          <tr valign="bottom">
+            <td class="searchboxbody" style="white-space: nowrap;">
+                
+        <select name="m2">
+        <option value="a">All of the words:</option>
+        <option value="o">Any of the words:</option>
+        <option value="e">Exact phrase:</option>
+        <option value="p">Partial phrase:</option>
+        <option value="r">Regular expression:</option>
+        </select>
+        <input type="text" name="p2" size="30" value="" class="advancedsearchfield"/>
+            </td>
+            <td class="searchboxbody"><select name="f2"><option value="" selected="selected">any field</option><option value="title">title</option><option value="author">author</option><option value="abstract">abstract</option><option value="keyword">keyword</option><option value="reportnumber">report number</option></select></td>
+            <td class="searchboxbody">
+        <select name="op2">
+        <option value="a">AND</option>
+        <option value="o">OR</option>
+        <option value="n">AND NOT</option>
+        </select>
+        </td>
+          </tr>
+          <tr valign="bottom">
+            <td class="searchboxbody" style="white-space: nowrap;">
+                
+        <select name="m3">
+        <option value="a">All of the words:</option>
+        <option value="o">Any of the words:</option>
+        <option value="e">Exact phrase:</option>
+        <option value="p">Partial phrase:</option>
+        <option value="r">Regular expression:</option>
+        </select>
+        <input type="text" name="p3" size="30" value="" class="advancedsearchfield"/>
+            </td>
+            <td class="searchboxbody"><select name="f3"><option value="" selected="selected">any field</option><option value="title">title</option><option value="author">author</option><option value="abstract">abstract</option><option value="keyword">keyword</option><option value="reportnumber">report number</option></select></td>
+            <td class="searchboxbody" style="white-space: nowrap;">
+              <input class="formbutton" type="submit" name="action_search" value="Search" />
+              <input class="formbutton" type="submit" name="action_browse" value="Browse" /></td>
+          </tr>
+          <tr valign="bottom">
+            <td colspan="3" class="searchboxbody" align="right">
+              <small>
+                <a href="http://192.168.16.26/help/search-tips?ln=en">Search Tips</a> ::
+                <a href="http://192.168.16.26/collection/Computing%20and%20Network%20Pictures?ln=en">Simple Search</a>
+              </small>
+            </td>
+          </tr>
+         </tbody>
+        </table>
+        <!-- @todo - more imports -->
+        <table class="searchbox">
+                   <thead>
+                    <tr>
+                      <th class="searchboxheader">
+                        Added/modified since:
+                      </th>
+                      <th class="searchboxheader">
+                        until:
+                      </th>
+                    </tr>
+                   </thead>
+                   <tbody>
+                    <tr valign="bottom">
+                      <td class="searchboxbody"><select name="dt">
+                  <option value="">Added since: </option>
+                  <option value="m">Modified since: </option>
+                 </select>
+               
+               <select name="d1d">
+                 <option value="" selected="selected">any day</option>
+              <option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                <select name="d1m">
+                  <option value="" selected="selected">any month</option>
+               <option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+                <select name="d1y">
+                  <option value="" selected="selected">any year</option>
+               <option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option></select></td>
+                      <td class="searchboxbody">
+               <select name="d2d">
+                 <option value="" selected="selected">any day</option>
+              <option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+                <select name="d2m">
+                  <option value="" selected="selected">any month</option>
+               <option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+                <select name="d2y">
+                  <option value="" selected="selected">any year</option>
+               <option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option></select></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table class="searchbox">
+                   <thead>
+                    <tr>
+                      <th class="searchboxheader">
+                        Sort by:
+                      </th>
+                      <th class="searchboxheader">
+                        Display results:
+                      </th>
+                      <th class="searchboxheader">
+                        Output format:
+                      </th>
+                    </tr>
+                   </thead>
+                   <tbody>
+                    <tr valign="bottom">
+                      <td class="searchboxbody"><select name="sf" class="address"><option value="">- latest first -</option><option value="title">title</option><option value="author">author</option><option value="reportnumber">report number</option><option value="year">year</option></select><select name="so" class="address"><option value="a">asc.</option><option value="d">desc.</option></select> <select name="rm" class="address"><option value="">- or rank by -</option><option value="wrd">word similarity</option><option value="citation">times cited</option></select></td>
+                      <td class="searchboxbody"><select name="rg" class="address"><option value="10">10 results</option><option value="25">25 results</option><option value="50">50 results</option><option value="100">100 results</option><option value="250">250 results</option><option value="500">500 results</option></select></td>
+                      <td class="searchboxbody"><select name="of" class="address"><option value="hb">HTML brief</option><option value="hp">portfolio</option><option value="hc">photo captions only</option><option value="hd">HTML detailed</option><option value="hm">MARC</option><option value="xd">Dublin Core</option><option value="xm">MARCXML</option></select></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <!--/create_searchfor_advanced()-->
+              
+                
+		<div><table class="showupdate" algin="left" style="max-width:600px;float:left;">
+		<tr valign="top"><td>
+		<table >
+		<thead>
+		<tr>
+		<th class="narrowsearchboxheader">Latest additions:</th>
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+		<td><table width="600" height="800" border="0">
+<tbody><tr> <td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%952wl3.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%952wl2.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%952wl1.gif?subformat=icon-700" width="150" height="150" /></a></td></tr><tr><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AEwl3.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AEwl2.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/386/?ln=zh_CN"><img src="http://192.168.16.26/record/386/files/%E6%95%B0%E6%8D%AE%E6%B5%8B%E8%AF%95wl.gif?subformat=icon-700" width="150" height="150" /></a></td></tr><tr><td width="33%" height="150"><a href="http://192.168.16.26/record/385/?ln=zh_CN"><img src="http://192.168.16.26/record/385/files/%E7%8E%89%E7%B1%B3.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/384/?ln=zh_CN"><img src="http://192.168.16.26/record/384/files/mxzjl.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/384/?ln=zh_CN"><img src="http://192.168.16.26/record/384/files/mxwyf.gif?subformat=icon-700" width="150" height="150" /></a></td></tr><tr><td width="33%" height="150"><a href="http://192.168.16.26/record/384/?ln=zh_CN"><img src="http://192.168.16.26/record/384/files/mxhxm.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/384/?ln=zh_CN"><img src="http://192.168.16.26/record/384/files/fsxzqnghbxzzzz.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/383/?ln=zh_CN"><img src="http://192.168.16.26/record/383/files/999.gif?subformat=icon-700" width="150" height="150" /></a></td></tr><tr><td width="33%" height="150"><a href="http://192.168.16.26/record/383/?ln=zh_CN"><img src="http://192.168.16.26/record/383/files/99.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/383/?ln=zh_CN"><img src="http://192.168.16.26/record/383/files/33.gif?subformat=icon-700" width="150" height="150" /></a></td><td width="33%" height="150"><a href="http://192.168.16.26/record/383/?ln=zh_CN"><img src="http://192.168.16.26/record/383/files/32.gif?subformat=icon-700" width="150" height="150" /></a></td></tr></tbody></table><a style="margin-left:520px;" href="http://192.168.16.26/collection/Pictures?ln=zh_CN">更多</a></td>
+		</tr>
+		</tbody>
+		</table>
+		</td>
+		</tr>
+		</table>
+                <table cellspacing="0" cellpadding="0" border="0" class="narrowandfocusonsearchbox" style="max-width:400px;float:left;">
+                 
+                   <tr valign="top"><td>
+        <table class="narrowsearchbox">
+          <thead>
+            <tr>
+              <th class="narrowsearchboxheader">Latest additions:</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+            <td class="narrowsearchboxbody"><table class="latestadditionsbox" width="1200">
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-05-07<br />16:16</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="337"></abbr>
+                    
+<strong>全国青联委员参观高能所计算中心</strong>
+
+
+
+
+<small class="quicknote"> [CN-PICTURE-HIST-2013-004]</small> 
+
+<br /><small>2008年11月25日，全国青联副主席秦文贵、团中央统战部部长安桂武率近百名全国青联委员来到中科院高能物理所，参加“全国青联委员科技考察活动——走进中科院”活动。 </small>
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/337/files/IMG_00181.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/337/files/IMG_00181.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/337/files/IMG_00181.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/337?ln=en" class="moreinfo">Detailed record</a> - <a href="http://192.168.16.26/search?ln=en&amp;p=recid%3A337&amp;rm=wrd" class="moreinfo">Similar records</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-05-07<br />16:14</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="336"></abbr>
+                    
+<strong>CMS实验运营中心</strong>
+
+
+
+
+<small class="quicknote"> [CN-PICTURE-HIST-2013-003]</small> 
+
+
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/336/files/CMS%E8%BF%90%E8%90%A5%E4%B8%AD%E5%BF%83.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/336/files/CMS%E8%BF%90%E8%90%A5%E4%B8%AD%E5%BF%83.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/336/files/CMS%E8%BF%90%E8%90%A5%E4%B8%AD%E5%BF%83.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/336?ln=en" class="moreinfo">Detailed record</a> - <a href="http://192.168.16.26/search?ln=en&amp;p=recid%3A336&amp;rm=wrd" class="moreinfo">Similar records</a> </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="latestadditionsboxtimebody">2013-05-07<br />16:13</td>
+                  <td class="latestadditionsboxrecordbody">
+                    <abbr class="unapi-id" title="335"></abbr>
+                    
+<strong>计算中心机房</strong>
+
+
+
+
+<small class="quicknote"> [CN-PICTURE-HIST-2013-002]</small> 
+
+
+
+
+
+
+<br /><small><!--START_NOT_FOR_TEXT--><strong>一般设定</strong>: <a class="note" href="http://invenio.ihep.ac.cn/record/335/files/%E8%AE%A1%E7%AE%97%E4%B8%AD%E5%BF%83%E6%9C%BA%E6%88%BF.jpg"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/335/files/grid-resource.JPG"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/335/files/%E8%AE%A1%E7%AE%97%E4%B8%AD%E5%BF%83%E6%9C%BA%E6%88%BF.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/335/files/%E8%AE%A1%E7%AE%97%E4%B8%AD%E5%BF%83%E6%9C%BA%E6%88%BF.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/335/files/grid-resource.gif?subformat=icon"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a>; <a class="note" href="http://invenio.ihep.ac.cn/record/335/files/grid-resource.gif?subformat=icon-700"><img style="border:none" src="http://192.168.16.26/img/file-icon-text-12x16.gif" alt="全文"/>全文</a><!--END_NOT_FOR_TEXT--></small>
+<br /><span class="moreinfo"><a href="http://192.168.16.26/record/335?ln=en" class="moreinfo">Detailed record</a> - <a href="http://192.168.16.26/search?ln=en&amp;p=recid%3A335&amp;rm=wrd" class="moreinfo">Similar records</a> </span>
+                  </td>
+                </tr></table></td>
+            </tr>
+          </tbody>
+        </table></td></tr>
+               </table></div>
+            
+               </form>

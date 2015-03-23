@@ -1,0 +1,15 @@
+2014-10-15 11:32:51 --> Task #1154 started.
+2014-10-15 11:32:51 --> Input file '/opt/invenio/var/tmp/IHEP-PICTURE-EXP-2014-010_2014-10-13_11:39:54LP6qNw', input mode 'replace_or_insert'.
+2014-10-15 11:32:51 --> Record 383 DONE
+2014-10-15 11:32:51 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.54 sec.
+2014-10-15 11:32:51 --> Task #1154 finished. [DONE]
+2014-11-02 13:01:26 --> Task #1154 started.
+2014-11-02 13:01:26 --> Input file '/opt/invenio/var/tmp-shared/bibdocfile_2014-11-02_13:01:206rNC7Q.xml', input mode 'correct'.
+2014-11-02 13:01:26 --> Record 380 DONE
+2014-11-02 13:01:26 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.76 sec.
+2014-11-02 13:01:26 --> Task #1154 finished. [DONE]
+2014-12-10 17:19:20 --> Task #1154 started.
+2014-12-10 17:19:20 --> Input file '/opt/invenio/var/tmp-shared/bibdocfile_2014-12-10_17:17:53_5xuwL.xml', input mode 'correct'.
+2014-12-10 17:19:20 --> Record 382 DONE
+2014-12-10 17:19:20 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.48 sec.
+2014-12-10 17:19:20 --> Task #1154 finished. [DONE]

@@ -1,0 +1,9 @@
+#!/bin/sh
+# Automatically created during the building process.  Do not edit.
+./configure --prefix=/opt/invenio \
+            --with-python=/usr/bin/python \
+            --with-mysql=/usr/bin/mysql \
+            --with-clisp=/usr/bin/clisp \
+            --with-cmucl= \
+            --with-sbcl=/usr/bin/sbcl \
+            --with-openoffice-python=/usr/bin/python 

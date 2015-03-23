@@ -1,0 +1,21 @@
+2014-09-26 09:22:52 --> Task #8 started.
+2014-09-26 09:22:52 --> Input file '/opt/invenio/var/tmp/oairepository_20140926_092251_6nfST0', input mode 'correct'.
+2014-09-26 09:22:52 --> Record 10 DONE
+2014-09-26 09:22:52 --> Record 12 DONE
+2014-09-26 09:22:53 --> Record 55 DONE
+2014-09-26 09:22:53 --> Record 98 DONE
+2014-09-26 09:22:53 --> Task stats: 4 input records, 4 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 1.07 sec.
+2014-09-26 09:22:53 --> Task #8 finished. [DONE]
+2014-09-26 10:41:06 --> Task #8 started.
+2014-09-26 10:41:06 --> Input file '/opt/invenio/var/tmp/oairepository_20140926_104105_cKZxaC', input mode 'correct'.
+2014-09-26 10:41:06 --> WARNING: docname 9812226.fig1 does not seem to exist for record 10. Has it been renamed outside FFT?
+2014-09-26 10:41:06 --> Record 10 DONE
+2014-09-26 10:41:06 --> WARNING: docname 0101431.fig2 does not seem to exist for record 12. Has it been renamed outside FFT?
+2014-09-26 10:41:07 --> Record 12 DONE
+2014-09-26 10:41:07 --> WARNING: docname 0204135 does not seem to exist for record 55. Has it been renamed outside FFT?
+2014-09-26 10:41:07 --> WARNING: docname 0204135 does not seem to exist for record 55. Has it been renamed outside FFT?
+2014-09-26 10:41:08 --> Record 55 DONE
+2014-09-26 10:41:08 --> WARNING: docname 0703265 does not seem to exist for record 98. Has it been renamed outside FFT?
+2014-09-26 10:41:08 --> Record 98 DONE
+2014-09-26 10:41:08 --> Task stats: 4 input records, 4 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 2.18 sec.
+2014-09-26 10:41:08 --> Task #8 finished. [DONE]

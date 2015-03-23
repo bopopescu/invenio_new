@@ -1,0 +1,31 @@
+2014-10-10 17:39:19 --> Task #1125 started.
+2014-10-10 17:39:19 --> last stored run date is 2014-08-26 16:23:15
+2014-10-10 17:39:19 --> Processing format HB
+2014-10-10 17:39:19 --> Querying database for records without cache...
+2014-10-10 17:39:19 --> Records to be processed: 0
+2014-10-10 17:39:19 --> Out of it records without existing cache: 0
+2014-10-10 17:39:19 --> storing run date to 2014-10-10 17:39:19.159313
+2014-10-10 17:39:19 --> total records processed: 0
+2014-10-10 17:39:19 --> total processing time: 0.000000 sec
+2014-10-10 17:39:19 --> Time spent on external call (os.system):
+2014-10-10 17:39:19 -->  bibformat: 0.000000 sec
+2014-10-10 17:39:19 -->  bibupload: 0.000000 sec
+2014-10-10 17:39:19 --> Task #1125 finished and resubmitted.
+2014-10-10 17:44:19 --> Task #1125 started.
+2014-10-10 17:44:19 --> last stored run date is 2014-10-10 17:39:19
+2014-10-10 17:44:19 --> Processing format HB
+2014-10-10 17:44:19 --> Querying database for records without cache...
+2014-10-10 17:44:19 --> Records to be processed: 0
+2014-10-10 17:44:19 --> Out of it records without existing cache: 0
+2014-10-10 17:44:19 --> storing run date to 2014-10-10 17:44:19.746283
+2014-10-10 17:44:19 --> total records processed: 0
+2014-10-10 17:44:19 --> total processing time: 0.000000 sec
+2014-10-10 17:44:19 --> Time spent on external call (os.system):
+2014-10-10 17:44:19 -->  bibformat: 0.000000 sec
+2014-10-10 17:44:19 -->  bibupload: 0.000000 sec
+2014-10-10 17:44:19 --> Task #1125 finished and resubmitted.
+2014-10-28 14:28:29 --> Task #1125 started.
+2014-10-28 14:28:29 --> Input file '/opt/invenio/var/tmp/IHEP-PICTURE-EXP-2014-026_2014-10-28_14:28:19v0uUtd', input mode 'replace_or_insert'.
+2014-10-28 14:28:29 --> Record 374 DONE
+2014-10-28 14:28:29 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.27 sec.
+2014-10-28 14:28:29 --> Task #1125 finished. [DONE]

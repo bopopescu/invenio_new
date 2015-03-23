@@ -1,0 +1,157 @@
+Traceback (most recent call last):
+  File "./bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1605, in restart
+    start(verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1302, in watch_loop
+    calculate_rows()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1246, in calculate_rows
+    check_errors()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1239, in check_errors
+    raise StandardError(msg)
+StandardError: BibTask with ERRORS:
+    #249 bibencode:daemon -> ERROR
+Error in registering exception to '/opt/invenio/var/log/invenio.err': '(2002, "Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)")'
+Traceback (most recent call last):
+  File "./bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1605, in restart
+    start(verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1302, in watch_loop
+    calculate_rows()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1258, in calculate_rows
+    AND runtime <= NOW()""")
+  File "/usr/local/lib/python2.7/dist-packages/invenio/dbquery.py", line 207, in run_sql
+    db = _db_login(dbhost, relogin=1)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/dbquery.py", line 124, in _db_login
+    use_unicode=False, charset='utf8')
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (2002, "Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)")
+Traceback (most recent call last):
+  File "./bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1605, in restart
+    start(verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1302, in watch_loop
+    calculate_rows()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1246, in calculate_rows
+    check_errors()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1239, in check_errors
+    raise StandardError(msg)
+StandardError: BibTask with ERRORS:
+    #249 bibencode:daemon -> ERROR
+Traceback (most recent call last):
+  File "./bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1302, in watch_loop
+    calculate_rows()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1246, in calculate_rows
+    check_errors()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1239, in check_errors
+    raise StandardError(msg)
+StandardError: BibTask with ERRORS:
+    #249 bibencode:daemon -> ERROR
+Traceback (most recent call last):
+  File "./bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1316, in watch_loop
+    elif self.handle_task(*task):
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1207, in handle_task
+    raise StandardError("Process %s (task_id: %s) was launched but seems not to be able to reach RUNNING status." % (proc, task_id))
+StandardError: Process webcoll (task_id: 1120) was launched but seems not to be able to reach RUNNING status.
+Traceback (most recent call last):
+  File "./bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1302, in watch_loop
+    calculate_rows()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1246, in calculate_rows
+    check_errors()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1239, in check_errors
+    raise StandardError(msg)
+StandardError: BibTask with ERRORS:
+    #1123 bibupload -> ERROR
+Error in registering exception to '/opt/invenio/var/log/invenio.err': '(2002, "Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)")'
+Traceback (most recent call last):
+  File "/opt/invenio/bin/bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1316, in watch_loop
+    elif self.handle_task(*task):
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1203, in handle_task
+    (task_id, )):
+  File "/usr/local/lib/python2.7/dist-packages/invenio/dbquery.py", line 207, in run_sql
+    db = _db_login(dbhost, relogin=1)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/dbquery.py", line 124, in _db_login
+    use_unicode=False, charset='utf8')
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (2002, "Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)")
+Error in registering exception to '/opt/invenio/var/log/invenio.err': '(2002, "Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)")'
+Traceback (most recent call last):
+  File "./bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1605, in restart
+    start(verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1302, in watch_loop
+    calculate_rows()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1258, in calculate_rows
+    AND runtime <= NOW()""")
+  File "/usr/local/lib/python2.7/dist-packages/invenio/dbquery.py", line 207, in run_sql
+    db = _db_login(dbhost, relogin=1)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/dbquery.py", line 124, in _db_login
+    use_unicode=False, charset='utf8')
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/__init__.py", line 81, in Connect
+    return Connection(*args, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/MySQLdb/connections.py", line 187, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+_mysql_exceptions.OperationalError: (2002, "Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)")
+Traceback (most recent call last):
+  File "./bin/bibsched", line 33, in <module>
+    main()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1710, in main
+    'monitor': monitor}[cmd](verbose=verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1605, in restart
+    start(verbose, debug=debug)
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1494, in start
+    sched.watch_loop()
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1316, in watch_loop
+    elif self.handle_task(*task):
+  File "/usr/local/lib/python2.7/dist-packages/invenio/bibsched.py", line 1207, in handle_task
+    raise StandardError("Process %s (task_id: %s) was launched but seems not to be able to reach RUNNING status." % (proc, task_id))
+StandardError: Process bibrank (task_id: 114) was launched but seems not to be able to reach RUNNING status.

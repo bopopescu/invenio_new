@@ -1,0 +1,416 @@
+2014-10-09 14:16:50 --> Task #119 started.
+2014-10-09 14:16:50 --> CLEANING OF GUEST SESSIONS STARTED
+2014-10-09 14:16:50 --> - deleting expired sessions
+2014-10-09 14:16:50 --> - deleting guest users without session
+2014-10-09 14:16:50 --> - deleting user_queries referencing non-existent users
+2014-10-09 14:16:50 --> - deleting queries not attached to any user
+2014-10-09 14:16:50 --> - deleting baskets not owned by any user
+2014-10-09 14:16:50 --> - deleting alerts not owned by any user
+2014-10-09 14:16:50 --> - statistics about deleted data: 
+2014-10-09 14:16:50 -->         1 sessions.
+2014-10-09 14:16:50 -->         0 users.
+2014-10-09 14:16:50 -->         0 user_queries.
+2014-10-09 14:16:50 -->         0 queries.
+2014-10-09 14:16:50 -->         0 baskets.
+2014-10-09 14:16:50 -->         0 user_baskets.
+2014-10-09 14:16:50 -->         0 basket_records.
+2014-10-09 14:16:50 -->         0 basket_external_records.
+2014-10-09 14:16:50 -->         0 basket_external_formats.
+2014-10-09 14:16:50 -->         0 basket_comments.
+2014-10-09 14:16:50 -->         0 user_query_baskets.
+2014-10-09 14:16:50 -->         0 mail_cookies.
+2014-10-09 14:16:50 -->         0 non confirmed email addresses.
+2014-10-09 14:16:50 -->         0 role_memberships.
+2014-10-09 14:16:50 --> CLEANING OF GUEST SESSIONS FINISHED
+2014-10-09 14:16:50 --> CLEANING OF LOG FILES STARTED
+2014-10-09 14:16:50 --> - deleting/gzipping bibsched empty/old err/log BibSched files
+2014-10-09 14:16:50 --> CLEANING OF LOG FILES FINISHED
+2014-10-09 14:16:50 --> CLEANING OF TMP FILES STARTED
+2014-10-09 14:16:50 --> - deleting/gzipping temporary empty/old BibReformat xml files
+2014-10-09 14:16:50 --> - deleting/gzipping temporary old OAIHarvest xml files
+2014-10-09 14:16:50 --> - deleting/gzipping temporary old BibSword files
+2014-10-09 14:16:50 --> - deleting old video submissions
+2014-10-09 14:16:50 --> - deleting temporary old RefExtract files
+2014-10-09 14:16:50 --> - deleting temporary old bibdocfiles
+2014-10-09 14:16:50 --> - deleting old temporary WebSubmit icons
+2014-10-09 14:16:50 --> - deleting old temporary WebSubmit stamps
+2014-10-09 14:16:50 --> - deleting old temporary WebJournal XML files
+2014-10-09 14:16:50 --> - deleting old temporary files attached with CKEditor
+2014-10-09 14:16:50 --> find: `/opt/invenio/var/tmp/attachfile/': 没有那个文件或目录
+2014-10-09 14:16:50 --> CLEANING OF TMP FILES FINISHED
+2014-10-09 14:16:50 --> CLEANING OF UNREFERENCED bibXXx VALUES STARTED
+2014-10-09 14:16:50 --> CLEANING OF UNREFERENCED bibXXx VALUES FINISHED
+2014-10-09 14:16:50 --> CLEANING OF OBSOLETED DELETED DOCUMENTS STARTED
+2014-10-09 14:16:50 --> 0 obsoleted deleted documents cleaned
+2014-10-09 14:16:50 --> CLEANING OF OBSOLETED DELETED DOCUMENTS FINISHED
+2014-10-09 14:16:50 --> CLEANING OF OLD CACHED RSS REQUEST STARTED
+2014-10-09 14:16:50 --> 0 rss cache file pruned out of 0.
+2014-10-09 14:16:50 --> CLEANING OF OLD CACHED RSS REQUEST FINISHED
+2014-10-09 14:16:50 --> CLEANING OF OLD CACHED WEBJOURNAL FILES STARTED
+2014-10-09 14:16:50 --> 0 webjournal cache file pruned out of 0.
+2014-10-09 14:16:50 --> CLEANING OF OLD CACHED WEBJOURNAL FILES FINISHED
+2014-10-09 14:16:50 --> Task #119 finished and resubmitted.
+2014-10-09 14:16:52 --> Task #119 started.
+2014-10-09 14:16:52 --> CLEANING OF GUEST SESSIONS STARTED
+2014-10-09 14:16:52 --> - deleting expired sessions
+2014-10-09 14:16:52 --> - deleting guest users without session
+2014-10-09 14:16:52 --> - deleting user_queries referencing non-existent users
+2014-10-09 14:16:52 --> - deleting queries not attached to any user
+2014-10-09 14:16:52 --> - deleting baskets not owned by any user
+2014-10-09 14:16:52 --> - deleting alerts not owned by any user
+2014-10-09 14:16:52 --> - statistics about deleted data: 
+2014-10-09 14:16:52 -->         0 sessions.
+2014-10-09 14:16:52 -->         0 users.
+2014-10-09 14:16:52 -->         0 user_queries.
+2014-10-09 14:16:52 -->         0 queries.
+2014-10-09 14:16:52 -->         0 baskets.
+2014-10-09 14:16:52 -->         0 user_baskets.
+2014-10-09 14:16:52 -->         0 basket_records.
+2014-10-09 14:16:52 -->         0 basket_external_records.
+2014-10-09 14:16:52 -->         0 basket_external_formats.
+2014-10-09 14:16:52 -->         0 basket_comments.
+2014-10-09 14:16:52 -->         0 user_query_baskets.
+2014-10-09 14:16:52 -->         0 mail_cookies.
+2014-10-09 14:16:52 -->         0 non confirmed email addresses.
+2014-10-09 14:16:52 -->         0 role_memberships.
+2014-10-09 14:16:52 --> CLEANING OF GUEST SESSIONS FINISHED
+2014-10-09 14:16:52 --> CLEANING OF LOG FILES STARTED
+2014-10-09 14:16:52 --> - deleting/gzipping bibsched empty/old err/log BibSched files
+2014-10-09 14:16:52 --> CLEANING OF LOG FILES FINISHED
+2014-10-09 14:16:52 --> CLEANING OF TMP FILES STARTED
+2014-10-09 14:16:52 --> - deleting/gzipping temporary empty/old BibReformat xml files
+2014-10-09 14:16:52 --> - deleting/gzipping temporary old OAIHarvest xml files
+2014-10-09 14:16:52 --> - deleting/gzipping temporary old BibSword files
+2014-10-09 14:16:52 --> - deleting old video submissions
+2014-10-09 14:16:52 --> - deleting temporary old RefExtract files
+2014-10-09 14:16:52 --> - deleting temporary old bibdocfiles
+2014-10-09 14:16:52 --> - deleting old temporary WebSubmit icons
+2014-10-09 14:16:52 --> - deleting old temporary WebSubmit stamps
+2014-10-09 14:16:52 --> - deleting old temporary WebJournal XML files
+2014-10-09 14:16:52 --> - deleting old temporary files attached with CKEditor
+2014-10-09 14:16:52 --> find: `/opt/invenio/var/tmp/attachfile/': 没有那个文件或目录
+2014-10-09 14:16:52 --> CLEANING OF TMP FILES FINISHED
+2014-10-09 14:16:52 --> CLEANING OF UNREFERENCED bibXXx VALUES STARTED
+2014-10-09 14:16:52 --> CLEANING OF UNREFERENCED bibXXx VALUES FINISHED
+2014-10-09 14:16:52 --> CLEANING OF OBSOLETED DELETED DOCUMENTS STARTED
+2014-10-09 14:16:52 --> 0 obsoleted deleted documents cleaned
+2014-10-09 14:16:52 --> CLEANING OF OBSOLETED DELETED DOCUMENTS FINISHED
+2014-10-09 14:16:52 --> CLEANING OF OLD CACHED RSS REQUEST STARTED
+2014-10-09 14:16:52 --> 0 rss cache file pruned out of 0.
+2014-10-09 14:16:52 --> CLEANING OF OLD CACHED RSS REQUEST FINISHED
+2014-10-09 14:16:52 --> CLEANING OF OLD CACHED WEBJOURNAL FILES STARTED
+2014-10-09 14:16:52 --> 0 webjournal cache file pruned out of 0.
+2014-10-09 14:16:52 --> CLEANING OF OLD CACHED WEBJOURNAL FILES FINISHED
+2014-10-09 14:16:52 --> Task #119 finished and resubmitted.
+2014-10-09 14:25:55 --> Task #119 started.
+2014-10-09 14:25:55 --> CLEANING OF GUEST SESSIONS STARTED
+2014-10-09 14:25:55 --> - deleting expired sessions
+2014-10-09 14:25:55 --> - deleting guest users without session
+2014-10-09 14:25:55 --> - deleting user_queries referencing non-existent users
+2014-10-09 14:25:55 --> - deleting queries not attached to any user
+2014-10-09 14:25:55 --> - deleting baskets not owned by any user
+2014-10-09 14:25:55 --> - deleting alerts not owned by any user
+2014-10-09 14:25:55 --> - statistics about deleted data: 
+2014-10-09 14:25:55 -->         0 sessions.
+2014-10-09 14:25:55 -->         0 users.
+2014-10-09 14:25:55 -->         0 user_queries.
+2014-10-09 14:25:55 -->         0 queries.
+2014-10-09 14:25:55 -->         0 baskets.
+2014-10-09 14:25:55 -->         0 user_baskets.
+2014-10-09 14:25:55 -->         0 basket_records.
+2014-10-09 14:25:55 -->         0 basket_external_records.
+2014-10-09 14:25:55 -->         0 basket_external_formats.
+2014-10-09 14:25:55 -->         0 basket_comments.
+2014-10-09 14:25:55 -->         0 user_query_baskets.
+2014-10-09 14:25:55 -->         0 mail_cookies.
+2014-10-09 14:25:55 -->         0 non confirmed email addresses.
+2014-10-09 14:25:55 -->         0 role_memberships.
+2014-10-09 14:25:55 --> CLEANING OF GUEST SESSIONS FINISHED
+2014-10-09 14:25:55 --> CLEANING OF LOG FILES STARTED
+2014-10-09 14:25:55 --> - deleting/gzipping bibsched empty/old err/log BibSched files
+2014-10-09 14:25:55 --> CLEANING OF LOG FILES FINISHED
+2014-10-09 14:25:55 --> CLEANING OF TMP FILES STARTED
+2014-10-09 14:25:55 --> - deleting/gzipping temporary empty/old BibReformat xml files
+2014-10-09 14:25:55 --> - deleting/gzipping temporary old OAIHarvest xml files
+2014-10-09 14:25:55 --> - deleting/gzipping temporary old BibSword files
+2014-10-09 14:25:55 --> - deleting old video submissions
+2014-10-09 14:25:55 --> - deleting temporary old RefExtract files
+2014-10-09 14:25:55 --> - deleting temporary old bibdocfiles
+2014-10-09 14:25:55 --> - deleting old temporary WebSubmit icons
+2014-10-09 14:25:55 --> - deleting old temporary WebSubmit stamps
+2014-10-09 14:25:55 --> - deleting old temporary WebJournal XML files
+2014-10-09 14:25:55 --> - deleting old temporary files attached with CKEditor
+2014-10-09 14:25:55 --> find: `/opt/invenio/var/tmp/attachfile/': 没有那个文件或目录
+2014-10-09 14:25:55 --> CLEANING OF TMP FILES FINISHED
+2014-10-09 14:25:55 --> CLEANING OF UNREFERENCED bibXXx VALUES STARTED
+2014-10-09 14:25:55 --> CLEANING OF UNREFERENCED bibXXx VALUES FINISHED
+2014-10-09 14:25:55 --> CLEANING OF OBSOLETED DELETED DOCUMENTS STARTED
+2014-10-09 14:25:55 --> 0 obsoleted deleted documents cleaned
+2014-10-09 14:25:55 --> CLEANING OF OBSOLETED DELETED DOCUMENTS FINISHED
+2014-10-09 14:25:55 --> CLEANING OF OLD CACHED RSS REQUEST STARTED
+2014-10-09 14:25:55 --> 0 rss cache file pruned out of 0.
+2014-10-09 14:25:55 --> CLEANING OF OLD CACHED RSS REQUEST FINISHED
+2014-10-09 14:25:55 --> CLEANING OF OLD CACHED WEBJOURNAL FILES STARTED
+2014-10-09 14:25:55 --> 0 webjournal cache file pruned out of 0.
+2014-10-09 14:25:55 --> CLEANING OF OLD CACHED WEBJOURNAL FILES FINISHED
+2014-10-09 14:25:55 --> Task #119 finished and resubmitted.
+2014-10-09 14:35:48 --> Task #119 started.
+2014-10-09 14:35:48 --> CLEANING OF GUEST SESSIONS STARTED
+2014-10-09 14:35:48 --> - deleting expired sessions
+2014-10-09 14:35:48 --> - deleting guest users without session
+2014-10-09 14:35:48 --> - deleting user_queries referencing non-existent users
+2014-10-09 14:35:48 --> - deleting queries not attached to any user
+2014-10-09 14:35:48 --> - deleting baskets not owned by any user
+2014-10-09 14:35:48 --> - deleting alerts not owned by any user
+2014-10-09 14:35:48 --> - statistics about deleted data: 
+2014-10-09 14:35:48 -->         0 sessions.
+2014-10-09 14:35:48 -->         0 users.
+2014-10-09 14:35:48 -->         0 user_queries.
+2014-10-09 14:35:48 -->         0 queries.
+2014-10-09 14:35:48 -->         0 baskets.
+2014-10-09 14:35:48 -->         0 user_baskets.
+2014-10-09 14:35:48 -->         0 basket_records.
+2014-10-09 14:35:48 -->         0 basket_external_records.
+2014-10-09 14:35:48 -->         0 basket_external_formats.
+2014-10-09 14:35:48 -->         0 basket_comments.
+2014-10-09 14:35:48 -->         0 user_query_baskets.
+2014-10-09 14:35:48 -->         0 mail_cookies.
+2014-10-09 14:35:48 -->         0 non confirmed email addresses.
+2014-10-09 14:35:48 -->         0 role_memberships.
+2014-10-09 14:35:48 --> CLEANING OF GUEST SESSIONS FINISHED
+2014-10-09 14:35:48 --> CLEANING OF LOG FILES STARTED
+2014-10-09 14:35:48 --> - deleting/gzipping bibsched empty/old err/log BibSched files
+2014-10-09 14:35:48 --> CLEANING OF LOG FILES FINISHED
+2014-10-09 14:35:48 --> CLEANING OF TMP FILES STARTED
+2014-10-09 14:35:48 --> - deleting/gzipping temporary empty/old BibReformat xml files
+2014-10-09 14:35:48 --> - deleting/gzipping temporary old OAIHarvest xml files
+2014-10-09 14:35:48 --> - deleting/gzipping temporary old BibSword files
+2014-10-09 14:35:48 --> - deleting old video submissions
+2014-10-09 14:35:48 --> - deleting temporary old RefExtract files
+2014-10-09 14:35:48 --> - deleting temporary old bibdocfiles
+2014-10-09 14:35:48 --> - deleting old temporary WebSubmit icons
+2014-10-09 14:35:48 --> - deleting old temporary WebSubmit stamps
+2014-10-09 14:35:48 --> - deleting old temporary WebJournal XML files
+2014-10-09 14:35:48 --> - deleting old temporary files attached with CKEditor
+2014-10-09 14:35:48 --> find: `/opt/invenio/var/tmp/attachfile/': 没有那个文件或目录
+2014-10-09 14:35:48 --> CLEANING OF TMP FILES FINISHED
+2014-10-09 14:35:48 --> CLEANING OF UNREFERENCED bibXXx VALUES STARTED
+2014-10-09 14:35:48 --> CLEANING OF UNREFERENCED bibXXx VALUES FINISHED
+2014-10-09 14:35:48 --> CLEANING OF OBSOLETED DELETED DOCUMENTS STARTED
+2014-10-09 14:35:48 --> 0 obsoleted deleted documents cleaned
+2014-10-09 14:35:48 --> CLEANING OF OBSOLETED DELETED DOCUMENTS FINISHED
+2014-10-09 14:35:48 --> CLEANING OF OLD CACHED RSS REQUEST STARTED
+2014-10-09 14:35:48 --> 0 rss cache file pruned out of 0.
+2014-10-09 14:35:48 --> CLEANING OF OLD CACHED RSS REQUEST FINISHED
+2014-10-09 14:35:48 --> CLEANING OF OLD CACHED WEBJOURNAL FILES STARTED
+2014-10-09 14:35:48 --> 0 webjournal cache file pruned out of 0.
+2014-10-09 14:35:48 --> CLEANING OF OLD CACHED WEBJOURNAL FILES FINISHED
+2014-10-09 14:35:48 --> Task #119 finished and resubmitted.
+2014-10-28 12:54:34 --> Task #119 started.
+2014-10-28 12:54:34 --> CLEANING OF GUEST SESSIONS STARTED
+2014-10-28 12:54:34 --> - deleting expired sessions
+2014-10-28 12:54:34 --> - deleting guest users without session
+2014-10-28 12:54:34 --> - deleting user_queries referencing non-existent users
+2014-10-28 12:54:34 --> - deleting queries not attached to any user
+2014-10-28 12:54:34 --> - deleting baskets not owned by any user
+2014-10-28 12:54:34 --> - deleting alerts not owned by any user
+2014-10-28 12:54:34 --> - statistics about deleted data: 
+2014-10-28 12:54:34 -->         1 sessions.
+2014-10-28 12:54:34 -->         0 users.
+2014-10-28 12:54:34 -->         2 user_queries.
+2014-10-28 12:54:34 -->         0 queries.
+2014-10-28 12:54:34 -->         0 baskets.
+2014-10-28 12:54:34 -->         0 user_baskets.
+2014-10-28 12:54:34 -->         0 basket_records.
+2014-10-28 12:54:34 -->         0 basket_external_records.
+2014-10-28 12:54:34 -->         0 basket_external_formats.
+2014-10-28 12:54:34 -->         0 basket_comments.
+2014-10-28 12:54:34 -->         0 user_query_baskets.
+2014-10-28 12:54:34 -->         0 mail_cookies.
+2014-10-28 12:54:34 -->         0 non confirmed email addresses.
+2014-10-28 12:54:34 -->         0 role_memberships.
+2014-10-28 12:54:34 --> CLEANING OF GUEST SESSIONS FINISHED
+2014-10-28 12:54:34 --> CLEANING OF LOG FILES STARTED
+2014-10-28 12:54:34 --> - deleting/gzipping bibsched empty/old err/log BibSched files
+2014-10-28 12:54:34 --> CLEANING OF LOG FILES FINISHED
+2014-10-28 12:54:34 --> CLEANING OF TMP FILES STARTED
+2014-10-28 12:54:34 --> - deleting/gzipping temporary empty/old BibReformat xml files
+2014-10-28 12:54:35 --> - deleting/gzipping temporary old OAIHarvest xml files
+2014-10-28 12:54:35 --> - deleting/gzipping temporary old BibSword files
+2014-10-28 12:54:35 --> - deleting old video submissions
+2014-10-28 12:54:35 --> - deleting temporary old RefExtract files
+2014-10-28 12:54:35 --> - deleting temporary old bibdocfiles
+2014-10-28 12:54:35 --> - deleting old temporary WebSubmit icons
+2014-10-28 12:54:35 --> - deleting old temporary WebSubmit stamps
+2014-10-28 12:54:35 --> - deleting old temporary WebJournal XML files
+2014-10-28 12:54:35 --> - deleting old temporary files attached with CKEditor
+2014-10-28 12:54:35 --> find: `/opt/invenio/var/tmp/attachfile/': 没有那个文件或目录
+2014-10-28 12:54:35 --> CLEANING OF TMP FILES FINISHED
+2014-10-28 12:54:35 --> CLEANING OF UNREFERENCED bibXXx VALUES STARTED
+2014-10-28 12:54:35 --> CLEANING OF UNREFERENCED bibXXx VALUES FINISHED
+2014-10-28 12:54:35 --> CLEANING OF OBSOLETED DELETED DOCUMENTS STARTED
+2014-10-28 12:54:35 --> 0 obsoleted deleted documents cleaned
+2014-10-28 12:54:35 --> CLEANING OF OBSOLETED DELETED DOCUMENTS FINISHED
+2014-10-28 12:54:35 --> CLEANING OF OLD CACHED RSS REQUEST STARTED
+2014-10-28 12:54:35 --> 0 rss cache file pruned out of 0.
+2014-10-28 12:54:35 --> CLEANING OF OLD CACHED RSS REQUEST FINISHED
+2014-10-28 12:54:35 --> CLEANING OF OLD CACHED WEBJOURNAL FILES STARTED
+2014-10-28 12:54:35 --> 0 webjournal cache file pruned out of 0.
+2014-10-28 12:54:35 --> CLEANING OF OLD CACHED WEBJOURNAL FILES FINISHED
+2014-10-28 12:54:35 --> Task #119 finished and resubmitted.
+2014-10-28 12:55:01 --> Task #119 started.
+2014-10-28 12:55:01 --> CLEANING OF GUEST SESSIONS STARTED
+2014-10-28 12:55:01 --> - deleting expired sessions
+2014-10-28 12:55:01 --> - deleting guest users without session
+2014-10-28 12:55:01 --> - deleting user_queries referencing non-existent users
+2014-10-28 12:55:01 --> - deleting queries not attached to any user
+2014-10-28 12:55:01 --> - deleting baskets not owned by any user
+2014-10-28 12:55:01 --> - deleting alerts not owned by any user
+2014-10-28 12:55:01 --> - statistics about deleted data: 
+2014-10-28 12:55:01 -->         0 sessions.
+2014-10-28 12:55:01 -->         0 users.
+2014-10-28 12:55:01 -->         0 user_queries.
+2014-10-28 12:55:01 -->         0 queries.
+2014-10-28 12:55:01 -->         0 baskets.
+2014-10-28 12:55:01 -->         0 user_baskets.
+2014-10-28 12:55:01 -->         0 basket_records.
+2014-10-28 12:55:01 -->         0 basket_external_records.
+2014-10-28 12:55:01 -->         0 basket_external_formats.
+2014-10-28 12:55:01 -->         0 basket_comments.
+2014-10-28 12:55:01 -->         0 user_query_baskets.
+2014-10-28 12:55:01 -->         0 mail_cookies.
+2014-10-28 12:55:01 -->         0 non confirmed email addresses.
+2014-10-28 12:55:01 -->         0 role_memberships.
+2014-10-28 12:55:01 --> CLEANING OF GUEST SESSIONS FINISHED
+2014-10-28 12:55:01 --> CLEANING OF LOG FILES STARTED
+2014-10-28 12:55:01 --> - deleting/gzipping bibsched empty/old err/log BibSched files
+2014-10-28 12:55:01 --> CLEANING OF LOG FILES FINISHED
+2014-10-28 12:55:01 --> CLEANING OF TMP FILES STARTED
+2014-10-28 12:55:01 --> - deleting/gzipping temporary empty/old BibReformat xml files
+2014-10-28 12:55:01 --> - deleting/gzipping temporary old OAIHarvest xml files
+2014-10-28 12:55:01 --> - deleting/gzipping temporary old BibSword files
+2014-10-28 12:55:01 --> - deleting old video submissions
+2014-10-28 12:55:01 --> - deleting temporary old RefExtract files
+2014-10-28 12:55:01 --> - deleting temporary old bibdocfiles
+2014-10-28 12:55:01 --> - deleting old temporary WebSubmit icons
+2014-10-28 12:55:01 --> - deleting old temporary WebSubmit stamps
+2014-10-28 12:55:01 --> - deleting old temporary WebJournal XML files
+2014-10-28 12:55:01 --> - deleting old temporary files attached with CKEditor
+2014-10-28 12:55:01 --> find: `/opt/invenio/var/tmp/attachfile/': 没有那个文件或目录
+2014-10-28 12:55:01 --> CLEANING OF TMP FILES FINISHED
+2014-10-28 12:55:01 --> CLEANING OF UNREFERENCED bibXXx VALUES STARTED
+2014-10-28 12:55:01 --> CLEANING OF UNREFERENCED bibXXx VALUES FINISHED
+2014-10-28 12:55:01 --> CLEANING OF OBSOLETED DELETED DOCUMENTS STARTED
+2014-10-28 12:55:01 --> 0 obsoleted deleted documents cleaned
+2014-10-28 12:55:01 --> CLEANING OF OBSOLETED DELETED DOCUMENTS FINISHED
+2014-10-28 12:55:01 --> CLEANING OF OLD CACHED RSS REQUEST STARTED
+2014-10-28 12:55:01 --> 0 rss cache file pruned out of 0.
+2014-10-28 12:55:01 --> CLEANING OF OLD CACHED RSS REQUEST FINISHED
+2014-10-28 12:55:01 --> CLEANING OF OLD CACHED WEBJOURNAL FILES STARTED
+2014-10-28 12:55:01 --> 0 webjournal cache file pruned out of 0.
+2014-10-28 12:55:01 --> CLEANING OF OLD CACHED WEBJOURNAL FILES FINISHED
+2014-10-28 12:55:01 --> Task #119 finished and resubmitted.
+2014-10-28 12:55:04 --> Task #119 started.
+2014-10-28 12:55:04 --> CLEANING OF GUEST SESSIONS STARTED
+2014-10-28 12:55:04 --> - deleting expired sessions
+2014-10-28 12:55:04 --> - deleting guest users without session
+2014-10-28 12:55:04 --> - deleting user_queries referencing non-existent users
+2014-10-28 12:55:04 --> - deleting queries not attached to any user
+2014-10-28 12:55:04 --> - deleting baskets not owned by any user
+2014-10-28 12:55:04 --> - deleting alerts not owned by any user
+2014-10-28 12:55:04 --> - statistics about deleted data: 
+2014-10-28 12:55:04 -->         0 sessions.
+2014-10-28 12:55:04 -->         0 users.
+2014-10-28 12:55:04 -->         0 user_queries.
+2014-10-28 12:55:04 -->         0 queries.
+2014-10-28 12:55:04 -->         0 baskets.
+2014-10-28 12:55:04 -->         0 user_baskets.
+2014-10-28 12:55:04 -->         0 basket_records.
+2014-10-28 12:55:04 -->         0 basket_external_records.
+2014-10-28 12:55:04 -->         0 basket_external_formats.
+2014-10-28 12:55:04 -->         0 basket_comments.
+2014-10-28 12:55:04 -->         0 user_query_baskets.
+2014-10-28 12:55:04 -->         0 mail_cookies.
+2014-10-28 12:55:04 -->         0 non confirmed email addresses.
+2014-10-28 12:55:04 -->         0 role_memberships.
+2014-10-28 12:55:04 --> CLEANING OF GUEST SESSIONS FINISHED
+2014-10-28 12:55:04 --> CLEANING OF LOG FILES STARTED
+2014-10-28 12:55:04 --> - deleting/gzipping bibsched empty/old err/log BibSched files
+2014-10-28 12:55:04 --> CLEANING OF LOG FILES FINISHED
+2014-10-28 12:55:04 --> CLEANING OF TMP FILES STARTED
+2014-10-28 12:55:04 --> - deleting/gzipping temporary empty/old BibReformat xml files
+2014-10-28 12:55:04 --> - deleting/gzipping temporary old OAIHarvest xml files
+2014-10-28 12:55:04 --> - deleting/gzipping temporary old BibSword files
+2014-10-28 12:55:04 --> - deleting old video submissions
+2014-10-28 12:55:04 --> - deleting temporary old RefExtract files
+2014-10-28 12:55:04 --> - deleting temporary old bibdocfiles
+2014-10-28 12:55:04 --> - deleting old temporary WebSubmit icons
+2014-10-28 12:55:04 --> - deleting old temporary WebSubmit stamps
+2014-10-28 12:55:04 --> - deleting old temporary WebJournal XML files
+2014-10-28 12:55:04 --> - deleting old temporary files attached with CKEditor
+2014-10-28 12:55:04 --> find: `/opt/invenio/var/tmp/attachfile/': 没有那个文件或目录
+2014-10-28 12:55:04 --> CLEANING OF TMP FILES FINISHED
+2014-10-28 12:55:04 --> CLEANING OF UNREFERENCED bibXXx VALUES STARTED
+2014-10-28 12:55:04 --> CLEANING OF UNREFERENCED bibXXx VALUES FINISHED
+2014-10-28 12:55:04 --> CLEANING OF OBSOLETED DELETED DOCUMENTS STARTED
+2014-10-28 12:55:04 --> 0 obsoleted deleted documents cleaned
+2014-10-28 12:55:04 --> CLEANING OF OBSOLETED DELETED DOCUMENTS FINISHED
+2014-10-28 12:55:04 --> CLEANING OF OLD CACHED RSS REQUEST STARTED
+2014-10-28 12:55:04 --> 0 rss cache file pruned out of 0.
+2014-10-28 12:55:04 --> CLEANING OF OLD CACHED RSS REQUEST FINISHED
+2014-10-28 12:55:04 --> CLEANING OF OLD CACHED WEBJOURNAL FILES STARTED
+2014-10-28 12:55:04 --> 0 webjournal cache file pruned out of 0.
+2014-10-28 12:55:04 --> CLEANING OF OLD CACHED WEBJOURNAL FILES FINISHED
+2014-10-28 12:55:04 --> Task #119 finished and resubmitted.
+2014-12-10 15:22:13 --> Task #119 started.
+2014-12-10 15:22:13 --> CLEANING OF GUEST SESSIONS STARTED
+2014-12-10 15:22:13 --> - deleting expired sessions
+2014-12-10 15:22:13 --> - deleting guest users without session
+2014-12-10 15:22:13 --> - deleting user_queries referencing non-existent users
+2014-12-10 15:22:13 --> - deleting queries not attached to any user
+2014-12-10 15:22:13 --> - deleting baskets not owned by any user
+2014-12-10 15:22:13 --> - deleting alerts not owned by any user
+2014-12-10 15:22:13 --> - statistics about deleted data: 
+2014-12-10 15:22:13 -->         1 sessions.
+2014-12-10 15:22:13 -->         0 users.
+2014-12-10 15:22:13 -->         0 user_queries.
+2014-12-10 15:22:13 -->         0 queries.
+2014-12-10 15:22:13 -->         0 baskets.
+2014-12-10 15:22:13 -->         0 user_baskets.
+2014-12-10 15:22:13 -->         0 basket_records.
+2014-12-10 15:22:13 -->         0 basket_external_records.
+2014-12-10 15:22:13 -->         0 basket_external_formats.
+2014-12-10 15:22:13 -->         0 basket_comments.
+2014-12-10 15:22:13 -->         0 user_query_baskets.
+2014-12-10 15:22:13 -->         0 mail_cookies.
+2014-12-10 15:22:13 -->         0 non confirmed email addresses.
+2014-12-10 15:22:13 -->         0 role_memberships.
+2014-12-10 15:22:13 --> CLEANING OF GUEST SESSIONS FINISHED
+2014-12-10 15:22:13 --> CLEANING OF LOG FILES STARTED
+2014-12-10 15:22:13 --> - deleting/gzipping bibsched empty/old err/log BibSched files
+2014-12-10 15:22:13 --> CLEANING OF LOG FILES FINISHED
+2014-12-10 15:22:13 --> CLEANING OF TMP FILES STARTED
+2014-12-10 15:22:13 --> - deleting/gzipping temporary empty/old BibReformat xml files
+2014-12-10 15:22:13 --> - deleting/gzipping temporary old OAIHarvest xml files
+2014-12-10 15:22:13 --> - deleting/gzipping temporary old BibSword files
+2014-12-10 15:22:13 --> - deleting old video submissions
+2014-12-10 15:22:13 --> - deleting temporary old RefExtract files
+2014-12-10 15:22:13 --> - deleting temporary old bibdocfiles
+2014-12-10 15:22:13 --> - deleting old temporary WebSubmit icons
+2014-12-10 15:22:13 --> - deleting old temporary WebSubmit stamps
+2014-12-10 15:22:13 --> - deleting old temporary WebJournal XML files
+2014-12-10 15:22:13 --> - deleting old temporary files attached with CKEditor
+2014-12-10 15:22:13 --> find: `/opt/invenio/var/tmp/attachfile/': 没有那个文件或目录
+2014-12-10 15:22:13 --> CLEANING OF TMP FILES FINISHED
+2014-12-10 15:22:13 --> CLEANING OF UNREFERENCED bibXXx VALUES STARTED
+2014-12-10 15:22:13 --> CLEANING OF UNREFERENCED bibXXx VALUES FINISHED
+2014-12-10 15:22:13 --> CLEANING OF OBSOLETED DELETED DOCUMENTS STARTED
+2014-12-10 15:22:13 --> 0 obsoleted deleted documents cleaned
+2014-12-10 15:22:13 --> CLEANING OF OBSOLETED DELETED DOCUMENTS FINISHED
+2014-12-10 15:22:13 --> CLEANING OF OLD CACHED RSS REQUEST STARTED
+2014-12-10 15:22:13 --> 1 rss cache file pruned out of 1.
+2014-12-10 15:22:13 --> CLEANING OF OLD CACHED RSS REQUEST FINISHED
+2014-12-10 15:22:13 --> CLEANING OF OLD CACHED WEBJOURNAL FILES STARTED
+2014-12-10 15:22:13 --> 0 webjournal cache file pruned out of 0.
+2014-12-10 15:22:13 --> CLEANING OF OLD CACHED WEBJOURNAL FILES FINISHED
+2014-12-10 15:22:13 --> Task #119 finished and resubmitted.

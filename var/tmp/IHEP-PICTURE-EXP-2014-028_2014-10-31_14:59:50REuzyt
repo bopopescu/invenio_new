@@ -1,0 +1,10 @@
+<record>
+<controlfield tag="001">376</controlfield>
+<datafield tag="037" ind1=" " ind2=" "><subfield code="a">IHEP-PICTURE-EXP-2014-028</subfield></datafield>
+<datafield tag="245" ind1=" " ind2=" "><subfield code="a">qqq</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="c">2014-10-31</subfield></datafield>
+<datafield tag="856" ind1="0" ind2=" "><subfield code="f">wangli320@ihep.ac.cn</subfield></datafield>
+<datafield tag="980" ind1=" " ind2=" "><subfield code="a">PICTURE</subfield></datafield>
+</record>
+
+

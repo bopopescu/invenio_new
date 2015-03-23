@@ -1,0 +1,30 @@
+2014-09-26 09:20:03 --> Task #3 started.
+2014-09-26 09:20:03 --> last stored run date is 1900-01-01 00:00:00
+2014-09-26 09:20:03 --> Processing format HB
+2014-09-26 09:20:03 --> Querying database for records without cache...
+2014-09-26 09:20:03 --> Records to be processed: 107
+2014-09-26 09:20:03 --> Out of it records without existing cache: 107
+2014-09-26 09:20:04 -->    ... formatted 100 records out of 107
+2014-09-26 09:20:04 -->    ... formatted 107 records out of 107
+2014-09-26 09:20:04 --> storing run date to 2014-09-26 09:20:03.535574
+2014-09-26 09:20:04 --> total records processed: 107
+2014-09-26 09:20:04 --> total processing time: 0.890000 sec
+2014-09-26 09:20:04 --> Time spent on external call (os.system):
+2014-09-26 09:20:04 -->  bibformat: 0.890000 sec
+2014-09-26 09:20:04 -->  bibupload: 0.000000 sec
+2014-09-26 09:20:04 --> Task #3 finished. [DONE]
+2014-09-26 10:38:34 --> Task #3 started.
+2014-09-26 10:38:34 --> last stored run date is 1900-01-01 00:00:00
+2014-09-26 10:38:34 --> Processing format HB
+2014-09-26 10:38:34 --> Querying database for records without cache...
+2014-09-26 10:38:34 --> Records to be processed: 107
+2014-09-26 10:38:34 --> Out of it records without existing cache: 107
+2014-09-26 10:38:35 -->    ... formatted 100 records out of 107
+2014-09-26 10:38:35 -->    ... formatted 107 records out of 107
+2014-09-26 10:38:35 --> storing run date to 2014-09-26 10:38:34.800185
+2014-09-26 10:38:35 --> total records processed: 107
+2014-09-26 10:38:35 --> total processing time: 1.080000 sec
+2014-09-26 10:38:35 --> Time spent on external call (os.system):
+2014-09-26 10:38:35 -->  bibformat: 1.080000 sec
+2014-09-26 10:38:35 -->  bibupload: 0.000000 sec
+2014-09-26 10:38:35 --> Task #3 finished. [DONE]

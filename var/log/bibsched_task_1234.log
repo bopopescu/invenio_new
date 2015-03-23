@@ -1,0 +1,5 @@
+2014-12-09 11:09:27 --> Task #1234 started.
+2014-12-09 11:09:27 --> Input file '/opt/invenio/var/tmp/IHEP-PICTURE-HIST-2014-001_2014-12-09_10:33:57qqMrrW', input mode 'correct'.
+2014-12-09 11:09:27 --> Record 384 DONE
+2014-12-09 11:09:27 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.15 sec.
+2014-12-09 11:09:27 --> Task #1234 finished. [DONE]

@@ -1,0 +1,174 @@
+2014-09-26 09:22:35 --> Task #5 started.
+2014-09-26 09:22:35 --> Running rank method: times cited.
+2014-09-26 09:22:35 --> Last update 0000-00-00 00:00:00 records: 107 updates: 107
+2014-09-26 09:22:35 --> get cit.inf done 0 of 107
+2014-09-26 09:22:36 --> get cit.inf done fully
+2014-09-26 09:22:36 --> Execution time for generating citation info from record: 0.63 sec
+2014-09-26 09:22:36 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-09-26 09:22:36 --> Phase 1: d_references_report_numbers
+2014-09-26 09:22:36 --> d_references_report_numbers done 0 of 46
+2014-09-26 09:22:38 --> d_references_report_numbers done fully
+2014-09-26 09:22:38 --> Phase 2: d_references_s
+2014-09-26 09:22:38 --> d_references_s done 0 of 48
+2014-09-26 09:22:45 --> d_references_s done fully
+2014-09-26 09:22:45 --> Phase 3: d_reports_numbers
+2014-09-26 09:22:45 --> d_report_numbers done 0 of 107
+2014-09-26 09:22:46 --> d_report_numbers done fully
+2014-09-26 09:22:46 --> Phase 4: d_records_s
+2014-09-26 09:22:46 --> d_records_s done fully
+2014-09-26 09:22:46 --> Phase 5: reverse lists
+2014-09-26 09:22:46 --> Phase 6: self-citations
+2014-09-26 09:22:46 --> Self cite processing disabled. Use -A option to enable it.
+2014-09-26 09:22:46 --> Getting author citations
+2014-09-26 09:22:46 --> size of reversedict 88
+2014-09-26 09:22:46 --> size of citationdict 91
+2014-09-26 09:22:46 --> size of selfcitedbydict 10
+2014-09-26 09:22:46 --> size of selfcitdict 10
+2014-09-26 09:22:46 --> Execution time for analyzing the citation information generating the dictionary:
+2014-09-26 09:22:46 --> ... checking ref number: 1.63 sec
+2014-09-26 09:22:46 --> ... checking ref ypvt: 7.92 sec
+2014-09-26 09:22:46 --> ... checking rec number: 0.03 sec
+2014-09-26 09:22:46 --> ... checking rec ypvt: 0.01 sec
+2014-09-26 09:22:46 --> ... total time of ref_analyze: 9.59 sec
+2014-09-26 09:22:46 --> Total time of get_citation_weight(): 10.21 sec
+2014-09-26 09:22:46 --> Running rank method: citerank_citation_t
+2014-09-26 09:22:46 --> Running rank method: citerank_pagerank_c
+2014-09-26 09:22:46 --> Running rank method: citerank_pagerank_t
+2014-09-26 09:22:46 --> Running rank method: journal impact factor.
+2014-09-26 09:22:46 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-09-26 09:22:46 --> Number of lines read from knowledgebase file: 5
+2014-09-26 09:22:46 --> ......Processing records #1-107
+2014-09-26 09:22:46 --> Number of records found with the necessary tags: 42
+2014-09-26 09:22:46 --> Number of records available in rank method: 31
+2014-09-26 09:22:46 --> Running rank method: word similarity
+2014-09-26 09:22:46 --> Warning: Stemming not available for language 'fr'.
+2014-09-26 09:22:46 --> Warning: Stemming not available for language 'fr'.
+2014-09-26 09:22:46 --> rnkWORD01F contains 0 words from 0 records
+2014-09-26 09:22:46 --> rnkWORD01F is in consistent state
+2014-09-26 09:22:46 --> Using the last update time for the rank method
+2014-09-26 09:22:46 --> rnkWORD01F for 1-107 is in consistent state
+2014-09-26 09:22:46 --> rnkWORD01F adding records #1-#107 started
+2014-09-26 09:22:46 --> rnkWORD01F adding records #1-#107 ended  
+2014-09-26 09:22:46 --> rnkWORD01F normal wordtable flush started
+2014-09-26 09:22:46 --> ...updating 3366 words into rnkWORD01R started
+2014-09-26 09:22:46 --> ......processed 336/3366 words
+2014-09-26 09:22:46 --> ......processed 672/3366 words
+2014-09-26 09:22:46 --> ......processed 1008/3366 words
+2014-09-26 09:22:46 --> ......processed 1344/3366 words
+2014-09-26 09:22:47 --> ......processed 1680/3366 words
+2014-09-26 09:22:47 --> ......processed 2016/3366 words
+2014-09-26 09:22:47 --> ......processed 2352/3366 words
+2014-09-26 09:22:47 --> ......processed 2688/3366 words
+2014-09-26 09:22:47 --> ......processed 3024/3366 words
+2014-09-26 09:22:48 --> ......processed 3360/3366 words
+2014-09-26 09:22:48 --> rnkWORD01F normal wordtable flush ended
+2014-09-26 09:22:48 --> 107 records took 2.0 seconds to complete.(3140 recs/min)
+2014-09-26 09:22:48 --> Estimated runtime: 0.0 minutes
+2014-09-26 09:22:48 --> Beginning post-processing of 3366 terms
+2014-09-26 09:22:48 --> Phase 1: Finding records containing modified terms
+2014-09-26 09:22:49 --> Phase 1: ......processed 3366/3366 terms
+2014-09-26 09:22:49 --> Phase 1: Finished finding records containing modified terms
+2014-09-26 09:22:49 --> Phase 2: Finding all terms in affected records
+2014-09-26 09:22:49 --> Phase 2: ......processed 107/107 records 
+2014-09-26 09:22:49 --> Phase 2: Finished finding all terms in affected records
+2014-09-26 09:22:49 --> Phase 3: Getting approximate importance of all affected terms
+2014-09-26 09:22:49 --> Phase 3: ......processed 3373/3373 terms
+2014-09-26 09:22:49 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-09-26 09:22:49 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-09-26 09:22:49 --> Phase 4: ......processed 107/107 records
+2014-09-26 09:22:49 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-09-26 09:22:49 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-09-26 09:22:50 --> Phase 5: ......processed 3365/3365 terms
+2014-09-26 09:22:50 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-09-26 09:22:50 --> Time used for post-processing: 0.0min
+2014-09-26 09:22:50 --> Finished post-processing
+2014-09-26 09:22:50 --> rnkWORD01F contains 3365 words from 107 records
+2014-09-26 09:22:50 --> rnkWORD01F is in consistent state
+2014-09-26 09:22:50 --> Task #5 finished. [DONE]
+2014-09-26 10:40:54 --> Task #5 started.
+2014-09-26 10:40:54 --> Running rank method: times cited.
+2014-09-26 10:40:54 --> Last update 0000-00-00 00:00:00 records: 107 updates: 107
+2014-09-26 10:40:54 --> get cit.inf done 0 of 107
+2014-09-26 10:40:55 --> get cit.inf done fully
+2014-09-26 10:40:55 --> Execution time for generating citation info from record: 0.49 sec
+2014-09-26 10:40:55 --> Phase 0: temporarily remove changed records from citation dictionaries; they will be filled later
+2014-09-26 10:40:55 --> Phase 1: d_references_report_numbers
+2014-09-26 10:40:55 --> d_references_report_numbers done 0 of 45
+2014-09-26 10:40:56 --> d_references_report_numbers done fully
+2014-09-26 10:40:56 --> Phase 2: d_references_s
+2014-09-26 10:40:56 --> d_references_s done 0 of 47
+2014-09-26 10:41:00 --> d_references_s done fully
+2014-09-26 10:41:00 --> Phase 3: d_reports_numbers
+2014-09-26 10:41:00 --> d_report_numbers done 0 of 107
+2014-09-26 10:41:00 --> d_report_numbers done fully
+2014-09-26 10:41:00 --> Phase 4: d_records_s
+2014-09-26 10:41:00 --> d_records_s done fully
+2014-09-26 10:41:00 --> Phase 5: reverse lists
+2014-09-26 10:41:00 --> Phase 6: self-citations
+2014-09-26 10:41:00 --> Self cite processing disabled. Use -A option to enable it.
+2014-09-26 10:41:00 --> Getting author citations
+2014-09-26 10:41:00 --> size of reversedict 88
+2014-09-26 10:41:00 --> size of citationdict 91
+2014-09-26 10:41:00 --> size of selfcitedbydict 10
+2014-09-26 10:41:00 --> size of selfcitdict 10
+2014-09-26 10:41:00 --> Execution time for analyzing the citation information generating the dictionary:
+2014-09-26 10:41:00 --> ... checking ref number: 1.19 sec
+2014-09-26 10:41:00 --> ... checking ref ypvt: 4.15 sec
+2014-09-26 10:41:00 --> ... checking rec number: 0.04 sec
+2014-09-26 10:41:00 --> ... checking rec ypvt: 0.01 sec
+2014-09-26 10:41:00 --> ... total time of ref_analyze: 5.39 sec
+2014-09-26 10:41:00 --> Total time of get_citation_weight(): 5.88 sec
+2014-09-26 10:41:00 --> Running rank method: citerank_citation_t
+2014-09-26 10:41:00 --> Running rank method: citerank_pagerank_c
+2014-09-26 10:41:00 --> Running rank method: citerank_pagerank_t
+2014-09-26 10:41:00 --> Running rank method: journal impact factor.
+2014-09-26 10:41:00 --> Reading knowledgebase file: /opt/invenio/etc/bibrank/demo_jif.kb
+2014-09-26 10:41:00 --> Number of lines read from knowledgebase file: 5
+2014-09-26 10:41:00 --> ......Processing records #1-107
+2014-09-26 10:41:00 --> Number of records found with the necessary tags: 30
+2014-09-26 10:41:00 --> Number of records available in rank method: 30
+2014-09-26 10:41:00 --> Running rank method: word similarity
+2014-09-26 10:41:00 --> Warning: Stemming not available for language 'fr'.
+2014-09-26 10:41:00 --> Warning: Stemming not available for language 'fr'.
+2014-09-26 10:41:00 --> rnkWORD01F contains 0 words from 0 records
+2014-09-26 10:41:00 --> rnkWORD01F is in consistent state
+2014-09-26 10:41:00 --> Using the last update time for the rank method
+2014-09-26 10:41:00 --> rnkWORD01F for 1-107 is in consistent state
+2014-09-26 10:41:00 --> rnkWORD01F adding records #1-#107 started
+2014-09-26 10:41:00 --> rnkWORD01F adding records #1-#107 ended  
+2014-09-26 10:41:00 --> rnkWORD01F normal wordtable flush started
+2014-09-26 10:41:00 --> ...updating 3229 words into rnkWORD01R started
+2014-09-26 10:41:00 --> ......processed 322/3229 words
+2014-09-26 10:41:00 --> ......processed 644/3229 words
+2014-09-26 10:41:00 --> ......processed 966/3229 words
+2014-09-26 10:41:00 --> ......processed 1288/3229 words
+2014-09-26 10:41:01 --> ......processed 1610/3229 words
+2014-09-26 10:41:01 --> ......processed 1932/3229 words
+2014-09-26 10:41:01 --> ......processed 2254/3229 words
+2014-09-26 10:41:01 --> ......processed 2576/3229 words
+2014-09-26 10:41:01 --> ......processed 2898/3229 words
+2014-09-26 10:41:02 --> ......processed 3220/3229 words
+2014-09-26 10:41:02 --> rnkWORD01F normal wordtable flush ended
+2014-09-26 10:41:02 --> 99 records took 1.7 seconds to complete.(3548 recs/min)
+2014-09-26 10:41:02 --> Estimated runtime: 0.0 minutes
+2014-09-26 10:41:02 --> Beginning post-processing of 3229 terms
+2014-09-26 10:41:02 --> Phase 1: Finding records containing modified terms
+2014-09-26 10:41:03 --> Phase 1: ......processed 3229/3229 terms
+2014-09-26 10:41:03 --> Phase 1: Finished finding records containing modified terms
+2014-09-26 10:41:03 --> Phase 2: Finding all terms in affected records
+2014-09-26 10:41:03 --> Phase 2: ......processed 99/99 records 
+2014-09-26 10:41:03 --> Phase 2: Finished finding all terms in affected records
+2014-09-26 10:41:03 --> Phase 3: Getting approximate importance of all affected terms
+2014-09-26 10:41:03 --> Phase 3: ......processed 3236/3236 terms
+2014-09-26 10:41:03 --> Phase 3: Finished getting approximate importance of all affected terms
+2014-09-26 10:41:03 --> Phase 4: Calculating normalization value for all affected records and updating rnkWORD01R
+2014-09-26 10:41:03 --> Phase 4: ......processed 99/99 records
+2014-09-26 10:41:03 --> Phase 4: Finished calculating normalization value for all affected records and updating rnkWORD01R
+2014-09-26 10:41:03 --> Phase 5: Updating rnkWORD01F with new normalization values
+2014-09-26 10:41:04 --> Phase 5: ......processed 3228/3228 terms
+2014-09-26 10:41:04 --> Phase 5:  Finished updating rnkWORD01F with new normalization values
+2014-09-26 10:41:04 --> Time used for post-processing: 0.0min
+2014-09-26 10:41:04 --> Finished post-processing
+2014-09-26 10:41:04 --> rnkWORD01F contains 3228 words from 99 records
+2014-09-26 10:41:04 --> rnkWORD01F is in consistent state
+2014-09-26 10:41:04 --> Task #5 finished. [DONE]

@@ -1,0 +1,1262 @@
+2014-09-26 09:08:30 --> Task #1 started.
+2014-09-26 09:08:32 --> Atlantis Institute of Fictive Science / reclist cache update
+2014-09-26 09:08:32 --> Preprints / reclist cache update
+2014-09-26 09:08:32 --> Books / reclist cache update
+2014-09-26 09:08:32 --> Theses / reclist cache update
+2014-09-26 09:08:32 --> Reports / reclist cache update
+2014-09-26 09:08:32 --> Articles / reclist cache update
+2014-09-26 09:08:32 --> Pictures / reclist cache update
+2014-09-26 09:08:32 --> CERN Divisions / reclist cache update
+2014-09-26 09:08:32 --> CERN Experiments / reclist cache update
+2014-09-26 09:08:32 --> Theoretical Physics (TH) / reclist cache update
+2014-09-26 09:08:32 --> Experimental Physics (EP) / reclist cache update
+2014-09-26 09:08:32 --> ISOLDE / reclist cache update
+2014-09-26 09:08:32 --> ALEPH / reclist cache update
+2014-09-26 09:08:32 --> Articles & Preprints / reclist cache update
+2014-09-26 09:08:32 --> Books & Reports / reclist cache update
+2014-09-26 09:08:32 --> Multimedia & Arts / reclist cache update
+2014-09-26 09:08:32 --> Poetry / reclist cache update
+2014-09-26 09:08:32 --> Atlantis Times News / reclist cache update
+2014-09-26 09:08:32 --> Atlantis Times Arts / reclist cache update
+2014-09-26 09:08:32 --> Atlantis Times Science / reclist cache update
+2014-09-26 09:08:32 --> Atlantis Times / reclist cache update
+2014-09-26 09:08:32 --> Atlantis Institute Books / reclist cache update
+2014-09-26 09:08:32 --> Atlantis Institute Articles / reclist cache update
+2014-09-26 09:08:32 --> Atlantis Times Drafts / reclist cache update
+2014-09-26 09:08:32 --> Videos / reclist cache update
+2014-09-26 09:08:32 --> Atlantis Institute of Fictive Science / webpage cache update
+2014-09-26 09:08:40 --> Preprints / webpage cache update
+2014-09-26 09:08:43 --> Books / webpage cache update
+2014-09-26 09:08:45 --> Theses / webpage cache update
+2014-09-26 09:08:50 --> Reports / webpage cache update
+2014-09-26 09:08:54 --> Articles / webpage cache update
+2014-09-26 09:08:56 --> Pictures / webpage cache update
+2014-09-26 09:08:59 --> CERN Divisions / webpage cache update
+2014-09-26 09:09:05 --> CERN Experiments / webpage cache update
+2014-09-26 09:09:12 --> Theoretical Physics (TH) / webpage cache update
+2014-09-26 09:09:18 --> Experimental Physics (EP) / webpage cache update
+2014-09-26 09:09:22 --> ISOLDE / webpage cache update
+2014-09-26 09:09:28 --> ALEPH / webpage cache update
+2014-09-26 09:09:32 --> Articles & Preprints / webpage cache update
+2014-09-26 09:09:37 --> Books & Reports / webpage cache update
+2014-09-26 09:09:45 --> Multimedia & Arts / webpage cache update
+2014-09-26 09:09:53 --> Poetry / webpage cache update
+2014-09-26 09:09:59 --> Atlantis Times News / webpage cache update
+2014-09-26 09:10:04 --> Atlantis Times Arts / webpage cache update
+2014-09-26 09:10:08 --> Atlantis Times Science / webpage cache update
+2014-09-26 09:10:15 --> Atlantis Times / webpage cache update
+2014-09-26 09:10:22 --> Atlantis Institute Books / webpage cache update
+2014-09-26 09:10:27 --> Atlantis Institute Articles / webpage cache update
+2014-09-26 09:10:32 --> Atlantis Times Drafts / webpage cache update
+2014-09-26 09:10:38 --> Videos / webpage cache update
+2014-09-26 09:10:44 --> Task #1 finished. [DONE]
+2014-09-26 09:12:53 --> Task #1 started.
+2014-09-26 09:12:53 --> Input file '/opt/invenio/var/tmp/demobibdata.xml', input mode 'insert'.
+2014-09-26 09:12:58 --> Record 1 DONE
+2014-09-26 09:13:03 --> Record 2 DONE
+2014-09-26 09:13:06 --> Record 3 DONE
+2014-09-26 09:13:09 --> Record 4 DONE
+2014-09-26 09:13:13 --> Record 5 DONE
+2014-09-26 09:13:17 --> Record 6 DONE
+2014-09-26 09:13:20 --> Record 7 DONE
+2014-09-26 09:13:25 --> Record 8 DONE
+2014-09-26 09:13:25 --> Record 9 DONE
+2014-09-26 09:13:31 --> Record 10 DONE
+2014-09-26 09:13:45 --> Record 11 DONE
+2014-09-26 09:13:52 --> Record 12 DONE
+2014-09-26 09:13:52 --> Record 13 DONE
+2014-09-26 09:13:52 --> Record 14 DONE
+2014-09-26 09:13:57 --> Record 15 DONE
+2014-09-26 09:13:57 --> Record 16 DONE
+2014-09-26 09:13:57 --> Record 17 DONE
+2014-09-26 09:13:57 --> Record 18 DONE
+2014-09-26 09:13:57 --> Record 19 DONE
+2014-09-26 09:13:57 --> Record 20 DONE
+2014-09-26 09:13:57 --> Record 21 DONE
+2014-09-26 09:13:57 --> Record 22 DONE
+2014-09-26 09:13:57 --> Record 23 DONE
+2014-09-26 09:13:57 --> Record 24 DONE
+2014-09-26 09:13:57 --> Record 25 DONE
+2014-09-26 09:13:57 --> Record 26 DONE
+2014-09-26 09:13:57 --> Record 27 DONE
+2014-09-26 09:13:57 --> Record 28 DONE
+2014-09-26 09:13:57 --> Record 29 DONE
+2014-09-26 09:13:57 --> Record 30 DONE
+2014-09-26 09:13:57 --> Record 31 DONE
+2014-09-26 09:13:57 --> Record 32 DONE
+2014-09-26 09:13:57 --> Record 33 DONE
+2014-09-26 09:13:57 --> Record 34 DONE
+2014-09-26 09:13:57 --> Record 35 DONE
+2014-09-26 09:13:57 --> Record 36 DONE
+2014-09-26 09:13:57 --> Record 37 DONE
+2014-09-26 09:13:57 --> Record 38 DONE
+2014-09-26 09:13:57 --> Record 39 DONE
+2014-09-26 09:13:57 --> Record 40 DONE
+2014-09-26 09:13:57 --> Record 41 DONE
+2014-09-26 09:13:57 --> Record 42 DONE
+2014-09-26 09:14:00 --> Record 43 DONE
+2014-09-26 09:14:04 --> Record 44 DONE
+2014-09-26 09:14:06 --> Record 45 DONE
+2014-09-26 09:14:12 --> Record 46 DONE
+2014-09-26 09:14:17 --> Record 47 DONE
+2014-09-26 09:14:22 --> Record 48 DONE
+2014-09-26 09:14:26 --> Record 49 DONE
+2014-09-26 09:14:29 --> Record 50 DONE
+2014-09-26 09:14:31 --> Record 51 DONE
+2014-09-26 09:14:36 --> Record 52 DONE
+2014-09-26 09:14:41 --> Record 53 DONE
+2014-09-26 09:14:45 --> Record 54 DONE
+2014-09-26 09:14:50 --> Record 55 DONE
+2014-09-26 09:14:54 --> Record 56 DONE
+2014-09-26 09:14:59 --> Record 57 DONE
+2014-09-26 09:15:03 --> Record 58 DONE
+2014-09-26 09:15:08 --> Record 59 DONE
+2014-09-26 09:15:12 --> Record 60 DONE
+2014-09-26 09:15:16 --> Record 61 DONE
+2014-09-26 09:15:21 --> Record 62 DONE
+2014-09-26 09:15:26 --> Record 63 DONE
+2014-09-26 09:15:29 --> Record 64 DONE
+2014-09-26 09:15:32 --> Record 65 DONE
+2014-09-26 09:15:37 --> Record 66 DONE
+2014-09-26 09:15:37 --> Record 67 DONE
+2014-09-26 09:15:41 --> Record 68 DONE
+2014-09-26 09:15:41 --> Record 69 DONE
+2014-09-26 09:15:45 --> Record 70 DONE
+2014-09-26 09:15:48 --> Record 71 DONE
+2014-09-26 09:15:51 --> Record 72 DONE
+2014-09-26 09:15:54 --> Record 73 DONE
+2014-09-26 09:16:05 --> Record 74 DONE
+2014-09-26 09:16:05 --> Record 75 DONE
+2014-09-26 09:16:05 --> Record 76 DONE
+2014-09-26 09:16:09 --> Record 77 DONE
+2014-09-26 09:16:13 --> Record 78 DONE
+2014-09-26 09:16:17 --> Record 79 DONE
+2014-09-26 09:16:22 --> Record 80 DONE
+2014-09-26 09:16:27 --> Record 81 DONE
+2014-09-26 09:16:32 --> Record 82 DONE
+2014-09-26 09:16:37 --> Record 83 DONE
+2014-09-26 09:16:41 --> Record 84 DONE
+2014-09-26 09:16:44 --> Record 85 DONE
+2014-09-26 09:16:51 --> Record 86 DONE
+2014-09-26 09:16:54 --> Record 87 DONE
+2014-09-26 09:16:59 --> Record 88 DONE
+2014-09-26 09:17:02 --> Record 89 DONE
+2014-09-26 09:17:05 --> Record 90 DONE
+2014-09-26 09:17:07 --> Record 91 DONE
+2014-09-26 09:17:10 --> Record 92 DONE
+2014-09-26 09:17:12 --> Record 93 DONE
+2014-09-26 09:17:14 --> Record 94 DONE
+2014-09-26 09:17:16 --> Record 95 DONE
+2014-09-26 09:17:20 --> Record 96 DONE
+2014-09-26 09:17:23 --> Record 97 DONE
+2014-09-26 09:17:27 --> Record 98 DONE
+2014-09-26 09:17:30 --> Record 99 DONE
+2014-09-26 09:17:30 --> Record 100 DONE
+2014-09-26 09:17:32 --> Record 101 DONE
+2014-09-26 09:17:35 --> Record 102 DONE
+2014-09-26 09:17:39 --> Record 103 DONE
+2014-09-26 09:17:39 --> Record 104 DONE
+2014-09-26 09:17:43 --> Record 105 DONE
+2014-09-26 09:17:45 --> Record 106 DONE
+2014-09-26 09:18:21 --> Record 107 DONE
+2014-09-26 09:18:21 --> Task stats: 107 input records, 0 updated, 107 inserted, 0 errors, 0 inserted to holding pen.  Time 328.35 sec.
+2014-09-26 09:18:21 --> Task #1 finished. [DONE]
+2014-09-26 10:28:40 --> Task #1 started.
+2014-09-26 10:28:43 --> Atlantis Institute of Fictive Science / reclist cache update
+2014-09-26 10:28:43 --> Preprints / reclist cache update
+2014-09-26 10:28:43 --> Books / reclist cache update
+2014-09-26 10:28:43 --> Theses / reclist cache update
+2014-09-26 10:28:43 --> Reports / reclist cache update
+2014-09-26 10:28:43 --> Articles / reclist cache update
+2014-09-26 10:28:43 --> Pictures / reclist cache update
+2014-09-26 10:28:43 --> CERN Divisions / reclist cache update
+2014-09-26 10:28:43 --> CERN Experiments / reclist cache update
+2014-09-26 10:28:43 --> Theoretical Physics (TH) / reclist cache update
+2014-09-26 10:28:43 --> Experimental Physics (EP) / reclist cache update
+2014-09-26 10:28:43 --> ISOLDE / reclist cache update
+2014-09-26 10:28:43 --> ALEPH / reclist cache update
+2014-09-26 10:28:43 --> Articles & Preprints / reclist cache update
+2014-09-26 10:28:43 --> Books & Reports / reclist cache update
+2014-09-26 10:28:43 --> Multimedia & Arts / reclist cache update
+2014-09-26 10:28:43 --> Poetry / reclist cache update
+2014-09-26 10:28:43 --> Atlantis Times News / reclist cache update
+2014-09-26 10:28:43 --> Atlantis Times Arts / reclist cache update
+2014-09-26 10:28:43 --> Atlantis Times Science / reclist cache update
+2014-09-26 10:28:43 --> Atlantis Times / reclist cache update
+2014-09-26 10:28:43 --> Atlantis Institute Books / reclist cache update
+2014-09-26 10:28:43 --> Atlantis Institute Articles / reclist cache update
+2014-09-26 10:28:44 --> Atlantis Times Drafts / reclist cache update
+2014-09-26 10:28:44 --> Videos / reclist cache update
+2014-09-26 10:28:44 --> Atlantis Institute of Fictive Science / webpage cache update
+2014-09-26 10:28:53 --> Preprints / webpage cache update
+2014-09-26 10:28:56 --> Books / webpage cache update
+2014-09-26 10:28:59 --> Theses / webpage cache update
+2014-09-26 10:29:03 --> Reports / webpage cache update
+2014-09-26 10:29:08 --> Articles / webpage cache update
+2014-09-26 10:29:11 --> Pictures / webpage cache update
+2014-09-26 10:29:14 --> CERN Divisions / webpage cache update
+2014-09-26 10:29:20 --> CERN Experiments / webpage cache update
+2014-09-26 10:29:28 --> Theoretical Physics (TH) / webpage cache update
+2014-09-26 10:29:31 --> Experimental Physics (EP) / webpage cache update
+2014-09-26 10:29:36 --> ISOLDE / webpage cache update
+2014-09-26 10:29:41 --> ALEPH / webpage cache update
+2014-09-26 10:29:46 --> Articles & Preprints / webpage cache update
+2014-09-26 10:29:52 --> Books & Reports / webpage cache update
+2014-09-26 10:29:59 --> Multimedia & Arts / webpage cache update
+2014-09-26 10:30:07 --> Poetry / webpage cache update
+2014-09-26 10:30:13 --> Atlantis Times News / webpage cache update
+2014-09-26 10:30:20 --> Atlantis Times Arts / webpage cache update
+2014-09-26 10:30:25 --> Atlantis Times Science / webpage cache update
+2014-09-26 10:30:31 --> Atlantis Times / webpage cache update
+2014-09-26 10:30:37 --> Atlantis Institute Books / webpage cache update
+2014-09-26 10:30:43 --> Atlantis Institute Articles / webpage cache update
+2014-09-26 10:30:48 --> Atlantis Times Drafts / webpage cache update
+2014-09-26 10:30:54 --> Videos / webpage cache update
+2014-09-26 10:30:59 --> Task #1 finished. [DONE]
+2014-09-26 10:31:00 --> Task #1 started.
+2014-09-26 10:31:00 --> Input file '/opt/invenio/var/tmp/demobibdata.xml', input mode 'insert'.
+2014-09-26 10:31:05 --> Error in adding '/opt/invenio/var/tmp/bibdocfile_EJh1zs.jpg' as a new format because of: A file for docname '0106015_01' for the recid '1' already exists for the format '.jpg'
+2014-09-26 10:31:05 -->    Stage 2 failed: Error while elaborating FFT tags: A file for docname '0106015_01' for the recid '1' already exists for the format '.jpg'
+2014-09-26 10:31:05 --> <record>
+  <controlfield tag="001">1</controlfield>
+  <controlfield tag="005">20140926103100.0</controlfield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">CERN-EX-0106015</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Photolab</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">ALEPH experiment: Candidate of Higgs boson production</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2="1">
+    <subfield code="a">Expérience ALEPH: Candidat de la production d'un boson Higgs</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">14 06 2000</subfield>
+  </datafield>
+  <datafield tag="340" ind1=" " ind2=" ">
+    <subfield code="a">FILM</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Candidate for the associated production of the Higgs boson and Z boson. Both, the Higgs and Z boson decay into 2 jets each. The green and the yellow jets belong to the Higgs boson. They represent the fragmentation of a bottom andanti-bottom quark. The red and the blue jets stem from the decay of the Z boson into a quark anti-quark pair. Left: View of the event along the beam axis. Bottom right: Zoom around the interaction point at the centre showing detailsof the fragmentation of the bottom and anti-bottom quarks. As expected for b quarks, in each jet the decay of a long-lived B meson is visible. Top right: "World map" showing the spatial distribution of the jets in the event.</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Press</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">SzGeCERN</subfield>
+    <subfield code="a">Experiments and Tracks</subfield>
+  </datafield>
+  <datafield tag="653" ind1="1" ind2=" ">
+    <subfield code="a">LEP</subfield>
+  </datafield>
+  <datafield tag="856" ind1="0" ind2=" ">
+    <subfield code="f">neil.calder@cern.ch</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="o">0003717PHOPHO</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="y">2000</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="b">81</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="1">
+    <subfield code="c">2001-06-14</subfield>
+    <subfield code="l">50</subfield>
+    <subfield code="m">2001-08-27</subfield>
+    <subfield code="o">CM</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="p">Bldg. 2</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="r">Calder, N</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="S">
+    <subfield code="s">n</subfield>
+    <subfield code="w">200231</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PICTURE</subfield>
+  </datafield>
+</record>
+2014-09-26 10:31:10 --> Error in adding '/opt/invenio/var/tmp/bibdocfile_KbkP4X.jpeg' as a new format because of: A file for docname '0104007_02' for the recid '2' already exists for the format '.jpeg'
+2014-09-26 10:31:10 -->    Stage 2 failed: Error while elaborating FFT tags: A file for docname '0104007_02' for the recid '2' already exists for the format '.jpeg'
+2014-09-26 10:31:10 --> <record>
+  <controlfield tag="001">2</controlfield>
+  <controlfield tag="005">20140926103105.0</controlfield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">CERN-EX-0104007</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Patrice Loïez</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The first CERN-built module of the barrel section of ATLAS's electromagnetic calorimeter</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2="1">
+    <subfield code="a">Premier module du tonneau du calorimètre electromagnétique d'ATLAS</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">10 Apr 2001</subfield>
+  </datafield>
+  <datafield tag="340" ind1=" " ind2=" ">
+    <subfield code="a">DIGITAL</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Behind the module, left to right Ralf Huber, Andreas Bies and Jorgen Beck Hansen. In front of the module, left to right: Philippe Lançon and Edward Wood.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Derrière le module, de gauche à droite: Ralf Huber, Andreas Bies, Jorgen Beck Hansen. Devant le module, de gauche à droite : Philippe Lançon et Edward Wood.</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">CERN EDS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">SzGeCERN</subfield>
+    <subfield code="a">Experiments and Tracks</subfield>
+  </datafield>
+  <datafield tag="856" ind1="0" ind2=" ">
+    <subfield code="f">marie.noelle.pages.ribeiro@cern.ch</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="o">0003601PHOPHO</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="y">2001</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="b">81</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="1">
+    <subfield code="c">2001-04-23</subfield>
+    <subfield code="l">50</subfield>
+    <subfield code="m">2001-06-18</subfield>
+    <subfield code="o">CM</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="K">
+    <subfield code="b">0020699</subfield>
+    <subfield code="l">ADMBUL</subfield>
+    <subfield code="t">CERN Bulletin 18/2001 : 30 April 2001 (English)</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="K">
+    <subfield code="b">0020700</subfield>
+    <subfield code="l">ADMBUL</subfield>
+    <subfield code="t">CERN Bulletin 18/2001 : 30 avril 2001 (French)</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="p">Bldg. 184</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="r">Fassnacht, P</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="S">
+    <subfield code="s">n</subfield>
+    <subfield code="w">200231</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PICTURE</subfield>
+  </datafield>
+</record>
+2014-09-26 10:31:13 --> Error in adding '/opt/invenio/var/tmp/bibdocfile_4pI6Jd.jpeg' as a new format because of: A file for docname '6902127' for the recid '3' already exists for the format '.jpeg'
+2014-09-26 10:31:13 -->    Stage 2 failed: Error while elaborating FFT tags: A file for docname '6902127' for the recid '3' already exists for the format '.jpeg'
+2014-09-26 10:31:13 --> <record>
+  <controlfield tag="001">3</controlfield>
+  <controlfield tag="005">20140926103110.0</controlfield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">CERN-HI-6902127</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">European Molecular Biology Conference</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">Jul 1969</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">In February, the Agreement establishing the European Molecular Biology Conference was signed at CERN. Willy Spuhler is signing for Switzerland.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">SzGeCERN</subfield>
+    <subfield code="a">Personalities and History of CERN</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="o">0002690PHOPHO</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="y">1969</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="b">81</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="1">
+    <subfield code="c">2000-06-13</subfield>
+    <subfield code="l">50</subfield>
+    <subfield code="m">2000-06-13</subfield>
+    <subfield code="o">CM</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="s">127-2-69</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="S">
+    <subfield code="s">n</subfield>
+    <subfield code="w">200024</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PICTURE</subfield>
+  </datafield>
+</record>
+2014-09-26 10:31:17 --> Error in adding '/opt/invenio/var/tmp/bibdocfile_XsoaLZ.jpeg' as a new format because of: A file for docname '9906028_01' for the recid '4' already exists for the format '.jpeg'
+2014-09-26 10:31:17 -->    Stage 2 failed: Error while elaborating FFT tags: A file for docname '9906028_01' for the recid '4' already exists for the format '.jpeg'
+2014-09-26 10:31:17 --> <record>
+  <controlfield tag="001">4</controlfield>
+  <controlfield tag="005">20140926103113.0</controlfield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">CERN-DI-9906028</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">J.L. Caron</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The Twenty Member States of CERN (with dates of accession) on 1 June 1999</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">Jun 1999</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">CERN Member States.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Les Etats membres du CERN.</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Press</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">SzGeCERN</subfield>
+    <subfield code="a">Diagrams and Charts</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="o">0001754PHOPHO</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="y">1999</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="b">81</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="1">
+    <subfield code="c">1999-06-17</subfield>
+    <subfield code="l">50</subfield>
+    <subfield code="m">2000-10-30</subfield>
+    <subfield code="o">CM</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="S">
+    <subfield code="s">n</subfield>
+    <subfield code="w">199924</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PICTURE</subfield>
+  </datafield>
+</record>
+2014-09-26 10:31:20 --> Error in adding '/opt/invenio/var/tmp/bibdocfile_YgIGqx.jpeg' as a new format because of: A file for docname '9905005_01' for the recid '5' already exists for the format '.jpeg'
+2014-09-26 10:31:20 -->    Stage 2 failed: Error while elaborating FFT tags: A file for docname '9905005_01' for the recid '5' already exists for the format '.jpeg'
+2014-09-26 10:31:20 --> <record>
+  <controlfield tag="001">5</controlfield>
+  <controlfield tag="005">20140926103117.0</controlfield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">CERN-DI-9905005</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">High energy cosmic rays striking atoms at the top of the atmosphere give the rise to showers of particles striking the Earth's surface</subfield>
+  </datafield>
+  <datafield tag="246" ind1=" " ind2="1">
+    <subfield code="a">Des rayons cosmiques de haute energie heurtent des atomes dans la haute atmosphere et donnent ainsi naissance a des gerbes de particules projetees sur la surface terrestre</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">10 May 1999</subfield>
+  </datafield>
+  <datafield tag="340" ind1=" " ind2=" ">
+    <subfield code="a">DIGITAL</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Press</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">SzGeCERN</subfield>
+    <subfield code="a">Diagrams and Charts</subfield>
+  </datafield>
+  <datafield tag="856" ind1="0" ind2=" ">
+    <subfield code="f">neil.calder@cern.ch</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="o">0001626PHOPHO</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="y">1999</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="b">81</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="1">
+    <subfield code="c">1999-05-10</subfield>
+    <subfield code="l">50</subfield>
+    <subfield code="m">2000-09-12</subfield>
+    <subfield code="o">CM</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="p">Bldg. 60</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="r">Calder, N</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="S">
+    <subfield code="s">n</subfield>
+    <subfield code="w">200231</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PICTURE</subfield>
+  </datafield>
+</record>
+2014-09-26 10:31:24 --> Error in adding '/opt/invenio/var/tmp/bibdocfile_5tVEMM.jpg' as a new format because of: A file for docname '6206002' for the recid '6' already exists for the format '.jpg'
+2014-09-26 10:31:24 -->    Stage 2 failed: Error while elaborating FFT tags: A file for docname '6206002' for the recid '6' already exists for the format '.jpg'
+2014-09-26 10:31:24 --> <record>
+  <controlfield tag="001">6</controlfield>
+  <controlfield tag="005">20140926103120.0</controlfield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">CERN-HI-6206002</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">At CERN in 1962</subfield>
+    <subfield code="s">eight Nobel prizewinners</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1962</subfield>
+  </datafield>
+  <datafield tag="506" ind1="1" ind2=" ">
+    <subfield code="a">jekyll_only</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">In 1962, CERN hosted the 11th International Conference on High Energy Physics. Among the distinguished visitors were eight Nobel prizewinners.Left to right: Cecil F. Powell, Isidor I. Rabi, Werner Heisenberg, Edwin M. McMillan, Emile Segre, Tsung Dao Lee, Chen Ning Yang and Robert Hofstadter.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">En 1962, le CERN est l'hote de la onzieme Conference Internationale de Physique des Hautes Energies. Parmi les visiteurs eminents se trouvaient huit laureats du prix Nobel.De gauche a droite: Cecil F. Powell, Isidor I. Rabi, Werner Heisenberg, Edwin M. McMillan, Emile Segre, Tsung Dao Lee, Chen Ning Yang et Robert Hofstadter.</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Press</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">SzGeCERN</subfield>
+    <subfield code="a">Personalities and History of CERN</subfield>
+  </datafield>
+  <datafield tag="653" ind1="1" ind2=" ">
+    <subfield code="a">Nobel laureate</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="o">0000736PHOPHO</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="y">1962</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="b">81</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="1">
+    <subfield code="c">1998-07-23</subfield>
+    <subfield code="l">50</subfield>
+    <subfield code="m">2002-07-15</subfield>
+    <subfield code="o">CM</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.nobel.se/physics/laureates/1950/index.html</subfield>
+    <subfield code="p">The Nobel Prize in Physics 1950 : Cecil Frank Powell</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.nobel.se/physics/laureates/1944/index.html</subfield>
+    <subfield code="p">The Nobel Prize in Physics 1944 : Isidor Isaac Rabi</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.nobel.se/physics/laureates/1932/index.html</subfield>
+    <subfield code="p">The Nobel Prize in Physics 1932 : Werner Karl Heisenberg</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.nobel.se/chemistry/laureates/1951/index.html</subfield>
+    <subfield code="p">The Nobel Prize in Chemistry 1951 : Edwin Mattison McMillan</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.nobel.se/physics/laureates/1959/index.html</subfield>
+    <subfield code="p">The Nobel Prize in Physics 1959 : Emilio Gino Segre</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.nobel.se/physics/laureates/1957/index.html</subfield>
+    <subfield code="p">The Nobel Prize in Physics 1957 : Chen Ning Yang and Tsung-Dao Lee</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.nobel.se/physics/laureates/1961/index.html</subfield>
+    <subfield code="p">The Nobel Prize in Physics 1961 : Robert Hofstadter</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="s">6206002 (1962)</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="S">
+    <subfield code="s">n</subfield>
+    <subfield code="w">199830</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PICTURE</subfield>
+  </datafield>
+</record>
+2014-09-26 10:31:27 --> Error in adding '/opt/invenio/var/tmp/bibdocfile_p84tBA.jpeg' as a new format because of: A file for docname '9806033' for the recid '7' already exists for the format '.jpeg'
+2014-09-26 10:31:27 -->    Stage 2 failed: Error while elaborating FFT tags: A file for docname '9806033' for the recid '7' already exists for the format '.jpeg'
+2014-09-26 10:31:27 --> <record>
+  <controlfield tag="001">7</controlfield>
+  <controlfield tag="005">20140926103124.0</controlfield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">CERN-GE-9806033</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Tim Berners-Lee</subfield>
+    <subfield code="s">World-Wide Web inventor</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">28 Jun 1998</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Conference "Internet, Web, What's next?" on 26 June 1998 at CERN : Tim Berners-Lee, inventor of the World-Wide Web and Director of the W3C, explains how the Web came to be and give his views on the future.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">Conference "Internet, Web, What's next?" le 26 juin 1998 au CERN: Tim Berners-Lee, inventeur du World-Wide Web et directeur du W3C, explique comment le Web est ne, et donne ses opinions sur l'avenir.</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Press</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">SzGeCERN</subfield>
+    <subfield code="a">Life at CERN</subfield>
+  </datafield>
+  <datafield tag="856" ind1="0" ind2=" ">
+    <subfield code="f">neil.calder@cern.ch</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="o">0000655PHOPHO</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="y">1998</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="b">81</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="1">
+    <subfield code="c">1998-07-03</subfield>
+    <subfield code="l">50</subfield>
+    <subfield code="m">2001-07-10</subfield>
+    <subfield code="o">CM</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.cern.ch/CERN/Announcements/1998/WebNext.html</subfield>
+    <subfield code="p">"Internet, Web, What's next?" 26 June 1998</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://Bulletin.cern.ch/9828/art2/Text_E.html</subfield>
+    <subfield code="p">CERN Bulletin no 28/98 (6 July 1998) (English)</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://Bulletin.cern.ch/9828/art2/Text_F.html</subfield>
+    <subfield code="p">CERN Bulletin no 28/98 (6 juillet 1998) (French)</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="d">http://www.w3.org/People/Berners-Lee/</subfield>
+    <subfield code="p">Biography</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="K">
+    <subfield code="b">0000990</subfield>
+    <subfield code="l">PRSPRS</subfield>
+    <subfield code="t">Le Pays Gessien : 3 Jul 1998</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="K">
+    <subfield code="b">0001037</subfield>
+    <subfield code="l">PRSPRS</subfield>
+    <subfield code="t">Le Temps : 27 Jun 1998</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="K">
+    <subfield code="b">0000809</subfield>
+    <subfield code="l">PRSPRS</subfield>
+    <subfield code="t">La Tribune de Geneve : 27 Jun 1998</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="p">Bldg. 60</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="P">
+    <subfield code="r">Calder, N</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="S">
+    <subfield code="s">n</subfield>
+    <subfield code="w">199827</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PICTURE</subfield>
+  </datafield>
+</record>
+2014-09-26 10:31:32 --> Error in adding '/opt/invenio/var/tmp/bibdocfile_PrqkfJ.pdf' as a new format because of: A file for docname '9812226' for the recid '8' already exists for the format '.pdf'
+2014-09-26 10:31:32 -->    Stage 2 failed: Error while elaborating FFT tags: A file for docname '9812226' for the recid '8' already exists for the format '.pdf'
+2014-09-26 10:31:32 --> <record>
+  <controlfield tag="001">8</controlfield>
+  <controlfield tag="005">20140926103127.0</controlfield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">astro-ph/9812226</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Efstathiou, G P</subfield>
+    <subfield code="u">Cambridge University</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Constraints on $\Omega_{\Lambda}$ and $\Omega_{m}$from Distant Type 1a Supernovae and Cosmic Microwave Background Anisotropies</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">14 Dec 1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">6 p</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">We perform a combined likelihood analysis of the latest cosmic microwave background anisotropy data and distant Type 1a Supernova data of Perlmutter etal (1998a). Our analysis is restricted tocosmological models where structure forms from adiabatic initial fluctuations characterised by a power-law spectrum with negligible tensor component. Marginalizing over other parameters, our bestfit solution gives Omega_m = 0.25 (+0.18, -0.12) and Omega_Lambda = 0.63 (+0.17, -0.23) (95 % confidence errors) for the cosmic densities contributed by matter and a cosmological constantrespectively. The results therefore strongly favour a nearly spatially flat Universe with a non-zero cosmological constant.</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">LANL EDS</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">SzGeCERN</subfield>
+    <subfield code="a">Astrophysics and Astronomy</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Lasenby, A N</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Hobson, M P</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Ellis, R S</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Bridle, S L</subfield>
+  </datafield>
+  <datafield tag="856" ind1="0" ind2=" ">
+    <subfield code="f">George Efstathiou &lt;gpe@ast.cam.ac.uk></subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="y">1998</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="0">
+    <subfield code="b">11</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="1">
+    <subfield code="c">1998-12-14</subfield>
+    <subfield code="l">50</subfield>
+    <subfield code="m">2001-04-07</subfield>
+    <subfield code="o">BATCH</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="4">
+    <subfield code="p">Mon. Not. R. Astron. Soc.</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="i">SLAC</subfield>
+    <subfield code="s">4162242</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="5">
+    <subfield code="b">CER</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="S">
+    <subfield code="s">n</subfield>
+    <subfield code="w">200231</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">PREPRINT</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Bond, J.R. 1996, Theory and Observations of the Cosmic Background Radiation, in "Cosmology and Large Scale Structure", Les Houches Session LX, August 1993, eds. R. Schaeffer, J. Silk, M. Spiro and J. Zinn-Justin, Elsevier SciencePress, Amsterdam, p469</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Bond J.R., Efstathiou G., Tegmark M., 1997</subfield>
+    <subfield code="p">L33</subfield>
+    <subfield code="t">Mon. Not. R. Astron. Soc.</subfield>
+    <subfield code="v">291</subfield>
+    <subfield code="y">1997</subfield>
+    <subfield code="s">Mon. Not. R. Astron. Soc. 291 (1997) L33</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Bond, J.R., Jaffe, A. 1997, in Proc. XXXI Rencontre de Moriond, ed. F. Bouchet, Edition Fronti eres, in press</subfield>
+    <subfield code="r">astro-ph/9610091</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Bond J.R., Jaffe A.H. and Knox L.E., 1998</subfield>
+    <subfield code="r">astro-ph/9808264</subfield>
+    <subfield code="s">Astrophys.J. 533 (2000) 19</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Burles S., Tytler D., 1998a, to appear in the Proceedings of the Second Oak Ridge Symposium on Atomic &amp; Nuclear Astrophysics, ed. A. Mezzacappa, Institute of Physics, Bristol</subfield>
+    <subfield code="r">astro-ph/9803071</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Burles S., Tytler D., 1998b, Astrophys. J.in press</subfield>
+    <subfield code="r">astro-ph/9712109</subfield>
+    <subfield code="s">Astrophys.J. 507 (1998) 732</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Caldwell, R.R., Dave, R., Steinhardt P.J., 1998</subfield>
+    <subfield code="p">1582</subfield>
+    <subfield code="t">Phys. Rev. Lett.</subfield>
+    <subfield code="v">80</subfield>
+    <subfield code="y">1998</subfield>
+    <subfield code="s">Phys. Rev. Lett. 80 (1998) 1582</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Carroll S.M., Press W.H., Turner E.L., 1992, Ann. Rev. Astr. Astrophys., 30, 499. Chaboyer B., 1998</subfield>
+    <subfield code="r">astro-ph/9808200</subfield>
+    <subfield code="s">Phys.Rept. 307 (1998) 23</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Devlin M.J., De Oliveira-Costa A., Herbig T., Miller A.D., Netterfield C.B., Page L., Tegmark M., 1998, submitted to Astrophys. J</subfield>
+    <subfield code="r">astro-ph/9808043</subfield>
+    <subfield code="s">Astrophys. J. 509 (1998) L69-72</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Efstathiou G. 1996, Observations of Large-Scale Structure in the Universe, in "Cosmology and Large Scale Structure", Les Houches Session LX, August 1993, eds. R. Schaeffer, J. Silk, M. Spiro and J. Zinn-Justin, Elsevier SciencePress, Amsterdam, p135. Efstathiou G., Bond J.R., Mon. Not. R. Astron. Soc.in press</subfield>
+    <subfield code="r">astro-ph/9807130</subfield>
+    <subfield code="s">Astrophys. J. 518 (1999) 2-23</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Evrard G., 1998, submitted to Mon. Not. R. Astron. Soc</subfield>
+    <subfield code="r">astro-ph/9701148</subfield>
+    <subfield code="s">Mon.Not.Roy.Astron.Soc. 292 (1997) 289</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Freedman J.B., Mould J.R., Kennicutt R.C., Madore B.F., 1998</subfield>
+    <subfield code="r">astro-ph/9801090</subfield>
+    <subfield code="s">Astrophys. J. 480 (1997) 705</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Garnavich P.M. et al. 1998</subfield>
+    <subfield code="r">astro-ph/9806396</subfield>
+    <subfield code="s">Astrophys.J. 509 (1998) 74-79</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Goobar A., Perlmutter S., 1995</subfield>
+    <subfield code="p">14</subfield>
+    <subfield code="t">Astrophys. J.</subfield>
+    <subfield code="v">450</subfield>
+    <subfield code="y">1995</subfield>
+    <subfield code="s">Astrophys. J. 450 (1995) 14</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Hamuy M., Phillips M.M., Maza J., Suntzeff N.B., Schommer R.A., Aviles R. 1996</subfield>
+    <subfield code="p">2391</subfield>
+    <subfield code="t">Astrophys. J.</subfield>
+    <subfield code="v">112</subfield>
+    <subfield code="y">1996</subfield>
+    <subfield code="s">Astrophys. J. 112 (1996) 2391</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Hancock S., Gutierrez C.M., Davies R.D., Lasenby A.N., Rocha G., Rebolo R., Watson R.A., Tegmark M., 1997</subfield>
+    <subfield code="p">505</subfield>
+    <subfield code="t">Mon. Not. R. Astron. Soc.</subfield>
+    <subfield code="v">298</subfield>
+    <subfield code="y">1997</subfield>
+    <subfield code="s">Mon. Not. R. Astron. Soc. 298 (1997) 505</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Hancock S., Rocha G., Lasenby A.N., Gutierrez C.M., 1998</subfield>
+    <subfield code="p">L1</subfield>
+    <subfield code="t">Mon. Not. R. Astron. Soc.</subfield>
+    <subfield code="v">294</subfield>
+    <subfield code="y">1998</subfield>
+    <subfield code="s">Mon. Not. R. Astron. Soc. 294 (1998) L1</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Herbig T., De Oliveira-Costa A., Devlin M.J., Miller A.D., Page L., Tegmark M., 1998, submitted to Astrophys. J</subfield>
+    <subfield code="r">astro-ph/9808044</subfield>
+    <subfield code="s">Astrophys.J. 509 (1998) L73-76</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Lineweaver C.H., 1998. Astrophys. J.505, L69. Lineweaver, C.H., Barbosa D., 1998a</subfield>
+    <subfield code="p">624</subfield>
+    <subfield code="t">Astrophys. J.</subfield>
+    <subfield code="v">446</subfield>
+    <subfield code="y">1998</subfield>
+    <subfield code="s">Astrophys. J. 446 (1998) 624</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Lineweaver, C.H., Barbosa D., 1998b</subfield>
+    <subfield code="p">799</subfield>
+    <subfield code="t">Astron. Astrophys.</subfield>
+    <subfield code="v">329</subfield>
+    <subfield code="y">1998</subfield>
+    <subfield code="s">Astron. Astrophys. 329 (1998) 799</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">De Oliveira-Costa A., Devlin M.J., Herbig T., Miller A.D., Netterfield C.B. Page L., Tegmark M., 1998, submitted to Astrophys. J</subfield>
+    <subfield code="r">astro-ph/9808045</subfield>
+    <subfield code="s">Astrophys. J. 509 (1998) L77-80</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Ostriker J.P., Steinhardt P.J., 1995</subfield>
+    <subfield code="p">600</subfield>
+    <subfield code="t">Nature</subfield>
+    <subfield code="v">377</subfield>
+    <subfield code="y">1995</subfield>
+    <subfield code="s">Nature 377 (1995) 600</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Peebles P.J.E., 1993, Principles of Physical Cosmology, Princeton University Press, Princeton, New Jersey. Perlmutter S, et al., 1995, In Presentations at the NATO ASI in Aiguablava, Spain, LBL-38400; also published in Thermonuclear Supernova, P. Ruiz-Lapuente, R. Cana and J. Isern (eds), Dordrecht, Kluwer, 1997, p749. Perlmutter S, et al., 1997</subfield>
+    <subfield code="p">565</subfield>
+    <subfield code="t">Astrophys. J.</subfield>
+    <subfield code="v">483</subfield>
+    <subfield code="y">1997</subfield>
+    <subfield code="s">Astrophys. J. 483 (1997) 565</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Perlmutter S. et al., 1998a, Astrophys. J.in press. (P98)</subfield>
+    <subfield code="r">astro-ph/9812133</subfield>
+    <subfield code="s">Astrophys. J. 517 (1999) 565-586</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Perlmutter S. et al., 1998b, In Presentation at the January 1988 Meeting of the American Astronomical Society, Washington D.C., LBL-42230, available at www-supernova.lbl.gov; B.A.A.S., volume : 29 (1997) 1351Perlmutter S, et al., 1998c</subfield>
+    <subfield code="p">51</subfield>
+    <subfield code="t">Nature</subfield>
+    <subfield code="v">391</subfield>
+    <subfield code="y">1998</subfield>
+    <subfield code="s">Nature 391 (1998) 51</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Ratra B., Peebles P.J.E., 1988</subfield>
+    <subfield code="p">3406</subfield>
+    <subfield code="t">Phys. Rev., D</subfield>
+    <subfield code="v">37</subfield>
+    <subfield code="y">1988</subfield>
+    <subfield code="s">Phys. Rev. D 37 (1988) 3406</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Riess A. et al. 1998, Astrophys. J.in press</subfield>
+    <subfield code="r">astro-ph/9805201</subfield>
+    <subfield code="s">Astron. J. 116 (1998) 1009-1038</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Seljak U., Zaldarriaga M. 1996</subfield>
+    <subfield code="p">437</subfield>
+    <subfield code="t">Astrophys. J.</subfield>
+    <subfield code="v">469</subfield>
+    <subfield code="y">1996</subfield>
+    <subfield code="s">Astrophys. J. 469 (1996) 437</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Seljak U. &amp; Zaldarriaga M., 1998</subfield>
+    <subfield code="r">astro-ph/9811123</subfield>
+    <subfield code="s">Phys. Rev. D60 (1999) 043504</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Tegmark M., 1997</subfield>
+    <subfield code="p">3806</subfield>
+    <subfield code="t">Phys. Rev. Lett.</subfield>
+    <subfield code="v">79</subfield>
+    <subfield code="y">1997</subfield>
+    <subfield code="s">Phys. Rev. Lett. 79 (1997) 3806</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Tegmark M. 1998, submitted to Astrophys. J</subfield>
+    <subfield code="r">astro-ph/9809201</subfield>
+    <subfield code="s">Astrophys. J. 514 (1999) L69-L72</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Tegmark, M., Eisenstein D.J., Hu W., Kron R.G., 1998</subfield>
+    <subfield code="r">astro-ph/9805117</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Wambsganss J., Cen R., Ostriker J.P., 1998</subfield>
+    <subfield code="p">29</subfield>
+    <subfield code="t">Astrophys. J.</subfield>
+    <subfield code="v">494</subfield>
+    <subfield code="y">1998</subfield>
+    <subfield code="s">Astrophys. J. 494 (1998) 29</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Webster M., Bridle S.L., Hobson M.P., Lasenby A.N., Lahav O., Rocha, G., 1998, Astrophys. J.in press</subfield>
+    <subfield code="r">astro-ph/9802109</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">White M., 1998, Astrophys. J.in press</subfield>
+    <subfield code="r">astro-ph/9802295</subfield>
+    <subfield code="s">Astrophys. J. 506 (1998) 495</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="m">Zaldarriaga, M., Spergel D.N., Seljak U., 1997</subfield>
+    <subfield code="p">1</subfield>
+    <subfield code="t">Astrophys. J.</subfield>
+    <subfield code="v">488</subfield>
+    <subfield code="y">1997</subfield>
+    <subfield code="s">Astrophys. J. 488 (1997) 1</subfield>
+  </datafield>
+</record>
+2014-09-26 10:31:32 --> Record 9 DONE
+2014-09-26 10:31:37 --> Record 10 DONE
+2014-09-26 10:31:52 --> Record 11 DONE
+2014-09-26 10:31:59 --> Record 12 DONE
+2014-09-26 10:31:59 --> Record 13 DONE
+2014-09-26 10:31:59 --> Record 14 DONE
+2014-09-26 10:32:03 --> Record 15 DONE
+2014-09-26 10:32:03 --> Record 16 DONE
+2014-09-26 10:32:03 --> Record 17 DONE
+2014-09-26 10:32:03 --> Record 18 DONE
+2014-09-26 10:32:03 --> Record 19 DONE
+2014-09-26 10:32:03 --> Record 20 DONE
+2014-09-26 10:32:03 --> Record 21 DONE
+2014-09-26 10:32:03 --> Record 22 DONE
+2014-09-26 10:32:03 --> Record 23 DONE
+2014-09-26 10:32:03 --> Record 24 DONE
+2014-09-26 10:32:03 --> Record 25 DONE
+2014-09-26 10:32:03 --> Record 26 DONE
+2014-09-26 10:32:03 --> Record 27 DONE
+2014-09-26 10:32:03 --> Record 28 DONE
+2014-09-26 10:32:03 --> Record 29 DONE
+2014-09-26 10:32:03 --> Record 30 DONE
+2014-09-26 10:32:03 --> Record 31 DONE
+2014-09-26 10:32:03 --> Record 32 DONE
+2014-09-26 10:32:03 --> Record 33 DONE
+2014-09-26 10:32:03 --> Record 34 DONE
+2014-09-26 10:32:03 --> Record 35 DONE
+2014-09-26 10:32:03 --> Record 36 DONE
+2014-09-26 10:32:04 --> Record 37 DONE
+2014-09-26 10:32:04 --> Record 38 DONE
+2014-09-26 10:32:04 --> Record 39 DONE
+2014-09-26 10:32:04 --> Record 40 DONE
+2014-09-26 10:32:04 --> Record 41 DONE
+2014-09-26 10:32:04 --> Record 42 DONE
+2014-09-26 10:32:07 --> Record 43 DONE
+2014-09-26 10:32:11 --> Record 44 DONE
+2014-09-26 10:32:13 --> Record 45 DONE
+2014-09-26 10:32:19 --> Record 46 DONE
+2014-09-26 10:32:24 --> Record 47 DONE
+2014-09-26 10:32:28 --> Record 48 DONE
+2014-09-26 10:32:33 --> Record 49 DONE
+2014-09-26 10:32:35 --> Record 50 DONE
+2014-09-26 10:32:37 --> Record 51 DONE
+2014-09-26 10:32:41 --> Record 52 DONE
+2014-09-26 10:32:45 --> Record 53 DONE
+2014-09-26 10:32:50 --> Record 54 DONE
+2014-09-26 10:32:55 --> Record 55 DONE
+2014-09-26 10:32:59 --> Record 56 DONE
+2014-09-26 10:33:04 --> Record 57 DONE
+2014-09-26 10:33:08 --> Record 58 DONE
+2014-09-26 10:33:13 --> Record 59 DONE
+2014-09-26 10:33:17 --> Record 60 DONE
+2014-09-26 10:33:22 --> Record 61 DONE
+2014-09-26 10:33:26 --> Record 62 DONE
+2014-09-26 10:33:31 --> Record 63 DONE
+2014-09-26 10:33:34 --> Record 64 DONE
+2014-09-26 10:33:37 --> Record 65 DONE
+2014-09-26 10:33:41 --> Record 66 DONE
+2014-09-26 10:33:41 --> Record 67 DONE
+2014-09-26 10:33:45 --> Record 68 DONE
+2014-09-26 10:33:45 --> Record 69 DONE
+2014-09-26 10:33:49 --> Record 70 DONE
+2014-09-26 10:33:53 --> Record 71 DONE
+2014-09-26 10:33:56 --> Record 72 DONE
+2014-09-26 10:33:59 --> Record 73 DONE
+2014-09-26 10:34:09 --> Record 74 DONE
+2014-09-26 10:34:09 --> Record 75 DONE
+2014-09-26 10:34:09 --> Record 76 DONE
+2014-09-26 10:34:14 --> Record 77 DONE
+2014-09-26 10:34:17 --> Record 78 DONE
+2014-09-26 10:34:22 --> Record 79 DONE
+2014-09-26 10:34:27 --> Record 80 DONE
+2014-09-26 10:34:32 --> Record 81 DONE
+2014-09-26 10:34:36 --> Record 82 DONE
+2014-09-26 10:34:41 --> Record 83 DONE
+2014-09-26 10:34:45 --> Record 84 DONE
+2014-09-26 10:34:49 --> Record 85 DONE
+2014-09-26 10:35:01 --> Record 86 DONE
+2014-09-26 10:35:05 --> Record 87 DONE
+2014-09-26 10:35:10 --> Record 88 DONE
+2014-09-26 10:35:12 --> Record 89 DONE
+2014-09-26 10:35:15 --> Record 90 DONE
+2014-09-26 10:35:18 --> Record 91 DONE
+2014-09-26 10:35:21 --> Record 92 DONE
+2014-09-26 10:35:23 --> Record 93 DONE
+2014-09-26 10:35:25 --> Record 94 DONE
+2014-09-26 10:35:27 --> Record 95 DONE
+2014-09-26 10:35:31 --> Record 96 DONE
+2014-09-26 10:35:34 --> Record 97 DONE
+2014-09-26 10:35:38 --> Record 98 DONE
+2014-09-26 10:35:41 --> Record 99 DONE
+2014-09-26 10:35:41 --> Record 100 DONE
+2014-09-26 10:35:44 --> Record 101 DONE
+2014-09-26 10:35:46 --> Record 102 DONE
+2014-09-26 10:35:51 --> Record 103 DONE
+2014-09-26 10:35:51 --> Record 104 DONE
+2014-09-26 10:35:54 --> Record 105 DONE
+2014-09-26 10:35:57 --> Record 106 DONE
+2014-09-26 10:36:46 --> Record 107 DONE
+2014-09-26 10:36:46 --> Task stats: 107 input records, 0 updated, 99 inserted, 8 errors, 0 inserted to holding pen.  Time 346.37 sec.
+2014-09-26 10:36:46 --> Task #1 finished. [DONE WITH ERRORS]
+2014-10-10 17:10:18 --> Task #1 started.
+2014-10-10 17:10:19 --> IHEP's Document Server / reclist cache update
+2014-10-10 17:10:19 --> Preprints / reclist cache update
+2014-10-10 17:10:19 --> Books / reclist cache update
+2014-10-10 17:10:19 --> Theses / reclist cache update
+2014-10-10 17:10:19 --> Reports / reclist cache update
+2014-10-10 17:10:19 --> Articles / reclist cache update
+2014-10-10 17:10:19 --> Pictures / reclist cache update
+2014-10-10 17:10:19 --> CERN Divisions / reclist cache update
+2014-10-10 17:10:19 --> CERN Experiments / reclist cache update
+2014-10-10 17:10:19 --> Theoretical Physics (TH) / reclist cache update
+2014-10-10 17:10:19 --> Experimental Physics (EP) / reclist cache update
+2014-10-10 17:10:19 --> ISOLDE / reclist cache update
+2014-10-10 17:10:19 --> ALEPH / reclist cache update
+2014-10-10 17:10:19 --> Articles & Preprints / reclist cache update
+2014-10-10 17:10:19 --> Books & Reports / reclist cache update
+2014-10-10 17:10:19 --> Multimedia & Arts / reclist cache update
+2014-10-10 17:10:19 --> Poetry / reclist cache update
+2014-10-10 17:10:19 --> Atlantis Times News / reclist cache update
+2014-10-10 17:10:19 --> Atlantis Times Arts / reclist cache update
+2014-10-10 17:10:19 --> Atlantis Times Science / reclist cache update
+2014-10-10 17:10:19 --> Atlantis Times / reclist cache update
+2014-10-10 17:10:19 --> Atlantis Institute Books / reclist cache update
+2014-10-10 17:10:19 --> Atlantis Institute Articles / reclist cache update
+2014-10-10 17:10:20 --> Atlantis Times Drafts / reclist cache update
+2014-10-10 17:10:20 --> Videos / reclist cache update
+2014-10-10 17:10:20 --> IHEP's Document Server / webpage cache update
+2014-10-10 17:10:20 --> Preprints / webpage cache update
+2014-10-10 17:10:21 --> Books / webpage cache update
+2014-10-10 17:10:21 --> Theses / webpage cache update
+2014-10-10 17:10:21 --> Reports / webpage cache update
+2014-10-10 17:10:21 --> Articles / webpage cache update
+2014-10-10 17:10:22 --> Pictures / webpage cache update
+2014-10-10 17:10:22 --> CERN Divisions / webpage cache update
+2014-10-10 17:10:23 --> CERN Experiments / webpage cache update
+2014-10-10 17:10:23 --> Theoretical Physics (TH) / webpage cache update
+2014-10-10 17:10:24 --> Experimental Physics (EP) / webpage cache update
+2014-10-10 17:10:24 --> ISOLDE / webpage cache update
+2014-10-10 17:10:25 --> ALEPH / webpage cache update
+2014-10-10 17:10:25 --> Articles & Preprints / webpage cache update
+2014-10-10 17:10:26 --> Books & Reports / webpage cache update
+2014-10-10 17:10:26 --> Multimedia & Arts / webpage cache update
+2014-10-10 17:10:27 --> Poetry / webpage cache update
+2014-10-10 17:10:27 --> Atlantis Times News / webpage cache update
+2014-10-10 17:10:28 --> Atlantis Times Arts / webpage cache update
+2014-10-10 17:10:28 --> Atlantis Times Science / webpage cache update
+2014-10-10 17:10:29 --> Atlantis Times / webpage cache update
+2014-10-10 17:10:29 --> Atlantis Institute Books / webpage cache update
+2014-10-10 17:10:30 --> Atlantis Institute Articles / webpage cache update
+2014-10-10 17:10:30 --> Atlantis Times Drafts / webpage cache update
+2014-10-10 17:10:31 --> Videos / webpage cache update
+2014-10-10 17:10:31 --> Task #1 finished. [DONE]
+2014-10-11 09:29:49 --> Task #1 started.
+2014-10-11 09:29:50 --> IHEP's Document Server / reclist cache update
+2014-10-11 09:29:50 --> Preprints / reclist cache update
+2014-10-11 09:29:50 --> Books / reclist cache update
+2014-10-11 09:29:50 --> Theses / reclist cache update
+2014-10-11 09:29:50 --> Reports / reclist cache update
+2014-10-11 09:29:50 --> Articles / reclist cache update
+2014-10-11 09:29:50 --> Pictures / reclist cache update
+2014-10-11 09:29:50 --> CERN Divisions / reclist cache update
+2014-10-11 09:29:50 --> CERN Experiments / reclist cache update
+2014-10-11 09:29:50 --> Theoretical Physics (TH) / reclist cache update
+2014-10-11 09:29:50 --> Experimental Physics (EP) / reclist cache update
+2014-10-11 09:29:50 --> ISOLDE / reclist cache update
+2014-10-11 09:29:50 --> ALEPH / reclist cache update
+2014-10-11 09:29:50 --> Articles & Preprints / reclist cache update
+2014-10-11 09:29:50 --> Books & Reports / reclist cache update
+2014-10-11 09:29:50 --> Multimedia & Arts / reclist cache update
+2014-10-11 09:29:50 --> Poetry / reclist cache update
+2014-10-11 09:29:50 --> Atlantis Times News / reclist cache update
+2014-10-11 09:29:50 --> Atlantis Times Arts / reclist cache update
+2014-10-11 09:29:50 --> Atlantis Times Science / reclist cache update
+2014-10-11 09:29:50 --> Atlantis Times / reclist cache update
+2014-10-11 09:29:50 --> Atlantis Institute Books / reclist cache update
+2014-10-11 09:29:50 --> Atlantis Institute Articles / reclist cache update
+2014-10-11 09:29:51 --> Atlantis Times Drafts / reclist cache update
+2014-10-11 09:29:51 --> Videos / reclist cache update
+2014-10-11 09:29:51 --> IHEP's Document Server / webpage cache update
+2014-10-11 09:29:51 --> Preprints / webpage cache update
+2014-10-11 09:29:52 --> Books / webpage cache update
+2014-10-11 09:29:52 --> Theses / webpage cache update
+2014-10-11 09:29:52 --> Reports / webpage cache update
+2014-10-11 09:29:52 --> Articles / webpage cache update
+2014-10-11 09:29:53 --> Pictures / webpage cache update
+2014-10-11 09:29:53 --> CERN Divisions / webpage cache update
+2014-10-11 09:29:53 --> CERN Experiments / webpage cache update
+2014-10-11 09:29:53 --> Theoretical Physics (TH) / webpage cache update
+2014-10-11 09:29:53 --> Experimental Physics (EP) / webpage cache update
+2014-10-11 09:29:54 --> ISOLDE / webpage cache update
+2014-10-11 09:29:54 --> ALEPH / webpage cache update
+2014-10-11 09:29:55 --> Articles & Preprints / webpage cache update
+2014-10-11 09:29:55 --> Books & Reports / webpage cache update
+2014-10-11 09:29:56 --> Multimedia & Arts / webpage cache update
+2014-10-11 09:29:56 --> Poetry / webpage cache update
+2014-10-11 09:29:56 --> Atlantis Times News / webpage cache update
+2014-10-11 09:29:57 --> Atlantis Times Arts / webpage cache update
+2014-10-11 09:29:57 --> Atlantis Times Science / webpage cache update
+2014-10-11 09:29:57 --> Atlantis Times / webpage cache update
+2014-10-11 09:29:57 --> Atlantis Institute Books / webpage cache update
+2014-10-11 09:29:58 --> Atlantis Institute Articles / webpage cache update
+2014-10-11 09:29:58 --> Atlantis Times Drafts / webpage cache update
+2014-10-11 09:29:58 --> Videos / webpage cache update
+2014-10-11 09:29:59 --> Task #1 finished. [DONE]
+2014-10-11 10:14:14 --> Task #1 started.
+2014-10-11 10:14:16 --> IHEP's Document Server / reclist cache update
+2014-10-11 10:14:16 --> Preprints / reclist cache update
+2014-10-11 10:14:16 --> Books / reclist cache update
+2014-10-11 10:14:16 --> Theses / reclist cache update
+2014-10-11 10:14:16 --> Reports / reclist cache update
+2014-10-11 10:14:16 --> Articles / reclist cache update
+2014-10-11 10:14:16 --> Pictures / reclist cache update
+2014-10-11 10:14:16 --> CERN Divisions / reclist cache update
+2014-10-11 10:14:16 --> CERN Experiments / reclist cache update
+2014-10-11 10:14:16 --> Theoretical Physics (TH) / reclist cache update
+2014-10-11 10:14:16 --> Experimental Physics (EP) / reclist cache update
+2014-10-11 10:14:16 --> ISOLDE / reclist cache update
+2014-10-11 10:14:16 --> ALEPH / reclist cache update
+2014-10-11 10:14:16 --> Articles & Preprints / reclist cache update
+2014-10-11 10:14:16 --> Books & Reports / reclist cache update
+2014-10-11 10:14:16 --> Multimedia & Arts / reclist cache update
+2014-10-11 10:14:16 --> Poetry / reclist cache update
+2014-10-11 10:14:16 --> Atlantis Times News / reclist cache update
+2014-10-11 10:14:16 --> Atlantis Times Arts / reclist cache update
+2014-10-11 10:14:16 --> Atlantis Times Science / reclist cache update
+2014-10-11 10:14:16 --> Atlantis Times / reclist cache update
+2014-10-11 10:14:16 --> Atlantis Institute Books / reclist cache update
+2014-10-11 10:14:16 --> Atlantis Institute Articles / reclist cache update
+2014-10-11 10:14:16 --> Atlantis Times Drafts / reclist cache update
+2014-10-11 10:14:16 --> Videos / reclist cache update
+2014-10-11 10:14:16 --> IHEP's Document Server / webpage cache update
+2014-10-11 10:14:17 --> Preprints / webpage cache update
+2014-10-11 10:14:17 --> Books / webpage cache update
+2014-10-11 10:14:18 --> Theses / webpage cache update
+2014-10-11 10:14:18 --> Reports / webpage cache update
+2014-10-11 10:14:18 --> Articles / webpage cache update
+2014-10-11 10:14:18 --> Pictures / webpage cache update
+2014-10-11 10:14:19 --> CERN Divisions / webpage cache update
+2014-10-11 10:14:19 --> CERN Experiments / webpage cache update
+2014-10-11 10:14:20 --> Theoretical Physics (TH) / webpage cache update
+2014-10-11 10:14:20 --> Experimental Physics (EP) / webpage cache update
+2014-10-11 10:14:21 --> ISOLDE / webpage cache update
+2014-10-11 10:14:21 --> ALEPH / webpage cache update
+2014-10-11 10:14:22 --> Articles & Preprints / webpage cache update
+2014-10-11 10:14:23 --> Books & Reports / webpage cache update
+2014-10-11 10:14:23 --> Multimedia & Arts / webpage cache update
+2014-10-11 10:14:24 --> Poetry / webpage cache update
+2014-10-11 10:14:24 --> Atlantis Times News / webpage cache update
+2014-10-11 10:14:24 --> Atlantis Times Arts / webpage cache update
+2014-10-11 10:14:25 --> Atlantis Times Science / webpage cache update
+2014-10-11 10:14:25 --> Atlantis Times / webpage cache update
+2014-10-11 10:14:25 --> Atlantis Institute Books / webpage cache update
+2014-10-11 10:14:26 --> Atlantis Institute Articles / webpage cache update
+2014-10-11 10:14:26 --> Atlantis Times Drafts / webpage cache update
+2014-10-11 10:14:27 --> Videos / webpage cache update
+2014-10-11 10:14:27 --> Task #1 finished. [DONE]

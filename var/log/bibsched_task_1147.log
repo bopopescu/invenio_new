@@ -1,0 +1,5 @@
+2014-11-02 12:58:01 --> Task #1147 started.
+2014-11-02 12:58:01 --> Input file '/opt/invenio/var/tmp/BES-PICTURE-HIST-2014-001_2014-11-02_12:57:348Uyyf0', input mode 'replace_or_insert'.
+2014-11-02 12:58:01 --> Error: Cannot parse MARCXML file.
+2014-11-02 12:58:01 --> Exiting.
+2014-11-02 12:58:01 --> Task #1147 finished. [ERROR]

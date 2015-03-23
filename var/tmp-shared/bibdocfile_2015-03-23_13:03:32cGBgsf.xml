@@ -1,0 +1,6 @@
+<record>
+	<controlfield tag="001">386</controlfield>
+	<datafield tag ="FFT" ind1=" " ind2=" ">
+		<subfield code="t">FIX-MARC</subfield>
+	</datafield>
+</record>

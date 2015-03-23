@@ -1,0 +1,175 @@
+2014-10-11 16:27:27 --> Task #1138 started.
+2014-10-11 16:27:27 --> Input file '/opt/invenio/var/tmp-shared/bibdocfile_2014-10-11_16:21:00gJd6Py.xml', input mode 'correct'.
+2014-10-11 16:27:27 --> Record 376 DONE
+2014-10-11 16:27:27 --> Task stats: 1 input records, 1 updated, 0 inserted, 0 errors, 0 inserted to holding pen.  Time 0.55 sec.
+2014-10-11 16:27:27 --> Task #1138 finished. [DONE]
+2014-10-30 15:21:34 --> Task #1138 started.
+2014-10-30 15:21:37 --> IHEP's Document Server / reclist cache update
+2014-10-30 15:21:37 --> Preprints / reclist cache update
+2014-10-30 15:21:37 --> Books / reclist cache update
+2014-10-30 15:21:37 --> Theses / reclist cache update
+2014-10-30 15:21:37 --> Reports / reclist cache update
+2014-10-30 15:21:37 --> Articles / reclist cache update
+2014-10-30 15:21:37 --> Pictures / reclist cache update
+2014-10-30 15:21:37 --> CERN Divisions / reclist cache update
+2014-10-30 15:21:37 --> CERN Experiments / reclist cache update
+2014-10-30 15:21:37 --> Theoretical Physics (TH) / reclist cache update
+2014-10-30 15:21:37 --> Experimental Physics (EP) / reclist cache update
+2014-10-30 15:21:37 --> ISOLDE / reclist cache update
+2014-10-30 15:21:37 --> ALEPH / reclist cache update
+2014-10-30 15:21:37 --> Articles & Preprints / reclist cache update
+2014-10-30 15:21:37 --> Books & Reports / reclist cache update
+2014-10-30 15:21:37 --> Multimedia & Arts / reclist cache update
+2014-10-30 15:21:37 --> Poetry / reclist cache update
+2014-10-30 15:21:37 --> Atlantis Times News / reclist cache update
+2014-10-30 15:21:37 --> Atlantis Times Arts / reclist cache update
+2014-10-30 15:21:37 --> Atlantis Times Science / reclist cache update
+2014-10-30 15:21:37 --> Atlantis Times / reclist cache update
+2014-10-30 15:21:37 --> Atlantis Institute Books / reclist cache update
+2014-10-30 15:21:37 --> Atlantis Institute Articles / reclist cache update
+2014-10-30 15:21:37 --> Atlantis Times Drafts / reclist cache update
+2014-10-30 15:21:37 --> Videos / reclist cache update
+2014-10-30 15:21:37 --> IHEPCC / reclist cache update
+2014-10-30 15:21:37 --> Papers / reclist cache update
+2014-10-30 15:21:37 --> Photos / reclist cache update
+2014-10-30 15:21:37 --> IHEP Divisions / reclist cache update
+2014-10-30 15:21:37 --> Computing Center (IT) / reclist cache update
+2014-10-30 15:21:37 --> IT Pictures / reclist cache update
+2014-10-30 15:21:37 --> IT Papers / reclist cache update
+2014-10-30 15:21:37 --> IT Videos / reclist cache update
+2014-10-30 15:21:37 --> IHEP Office / reclist cache update
+2014-10-30 15:21:37 --> IHEP Office (IO) / reclist cache update
+2014-10-30 15:21:37 --> IO Pictures / reclist cache update
+2014-10-30 15:21:37 --> IO Papers / reclist cache update
+2014-10-30 15:21:37 --> IO Videos / reclist cache update
+2014-10-30 15:21:37 --> IHEP Experiments / reclist cache update
+2014-10-30 15:21:37 --> BESIII / reclist cache update
+2014-10-30 15:21:37 --> BESIII Pictures / reclist cache update
+2014-10-30 15:21:37 --> BESIII Papers / reclist cache update
+2014-10-30 15:21:37 --> Beijing Electron Positron Collider / reclist cache update
+2014-10-30 15:21:37 --> Early Accelerators / reclist cache update
+2014-10-30 15:21:37 --> BEPC / reclist cache update
+2014-10-30 15:21:37 --> BEPCII / reclist cache update
+2014-10-30 15:21:37 --> Early Accelerators Pictures / reclist cache update
+2014-10-30 15:21:37 --> BEPC Pictures / reclist cache update
+2014-10-30 15:21:37 --> BEPCII Pictures / reclist cache update
+2014-10-30 15:21:37 --> Beijing Spectrometer / reclist cache update
+2014-10-30 15:21:37 --> Daya Bay Reactor Neutrino Experiment / reclist cache update
+2014-10-30 15:21:37 --> Theoretical Physics Research / reclist cache update
+2014-10-30 15:21:37 --> BES Pictures / reclist cache update
+2014-10-30 15:21:37 --> Daya Bay Pictures / reclist cache update
+2014-10-30 15:21:37 --> Theoretical Physics Pictures / reclist cache update
+2014-10-30 15:21:37 --> Research on Cosmic Rays and High Energy Astrophysics / reclist cache update
+2014-10-30 15:21:37 --> Cosmic Rays Research in Early Stage / reclist cache update
+2014-10-30 15:21:37 --> Yangbajing International Cosmic Ray Observatory / reclist cache update
+2014-10-30 15:21:37 --> Large High Altitude Air Shower Observatory / reclist cache update
+2014-10-30 15:21:37 --> Other Space Projects / reclist cache update
+2014-10-30 15:21:37 --> Cosmic Rays Research in Early Stage Pictures / reclist cache update
+2014-10-30 15:21:37 --> Yangbajing International Cosmic Ray Observatory Pictures / reclist cache update
+2014-10-30 15:21:37 --> Air Shower Observatory Pictures / reclist cache update
+2014-10-30 15:21:37 --> Other Space Projects Pictures / reclist cache update
+2014-10-30 15:21:37 --> Beijing Synchrotron Radiation Facility / reclist cache update
+2014-10-30 15:21:37 --> China Spallation Neutron Source  / reclist cache update
+2014-10-30 15:21:37 --> Accelerator Driven Sub-critical System / reclist cache update
+2014-10-30 15:21:37 --> Beijing Advanced Photon Source / reclist cache update
+2014-10-30 15:21:37 --> Multi-disciplinary Research / reclist cache update
+2014-10-30 15:21:37 --> Computing and Network Environment / reclist cache update
+2014-10-30 15:21:37 --> Beijing Free Electron Laser Facility / reclist cache update
+2014-10-30 15:21:37 --> International Collaboration / reclist cache update
+2014-10-30 15:21:37 --> Technology Transfer / reclist cache update
+2014-10-30 15:21:37 --> Innovative culture / reclist cache update
+2014-10-30 15:21:37 --> BSRF Pictures / reclist cache update
+2014-10-30 15:21:37 --> Spallation Neutron Source Pictures / reclist cache update
+2014-10-30 15:21:37 --> Accelerator Driven Sub-critical System Pictures / reclist cache update
+2014-10-30 15:21:37 --> Beijing Advanced Photon Source Pictures / reclist cache update
+2014-10-30 15:21:37 --> Multi-disciplinary Pictures / reclist cache update
+2014-10-30 15:21:37 --> Computing and Network Pictures / reclist cache update
+2014-10-30 15:21:37 --> BJ Free Electron Laser Facility Pictures / reclist cache update
+2014-10-30 15:21:37 --> International Collaboration Pictures / reclist cache update
+2014-10-30 15:21:37 --> Technology Transfer Pictures / reclist cache update
+2014-10-30 15:21:37 --> Innovative culture Pictures / reclist cache update
+2014-10-30 15:21:37 --> IHEP's Document Server / webpage cache update
+2014-10-30 15:21:39 --> Preprints / webpage cache update
+2014-10-30 15:21:39 --> Books / webpage cache update
+2014-10-30 15:21:39 --> Theses / webpage cache update
+2014-10-30 15:21:40 --> Reports / webpage cache update
+2014-10-30 15:21:40 --> Articles / webpage cache update
+2014-10-30 15:21:40 --> Pictures / webpage cache update
+2014-10-30 15:21:40 --> CERN Divisions / webpage cache update
+2014-10-30 15:21:41 --> CERN Experiments / webpage cache update
+2014-10-30 15:21:41 --> Theoretical Physics (TH) / webpage cache update
+2014-10-30 15:21:41 --> Experimental Physics (EP) / webpage cache update
+2014-10-30 15:21:41 --> ISOLDE / webpage cache update
+2014-10-30 15:21:42 --> ALEPH / webpage cache update
+2014-10-30 15:21:42 --> Articles & Preprints / webpage cache update
+2014-10-30 15:21:42 --> Books & Reports / webpage cache update
+2014-10-30 15:21:43 --> Multimedia & Arts / webpage cache update
+2014-10-30 15:21:43 --> Poetry / webpage cache update
+2014-10-30 15:21:43 --> Atlantis Times News / webpage cache update
+2014-10-30 15:21:43 --> Atlantis Times Arts / webpage cache update
+2014-10-30 15:21:44 --> Atlantis Times Science / webpage cache update
+2014-10-30 15:21:44 --> Atlantis Times / webpage cache update
+2014-10-30 15:21:45 --> Atlantis Institute Books / webpage cache update
+2014-10-30 15:21:45 --> Atlantis Institute Articles / webpage cache update
+2014-10-30 15:21:45 --> Atlantis Times Drafts / webpage cache update
+2014-10-30 15:21:46 --> Videos / webpage cache update
+2014-10-30 15:21:46 --> IHEPCC / webpage cache update
+2014-10-30 15:21:46 --> Papers / webpage cache update
+2014-10-30 15:21:46 --> Photos / webpage cache update
+2014-10-30 15:21:46 --> IHEP Divisions / webpage cache update
+2014-10-30 15:21:47 --> Computing Center (IT) / webpage cache update
+2014-10-30 15:21:47 --> IT Pictures / webpage cache update
+2014-10-30 15:21:47 --> IT Papers / webpage cache update
+2014-10-30 15:21:47 --> IT Videos / webpage cache update
+2014-10-30 15:21:48 --> IHEP Office / webpage cache update
+2014-10-30 15:21:48 --> IHEP Office (IO) / webpage cache update
+2014-10-30 15:21:48 --> IO Pictures / webpage cache update
+2014-10-30 15:21:48 --> IO Papers / webpage cache update
+2014-10-30 15:21:48 --> IO Videos / webpage cache update
+2014-10-30 15:21:49 --> IHEP Experiments / webpage cache update
+2014-10-30 15:21:49 --> BESIII / webpage cache update
+2014-10-30 15:21:49 --> BESIII Pictures / webpage cache update
+2014-10-30 15:21:49 --> BESIII Papers / webpage cache update
+2014-10-30 15:21:50 --> Beijing Electron Positron Collider / webpage cache update
+2014-10-30 15:21:50 --> Early Accelerators / webpage cache update
+2014-10-30 15:21:51 --> BEPC / webpage cache update
+2014-10-30 15:21:51 --> BEPCII / webpage cache update
+2014-10-30 15:21:51 --> Early Accelerators Pictures / webpage cache update
+2014-10-30 15:21:51 --> BEPC Pictures / webpage cache update
+2014-10-30 15:21:51 --> BEPCII Pictures / webpage cache update
+2014-10-30 15:21:52 --> Beijing Spectrometer / webpage cache update
+2014-10-30 15:21:52 --> Daya Bay Reactor Neutrino Experiment / webpage cache update
+2014-10-30 15:21:52 --> Theoretical Physics Research / webpage cache update
+2014-10-30 15:21:53 --> BES Pictures / webpage cache update
+2014-10-30 15:21:53 --> Daya Bay Pictures / webpage cache update
+2014-10-30 15:21:53 --> Theoretical Physics Pictures / webpage cache update
+2014-10-30 15:21:53 --> Research on Cosmic Rays and High Energy Astrophysics / webpage cache update
+2014-10-30 15:21:54 --> Cosmic Rays Research in Early Stage / webpage cache update
+2014-10-30 15:21:54 --> Yangbajing International Cosmic Ray Observatory / webpage cache update
+2014-10-30 15:21:54 --> Large High Altitude Air Shower Observatory / webpage cache update
+2014-10-30 15:21:54 --> Other Space Projects / webpage cache update
+2014-10-30 15:21:55 --> Cosmic Rays Research in Early Stage Pictures / webpage cache update
+2014-10-30 15:21:55 --> Yangbajing International Cosmic Ray Observatory Pictures / webpage cache update
+2014-10-30 15:21:55 --> Air Shower Observatory Pictures / webpage cache update
+2014-10-30 15:21:56 --> Other Space Projects Pictures / webpage cache update
+2014-10-30 15:21:56 --> Beijing Synchrotron Radiation Facility / webpage cache update
+2014-10-30 15:21:56 --> China Spallation Neutron Source  / webpage cache update
+2014-10-30 15:21:56 --> Accelerator Driven Sub-critical System / webpage cache update
+2014-10-30 15:21:57 --> Beijing Advanced Photon Source / webpage cache update
+2014-10-30 15:21:57 --> Multi-disciplinary Research / webpage cache update
+2014-10-30 15:21:57 --> Computing and Network Environment / webpage cache update
+2014-10-30 15:21:57 --> Beijing Free Electron Laser Facility / webpage cache update
+2014-10-30 15:21:58 --> International Collaboration / webpage cache update
+2014-10-30 15:21:58 --> Technology Transfer / webpage cache update
+2014-10-30 15:21:58 --> Innovative culture / webpage cache update
+2014-10-30 15:21:58 --> BSRF Pictures / webpage cache update
+2014-10-30 15:21:59 --> Spallation Neutron Source Pictures / webpage cache update
+2014-10-30 15:21:59 --> Accelerator Driven Sub-critical System Pictures / webpage cache update
+2014-10-30 15:21:59 --> Beijing Advanced Photon Source Pictures / webpage cache update
+2014-10-30 15:21:59 --> Multi-disciplinary Pictures / webpage cache update
+2014-10-30 15:21:59 --> Computing and Network Pictures / webpage cache update
+2014-10-30 15:21:59 --> BJ Free Electron Laser Facility Pictures / webpage cache update
+2014-10-30 15:21:59 --> International Collaboration Pictures / webpage cache update
+2014-10-30 15:21:59 --> Technology Transfer Pictures / webpage cache update
+2014-10-30 15:21:59 --> Innovative culture Pictures / webpage cache update
+2014-10-30 15:22:00 --> Task #1138 finished. [DONE]
